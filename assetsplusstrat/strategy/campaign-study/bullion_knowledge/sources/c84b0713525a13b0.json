@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "id": "c84b0713525a13b0",
+    "url": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/01-why-physical-gold/01-the-foundation/",
+    "title": "The Foundation: What Makes Gold Different | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:29.711729+00:00",
+    "status": "fetched",
+    "bytes": 18345,
+    "text_characters": 3053,
+    "sha256_html": "3d903259bfb781ad4c903f7b376dc5f3a44be50122cb8e7667e23d3d81c425c0",
+    "file": "sources/c84b0713525a13b0.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Why a 5,000-year-old asset still belongs in a 21st-century portfolio.",
+  "canonical": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/01-why-physical-gold/01-the-foundation/",
+  "text": "beginner\nBy the\nBullion Trading LLC editorial team\nThe Foundation: What Makes Gold Different\nWhy a 5,000-year-old asset still belongs in a 21st-century portfolio.\nAlmost every other asset you can own has a counterparty — a company that has to stay solvent, a government that has to pay back, a bank that has to honor your deposit. Physical gold doesn’t. That single fact is the foundation under everything else in this path.\nA 5,000-year track record, compressed\nEgyptian merchants used gold for trade around 3000 BCE. Lydian kings minted the first standardized gold coins around 600 BCE. Roman, Byzantine, Venetian, Spanish, British, and American economies have each anchored their currency to gold at various points. The thread running through all of it is the same: gold doesn’t pay interest, doesn’t grow, doesn’t innovate — and it doesn’t need to. Its job is to hold value across systems.\nCompare that to the alternatives an average American household holds today:\nCash\nhas lost more than 96% of its purchasing power since 1913, when the Federal Reserve was founded.\nStocks\nhave produced excellent long-run returns, but in any given decade they can lose 40–80% of real value.\nBonds\ndepend on the issuer staying solvent and on interest rates not rising sharply (2022 reminded everyone of this).\nReal estate\nis local, illiquid, and carries property tax + maintenance overhead.\nGold doesn’t replace any of these. It complements them by holding the property none of them share: it’s nobody’s liability.\nThe three traits that matter\nMost arguments for gold get tangled in market commentary. Boil it down to three durable traits:\nScarcity.\nAll the gold ever mined would fit inside three Olympic swimming pools. Annual new supply is ~1.5% of the existing stock. You can’t quantitative-ease an ounce of gold into existence.\nDurability.\nGold doesn’t rust, tarnish, or degrade. The gold coin you bury in your backyard in 2026 will be in the same chemical state in 2526.\nUniversal recognition.\nA 1-ounce gold coin is recognizable as a store of value in Dubai, Tokyo, Buenos Aires, and Lagos. Try that with a $20 bill or a brokerage statement.\nNone of those three traits are about price prediction. They’re about the structural reason gold has survived every monetary regime that has come and gone.\nWhat this means in practice\nYou’re not buying gold because you think the price will go up next quarter. You’re buying it because, sometime in the next 30 years, something will go wrong with one of the systems that backs everything else you own — and gold is the asset whose value doesn’t depend on those systems working.\nThat mental shift is the whole point of this part. The next part puts numbers on it: how has gold actually behaved during the recent crises we can measure?\nTest your understanding\nQuick check: Why physical gold?\n5 questions →\nWhy Buy Physical Gold Quiz\n8 questions →\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Guides",
+              "item": "https://learn.bulliontradingllc.com/guides/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "New to Precious Metals",
+              "item": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Why Buy Physical Gold?",
+              "item": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/01-why-physical-gold/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "The Foundation: What Makes Gold Different"
+            }
+          ]
+        },
+        {
+          "@type": "Article",
+          "headline": "The Foundation: What Makes Gold Different",
+          "description": "Why a 5,000-year-old asset still belongs in a 21st-century portfolio.",
+          "url": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/01-why-physical-gold/01-the-foundation/",
+          "author": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

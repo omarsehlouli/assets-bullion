@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "id": "3970afe0c57b625c",
+    "url": "https://learn.bulliontradingllc.com/tools/",
+    "title": "Tools | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:46.027827+00:00",
+    "status": "fetched",
+    "bytes": 13498,
+    "text_characters": 1553,
+    "sha256_html": "0836d062cd07f35b1547d84f208479067c03750d66cdee96bf5a4bad799fb1ab",
+    "file": "sources/3970afe0c57b625c.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Interactive calculators, coin-value tools and historical charts for precious-metals investors — all free, all in your browser.",
+  "canonical": "https://learn.bulliontradingllc.com/tools/",
+  "text": "Tools\n14 free calculators, coin-value tools and historical charts — for gold, silver, platinum and\npalladium. Live prices update from our spot feed; everything runs in your browser.\nCalculators\n📈\nReturn calculator\nModel the projected value of a precious-metals purchase over time. All four metals.\n💱\nPremium calculator\nSee how much of a dealer's asking price is the metal vs the markup.\n💰\nMetal value calculator\nList your holdings, see the spot-value of each (pure metal × spot × quantity).\n⚖️\nWeight converter\nTroy ounces, grams, kilograms, pennyweight, standard ounces and pounds.\n🔁\nGold-to-silver ratio\nHow many ounces of silver one ounce of gold buys, vs the historical mean.\n🧾\nInflation vs gold\nGold's nominal return vs CPI, with the inflation-adjusted real series.\nCoin values\n🪙\nWhat's my coin worth?\nLive melt-value calculator for silver coins and 90% \"junk\" silver, plus value guides.\n🥈\nJunk silver value\nWhat 90% silver coins are worth — pre-1965 dimes, quarters and halves, valued live.\n🎯\nCoin roll counter\nHow many coins in a roll, total face value, and live silver melt for silver rolls.\nCharts & historical data\n📊\nPrice history explorer\nLBMA gold/silver/platinum/palladium since 1968, in USD, GBP and EUR.\n📅\nPrice on any date\nLook up the LBMA fix on any exact date back to 1968 + \"this day in history.\"\n⚖️\nGold/silver ratio history\n58 years of the ratio with the mean-reversion percentile lens.\n💵\nInflation-adjusted gold\nGold in today's dollars — and the real all-time high.\n📉\nGold vs the S&P 500\nLong-term performance, both indexed to 100.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

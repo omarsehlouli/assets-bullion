@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "id": "48fad57d18c6ebf4",
+    "url": "https://learn.bulliontradingllc.com/charts/palladium-all-time-high/",
+    "title": "Palladium Record High in Monthly LBMA Observations | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:02.342181+00:00",
+    "status": "fetched",
+    "bytes": 31904,
+    "text_characters": 1794,
+    "sha256_html": "f69d199672ead088cbfb46f9a570e02ad1b3908529643a5cbd4d4e2f58c65fe6",
+    "file": "sources/48fad57d18c6ebf4.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Highest monthly palladium observation: $2,981 (2021-04-30). Latest sampled fixing: $1,257 as of 2026-09-25. Not an intraday record.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/palladium-all-time-high/",
+  "text": "Palladium Record High in Monthly Observations\nThe highest monthly observation in this dataset is\n$2,981\n(2021-04-30). The latest sampled fixing is\n$1,257\nas of 2026-09-25: 57.8% below it.\nThese are nominal prices, sampled once per month. Daily and intraday peaks can be higher. Use the\ninflation-adjusted gold chart\nfor a comparison in constant dollars.\nGold\nSilver\nPlatinum\nPalladium\nUSD\nGBP\nEUR\nAll (1968→)\n30Y\n20Y\n10Y\n5Y\nLatest (2026-09-25)\n$1,257\nHighest monthly sample\n$2,981\nApr 2021\nSample high\n$2,981\nApr 2021\nSample low\n$79.35\nDec 1991\nSource: LBMA fixing (PM where applicable), per troy ounce. Last available fixing per month; latest month may be incomplete. EUR begins 1999. See the methodology for sampling limits.\nHighest monthly observation by year\nYear\nHighest monthly sample (USD)\nMonth\n2026\n$1,820\nJanuary\n2025\n$1,660\nDecember\n2024\n$1,125\nOctober\n2023\n$1,618\nJanuary\n2022\n$2,509\nFebruary\n2021\n$2,981\nApril\n2020\n$2,719\nFebruary\n2019\n$1,905\nDecember\n2018\n$1,270\nDecember\n2017\n$1,057\nDecember\n2016\n$770\nNovember\n2015\n$808\nFebruary\n2014\n$898\nAugust\n2013\n$770\nMarch\n2012\n$722\nFebruary\n2011\n$824\nJuly\n2010\n$797\nDecember\n2009\n$393\nDecember\n2008\n$568\nFebruary\n2007\n$371\nApril\n2006\n$362\nApril\n2005\n$258\nNovember\n2004\n$285\nMarch\n2003\n$256\nJanuary\n2002\n$386\nMarch\n2001\n$1,050\nJanuary\n2000\n$956\nDecember\n1999\n$444\nDecember\n1998\n$365\nApril\n1997\n$211\nJuly\n1996\n$139\nMarch\n1995\n$175\nMarch\n1994\n$159\nOctober\n1993\n$142\nJuly\n1992\n$106\nDecember\n1991\n$99.75\nApril\n1990\n$119\nMay\nSee today's live palladium price on the\nspot dashboard\n, or\nshop palladium bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Palladium price history",
+              "item": "https://learn.bulliontradingllc.com/charts/palladium-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Monthly observation record"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Palladium highest monthly observations (LBMA)",
+          "description": "Highest monthly palladium observation: $2,981 (2021-04-30). Latest sampled fixing: $1,257 as of 2026-09-25. Not an intraday record.",
+          "url": "https://learn.bulliontradingllc.com/charts/palladium-all-time-high/",
+          "temporalCoverage": "1990-04-30/2026-09-25",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/platinum-and-palladium/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

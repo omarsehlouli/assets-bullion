@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "d4a74c16e6667f24",
+    "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2024/",
+    "title": "Silver Price in 2024 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:22.819648+00:00",
+    "status": "fetched",
+    "bytes": 19509,
+    "text_characters": 1227,
+    "sha256_html": "2f75bfa2a93cc7987eb88244a9e5f460f4b54d34f22bd5928ee7206149be282b",
+    "file": "sources/d4a74c16e6667f24.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Silver in 2024: 12 monthly observations, 2024-01-31 to 2024-12-31. Sampled high $33.59, low $22.34; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/silver-price-in-2024/",
+  "text": "Silver Price in 2024\nAmong 12 monthly observations available for 2024, the LBMA silver price rose 25.2% between 2024-01-31 ($23.09) and 2024-12-31 ($28.91). The highest sampled price was $33.59 in October and the lowest was $22.34 in February. The mean of these observations was $28.30. This is a first-to-last observation change, not a calendar-year return.\n2024 silver price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$23.09\n(2024-01-31)\n$33.59\n(October)\n$22.34\n(February)\n$28.91\n(2024-12-31)\n$28.30\nGBP\n£18.20\n(2024-01-31)\n£25.89\n(October)\n£17.66\n(February)\n£23.05\n(2024-12-31)\n£22.10\nEUR\n€21.30\n(2024-01-31)\n€30.91\n(October)\n€20.62\n(February)\n€27.76\n(2024-12-31)\n€26.19\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live silver price on the\nBullion Trading LLC spot dashboard\n, or\nshop silver bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Silver price history",
+              "item": "https://learn.bulliontradingllc.com/charts/silver-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "2024"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Silver price in 2024 — LBMA monthly fix",
+          "description": "Silver in 2024: 12 monthly observations, 2024-01-31 to 2024-12-31. Sampled high $33.59, low $22.34; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2024/",
+          "temporalCoverage": "2024-01-31/2024-12-31",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

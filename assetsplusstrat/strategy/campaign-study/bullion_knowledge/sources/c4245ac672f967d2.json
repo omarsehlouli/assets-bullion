@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "id": "c4245ac672f967d2",
+    "url": "https://learn.bulliontradingllc.com/quiz/why-buy-physical-gold-quiz/",
+    "title": "Why Buy Physical Gold Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:45.930897+00:00",
+    "status": "fetched",
+    "bytes": 28044,
+    "text_characters": 300,
+    "sha256_html": "84445e93bd53a678046f61d939a00f06d630048612bf55ebf15de4b05b75ab68",
+    "file": "sources/c4245ac672f967d2.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of gold's historical value preservation, safe haven properties, and investment benefits.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/why-buy-physical-gold-quiz/",
+  "text": "Why Buy Physical Gold Quiz\nTest your knowledge of gold's historical value preservation, safe haven properties, and investment benefits.\nAccording to the content, approximately how much of its purchasing power has the US dollar lost since 1913?\nA\n50%\nB\n75%\nC\n98%\nD\n85%\n←\nBack to Why Buy Physical Gold?",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "New to Precious Metals",
+              "item": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Why Buy Physical Gold?",
+              "item": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/01-why-physical-gold/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Why Buy Physical Gold Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Why Buy Physical Gold Quiz",
+          "description": "Test your knowledge of gold's historical value preservation, safe haven properties, and investment benefits.",
+          "url": "https://learn.bulliontradingllc.com/quiz/why-buy-physical-gold-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Why Buy Physical Gold?"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "According to the content, approximately how much of its purchasing power has the US dollar lost since 1913?",
+              "text": "According to the content, approximately how much of its purchasing power has the US dollar lost since 1913?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "98%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The US dollar has lost approximately 98% of its purchasing power since 1913, while gold has maintained its purchasing power over the same period."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "50%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "75%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "85%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "During the 2008 financial crisis, what happened to gold prices while stocks fell 50%+?",
+              "text": "During the 2008 financial crisis, what happened to gold prices while stocks fell 50%+?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gold doubled from $800 to over $1,900 per ounce",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "During the 2008 financial crisis, while stocks fell 50%+, gold doubled from $800 to over $1,900 per ounce, demonstrating its safe haven properties."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Gold fell by the same amount as stocks"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold remained completely stable"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold fell by 25%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "In Shakespeare's England (1600s), what could an ounce of gold buy?",
+              "text": "In Shakespeare's England (1600s), what could an ounce of gold buy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A fine gentleman's suit, complete with accessories",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "In Shakespeare's England (1600s), an ounce of gold bought a fine gentleman's suit, complete with accessories—roughly the same purchasing power as it has today."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "A loaf of bread"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "A horse"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "A small house"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is one key advantage of physical gold ownership mentioned in the content?",
+              "text": "What is one key advantage of physical gold ownership mentioned in the content?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No counterparty risk - it doesn't depend on any institution's promise",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Unlike bonds or bank deposits, gold doesn't depend on any institution's promise—it simply exists and retains value, providing no counterparty risk."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "It pays dividends"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "It can be easily counterfeited"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "It requires no storage considerations"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "According to the content, how much gold has been mined throughout all of history?",
+              "text": "According to the content, how much gold has been mined throughout all of history?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "All the gold ever mined would fit in a cube about 28 meters on each side",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "All the gold ever mined would fit in a cube about 28 meters on each side—roughly the size of a tennis court and four stories high, demonstrating gold's scarcity."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Enough to fill a football stadium"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Enough to cover the entire state of Texas"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "An unlimited amount"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "During the Great Depression (1930s), what happened to gold's price?",
+              "text": "During the Great Depression (1930s), what happened to gold's price?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gold's price rose from $20 to $35 per ounce",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "During the Great Depression, while banks failed and businesses collapsed, gold's price rose from $20 to $35 per ounce, providing protection when it was needed most."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Gold became worthless"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold's price fell dramatically"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold was banned completely"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What percentage of gold allocation do most financial advisors typically recommend for portfolios?",
+              "text": "What percentage of gold allocation do most financial advisors typically recommend for portfolios?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "5-10%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "From legendary investors to modern financial advisors, the consensus remains: 5-10% allocation to precious metals for portfolio diversification."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "50-75%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "25-40%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "1-2%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Gold is recognized and accepted worldwide, providing global liquidity.",
+              "text": "True or False: Gold is recognized and accepted worldwide, providing global liquidity.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold speaks every language and is welcomed in every country. From the souks of Dubai to the financial districts of London, New York, and Tokyo, gold provides immediate recognition, instant value, and universal acceptance."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

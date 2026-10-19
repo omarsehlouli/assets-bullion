@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "4193d1b3a73e5cab",
+    "url": "https://bulliontradingllc.com/blog/gold-breaches-1300-on-dollar-weakness-pause-in-stocks-rally/",
+    "title": "Gold breaches $1,300 on dollar weakness, pause in stocks rally - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:37.304117+00:00",
+    "status": "fetched",
+    "bytes": 95963,
+    "text_characters": 3144,
+    "sha256_html": "aedf790a30f3503a02bf4c069292959d700052ef4a33c9b60b9c2fc94798331a",
+    "file": "sources/4193d1b3a73e5cab.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "\"Some prospective mining discontent in South Africa on wage settlements is dragging out and has provided the essential backdrop,\" stated Saxo Bank expert Ole",
+  "canonical": "https://bulliontradingllc.com/blog/gold-breaches-1300-on-dollar-weakness-pause-in-stocks-rally/",
+  "text": "“Some prospective mining discontent in South Africa on wage settlements is dragging out and has provided the essential backdrop,” stated Saxo Bank expert Ole Hansen.\nSpot platinum was up 1.9 percent at $911.50 an ounce, after touching its highest since May 2018 at $914.74 earlier in the session.\nHere is a post about gold price breaches $1,300 on dollar weakness. If you wish to view the initial post you can find a link at the bottom of this post.\nHoldings in the worlds biggest gold-backed exchange-traded fund, SPDR Gold Trust, fell as much as 3 percent in the previous week, its biggest weekly portion decline because end-November 2016.\nU.S. gold futures were up 0.7 percent at $1,304.60 an ounce.\nGold rose 1 percent to a more than one-week high on Monday through $1,300 an ounce as the dollar slipped and equities stopped briefly a recent rally.\n” There is considerable assistance around the $1,290 levels. We continue to see reasons for more gold positioning need to volatility move higher.”\n“If the U.S. Federal Reserve had discussed about rate cuts (in March), that should weaken the dollar a little bit and assistance gold,” Melek added.\nPalladium increased 0.1 percent to $1,370, while silver got 1 percent to $15.22.\nSpeculators slashed their bullish bets in COMEX gold in the week to April 2, data showed on Friday.\n” Theres a bit of reducing danger cravings, the U.S. dollar is weak and we saw Chinese main banks acquisition of gold for a fourth month. A mix of all these aspects have actually moved gold into the $1,300 s,” stated Bart Melek, head of product techniques at TD Securities in Toronto.\nThe marketplaces are waiting on the minutes of the Federal Open Market Committees (FOMC) March policy meeting, due on Wednesday, for cues on the Feds future monetary policy stance.\nChina raised its gold reserves by 0.6 percent to 60.62 million ounces by end-March, main bank information revealed.\nWe discovered this good short article at https://www.cnbc.com/2019/04/08/gold-market-us-jobs-data-fed-meeting-in-focus.html and believed it would be extremely helpful to our fan.\nData on Friday revealed work development in the U.S. sped up from a 17-month low in March, mitigating fears of an abrupt slowdown in financial activity, but a moderation in wage gains supported the Feds choice to suspend more rate of interest rises this year.\nA rally in stocks, which had actually capped golds gains just recently, stopped briefly, while the dollar shed 0.3 percent against a basket of currencies. A weaker dollar makes gold less expensive for holders of other currencies.\n“Trader and investor attitudes are still normally upbeat, which is bullish for the world stock exchange and still a bearish element for the safe-haven metals,” Jim Wyckoff, senior expert with Kitco Metals stated in a note.\nSpot gold was up 0.7 percent at $1,300.11 an ounce after increasing as much as 1 percent to $1,303.61 per ounce, its highest since March 28.\nbulliontrading\nView all posts\nPrevious Post\nPrice of Gold Fundamental Weekly Forecast – Another Weak Payrolls Number Will Be Bullish for Gold\nNext Post\nA Recession, Debt Crisis Would Be Good For Gold",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/04/Gold-breaches-1300-on-dollar-weakness-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2019/04/Gold-breaches-1300-on-dollar-weakness-jpg.webp",
+          "width": "500",
+          "height": "334",
+          "caption": "Gold-breaches-1300-on-dollar-weakness",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-breaches-1300-on-dollar-weakness-pause-in-stocks-rally/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-breaches-1300-on-dollar-weakness-pause-in-stocks-rally/",
+                "name": "Gold breaches $1,300 on dollar weakness, pause in stocks rally"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-breaches-1300-on-dollar-weakness-pause-in-stocks-rally/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-breaches-1300-on-dollar-weakness-pause-in-stocks-rally/",
+          "name": "Gold breaches $1,300 on dollar weakness, pause in stocks rally - Bullion Trading LLC",
+          "datePublished": "2019-04-08T13:08:33+00:00",
+          "dateModified": "2019-04-08T13:08:33+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/04/Gold-breaches-1300-on-dollar-weakness-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-breaches-1300-on-dollar-weakness-pause-in-stocks-rally/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold breaches $1,300 on dollar weakness, pause in stocks rally - Bullion Trading LLC",
+          "datePublished": "2019-04-08T13:08:33+00:00",
+          "dateModified": "2019-04-08T13:08:33+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "&quot;Some prospective mining discontent in South Africa on wage settlements is dragging out and has provided the essential backdrop,&quot; stated Saxo Bank expert Ole",
+          "name": "Gold breaches $1,300 on dollar weakness, pause in stocks rally - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-breaches-1300-on-dollar-weakness-pause-in-stocks-rally/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-breaches-1300-on-dollar-weakness-pause-in-stocks-rally/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/04/Gold-breaches-1300-on-dollar-weakness-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-breaches-1300-on-dollar-weakness-pause-in-stocks-rally/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/a-recession-debt-crisis-would-be-good-for-gold/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/gold-breaches-1300-on-dollar-weakness-pause-in-stocks-rally/",
+    "https://bulliontradingllc.com/blog/price-of-gold-fundamental-weekly-forecast-another-weak-payrolls-number-will-be-bullish-for-gold/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2019/04/Gold-breaches-1300-on-dollar-weakness-jpg.webp",
+      "alt": "Gold-breaches-1300-on-dollar-weakness"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

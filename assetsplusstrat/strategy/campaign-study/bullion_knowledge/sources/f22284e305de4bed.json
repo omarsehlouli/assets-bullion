@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "id": "f22284e305de4bed",
+    "url": "https://learn.bulliontradingllc.com/charts/platinum-price-in-2015/",
+    "title": "Platinum Price in 2015 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:12.199544+00:00",
+    "status": "fetched",
+    "bytes": 19765,
+    "text_characters": 1334,
+    "sha256_html": "1481a9de506a234fcff946f4b9265358fa6c251110b947deec5ea2e59fcca726",
+    "file": "sources/f22284e305de4bed.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Platinum in 2015: 12 monthly observations, 2015-01-30 to 2015-12-30. Sampled high $1,221, low $831; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/platinum-price-in-2015/",
+  "text": "Platinum Price in 2015\nAmong 12 monthly observations available for 2015, the LBMA platinum price fell 28.9% between 2015-01-30 ($1,221) and 2015-12-30 ($868). The highest sampled price was $1,221 in January and the lowest was $831 in November. The mean of these observations was $1,036. This is a first-to-last observation change, not a calendar-year return.\nWhat happened in 2015:\nA strong US dollar and expectations of Federal Reserve rate hikes pushed gold to multi-year lows.\n2015 platinum price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$1,221\n(2015-01-30)\n$1,221\n(January)\n$831\n(November)\n$868\n(2015-12-30)\n$1,036\nGBP\n£811\n(2015-01-30)\n£811\n(January)\n£553\n(November)\n£586\n(2015-12-30)\n£679\nEUR\n€1,080\n(2015-01-30)\n€1,080\n(January)\n€786\n(November)\n€794\n(2015-12-30)\n€936\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live platinum price on the\nBullion Trading LLC spot dashboard\n, or\nshop platinum bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Platinum price history",
+              "item": "https://learn.bulliontradingllc.com/charts/platinum-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "2015"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Platinum price in 2015 — LBMA monthly fix",
+          "description": "Platinum in 2015: 12 monthly observations, 2015-01-30 to 2015-12-30. Sampled high $1,221, low $831; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/platinum-price-in-2015/",
+          "temporalCoverage": "2015-01-30/2015-12-30",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/platinum-and-palladium/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

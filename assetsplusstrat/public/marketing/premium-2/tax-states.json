@@ -1,0 +1,312 @@
+{
+ "source": "https://bulliontradingllc.com/bullion-tax/",
+ "retrieved": "2026-10-11",
+ "states": {
+  "NY": {
+   "name": "New York",
+   "status": "conditional",
+   "badge": "Conditionally Exempt",
+   "summary": "$1,000+ order to skip tax"
+  },
+  "CA": {
+   "name": "California",
+   "status": "conditional",
+   "badge": "Conditionally Exempt",
+   "summary": "$2,000+ order to skip tax"
+  },
+  "FL": {
+   "name": "Florida",
+   "status": "conditional",
+   "badge": "Conditionally Exempt",
+   "summary": "rules recently changed"
+  },
+  "WA": {
+   "name": "Washington",
+   "status": "taxable",
+   "badge": "Taxable",
+   "summary": "Standard tax applies \u00b7 rules recently changed"
+  },
+  "AL": {
+   "name": "Alabama",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free \u00b7 rules recently changed"
+  },
+  "AR": {
+   "name": "Arkansas",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free \u00b7 rules recently changed"
+  },
+  "AZ": {
+   "name": "Arizona",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "CO": {
+   "name": "Colorado",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "CT": {
+   "name": "Connecticut",
+   "status": "conditional",
+   "badge": "Conditionally Exempt",
+   "summary": "$1,000+ order to skip tax"
+  },
+  "DC": {
+   "name": "District of Columbia",
+   "status": "taxable",
+   "badge": "Taxable",
+   "summary": "Standard tax applies"
+  },
+  "GA": {
+   "name": "Georgia",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "HI": {
+   "name": "Hawaii",
+   "status": "taxable",
+   "badge": "Taxable",
+   "summary": "Standard tax applies"
+  },
+  "IA": {
+   "name": "Iowa",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "ID": {
+   "name": "Idaho",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "IL": {
+   "name": "Illinois",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free \u00b7 rules recently changed"
+  },
+  "IN": {
+   "name": "Indiana",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free \u00b7 rules recently changed"
+  },
+  "KS": {
+   "name": "Kansas",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "KY": {
+   "name": "Kentucky",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "LA": {
+   "name": "Louisiana",
+   "status": "conditional",
+   "badge": "Conditionally Exempt",
+   "summary": ""
+  },
+  "MA": {
+   "name": "Massachusetts",
+   "status": "conditional",
+   "badge": "Conditionally Exempt",
+   "summary": "$1,000+ order to skip tax"
+  },
+  "MD": {
+   "name": "Maryland",
+   "status": "conditional",
+   "badge": "Conditionally Exempt",
+   "summary": "$1,000+ order to skip tax"
+  },
+  "ME": {
+   "name": "Maine",
+   "status": "taxable",
+   "badge": "Taxable",
+   "summary": "Standard tax applies"
+  },
+  "MI": {
+   "name": "Michigan",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "MN": {
+   "name": "Minnesota",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "MO": {
+   "name": "Missouri",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "MS": {
+   "name": "Mississippi",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "NC": {
+   "name": "North Carolina",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "ND": {
+   "name": "North Dakota",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "NE": {
+   "name": "Nebraska",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "NJ": {
+   "name": "New Jersey",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "NM": {
+   "name": "New Mexico",
+   "status": "taxable",
+   "badge": "Taxable",
+   "summary": "Standard tax applies"
+  },
+  "NV": {
+   "name": "Nevada",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "OH": {
+   "name": "Ohio",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "OK": {
+   "name": "Oklahoma",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "PA": {
+   "name": "Pennsylvania",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "RI": {
+   "name": "Rhode Island",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "SC": {
+   "name": "South Carolina",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "SD": {
+   "name": "South Dakota",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "TN": {
+   "name": "Tennessee",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "TX": {
+   "name": "Texas",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "UT": {
+   "name": "Utah",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free \u00b7 rules recently changed"
+  },
+  "VA": {
+   "name": "Virginia",
+   "status": "conditional",
+   "badge": "Conditionally Exempt",
+   "summary": "$1,000+ order to skip tax \u00b7 rules recently changed"
+  },
+  "VT": {
+   "name": "Vermont",
+   "status": "taxable",
+   "badge": "Taxable",
+   "summary": "Standard tax applies"
+  },
+  "WI": {
+   "name": "Wisconsin",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free \u00b7 rules recently changed"
+  },
+  "WV": {
+   "name": "West Virginia",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free"
+  },
+  "WY": {
+   "name": "Wyoming",
+   "status": "exempt",
+   "badge": "Fully Exempt",
+   "summary": "Bullion is tax-free \u00b7 rules recently changed"
+  },
+  "NH": {
+   "name": "New Hampshire",
+   "status": "no_tax",
+   "badge": "No State Sales Tax",
+   "summary": "No sales tax"
+  },
+  "AK": {
+   "name": "Alaska",
+   "status": "no_tax",
+   "badge": "No State Sales Tax",
+   "summary": "No sales tax"
+  },
+  "DE": {
+   "name": "Delaware",
+   "status": "no_tax",
+   "badge": "No State Sales Tax",
+   "summary": "No sales tax"
+  },
+  "MT": {
+   "name": "Montana",
+   "status": "no_tax",
+   "badge": "No State Sales Tax",
+   "summary": "No sales tax"
+  },
+  "OR": {
+   "name": "Oregon",
+   "status": "no_tax",
+   "badge": "No State Sales Tax",
+   "summary": "No sales tax"
+  }
+ }
+}

@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "id": "b82a9456e0dce403",
+    "url": "https://learn.bulliontradingllc.com/coin-values/1976-bicentennial-quarter/",
+    "title": "1976 Bicentennial Quarter Value — Rarity, Mintage & Key Dates",
+    "retrieved_at": "2026-10-12T22:13:25.155018+00:00",
+    "status": "fetched",
+    "bytes": 13585,
+    "text_characters": 771,
+    "sha256_html": "dc8b60d41206a8134c60d6804420025b1b23cfe2384990c50b6b4d59b60bffc2",
+    "file": "sources/b82a9456e0dce403.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The 1776–1976 Bicentennial quarter (drummer-boy reverse, dual date) was made in huge numbers for circulation in copper-nickel — so circulated examples are …",
+  "canonical": "https://learn.bulliontradingllc.com/coin-values/1976-bicentennial-quarter/",
+  "text": "Common but collected\n1976 Bicentennial Quarter Value\nThe 1776–1976 Bicentennial quarter (drummer-boy reverse, dual date) was made in huge numbers for circulation in copper-nickel — so circulated examples are worth face value. The Mint also sold special 40% silver collector versions.\nKey facts\nCirculating coins: copper-nickel clad, no silver — worth 25 cents.\nCollector issues: 40% silver (≈0.0739 oz) proof and uncirculated coins sold by the Mint — these carry a silver premium.\nDual date “1776–1976”; no quarters were dated 1975.\nThinking of selling?\nWe buy coins and bullion in person at our NYC Diamond District counter.\nGet a free quote →\nSee the full\nquarters value guide\n, or\nShop US silver coins →\nMore:\nall coin values\n·\nsilver price history\n·\ngold/silver ratio",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Coin Values",
+              "item": "https://learn.bulliontradingllc.com/coin-values/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Quarters",
+              "item": "https://learn.bulliontradingllc.com/coin-values/quarters/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1976 Bicentennial Quarter"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "1976 Bicentennial Quarter Value",
+          "description": "The 1776–1976 Bicentennial quarter (drummer-boy reverse, dual date) was made in huge numbers for circulation in copper-nickel — so circulated examples are …",
+          "url": "https://learn.bulliontradingllc.com/coin-values/1976-bicentennial-quarter/",
+          "creator": {
+            "@type": "Organization",
+            "name": "United States Mint"
+          },
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/",
+    "https://bulliontradingllc.com/silver/silver-coins-for-sale/us-silver-coins/"
+  ],
+  "images": []
+}

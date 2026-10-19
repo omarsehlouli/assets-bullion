@@ -1,0 +1,344 @@
+{
+  "metadata": {
+    "id": "6e0f65b8f5d078c6",
+    "url": "https://learn.bulliontradingllc.com/quiz/comprehensive-platinum-investment-strategy-quiz/",
+    "title": "Comprehensive Platinum Investment Strategy Quiz | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:40.192146+00:00",
+    "status": "fetched",
+    "bytes": 28192,
+    "text_characters": 357,
+    "sha256_html": "862fe3df11fb75f992a34338444a2272c47838f6ae406dac91b40006987be506",
+    "file": "sources/6e0f65b8f5d078c6.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of integrated platinum investment approaches, portfolio allocation, and strategic implementation.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/comprehensive-platinum-investment-strategy-quiz/",
+  "text": "Comprehensive Platinum Investment Strategy Quiz\nTest your knowledge of integrated platinum investment approaches, portfolio allocation, and strategic implementation.\nWhat percentage of precious metals allocation is suggested for platinum within a diversified portfolio?\nA\n5-10%\nB\n10-25%\nC\n30-40%\nD\n50-60%\n←\nBack to Comprehensive Platinum Investment Strategy",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Platinum Investing",
+              "item": "https://learn.bulliontradingllc.com/guides/platinum-investing/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Comprehensive Platinum Investment Strategy",
+              "item": "https://learn.bulliontradingllc.com/guides/platinum-investing/05-comprehensive-platinum-investment-strategy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Comprehensive Platinum Investment Strategy Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Comprehensive Platinum Investment Strategy Quiz",
+          "description": "Test your knowledge of integrated platinum investment approaches, portfolio allocation, and strategic implementation.",
+          "url": "https://learn.bulliontradingllc.com/quiz/comprehensive-platinum-investment-strategy-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Comprehensive Platinum Investment Strategy"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What percentage of precious metals allocation is suggested for platinum within a diversified portfolio?",
+              "text": "What percentage of precious metals allocation is suggested for platinum within a diversified portfolio?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "10-25%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Within precious metals allocation, platinum is suggested at 10-25% to provide diversification benefits and complement gold and silver holdings with different demand drivers."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "5-10%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "30-40%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "50-60%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "In a conservative platinum allocation approach, what percentage should be in physical platinum?",
+              "text": "In a conservative platinum allocation approach, what percentage should be in physical platinum?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "60%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "In a conservative approach, 60% of platinum allocation should be in physical platinum as the core holding, providing direct ownership and crisis protection."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "40%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "50%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "70%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the recommended investment horizon for physical platinum holdings?",
+              "text": "What is the recommended investment horizon for physical platinum holdings?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "5+ years",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Physical platinum holdings should have a 5+ year investment horizon to allow time for fundamental supply-demand dynamics to drive price appreciation and justify transaction costs."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "1-2 years"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "3-4 years"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "10+ years only"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which mining stock category should receive the largest allocation (60-70%) in a risk-tiered approach?",
+              "text": "Which mining stock category should receive the largest allocation (60-70%) in a risk-tiered approach?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Major producers",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Major producers like Anglo American Platinum should receive 60-70% of mining allocation due to their lower risk, established production, and dividend potential."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Exploration companies"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Development companies"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Junior miners"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What cash reserve percentage is recommended for platinum investment opportunities?",
+              "text": "What cash reserve percentage is recommended for platinum investment opportunities?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "10-20%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Maintaining 10-20% cash reserves provides an opportunity fund for market dips, liquidity buffer for unexpected opportunities, and capital for rebalancing."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "5-10%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "25-30%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "35-40%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the key advantage of dollar-cost averaging for platinum investment?",
+              "text": "What is the key advantage of dollar-cost averaging for platinum investment?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Reduces impact of price volatility",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Dollar-cost averaging through regular purchases reduces the impact of price volatility by spreading premium costs over time and providing systematic investment discipline."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Guarantees profits"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Eliminates all risk"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Provides immediate returns"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which factor creates the most compelling current entry opportunity for platinum?",
+              "text": "Which factor creates the most compelling current entry opportunity for platinum?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Historical discount to gold with persistent deficits",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The combination of platinum's historical discount to gold (since 2015) with persistent supply deficits averaging 727,000 ounces annually creates a compelling entry opportunity."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "High prices relative to gold"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Declining industrial demand"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Increasing supply"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the maximum recommended precious metals allocation for aggressive portfolios?",
+              "text": "What is the maximum recommended precious metals allocation for aggressive portfolios?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "15-25%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Aggressive portfolios should limit precious metals allocation to 15-25% maximum to maintain appropriate diversification across asset classes while allowing for higher metals exposure."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "10-15%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "30-40%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "50%+"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

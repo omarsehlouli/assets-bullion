@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "id": "cdd743a349e9cae3",
+    "url": "https://bulliontradingllc.com/blog/category/guide/investment-strategy/",
+    "title": "Investment Strategy - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:27.396271+00:00",
+    "status": "fetched",
+    "bytes": 113566,
+    "text_characters": 1839,
+    "sha256_html": "0ce65bcd5c7a4c9644ce51349960df73aea6ec8c71516129447a73b0a843888d",
+    "file": "sources/cdd743a349e9cae3.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Shape an investment strategy with gold and silver bullion, using risk and allocation tips from BTLLC plus competitive pricing and secure shipping for portfolios.",
+  "canonical": "https://bulliontradingllc.com/blog/category/guide/investment-strategy/",
+  "text": "Gold\nGold Market & Economics\nInvestment Strategy\nplatinum\nPrecious Metals\nPlatinum vs gold investment: is platinum finally having its moment in 2026?\nIf you stack gold and haven’t looked at platinum in a while, the numbers deserve ten\nBy\nbulliontrading\nJuly 2, 2026\nJuly 2, 2026\nInvestment Strategy\nGold\nGold Market & Economics\nThe 28% Collectibles Tax: What You Really Owe When You Sell Gold\nAsk ten gold owners what they will hand the IRS when they sell, and most give the same answer:\nBy\nbulliontrading\nJune 16, 2026\nJune 16, 2026\nGold Market & Economics\nGold\nInvestment Strategy\nThe K-Shaped Economy: Why a Divided Consumer Could Be Quietly Bullish for Gold\nPick up any newspaper and the headline is the same: the consumer is cracking. That is true, but\nBy\nbulliontrading\nJune 9, 2026\nJune 9, 2026\nGold\nEducation\nInvestment Strategy\nGold Stacking for Beginners: How to Build a Private Reserve from Zero\nWith gold trading at $4,672 per troy ounce as of May 2026, a number that would have seemed\nBy\nbulliontrading\nMay 11, 2026\nMay 11, 2026\nguide\nGold\nInvestment Strategy\nsilver\nDollar Cost Averaging Into Gold and Silver: A Complete Strategy Guide\nGold is trading above $4,500 per ounce in March 2026. Silver has been surging alongside it. For\nBy\nbulliontrading\nMarch 25, 2026\nMarch 25, 2026\nGold\nGold Market & Economics\nInvestment Strategy\nQuantitative Easing and Gold: How Central Bank Policy Drives Precious Metal Prices in 2026\nGold prices have surged to unprecedented levels in 2026, breaking through $4,900 per ounce as\nBy\nbulliontrading\nJanuary 23, 2026\nJanuary 23, 2026\nGold\nGold Market & Economics\nInvestment Strategy\nWhat Is a Black Swan Event and How Gold May Help Protect Your Portfolio\nIf the past two decades have taught investors anything, it’s that the unimaginable can\nBy\nbulliontrading\nJanuary 14, 2026\nJanuary 14, 2026",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/category/guide/investment-strategy/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/guide/",
+                "name": "guide"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/guide/investment-strategy/",
+                "name": "Investment Strategy"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://bulliontradingllc.com/blog/category/guide/investment-strategy/#webpage",
+          "url": "https://bulliontradingllc.com/blog/category/guide/investment-strategy/",
+          "name": "Investment Strategy - Bullion Trading LLC",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/category/guide/investment-strategy/#breadcrumb"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/black-swan-event-gold-protection/",
+    "https://bulliontradingllc.com/blog/category/education/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/category/guide/",
+    "https://bulliontradingllc.com/blog/category/guide/investment-strategy/",
+    "https://bulliontradingllc.com/blog/category/platinum/",
+    "https://bulliontradingllc.com/blog/category/precious-metals/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/collectibles-tax-on-gold/",
+    "https://bulliontradingllc.com/blog/dollar-cost-averaging-gold-silver/",
+    "https://bulliontradingllc.com/blog/gold-stacking-for-beginners-build-private-reserve/",
+    "https://bulliontradingllc.com/blog/k-shaped-economy-gold/",
+    "https://bulliontradingllc.com/blog/platinum-vs-gold-investment-2026/",
+    "https://bulliontradingllc.com/blog/quantitative-easing-gold-impact-2026/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2026/07/platinum-vs-gold-investment-2026-1.webp",
+      "alt": "platinum vs gold investment"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/06/collectibles-tax-on-gold.webp",
+      "alt": "collectibles tax on gold"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/06/k-shaped-economy-gold.webp",
+      "alt": "Gold bars beside a large K-shaped graphic with diverging arrows"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/05/Gold-Stacking-for-Beginners.webp",
+      "alt": "Stacked gold bars and coins on a white background"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/03/Dollar-Cost-Averaging-Into-Gold-and-Silver.webp",
+      "alt": "Gold and silver coins beside a calculator and investment chart"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/01/featured_image_qe_gold.webp",
+      "alt": "Stacked gold bars with an upward price chart in the background"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/01/What-Is-a-Black-Swan-Event.webp",
+      "alt": "Black swan swimming on calm water against a dark background"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

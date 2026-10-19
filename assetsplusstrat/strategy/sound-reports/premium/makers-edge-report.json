@@ -1,0 +1,207 @@
+{
+  "file": "public/marketing/premium/audio/makers-edge-score.wav",
+  "durationSeconds": 75.395,
+  "scheduleDuration": 75.395,
+  "tempoBpm": 100.0,
+  "key": "D minor drone (scenes 1\u20132) \u2192 D mixolydian groove (D\u2013C\u2013G\u2013D) \u2192 D major resolution",
+  "score": {
+    "integratedLufs": -21.6,
+    "lra": 8.2,
+    "truePeakDbtp": -4.0
+  },
+  "voice": {
+    "integratedLufs": -13.1,
+    "lra": 5.5,
+    "truePeakDbtp": -1.5
+  },
+  "voicePlusScore": {
+    "integratedLufs": -13.3,
+    "lra": 4.5,
+    "truePeakDbtp": 1.8
+  },
+  "mixMinusVoiceLu": -0.2,
+  "ducking": {
+    "musicDb": -8.0,
+    "sfxDb": -3.0
+  },
+  "clicks": {
+    "maxStep": 0.27469,
+    "secondDiffOutlierRatio": 1.94,
+    "dcOffset": [
+      -1.05e-05,
+      -1.83e-05
+    ],
+    "firstSample": 0.0,
+    "lastSample": 0.0
+  },
+  "events": [
+    {
+      "t": 0.0,
+      "event": "blast-furnace roar fades in"
+    },
+    {
+      "t": 0.3,
+      "event": "D minor drone (forge); minor-second tension through the problem"
+    },
+    {
+      "t": 1.0,
+      "event": "title boom"
+    },
+    {
+      "t": 2.2,
+      "event": "steel tongs clamp"
+    },
+    {
+      "t": 2.6,
+      "event": "crucible scrape"
+    },
+    {
+      "t": 3.3,
+      "event": "molten pour: heat hiss + liquid roar"
+    },
+    {
+      "t": 6.6,
+      "event": "low whoosh: camera tilts down"
+    },
+    {
+      "t": 7.2,
+      "event": "stream hits water: steam burst, crackle, bubbling sizzle"
+    },
+    {
+      "t": 7.5,
+      "event": "grains sink: tiny tinkles to 10.0"
+    },
+    {
+      "t": 9.66,
+      "event": "low impact on 'milling'"
+    },
+    {
+      "t": 11.475,
+      "event": "heartbeat x14 at 72 bpm, intensifying, stops ~12.1s"
+    },
+    {
+      "t": 12.075,
+      "event": "paper slide swish (invoice)"
+    },
+    {
+      "t": 13.535,
+      "event": "tense low sting on '$10-15'"
+    },
+    {
+      "t": 17.975,
+      "event": "paper crumple"
+    },
+    {
+      "t": 19.855,
+      "event": "draining synth sweep on 'eating'"
+    },
+    {
+      "t": 22.475,
+      "event": "heavy hit on 'taxing'"
+    },
+    {
+      "t": 24.29,
+      "event": "vault wheel ratchet: 15 accelerating clicks"
+    },
+    {
+      "t": 25.09,
+      "event": "vault latch CLUNG (Kenney impactMetal_heavy + modal ring + sub)"
+    },
+    {
+      "t": 25.19,
+      "event": "hinge groan + air whoosh + warm shimmer riser"
+    },
+    {
+      "t": 26.04,
+      "event": "groove in at 100 BPM (D-C-G-D mixolydian): kick + bass; plucks from 'No hidden'; hats in the district"
+    },
+    {
+      "t": 30.48,
+      "event": "tink on 'gold'"
+    },
+    {
+      "t": 31.44,
+      "event": "tink on 'sterling'"
+    },
+    {
+      "t": 32.74,
+      "event": "tink on 'platinum'"
+    },
+    {
+      "t": 35.18,
+      "event": "strike-through swipe on 'markups'"
+    },
+    {
+      "t": 37.06,
+      "event": "strike-through swipe on 'premiums'"
+    },
+    {
+      "t": 38.34,
+      "event": "scoop plunges into silver grain: granular ASMR shhhhk, cascade until ~17.6"
+    },
+    {
+      "t": 41.28,
+      "event": "warm D major bell stab on 'priced fairly'"
+    },
+    {
+      "t": 42.525,
+      "event": "hyper-lapse: traffic rumble, distant horns, whooshes at 0.2/0.9/1.6; fades into the showroom from 4.8"
+    },
+    {
+      "t": 45.885,
+      "event": "pin-drop ping on 'Diamond'"
+    },
+    {
+      "t": 52.425,
+      "event": "heavy canvas bag thud on glass counter (thump + grain rattle + glass tick)"
+    },
+    {
+      "t": 53.425,
+      "event": "airy whoosh: US map reveal"
+    },
+    {
+      "t": 55.105,
+      "event": "five rising route sweeps on 'ship'"
+    },
+    {
+      "t": 55.665,
+      "event": "soft seal/stamp on 'insured'"
+    },
+    {
+      "t": 56.625,
+      "event": "small tick"
+    },
+    {
+      "t": 57.665,
+      "event": "shimmer as all routes land"
+    },
+    {
+      "t": 59.15,
+      "event": "split-screen whoosh"
+    },
+    {
+      "t": 59.35,
+      "event": "liquid silver into ring mold: sizzle 0.2-4.0"
+    },
+    {
+      "t": 60.05,
+      "event": "anvil hit under 'protect'"
+    },
+    {
+      "t": 61.73,
+      "event": "anvil hit under 'perfect'"
+    },
+    {
+      "t": 67.41,
+      "event": "digital clicks on 'lock' and 'live'"
+    },
+    {
+      "t": 72.15,
+      "event": "drone resolves into triumphant D major (brass swell + timpani-like boom), fading over the last 0.6 s"
+    },
+    {
+      "t": 72.75,
+      "event": "logo shimmer"
+    }
+  ]
+}

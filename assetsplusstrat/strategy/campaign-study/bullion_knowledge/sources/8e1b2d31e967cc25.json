@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "8e1b2d31e967cc25",
+    "url": "https://bulliontradingllc.com/blog/gold-gains-as-stock-sell-off-revives-safe-haven-appeal/",
+    "title": "Gold gains as stock sell-off revives safe-haven appeal - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:39.503519+00:00",
+    "status": "fetched",
+    "bytes": 95700,
+    "text_characters": 3068,
+    "sha256_html": "66cc83eb72353151a40ca56689eff01587dd076ff49e7e9ace873b74dc9424ff",
+    "file": "sources/8e1b2d31e967cc25.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "However gold has recuperated from a 1-1/2-year low of $1,059.96 struck in mid-August, propped up by minimal safe-haven buying at the lower end of its variety,",
+  "canonical": "https://bulliontradingllc.com/blog/gold-gains-as-stock-sell-off-revives-safe-haven-appeal/",
+  "text": "However gold has recuperated from a 1-1/2-year low of $1,059.96 struck in mid-August, propped up by minimal safe-haven buying at the lower end of its variety, stimulated by concerns over financial growth and inflationary pressure from skyrocketing oil costs.\nGold prices increased on Thursday as a sell-off in worldwide stock markets prompted investors to look for security in the metal, with a softer dollar even more supporting bullion.\n“Rising U.S. yields and basic strength in the dollar have actually implied that investors have actually mostly disregarded gold. But people are seeing fairly good value at current levels on the back of some macro concerns,” Patterson stated.\nWe found this article at https://www.cnbc.com/2018/10/11/gold-prices-us-data-dollar-us-stock-sell-off-in-focus.html and believed it would be beneficial to our fans.\nSpot gold gained 0.8 percent to $1,203.30 an ounce by 0947 GMT.\nThe Fed increased rates of interest last month for the 3rd time this year and is extensively expected to hike once again in December, with no recommendation its tightening will stop any time quickly.\nEuropean stocks fell in line with a depression on Wall Street, pointing to growing risk aversion throughout worldwide markets and turning higher attention to U.S. inflation data later in the day for hints on the speed of monetary tightening.\nWednesdays dive on Wall Street prompted U.S. President Donald Trump to lash out against the U.S. Federal Reserve for raising rates of interest. Some analysts stated his comments were supporting gold prices somewhat.\nGold has actually fallen about 13 percent because hitting a peak in April, with investors progressively changing to the safety of the greenback as the U.S.-China trade war unfolded versus a backdrop of increasing U.S. rates of interest.\nIf this (sell-off) persists, we will begin seeing more of a transfer to gold as a safe-haven asset,” ING expert Warren Patterson stated.\n“Gold is discovering a little support from the worldwide sell-off seen in equities.\nHere is a post about gold gains as stock sell-off. If you want to see the initial short article you can discover the link at the bottom of this post.\nSpot silver increased 1.1 percent to $14.42 an ounce and palladium was up 1.2 percent at $1,079.72. Platinum edged up 0.2 percent to $820.50 an ounce.\nU.S. gold futures included 1.1 percent at $1,206.20 an ounce.\nHoldings in the SPDR Gold Trust, the worlds largest gold-backed exchange-traded fund, increased 1.21 percent to 738.99 tonnes on Wednesday. This was the SPDR ETFs first gain because July and the biggest inflow given that March.\nEuropean stocks fell in line with a downturn on Wall Street, pointing to growing threat hostility throughout global markets and turning higher attention to Thursday U.S. inflation data.\nHoldings in the SPDR Gold Trust, increased for the very first time July and saw the greatest inflow considering that March.\nbulliontrading\nView all posts\nPrevious Post\nCentral Banks Are Piling Into Gold\nNext Post\nWhy Central Bank Buying Has the Gold Market Guessing",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/10/gold-1-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2018/10/gold-1-jpg.webp",
+          "width": "596",
+          "height": "350",
+          "caption": "gold-1",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-gains-as-stock-sell-off-revives-safe-haven-appeal/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-gains-as-stock-sell-off-revives-safe-haven-appeal/",
+                "name": "Gold gains as stock sell-off revives safe-haven appeal"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-gains-as-stock-sell-off-revives-safe-haven-appeal/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-gains-as-stock-sell-off-revives-safe-haven-appeal/",
+          "name": "Gold gains as stock sell-off revives safe-haven appeal - Bullion Trading LLC",
+          "datePublished": "2018-10-15T10:02:49+00:00",
+          "dateModified": "2018-10-15T10:02:49+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/10/gold-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-gains-as-stock-sell-off-revives-safe-haven-appeal/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold gains as stock sell-off revives safe-haven appeal - Bullion Trading LLC",
+          "datePublished": "2018-10-15T10:02:49+00:00",
+          "dateModified": "2018-10-15T10:02:49+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "However gold has recuperated from a 1-1/2-year low of $1,059.96 struck in mid-August, propped up by minimal safe-haven buying at the lower end of its variety,",
+          "name": "Gold gains as stock sell-off revives safe-haven appeal - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-gains-as-stock-sell-off-revives-safe-haven-appeal/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-gains-as-stock-sell-off-revives-safe-haven-appeal/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/10/gold-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-gains-as-stock-sell-off-revives-safe-haven-appeal/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/central-banks-are-piling-into-gold/",
+    "https://bulliontradingllc.com/blog/gold-gains-as-stock-sell-off-revives-safe-haven-appeal/",
+    "https://bulliontradingllc.com/blog/why-central-bank-buying-has-the-gold-market-guessing/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2018/10/gold-1-jpg.webp",
+      "alt": "gold-1"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

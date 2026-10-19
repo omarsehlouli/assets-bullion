@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "id": "6345b537d1acc3e5",
+    "url": "https://bulliontradingllc.com/blog/what-is-peak-gold/",
+    "title": "What Is Peak Gold? - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:16.933756+00:00",
+    "status": "fetched",
+    "bytes": 95351,
+    "text_characters": 3383,
+    "sha256_html": "f67641d41821aed29b31bf4caca16cfb0b04cf346ca37a3d6ce3e8278936b3d8",
+    "file": "sources/6345b537d1acc3e5.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Gold is getting harder, and harder to just find laying on the ground. Gold manufactures and miners have needed to dig further, and further into the Earth in",
+  "canonical": "https://bulliontradingllc.com/blog/what-is-peak-gold/",
+  "text": "Gold is getting harder, and harder to just find laying on the ground. Gold manufactures and miners have needed to dig further, and further into the Earth in order to get at gold deposits. With more, and more digging needed, increasingly more dirt needs to be moved. This makes gold harder, and harder to get at. It ends up being more costly to keep up the rate at which we have been drawing out gold from these mines.\nPeak gold is a term that those in the gold market use to define the date at which human beings have actually struck the optimum rate of annual gold extraction. What does this suggest? Lets simplify somewhat.\nPeak gold is a term that gold financiers should become more familiar with, as it will determine the cost of gold for them very soon. Peak gold is a term that those in the gold industry use to specify the date at which people have hit the optimum rate of yearly gold extraction. As soon as peak gold is reached, there will be a push to guarantee that people do not exhaust the quantity of gold that is left. Roughly 40% of the new gold presented into the market yearly is reclaimed gold that has actually been used in electronics, or jewelry, or medical gadgets.\nThere is an existing difference on when Peak Gold will be reached. Natural Deposit Holdings CEO Roy Sebag claimed in 2012 that gold production would peak between 2022-2025, while Charles Jeannes of Goldcorp stated in 2014 that Peak Gold was currently reached in 2014, or 2015. It is agreed that the only thing holding back on Peak Gold currently setting in has been discovering new mines, and changing the supply and need of existing supplies.\nCurrent sources state that we have now gone into the post-Peak Gold age, disallowing any discovery of new, easy to reach mines. The frank answer is to have gold in your ownership when this happens. Are you prepared for when we reach\npeak gold?\nNatural Resource Holdings CEO Roy Sebag declared in 2012 that gold production would peak between 2022-2025, while Charles Jeannes of Goldcorp stated in 2014 that Peak Gold was currently reached in 2014, or 2015.\nThe bright side is that gold can be recycled, and reused. Unlike the majority of other natural resources, human beings have currently benefited from recycling gold through numerous usages. Roughly 40% of the new gold introduced into the marketplace yearly is recovered gold that has been utilized in electronics, or jewelry, or medical devices.\nIt suggests that gold will become more costly. Weve already reached a point in history where brand-new gold mining every year is hardly keeping up with replenishment levels. Once peak gold is reached, there will be a push to guarantee that humans do not tire the quantity of gold that is left.\nPeak gold is when our ability to stay up to date with the demand falters. Either our technology, or the quantity of easy-to-reach gold, or both, collide–\nThis implies we have actually passed peak gold. Once weve reached the top of Everest (Peak Gold), its only a slow march down.\nPeak gold is a term that gold financiers need to end up being more knowledgeable about, as it will identify the price of gold for them really quickly. What is peak gold, nevertheless? What does it indicate for gold market forces? Exists a method to protect yourself against it?\nbulliontrading\nView all posts\nPrevious Post\nFun Facts About Gold\nNext Post\nHow Much Silver Exists?",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/sunshine_silver_bars_silver_rounds3.jpg",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2021/04/sunshine_silver_bars_silver_rounds3.jpg",
+          "width": "525",
+          "height": "358",
+          "caption": "Untitled",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/what-is-peak-gold/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/what-is-peak-gold/",
+                "name": "What Is Peak Gold?"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/what-is-peak-gold/#webpage",
+          "url": "https://bulliontradingllc.com/blog/what-is-peak-gold/",
+          "name": "What Is Peak Gold? - Bullion Trading LLC",
+          "datePublished": "2017-07-05T03:00:19+00:00",
+          "dateModified": "2017-07-05T03:00:19+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/sunshine_silver_bars_silver_rounds3.jpg"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/what-is-peak-gold/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "What Is Peak Gold? - Bullion Trading LLC",
+          "datePublished": "2017-07-05T03:00:19+00:00",
+          "dateModified": "2017-07-05T03:00:19+00:00",
+          "articleSection": "Gold, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Gold is getting harder, and harder to just find laying on the ground. Gold manufactures and miners have needed to dig further, and further into the Earth in",
+          "name": "What Is Peak Gold? - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/what-is-peak-gold/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/what-is-peak-gold/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/sunshine_silver_bars_silver_rounds3.jpg"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/what-is-peak-gold/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/fun-facts-about-gold/",
+    "https://bulliontradingllc.com/blog/how-much-silver-exists/",
+    "https://bulliontradingllc.com/blog/what-is-peak-gold/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/sunshine_silver_bars_silver_rounds3.jpg",
+      "alt": "Untitled"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

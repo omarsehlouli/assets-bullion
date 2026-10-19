@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "id": "2acb5b75833d0fee",
+    "url": "https://learn.bulliontradingllc.com/quiz/economic-indicators-quiz/",
+    "title": "Economic Indicators Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:40.305856+00:00",
+    "status": "fetched",
+    "bytes": 27529,
+    "text_characters": 342,
+    "sha256_html": "0a734185ff96caeacc84195c75d5498c952ff824a0863ecc9ad070598c4f9939",
+    "file": "sources/2acb5b75833d0fee.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of economic indicators, Federal Reserve policy, and their impact on precious metals markets.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/economic-indicators-quiz/",
+  "text": "Economic Indicators Quiz\nTest your knowledge of economic indicators, Federal Reserve policy, and their impact on precious metals markets.\nAccording to the content, through how many different channels does the Federal Reserve affect precious metals?\nA\nThree channels\nB\nFour channels\nC\nFive channels\nD\nSix channels\n←\nBack to Economic Indicators",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Market Analysis",
+              "item": "https://learn.bulliontradingllc.com/guides/market-analysis/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Economic Indicators",
+              "item": "https://learn.bulliontradingllc.com/guides/market-analysis/04-economic-indicators/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Economic Indicators Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Economic Indicators Quiz",
+          "description": "Test your knowledge of economic indicators, Federal Reserve policy, and their impact on precious metals markets.",
+          "url": "https://learn.bulliontradingllc.com/quiz/economic-indicators-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Economic Indicators"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "According to the content, through how many different channels does the Federal Reserve affect precious metals?",
+              "text": "According to the content, through how many different channels does the Federal Reserve affect precious metals?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Five channels",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The Federal Reserve affects precious metals through five channels: interest rates, currency values, inflation expectations, financial system confidence, and institutional credibility."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Three channels"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Four channels"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Six channels"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What conflicting Fed policy views are mentioned in the content?",
+              "text": "What conflicting Fed policy views are mentioned in the content?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Waller advocating rate cuts while Goolsbee warns tariff policies may delay cuts",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Fed officials show divergent views with Waller advocating July rate cuts while Goolsbee warns tariff policies may delay cuts, creating policy uncertainty."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "All officials agree on immediate rate hikes"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "All officials agree on rate cuts"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "No disagreement among Fed officials"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What does CPI stand for in economic analysis?",
+              "text": "What does CPI stand for in economic analysis?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Consumer Price Index",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "CPI stands for Consumer Price Index, a key inflation indicator that affects trader expectations and Fed policy scenarios."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Central Price Index"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Corporate Price Index"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Currency Price Index"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the significance of TIPS spreads mentioned in the content?",
+              "text": "What is the significance of TIPS spreads mentioned in the content?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They indicate long-term inflation concerns",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Treasury Inflation-Protected Securities (TIPS) spreads and breakeven rates show long-term inflation concerns, providing fundamental support for precious metals as inflation hedges."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "They show stock market performance"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "They measure unemployment rates"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "They track currency exchange rates"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What does PPI measure in economic analysis?",
+              "text": "What does PPI measure in economic analysis?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Producer Price Index",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "PPI stands for Producer Price Index, which measures pipeline inflation indicating future consumer price pressures."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Personal Price Index"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Public Price Index"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Primary Price Index"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "According to the content, what is creating new inflation dynamics not captured by traditional measures?",
+              "text": "According to the content, what is creating new inflation dynamics not captured by traditional measures?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Trade policy and tariffs",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Trade policy and tariffs are creating new inflation dynamics not captured by traditional measures, affecting precious metals fundamentals."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Energy price changes"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Food price volatility"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Housing costs"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What does JOLTS measure in employment data?",
+              "text": "What does JOLTS measure in employment data?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Job openings",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "JOLTS measures job openings, indicating labor demand and overall economic strength, which affects Fed policy expectations."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Job losses"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Job training programs"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Job satisfaction"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Political pressure on Federal Reserve independence creates uncertainty that traditionally benefits safe-haven assets.",
+              "text": "True or False: Political pressure on Federal Reserve independence creates uncertainty that traditionally benefits safe-haven assets.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Political pressure on Federal Reserve independence creates institutional credibility concerns that historically drive alternative asset demand, including precious metals."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

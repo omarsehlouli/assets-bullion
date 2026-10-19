@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "id": "6e3b9228f2749f57",
+    "url": "https://bulliontradingllc.com/blog/how-to-buy-gold-silver-platinum-and-palladium-online/",
+    "title": "How to buy gold , silver , platinum and palladium online - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:52.579744+00:00",
+    "status": "fetched",
+    "bytes": 95846,
+    "text_characters": 2732,
+    "sha256_html": "5d4f503f0c41bc844df4d890cb95ce2d705349bd1f4f018675f6e950e50dbe06",
+    "file": "sources/6e3b9228f2749f57.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Step-by-step guide to buying gold, silver, platinum, and palladium online—how to vet dealers, compare pricing, and ship securely.",
+  "canonical": "https://bulliontradingllc.com/blog/how-to-buy-gold-silver-platinum-and-palladium-online/",
+  "text": "Investing in precious metals like gold, silver, platinum, and palladium can be a wise financial decision, especially during times of economic uncertainty. Here’s a comprehensive guide on how to buy these metals online.\nResearch and Choose a Reputable Dealer\nBefore making any purchase, it’s crucial to research and select a reputable dealer. Look for dealers with positive reviews, transparent pricing, and a solid track record. Bullion Trading LLC, for example, is a trusted name in the industry, offering a wide range of precious metal products.\nUnderstand the Products\nFamiliarize yourself with the different forms and weights in which precious metals are available. Here’s a quick overview:\nGold: Available in bars (from 1 gram to 1 kilo) and coins (from 1/20 oz to 1 oz)\nSilver: Offered in bars (from 1 oz to 100 oz) and stackable options like the 1 kilo Scottsdale Stacker Silver Bar\nPlatinum and Palladium: Similar to gold and silver, these metals are available in various weights and forms.\nChoose Your Payment Method\nMost dealers offer multiple payment methods, including bank transfers, checks, credit cards, and PayPal. Keep in mind that credit card and PayPal transactions may incur additional fees ranging from 3% to 5%\nPlace Your Order\nOnce you’ve selected your products and payment method, proceed to place your order. Ensure that you meet the minimum order amount, which at Bullion Trading LLC is $1000, to comply with sales tax regulations and qualify for free shipping\nUnderstand Shipping and Delivery\nMake sure to review the dealer’s shipping policies. Bullion Trading LLC offers international shipping, but advises customers to ensure they can clear the package through customs. For international orders, only bank transfers are accepted.\nVerify and Authenticate Your Purchase\nOnce you receive your metals, verify their authenticity. Reputable dealers will provide certificates of authenticity. However, note that authentication certificates are not always necessary. There are secondary market bars that come without certificates. The important factors are the value of the gold and ensuring that the bar is .9999 fine gold.\nConclusion\nBuying precious metals online can be a seamless process if you follow these steps. Whether you’re a seasoned investor or a beginner, understanding the nuances of purchasing and storing precious metals will help you make informed decisions. For a trusted buying experience, consider Bullion Trading LLC, where you can find a wide range of high-quality gold, silver, platinum, and palladium products. Happy investing!\nbulliontrading\nView all posts\nPrevious Post\nNebraska Starts Exempting Precious Metals from Sales Tax\nNext Post\nA Guide for First-Time Buyers of Precious Metals",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2024/05/How-to-buy-gold-online.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2024/05/How-to-buy-gold-online.webp",
+          "width": "1792",
+          "height": "1024",
+          "caption": "a computer screen with gold bars and coins featuring \" How to buy gold online \" from Bullion Trading LLC",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/how-to-buy-gold-silver-platinum-and-palladium-online/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/uncategorized/",
+                "name": "Uncategorized"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/how-to-buy-gold-silver-platinum-and-palladium-online/",
+                "name": "How to buy gold , silver , platinum and palladium online"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/how-to-buy-gold-silver-platinum-and-palladium-online/#webpage",
+          "url": "https://bulliontradingllc.com/blog/how-to-buy-gold-silver-platinum-and-palladium-online/",
+          "name": "How to buy gold , silver , platinum and palladium online - Bullion Trading LLC",
+          "datePublished": "2024-05-15T14:33:22+00:00",
+          "dateModified": "2024-05-15T14:33:22+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2024/05/How-to-buy-gold-online.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/how-to-buy-gold-silver-platinum-and-palladium-online/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "How to buy gold , silver , platinum and palladium online - Bullion Trading LLC",
+          "keywords": "buy gold online,how to buy gold,Precious Metals Investment",
+          "datePublished": "2024-05-15T14:33:22+00:00",
+          "dateModified": "2024-05-15T14:33:22+00:00",
+          "articleSection": "Uncategorized",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Step-by-step guide to buying gold, silver, platinum, and palladium online—how to vet dealers, compare pricing, and ship securely.",
+          "name": "How to buy gold , silver , platinum and palladium online - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/how-to-buy-gold-silver-platinum-and-palladium-online/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/how-to-buy-gold-silver-platinum-and-palladium-online/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2024/05/How-to-buy-gold-online.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/how-to-buy-gold-silver-platinum-and-palladium-online/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/a-guide-for-first-time-buyers-of-precious-metals/",
+    "https://bulliontradingllc.com/blog/category/uncategorized/",
+    "https://bulliontradingllc.com/blog/how-to-buy-gold-silver-platinum-and-palladium-online/",
+    "https://bulliontradingllc.com/blog/nebraska-starts-exempting-precious-metals-from-sales-tax/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2024/05/How-to-buy-gold-online.webp",
+      "alt": "a computer screen with gold bars and coins featuring \" How to buy gold online \" from Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

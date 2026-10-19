@@ -1,0 +1,2102 @@
+{
+  "traditions": {
+    "id": "traditions",
+    "title": "Traditions in gold & silver",
+    "fps": 60,
+    "durationInFrames": 1692,
+    "duration": 28.185,
+    "voice": "marketing/premium-2/audio/traditions-voice.wav",
+    "score": "marketing/premium-2/audio/traditions-score.wav",
+    "scenes": [
+      {
+        "id": "hook",
+        "text": "Across cultures, life's biggest moments are marked in gold and silver.",
+        "audioStart": 0.45,
+        "audioEnd": 4.675,
+        "visualStart": 0,
+        "words": [
+          {
+            "word": "Across",
+            "start": 0.45,
+            "end": 0.83
+          },
+          {
+            "word": "cultures,",
+            "start": 0.83,
+            "end": 1.31
+          },
+          {
+            "word": "life's",
+            "start": 1.89,
+            "end": 2.17
+          },
+          {
+            "word": "biggest",
+            "start": 2.17,
+            "end": 2.39
+          },
+          {
+            "word": "moments",
+            "start": 2.39,
+            "end": 2.85
+          },
+          {
+            "word": "are",
+            "start": 2.85,
+            "end": 3.07
+          },
+          {
+            "word": "marked",
+            "start": 3.07,
+            "end": 3.37
+          },
+          {
+            "word": "in",
+            "start": 3.37,
+            "end": 3.57
+          },
+          {
+            "word": "gold",
+            "start": 3.57,
+            "end": 3.93
+          },
+          {
+            "word": "and",
+            "start": 3.93,
+            "end": 4.19
+          },
+          {
+            "word": "silver.",
+            "start": 4.19,
+            "end": 4.47
+          }
+        ],
+        "visualEnd": 4.875
+      },
+      {
+        "id": "arras",
+        "text": "Thirteen gold coins, blessed and passed hand to hand at a wedding.",
+        "audioStart": 5.095,
+        "audioEnd": 8.68,
+        "visualStart": 4.875,
+        "words": [
+          {
+            "word": "13",
+            "start": 5.095,
+            "end": 5.575
+          },
+          {
+            "word": "gold",
+            "start": 5.575,
+            "end": 5.855
+          },
+          {
+            "word": "coins,",
+            "start": 5.855,
+            "end": 6.335
+          },
+          {
+            "word": "blessed",
+            "start": 6.695,
+            "end": 6.795
+          },
+          {
+            "word": "and",
+            "start": 6.795,
+            "end": 7.075
+          },
+          {
+            "word": "passed",
+            "start": 7.075,
+            "end": 7.375
+          },
+          {
+            "word": "hand-to-hand",
+            "start": 7.375,
+            "end": 7.995
+          },
+          {
+            "word": "at",
+            "start": 7.995,
+            "end": 8.175
+          },
+          {
+            "word": "a",
+            "start": 8.175,
+            "end": 8.255
+          },
+          {
+            "word": "wedding.",
+            "start": 8.255,
+            "end": 8.435
+          }
+        ],
+        "visualEnd": 8.88
+      },
+      {
+        "id": "pidyon",
+        "text": "Five silver coins, on a firstborn son's thirty-first day.",
+        "audioStart": 9.1,
+        "audioEnd": 12.845,
+        "visualStart": 8.88,
+        "words": [
+          {
+            "word": "Five",
+            "start": 9.1,
+            "end": 9.42
+          },
+          {
+            "word": "silver",
+            "start": 9.42,
+            "end": 9.78
+          },
+          {
+            "word": "coins",
+            "start": 9.78,
+            "end": 10.32
+          },
+          {
+            "word": "on",
+            "start": 10.32,
+            "end": 10.66
+          },
+          {
+            "word": "a",
+            "start": 10.66,
+            "end": 10.8
+          },
+          {
+            "word": "first",
+            "start": 10.8,
+            "end": 10.98
+          },
+          {
+            "word": "born",
+            "start": 10.98,
+            "end": 11.3
+          },
+          {
+            "word": "son's",
+            "start": 11.3,
+            "end": 11.9
+          },
+          {
+            "word": "31st",
+            "start": 11.9,
+            "end": 12.52
+          },
+          {
+            "word": "day.",
+            "start": 12.52,
+            "end": 12.74
+          }
+        ],
+        "visualEnd": 13.045
+      },
+      {
+        "id": "dhanteras",
+        "text": "A piece of gold on Dhun-teh-rus, to welcome Lukshmee home.",
+        "audioStart": 13.265,
+        "audioEnd": 17.08,
+        "visualStart": 13.045,
+        "words": [
+          {
+            "word": "A",
+            "start": 13.265,
+            "end": 13.465
+          },
+          {
+            "word": "piece",
+            "start": 13.465,
+            "end": 13.565
+          },
+          {
+            "word": "of",
+            "start": 13.565,
+            "end": 13.845
+          },
+          {
+            "word": "gold",
+            "start": 13.845,
+            "end": 14.065
+          },
+          {
+            "word": "on",
+            "start": 14.065,
+            "end": 14.385
+          },
+          {
+            "word": "Dhanteras,",
+            "start": 14.385,
+            "end": 15.205
+          },
+          {
+            "word": "to",
+            "start": 15.205,
+            "end": 15.525
+          },
+          {
+            "word": "welcome",
+            "start": 15.525,
+            "end": 15.905
+          },
+          {
+            "word": "Lakshmi",
+            "start": 15.905,
+            "end": 16.565
+          },
+          {
+            "word": "home.",
+            "start": 16.565,
+            "end": 16.865
+          }
+        ],
+        "visualEnd": 17.28
+      },
+      {
+        "id": "lunar",
+        "text": "A gold coin in a red envelope for the Lunar New Year.",
+        "audioStart": 17.5,
+        "audioEnd": 20.435,
+        "visualStart": 17.28,
+        "words": [
+          {
+            "word": "A",
+            "start": 17.5,
+            "end": 17.66
+          },
+          {
+            "word": "gold",
+            "start": 17.66,
+            "end": 17.88
+          },
+          {
+            "word": "coin",
+            "start": 17.88,
+            "end": 18.2
+          },
+          {
+            "word": "in",
+            "start": 18.2,
+            "end": 18.4
+          },
+          {
+            "word": "a",
+            "start": 18.4,
+            "end": 18.5
+          },
+          {
+            "word": "red",
+            "start": 18.5,
+            "end": 18.66
+          },
+          {
+            "word": "envelope",
+            "start": 18.66,
+            "end": 19.06
+          },
+          {
+            "word": "for",
+            "start": 19.06,
+            "end": 19.38
+          },
+          {
+            "word": "the",
+            "start": 19.38,
+            "end": 19.52
+          },
+          {
+            "word": "Lunar",
+            "start": 19.52,
+            "end": 19.76
+          },
+          {
+            "word": "New",
+            "start": 19.76,
+            "end": 20.04
+          },
+          {
+            "word": "Year.",
+            "start": 20.04,
+            "end": 20.3
+          }
+        ],
+        "visualEnd": 20.635
+      },
+      {
+        "id": "sovereign",
+        "text": "And a gold sovereign at twenty-one, the key of the door.",
+        "audioStart": 20.855,
+        "audioEnd": 23.95,
+        "visualStart": 20.635,
+        "words": [
+          {
+            "word": "And",
+            "start": 20.855,
+            "end": 21.015
+          },
+          {
+            "word": "a",
+            "start": 21.015,
+            "end": 21.115
+          },
+          {
+            "word": "gold",
+            "start": 21.115,
+            "end": 21.295
+          },
+          {
+            "word": "sovereign",
+            "start": 21.295,
+            "end": 21.735
+          },
+          {
+            "word": "at",
+            "start": 21.735,
+            "end": 21.915
+          },
+          {
+            "word": "twenty-one,",
+            "start": 21.915,
+            "end": 22.335
+          },
+          {
+            "word": "the",
+            "start": 23.015,
+            "end": 23.135
+          },
+          {
+            "word": "key",
+            "start": 23.135,
+            "end": 23.275
+          },
+          {
+            "word": "of",
+            "start": 23.275,
+            "end": 23.435
+          },
+          {
+            "word": "the",
+            "start": 23.435,
+            "end": 23.555
+          },
+          {
+            "word": "door.",
+            "start": 23.555,
+            "end": 23.795
+          }
+        ],
+        "visualEnd": 24.15
+      },
+      {
+        "id": "cta",
+        "text": "Buy from Bullion Trading.",
+        "audioStart": 24.37,
+        "audioEnd": 25.785,
+        "visualStart": 24.15,
+        "words": [
+          {
+            "word": "Buy",
+            "start": 24.37,
+            "end": 24.55
+          },
+          {
+            "word": "from",
+            "start": 24.55,
+            "end": 24.75
+          },
+          {
+            "word": "Bullion",
+            "start": 24.75,
+            "end": 25.15
+          },
+          {
+            "word": "Trading.",
+            "start": 25.15,
+            "end": 25.51
+          }
+        ],
+        "visualEnd": 28.185
+      }
+    ]
+  },
+  "sell-to-us": {
+    "id": "sell-to-us",
+    "title": "Sell to us",
+    "fps": 60,
+    "durationInFrames": 1346,
+    "duration": 22.42,
+    "voice": "marketing/premium-2/audio/sell-to-us-voice.wav",
+    "score": "marketing/premium-2/audio/sell-to-us-score.wav",
+    "scenes": [
+      {
+        "id": "hook",
+        "text": "Thinking of selling your gold or silver?",
+        "audioStart": 0.45,
+        "audioEnd": 2.345,
+        "visualStart": 0,
+        "words": [
+          {
+            "word": "Thinking",
+            "start": 0.45,
+            "end": 0.67
+          },
+          {
+            "word": "of",
+            "start": 0.67,
+            "end": 0.91
+          },
+          {
+            "word": "selling",
+            "start": 0.91,
+            "end": 1.15
+          },
+          {
+            "word": "your",
+            "start": 1.15,
+            "end": 1.41
+          },
+          {
+            "word": "gold",
+            "start": 1.41,
+            "end": 1.67
+          },
+          {
+            "word": "or",
+            "start": 1.67,
+            "end": 1.85
+          },
+          {
+            "word": "silver?",
+            "start": 1.85,
+            "end": 2.15
+          }
+        ],
+        "visualEnd": 2.545
+      },
+      {
+        "id": "prices",
+        "text": "Our buyback prices are published online, and they update with the market.",
+        "audioStart": 2.765,
+        "audioEnd": 6.83,
+        "visualStart": 2.545,
+        "words": [
+          {
+            "word": "Our",
+            "start": 2.765,
+            "end": 2.965
+          },
+          {
+            "word": "buyback",
+            "start": 2.965,
+            "end": 3.345
+          },
+          {
+            "word": "prices",
+            "start": 3.345,
+            "end": 3.805
+          },
+          {
+            "word": "are",
+            "start": 3.805,
+            "end": 4.045
+          },
+          {
+            "word": "published",
+            "start": 4.045,
+            "end": 4.385
+          },
+          {
+            "word": "online,",
+            "start": 4.385,
+            "end": 4.885
+          },
+          {
+            "word": "and",
+            "start": 4.885,
+            "end": 5.705
+          },
+          {
+            "word": "they",
+            "start": 5.705,
+            "end": 5.805
+          },
+          {
+            "word": "update",
+            "start": 5.805,
+            "end": 6.085
+          },
+          {
+            "word": "with",
+            "start": 6.085,
+            "end": 6.325
+          },
+          {
+            "word": "the",
+            "start": 6.325,
+            "end": 6.445
+          },
+          {
+            "word": "market.",
+            "start": 6.445,
+            "end": 6.645
+          }
+        ],
+        "visualEnd": 7.03
+      },
+      {
+        "id": "lock",
+        "text": "Pick your products and lock in your price, any time, day or night.",
+        "audioStart": 7.25,
+        "audioEnd": 10.825,
+        "visualStart": 7.03,
+        "words": [
+          {
+            "word": "Pick",
+            "start": 7.25,
+            "end": 7.43
+          },
+          {
+            "word": "your",
+            "start": 7.43,
+            "end": 7.61
+          },
+          {
+            "word": "products",
+            "start": 7.61,
+            "end": 7.91
+          },
+          {
+            "word": "and",
+            "start": 7.91,
+            "end": 8.19
+          },
+          {
+            "word": "lock",
+            "start": 8.19,
+            "end": 8.39
+          },
+          {
+            "word": "in",
+            "start": 8.39,
+            "end": 8.55
+          },
+          {
+            "word": "your",
+            "start": 8.55,
+            "end": 8.69
+          },
+          {
+            "word": "price,",
+            "start": 8.69,
+            "end": 9.01
+          },
+          {
+            "word": "anytime,",
+            "start": 9.33,
+            "end": 9.61
+          },
+          {
+            "word": "day",
+            "start": 10.15,
+            "end": 10.31
+          },
+          {
+            "word": "or",
+            "start": 10.31,
+            "end": 10.47
+          },
+          {
+            "word": "night.",
+            "start": 10.47,
+            "end": 10.71
+          }
+        ],
+        "visualEnd": 11.025
+      },
+      {
+        "id": "ship",
+        "text": "Then ship them to us with the label we provide.",
+        "audioStart": 11.245,
+        "audioEnd": 13.46,
+        "visualStart": 11.025,
+        "words": [
+          {
+            "word": "Then",
+            "start": 11.245,
+            "end": 11.465
+          },
+          {
+            "word": "ship",
+            "start": 11.465,
+            "end": 11.725
+          },
+          {
+            "word": "them",
+            "start": 11.725,
+            "end": 11.925
+          },
+          {
+            "word": "to",
+            "start": 11.925,
+            "end": 12.085
+          },
+          {
+            "word": "us",
+            "start": 12.085,
+            "end": 12.245
+          },
+          {
+            "word": "with",
+            "start": 12.245,
+            "end": 12.385
+          },
+          {
+            "word": "the",
+            "start": 12.385,
+            "end": 12.525
+          },
+          {
+            "word": "label",
+            "start": 12.525,
+            "end": 12.765
+          },
+          {
+            "word": "we",
+            "start": 12.765,
+            "end": 12.985
+          },
+          {
+            "word": "provide.",
+            "start": 12.985,
+            "end": 13.305
+          }
+        ],
+        "visualEnd": 13.66
+      },
+      {
+        "id": "pay",
+        "text": "After inspection and approval, you're paid in one to three business days.",
+        "audioStart": 13.88,
+        "audioEnd": 18.095,
+        "visualStart": 13.66,
+        "words": [
+          {
+            "word": "After",
+            "start": 13.88,
+            "end": 14.14
+          },
+          {
+            "word": "inspection",
+            "start": 14.14,
+            "end": 14.66
+          },
+          {
+            "word": "and",
+            "start": 14.66,
+            "end": 14.94
+          },
+          {
+            "word": "approval,",
+            "start": 14.94,
+            "end": 15.28
+          },
+          {
+            "word": "you're",
+            "start": 15.8,
+            "end": 15.92
+          },
+          {
+            "word": "paid",
+            "start": 15.92,
+            "end": 16.1
+          },
+          {
+            "word": "in",
+            "start": 16.1,
+            "end": 16.34
+          },
+          {
+            "word": "one",
+            "start": 16.34,
+            "end": 16.66
+          },
+          {
+            "word": "to",
+            "start": 16.66,
+            "end": 16.88
+          },
+          {
+            "word": "three",
+            "start": 16.88,
+            "end": 17.18
+          },
+          {
+            "word": "business",
+            "start": 17.18,
+            "end": 17.5
+          },
+          {
+            "word": "days.",
+            "start": 17.5,
+            "end": 17.84
+          }
+        ],
+        "visualEnd": 18.295
+      },
+      {
+        "id": "cta",
+        "text": "Sell it to Bullion Trading.",
+        "audioStart": 18.515,
+        "audioEnd": 20.02,
+        "visualStart": 18.295,
+        "words": [
+          {
+            "word": "Sell",
+            "start": 18.515,
+            "end": 18.815
+          },
+          {
+            "word": "it",
+            "start": 18.815,
+            "end": 18.955
+          },
+          {
+            "word": "to",
+            "start": 18.955,
+            "end": 19.075
+          },
+          {
+            "word": "Bullion",
+            "start": 19.075,
+            "end": 19.455
+          },
+          {
+            "word": "Trading.",
+            "start": 19.455,
+            "end": 19.795
+          }
+        ],
+        "visualEnd": 22.42
+      }
+    ]
+  },
+  "real-or-fake": {
+    "id": "real-or-fake",
+    "title": "Real or fake?",
+    "fps": 60,
+    "durationInFrames": 1860,
+    "duration": 30.99,
+    "voice": "marketing/premium-2/audio/real-or-fake-voice.wav",
+    "score": "marketing/premium-2/audio/real-or-fake-score.wav",
+    "scenes": [
+      {
+        "id": "hook",
+        "text": "Real gold, or fake? Here are five checks the pros use.",
+        "audioStart": 0.45,
+        "audioEnd": 3.635,
+        "visualStart": 0,
+        "words": [
+          {
+            "word": "Real",
+            "start": 0.45,
+            "end": 0.75
+          },
+          {
+            "word": "gold,",
+            "start": 0.75,
+            "end": 1.03
+          },
+          {
+            "word": "or",
+            "start": 1.03,
+            "end": 1.29
+          },
+          {
+            "word": "fake?",
+            "start": 1.29,
+            "end": 1.59
+          },
+          {
+            "word": "Here",
+            "start": 2.05,
+            "end": 2.13
+          },
+          {
+            "word": "are",
+            "start": 2.13,
+            "end": 2.25
+          },
+          {
+            "word": "five",
+            "start": 2.25,
+            "end": 2.47
+          },
+          {
+            "word": "checks",
+            "start": 2.47,
+            "end": 2.77
+          },
+          {
+            "word": "the",
+            "start": 2.77,
+            "end": 2.95
+          },
+          {
+            "word": "pros",
+            "start": 2.95,
+            "end": 3.17
+          },
+          {
+            "word": "use.",
+            "start": 3.17,
+            "end": 3.51
+          }
+        ],
+        "visualEnd": 3.835
+      },
+      {
+        "id": "magnet",
+        "text": "Gold and silver aren't magnetic, so a magnet won't stick.",
+        "audioStart": 4.055,
+        "audioEnd": 7.7,
+        "visualStart": 3.835,
+        "words": [
+          {
+            "word": "Gold",
+            "start": 4.055,
+            "end": 4.315
+          },
+          {
+            "word": "and",
+            "start": 4.315,
+            "end": 4.555
+          },
+          {
+            "word": "silver",
+            "start": 4.555,
+            "end": 4.875
+          },
+          {
+            "word": "aren't",
+            "start": 4.875,
+            "end": 5.435
+          },
+          {
+            "word": "magnetic,",
+            "start": 5.435,
+            "end": 5.935
+          },
+          {
+            "word": "so",
+            "start": 6.275,
+            "end": 6.455
+          },
+          {
+            "word": "a",
+            "start": 6.455,
+            "end": 6.595
+          },
+          {
+            "word": "magnet",
+            "start": 6.595,
+            "end": 6.895
+          },
+          {
+            "word": "won't",
+            "start": 6.895,
+            "end": 7.335
+          },
+          {
+            "word": "stick.",
+            "start": 7.335,
+            "end": 7.575
+          }
+        ],
+        "visualEnd": 7.9
+      },
+      {
+        "id": "ice",
+        "text": "Silver carries heat so well that ice starts melting on it right away.",
+        "audioStart": 8.12,
+        "audioEnd": 12.105,
+        "visualStart": 7.9,
+        "words": [
+          {
+            "word": "Silver",
+            "start": 8.12,
+            "end": 8.5
+          },
+          {
+            "word": "carries",
+            "start": 8.5,
+            "end": 8.92
+          },
+          {
+            "word": "heat",
+            "start": 8.92,
+            "end": 9.18
+          },
+          {
+            "word": "so",
+            "start": 9.18,
+            "end": 9.58
+          },
+          {
+            "word": "well",
+            "start": 9.58,
+            "end": 9.84
+          },
+          {
+            "word": "that",
+            "start": 9.84,
+            "end": 10.1
+          },
+          {
+            "word": "ice",
+            "start": 10.1,
+            "end": 10.36
+          },
+          {
+            "word": "starts",
+            "start": 10.36,
+            "end": 10.66
+          },
+          {
+            "word": "melting",
+            "start": 10.66,
+            "end": 10.98
+          },
+          {
+            "word": "on",
+            "start": 10.98,
+            "end": 11.24
+          },
+          {
+            "word": "it",
+            "start": 11.24,
+            "end": 11.42
+          },
+          {
+            "word": "right",
+            "start": 11.42,
+            "end": 11.62
+          },
+          {
+            "word": "away.",
+            "start": 11.62,
+            "end": 11.9
+          }
+        ],
+        "visualEnd": 12.305
+      },
+      {
+        "id": "ping",
+        "text": "Tap a coin, and real metal rings for a second or two.",
+        "audioStart": 12.525,
+        "audioEnd": 15.55,
+        "visualStart": 12.305,
+        "words": [
+          {
+            "word": "Tap",
+            "start": 12.525,
+            "end": 12.745
+          },
+          {
+            "word": "a",
+            "start": 12.745,
+            "end": 12.905
+          },
+          {
+            "word": "coin,",
+            "start": 12.905,
+            "end": 13.145
+          },
+          {
+            "word": "and",
+            "start": 13.145,
+            "end": 13.545
+          },
+          {
+            "word": "real",
+            "start": 13.545,
+            "end": 13.825
+          },
+          {
+            "word": "metal",
+            "start": 13.825,
+            "end": 14.105
+          },
+          {
+            "word": "rings",
+            "start": 14.105,
+            "end": 14.445
+          },
+          {
+            "word": "for",
+            "start": 14.445,
+            "end": 14.705
+          },
+          {
+            "word": "a",
+            "start": 14.705,
+            "end": 14.845
+          },
+          {
+            "word": "second",
+            "start": 14.845,
+            "end": 15.005
+          },
+          {
+            "word": "or",
+            "start": 15.005,
+            "end": 15.185
+          },
+          {
+            "word": "two.",
+            "start": 15.185,
+            "end": 15.425
+          }
+        ],
+        "visualEnd": 15.75
+      },
+      {
+        "id": "specs",
+        "text": "Its weight and size should match the published specifications.",
+        "audioStart": 15.97,
+        "audioEnd": 19.305,
+        "visualStart": 15.75,
+        "words": [
+          {
+            "word": "Its",
+            "start": 15.97,
+            "end": 16.17
+          },
+          {
+            "word": "weight",
+            "start": 16.17,
+            "end": 16.39
+          },
+          {
+            "word": "and",
+            "start": 16.39,
+            "end": 16.57
+          },
+          {
+            "word": "size",
+            "start": 16.57,
+            "end": 16.95
+          },
+          {
+            "word": "should",
+            "start": 16.95,
+            "end": 17.19
+          },
+          {
+            "word": "match",
+            "start": 17.19,
+            "end": 17.45
+          },
+          {
+            "word": "the",
+            "start": 17.45,
+            "end": 17.71
+          },
+          {
+            "word": "published",
+            "start": 17.71,
+            "end": 18.13
+          },
+          {
+            "word": "specifications.",
+            "start": 18.13,
+            "end": 18.83
+          }
+        ],
+        "visualEnd": 19.505
+      },
+      {
+        "id": "serial",
+        "text": "And on a certified bar, the serial number should match the certificate.",
+        "audioStart": 19.725,
+        "audioEnd": 23.94,
+        "visualStart": 19.505,
+        "words": [
+          {
+            "word": "And",
+            "start": 19.725,
+            "end": 19.985
+          },
+          {
+            "word": "on",
+            "start": 19.985,
+            "end": 20.185
+          },
+          {
+            "word": "a",
+            "start": 20.185,
+            "end": 20.325
+          },
+          {
+            "word": "certified",
+            "start": 20.325,
+            "end": 20.725
+          },
+          {
+            "word": "bar,",
+            "start": 20.725,
+            "end": 21.165
+          },
+          {
+            "word": "the",
+            "start": 21.645,
+            "end": 21.725
+          },
+          {
+            "word": "serial",
+            "start": 21.725,
+            "end": 22.105
+          },
+          {
+            "word": "number",
+            "start": 22.105,
+            "end": 22.425
+          },
+          {
+            "word": "should",
+            "start": 22.425,
+            "end": 22.725
+          },
+          {
+            "word": "match",
+            "start": 22.725,
+            "end": 23.045
+          },
+          {
+            "word": "the",
+            "start": 23.045,
+            "end": 23.285
+          },
+          {
+            "word": "certificate.",
+            "start": 23.285,
+            "end": 23.685
+          }
+        ],
+        "visualEnd": 24.14
+      },
+      {
+        "id": "source",
+        "text": "Best of all, buy from a dealer you can trust.",
+        "audioStart": 24.36,
+        "audioEnd": 26.745,
+        "visualStart": 24.14,
+        "words": [
+          {
+            "word": "Best",
+            "start": 24.36,
+            "end": 24.6
+          },
+          {
+            "word": "of",
+            "start": 24.6,
+            "end": 24.74
+          },
+          {
+            "word": "all,",
+            "start": 24.74,
+            "end": 25.0
+          },
+          {
+            "word": "buy",
+            "start": 25.34,
+            "end": 25.4
+          },
+          {
+            "word": "from",
+            "start": 25.4,
+            "end": 25.58
+          },
+          {
+            "word": "a",
+            "start": 25.58,
+            "end": 25.72
+          },
+          {
+            "word": "dealer",
+            "start": 25.72,
+            "end": 25.9
+          },
+          {
+            "word": "you",
+            "start": 25.9,
+            "end": 26.16
+          },
+          {
+            "word": "can",
+            "start": 26.16,
+            "end": 26.32
+          },
+          {
+            "word": "trust.",
+            "start": 26.32,
+            "end": 26.6
+          }
+        ],
+        "visualEnd": 26.945
+      },
+      {
+        "id": "cta",
+        "text": "Buy from Bullion Trading.",
+        "audioStart": 27.165,
+        "audioEnd": 28.59,
+        "visualStart": 26.945,
+        "words": [
+          {
+            "word": "Buy",
+            "start": 27.165,
+            "end": 27.345
+          },
+          {
+            "word": "from",
+            "start": 27.345,
+            "end": 27.565
+          },
+          {
+            "word": "Bullion",
+            "start": 27.565,
+            "end": 28.005
+          },
+          {
+            "word": "Trading.",
+            "start": 28.005,
+            "end": 28.345
+          }
+        ],
+        "visualEnd": 30.99
+      }
+    ]
+  },
+  "spot-to-store": {
+    "id": "spot-to-store",
+    "title": "From spot to store",
+    "fps": 60,
+    "durationInFrames": 2138,
+    "duration": 35.62,
+    "voice": "marketing/premium-2/audio/spot-to-store-voice.wav",
+    "score": "marketing/premium-2/audio/spot-to-store-score.wav",
+    "scenes": [
+      {
+        "id": "hook",
+        "text": "What actually sets the price of a gold bar?",
+        "audioStart": 0.45,
+        "audioEnd": 3.145,
+        "visualStart": 0,
+        "words": [
+          {
+            "word": "What",
+            "start": 0.45,
+            "end": 0.67
+          },
+          {
+            "word": "actually",
+            "start": 0.67,
+            "end": 1.17
+          },
+          {
+            "word": "sets",
+            "start": 1.17,
+            "end": 1.53
+          },
+          {
+            "word": "the",
+            "start": 1.53,
+            "end": 1.77
+          },
+          {
+            "word": "price",
+            "start": 1.77,
+            "end": 1.99
+          },
+          {
+            "word": "of",
+            "start": 1.99,
+            "end": 2.17
+          },
+          {
+            "word": "a",
+            "start": 2.17,
+            "end": 2.31
+          },
+          {
+            "word": "gold",
+            "start": 2.31,
+            "end": 2.57
+          },
+          {
+            "word": "bar?",
+            "start": 2.57,
+            "end": 2.97
+          }
+        ],
+        "visualEnd": 3.345
+      },
+      {
+        "id": "spot",
+        "text": "It starts with spot: the live market price, traded nearly around the clock, from Sunday evening to Friday afternoon.",
+        "audioStart": 3.565,
+        "audioEnd": 10.59,
+        "visualStart": 3.345,
+        "words": [
+          {
+            "word": "It",
+            "start": 3.565,
+            "end": 3.725
+          },
+          {
+            "word": "starts",
+            "start": 3.725,
+            "end": 3.945
+          },
+          {
+            "word": "with",
+            "start": 3.945,
+            "end": 4.145
+          },
+          {
+            "word": "spot:",
+            "start": 4.145,
+            "end": 4.545
+          },
+          {
+            "word": "the",
+            "start": 5.045,
+            "end": 5.205
+          },
+          {
+            "word": "live",
+            "start": 5.205,
+            "end": 5.405
+          },
+          {
+            "word": "market",
+            "start": 5.405,
+            "end": 5.745
+          },
+          {
+            "word": "price,",
+            "start": 5.745,
+            "end": 6.125
+          },
+          {
+            "word": "traded",
+            "start": 6.545,
+            "end": 6.785
+          },
+          {
+            "word": "nearly",
+            "start": 6.785,
+            "end": 7.185
+          },
+          {
+            "word": "around",
+            "start": 7.185,
+            "end": 7.545
+          },
+          {
+            "word": "the",
+            "start": 7.545,
+            "end": 7.685
+          },
+          {
+            "word": "clock,",
+            "start": 7.685,
+            "end": 7.985
+          },
+          {
+            "word": "from",
+            "start": 7.985,
+            "end": 8.425
+          },
+          {
+            "word": "Sunday",
+            "start": 8.425,
+            "end": 8.825
+          },
+          {
+            "word": "evening",
+            "start": 8.825,
+            "end": 9.145
+          },
+          {
+            "word": "to",
+            "start": 9.145,
+            "end": 9.425
+          },
+          {
+            "word": "Friday",
+            "start": 9.425,
+            "end": 9.785
+          },
+          {
+            "word": "afternoon.",
+            "start": 9.785,
+            "end": 10.365
+          }
+        ],
+        "visualEnd": 10.79
+      },
+      {
+        "id": "premium",
+        "text": "Then a premium covers what it takes to make it and move it: refining, minting, insurance, and shipping.",
+        "audioStart": 11.01,
+        "audioEnd": 19.225,
+        "visualStart": 10.79,
+        "words": [
+          {
+            "word": "Then",
+            "start": 11.01,
+            "end": 11.21
+          },
+          {
+            "word": "a",
+            "start": 11.21,
+            "end": 11.35
+          },
+          {
+            "word": "premium",
+            "start": 11.35,
+            "end": 11.63
+          },
+          {
+            "word": "covers",
+            "start": 11.63,
+            "end": 12.09
+          },
+          {
+            "word": "what",
+            "start": 12.09,
+            "end": 12.37
+          },
+          {
+            "word": "it",
+            "start": 12.37,
+            "end": 12.53
+          },
+          {
+            "word": "takes",
+            "start": 12.53,
+            "end": 12.75
+          },
+          {
+            "word": "to",
+            "start": 12.75,
+            "end": 12.99
+          },
+          {
+            "word": "make",
+            "start": 12.99,
+            "end": 13.25
+          },
+          {
+            "word": "it",
+            "start": 13.25,
+            "end": 13.49
+          },
+          {
+            "word": "and",
+            "start": 13.49,
+            "end": 13.67
+          },
+          {
+            "word": "move",
+            "start": 13.67,
+            "end": 13.93
+          },
+          {
+            "word": "it:",
+            "start": 13.93,
+            "end": 14.39
+          },
+          {
+            "word": "refining,",
+            "start": 14.83,
+            "end": 15.35
+          },
+          {
+            "word": "minting,",
+            "start": 15.83,
+            "end": 16.53
+          },
+          {
+            "word": "insurance,",
+            "start": 17.05,
+            "end": 17.45
+          },
+          {
+            "word": "and",
+            "start": 18.43,
+            "end": 18.57
+          },
+          {
+            "word": "shipping.",
+            "start": 18.57,
+            "end": 18.85
+          }
+        ],
+        "visualEnd": 19.425
+      },
+      {
+        "id": "store",
+        "text": "Our prices are built from live quotes plus a transparent premium, and reprice within minutes when spot moves.",
+        "audioStart": 19.645,
+        "audioEnd": 26.9,
+        "visualStart": 19.425,
+        "words": [
+          {
+            "word": "Our",
+            "start": 19.645,
+            "end": 19.845
+          },
+          {
+            "word": "prices",
+            "start": 19.845,
+            "end": 20.145
+          },
+          {
+            "word": "are",
+            "start": 20.145,
+            "end": 20.525
+          },
+          {
+            "word": "built",
+            "start": 20.525,
+            "end": 20.725
+          },
+          {
+            "word": "from",
+            "start": 20.725,
+            "end": 21.085
+          },
+          {
+            "word": "live",
+            "start": 21.085,
+            "end": 21.425
+          },
+          {
+            "word": "quotes",
+            "start": 21.425,
+            "end": 21.905
+          },
+          {
+            "word": "plus",
+            "start": 21.905,
+            "end": 22.285
+          },
+          {
+            "word": "a",
+            "start": 22.285,
+            "end": 22.585
+          },
+          {
+            "word": "transparent",
+            "start": 22.585,
+            "end": 23.205
+          },
+          {
+            "word": "premium,",
+            "start": 23.205,
+            "end": 23.765
+          },
+          {
+            "word": "and",
+            "start": 23.765,
+            "end": 24.345
+          },
+          {
+            "word": "reprice",
+            "start": 24.345,
+            "end": 24.825
+          },
+          {
+            "word": "within",
+            "start": 24.825,
+            "end": 25.185
+          },
+          {
+            "word": "minutes",
+            "start": 25.185,
+            "end": 25.545
+          },
+          {
+            "word": "when",
+            "start": 25.545,
+            "end": 25.885
+          },
+          {
+            "word": "spot",
+            "start": 25.885,
+            "end": 26.265
+          },
+          {
+            "word": "moves.",
+            "start": 26.265,
+            "end": 26.585
+          }
+        ],
+        "visualEnd": 27.1
+      },
+      {
+        "id": "charts",
+        "text": "Follow gold, silver, platinum, and palladium on our live charts.",
+        "audioStart": 27.32,
+        "audioEnd": 31.065,
+        "visualStart": 27.1,
+        "words": [
+          {
+            "word": "Follow",
+            "start": 27.32,
+            "end": 27.64
+          },
+          {
+            "word": "gold,",
+            "start": 27.64,
+            "end": 27.98
+          },
+          {
+            "word": "silver,",
+            "start": 28.2,
+            "end": 28.36
+          },
+          {
+            "word": "platinum,",
+            "start": 28.7,
+            "end": 28.9
+          },
+          {
+            "word": "and",
+            "start": 29.12,
+            "end": 29.22
+          },
+          {
+            "word": "palladium",
+            "start": 29.22,
+            "end": 29.64
+          },
+          {
+            "word": "on",
+            "start": 29.64,
+            "end": 29.96
+          },
+          {
+            "word": "our",
+            "start": 29.96,
+            "end": 30.2
+          },
+          {
+            "word": "live",
+            "start": 30.2,
+            "end": 30.46
+          },
+          {
+            "word": "charts.",
+            "start": 30.46,
+            "end": 30.82
+          }
+        ],
+        "visualEnd": 31.265
+      },
+      {
+        "id": "cta",
+        "text": "Buy from Bullion Trading.",
+        "audioStart": 31.485,
+        "audioEnd": 33.22,
+        "visualStart": 31.265,
+        "words": [
+          {
+            "word": "Buy",
+            "start": 31.485,
+            "end": 31.725
+          },
+          {
+            "word": "from",
+            "start": 31.725,
+            "end": 31.965
+          },
+          {
+            "word": "Bullion",
+            "start": 31.965,
+            "end": 32.485
+          },
+          {
+            "word": "Trading.",
+            "start": 32.485,
+            "end": 32.865
+          }
+        ],
+        "visualEnd": 35.62
+      }
+    ]
+  },
+  "bullion-tax": {
+    "id": "bullion-tax",
+    "title": "Bullion tax, state by state",
+    "fps": 60,
+    "durationInFrames": 1605,
+    "duration": 26.735,
+    "voice": "marketing/premium-2/audio/bullion-tax-voice.wav",
+    "score": "marketing/premium-2/audio/bullion-tax-score.wav",
+    "scenes": [
+      {
+        "id": "hook",
+        "text": "Will you pay sales tax on gold and silver? That depends on your state.",
+        "audioStart": 0.45,
+        "audioEnd": 4.835,
+        "visualStart": 0,
+        "words": [
+          {
+            "word": "Will",
+            "start": 0.45,
+            "end": 0.67
+          },
+          {
+            "word": "you",
+            "start": 0.67,
+            "end": 0.81
+          },
+          {
+            "word": "pay",
+            "start": 0.81,
+            "end": 1.01
+          },
+          {
+            "word": "sales",
+            "start": 1.01,
+            "end": 1.37
+          },
+          {
+            "word": "tax",
+            "start": 1.37,
+            "end": 1.63
+          },
+          {
+            "word": "on",
+            "start": 1.63,
+            "end": 1.97
+          },
+          {
+            "word": "gold",
+            "start": 1.97,
+            "end": 2.21
+          },
+          {
+            "word": "and",
+            "start": 2.21,
+            "end": 2.45
+          },
+          {
+            "word": "silver?",
+            "start": 2.45,
+            "end": 2.79
+          },
+          {
+            "word": "That",
+            "start": 3.39,
+            "end": 3.51
+          },
+          {
+            "word": "depends",
+            "start": 3.51,
+            "end": 3.89
+          },
+          {
+            "word": "on",
+            "start": 3.89,
+            "end": 4.21
+          },
+          {
+            "word": "your",
+            "start": 4.21,
+            "end": 4.41
+          },
+          {
+            "word": "state.",
+            "start": 4.41,
+            "end": 4.73
+          }
+        ],
+        "visualEnd": 5.035
+      },
+      {
+        "id": "basics",
+        "text": "Investment bullion is tax-free in most states. Collector coins are usually taxed, and jewelry always is.",
+        "audioStart": 5.255,
+        "audioEnd": 12.34,
+        "visualStart": 5.035,
+        "words": [
+          {
+            "word": "Investment",
+            "start": 5.255,
+            "end": 5.775
+          },
+          {
+            "word": "bullion",
+            "start": 5.775,
+            "end": 6.255
+          },
+          {
+            "word": "is",
+            "start": 6.255,
+            "end": 6.415
+          },
+          {
+            "word": "tax-free",
+            "start": 6.415,
+            "end": 6.975
+          },
+          {
+            "word": "in",
+            "start": 6.975,
+            "end": 7.155
+          },
+          {
+            "word": "most",
+            "start": 7.155,
+            "end": 7.355
+          },
+          {
+            "word": "states.",
+            "start": 7.355,
+            "end": 7.795
+          },
+          {
+            "word": "Collector",
+            "start": 8.555,
+            "end": 8.675
+          },
+          {
+            "word": "coins",
+            "start": 8.675,
+            "end": 9.055
+          },
+          {
+            "word": "are",
+            "start": 9.055,
+            "end": 9.315
+          },
+          {
+            "word": "usually",
+            "start": 9.315,
+            "end": 9.715
+          },
+          {
+            "word": "taxed,",
+            "start": 9.715,
+            "end": 10.215
+          },
+          {
+            "word": "and",
+            "start": 10.715,
+            "end": 10.855
+          },
+          {
+            "word": "jewelry",
+            "start": 10.855,
+            "end": 11.215
+          },
+          {
+            "word": "always",
+            "start": 11.215,
+            "end": 11.835
+          },
+          {
+            "word": "is.",
+            "start": 11.835,
+            "end": 12.235
+          }
+        ],
+        "visualEnd": 12.54
+      },
+      {
+        "id": "minimum",
+        "text": "Some states set a minimum. In New York, qualifying orders of a thousand dollars or more are tax-free.",
+        "audioStart": 12.76,
+        "audioEnd": 19.305,
+        "visualStart": 12.54,
+        "words": [
+          {
+            "word": "Some",
+            "start": 12.76,
+            "end": 13.02
+          },
+          {
+            "word": "states",
+            "start": 13.02,
+            "end": 13.32
+          },
+          {
+            "word": "set",
+            "start": 13.32,
+            "end": 13.68
+          },
+          {
+            "word": "a",
+            "start": 13.68,
+            "end": 13.82
+          },
+          {
+            "word": "minimum.",
+            "start": 13.82,
+            "end": 14.08
+          },
+          {
+            "word": "In",
+            "start": 14.74,
+            "end": 14.82
+          },
+          {
+            "word": "New",
+            "start": 14.82,
+            "end": 14.96
+          },
+          {
+            "word": "York,",
+            "start": 14.96,
+            "end": 15.28
+          },
+          {
+            "word": "qualifying",
+            "start": 15.86,
+            "end": 16.18
+          },
+          {
+            "word": "orders",
+            "start": 16.18,
+            "end": 16.52
+          },
+          {
+            "word": "of",
+            "start": 16.52,
+            "end": 16.84
+          },
+          {
+            "word": "$1,000",
+            "start": 16.84,
+            "end": 17.44
+          },
+          {
+            "word": "or",
+            "start": 17.44,
+            "end": 17.88
+          },
+          {
+            "word": "more",
+            "start": 17.88,
+            "end": 18.18
+          },
+          {
+            "word": "are",
+            "start": 18.18,
+            "end": 18.52
+          },
+          {
+            "word": "tax-free.",
+            "start": 18.52,
+            "end": 19.16
+          }
+        ],
+        "visualEnd": 19.505
+      },
+      {
+        "id": "guide",
+        "text": "Find your state in our plain-English bullion tax guide.",
+        "audioStart": 19.725,
+        "audioEnd": 22.5,
+        "visualStart": 19.505,
+        "words": [
+          {
+            "word": "Find",
+            "start": 19.725,
+            "end": 19.965
+          },
+          {
+            "word": "your",
+            "start": 19.965,
+            "end": 20.105
+          },
+          {
+            "word": "state",
+            "start": 20.105,
+            "end": 20.365
+          },
+          {
+            "word": "in",
+            "start": 20.365,
+            "end": 20.545
+          },
+          {
+            "word": "our",
+            "start": 20.545,
+            "end": 20.685
+          },
+          {
+            "word": "plain",
+            "start": 20.685,
+            "end": 20.945
+          },
+          {
+            "word": "English",
+            "start": 20.945,
+            "end": 21.245
+          },
+          {
+            "word": "bullion",
+            "start": 21.245,
+            "end": 21.745
+          },
+          {
+            "word": "tax",
+            "start": 21.745,
+            "end": 22.025
+          },
+          {
+            "word": "guide.",
+            "start": 22.025,
+            "end": 22.385
+          }
+        ],
+        "visualEnd": 22.7
+      },
+      {
+        "id": "cta",
+        "text": "Buy from Bullion Trading.",
+        "audioStart": 22.92,
+        "audioEnd": 24.335,
+        "visualStart": 22.7,
+        "words": [
+          {
+            "word": "Buy",
+            "start": 22.92,
+            "end": 23.16
+          },
+          {
+            "word": "from",
+            "start": 23.16,
+            "end": 23.38
+          },
+          {
+            "word": "Bullion",
+            "start": 23.38,
+            "end": 23.76
+          },
+          {
+            "word": "Trading.",
+            "start": 23.76,
+            "end": 24.06
+          }
+        ],
+        "visualEnd": 26.735
+      }
+    ]
+  }
+}

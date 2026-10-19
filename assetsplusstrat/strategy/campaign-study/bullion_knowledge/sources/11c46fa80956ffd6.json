@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "id": "11c46fa80956ffd6",
+    "url": "https://learn.bulliontradingllc.com/quiz/gold-safe-haven-strategy-quiz/",
+    "title": "Gold as a Safe Haven Investment Strategy Quiz | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:40.919362+00:00",
+    "status": "fetched",
+    "bytes": 30009,
+    "text_characters": 377,
+    "sha256_html": "a21bb595650e6ebf208aeb712386aaa1bec1d9900ae6a4ccdcb45f1a6a7d85f1",
+    "file": "sources/11c46fa80956ffd6.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of gold's safe haven properties and crisis protection strategies.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/gold-safe-haven-strategy-quiz/",
+  "text": "Gold as a Safe Haven Investment Strategy Quiz\nTest your knowledge of gold's safe haven properties and crisis protection strategies.\nWhat makes gold unique as a safe haven asset?\nA\nIt pays high dividends\nB\nNo counterparty risk - it doesn't depend on anyone's promise to pay\nC\nIt's backed by government guarantees\nD\nIt has unlimited supply\n←\nBack to Gold as a Safe Haven Strategy",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Investment Strategies",
+              "item": "https://learn.bulliontradingllc.com/guides/investment-strategies/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Gold as a Safe Haven Strategy",
+              "item": "https://learn.bulliontradingllc.com/guides/investment-strategies/01-gold-safe-haven-strategy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Gold as a Safe Haven Investment Strategy Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Gold as a Safe Haven Investment Strategy Quiz",
+          "description": "Test your knowledge of gold's safe haven properties and crisis protection strategies.",
+          "url": "https://learn.bulliontradingllc.com/quiz/gold-safe-haven-strategy-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Gold as a Safe Haven Strategy"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What makes gold unique as a safe haven asset?",
+              "text": "What makes gold unique as a safe haven asset?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No counterparty risk - it doesn't depend on anyone's promise to pay",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold is unique because it has no counterparty risk - unlike bonds or bank deposits, it doesn't depend on anyone's promise to pay and simply exists, retaining value independent of any institution's solvency."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "It pays high dividends"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "It's backed by government guarantees"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "It has unlimited supply"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "During the 2008 financial crisis, how did gold perform while stocks fell 57%?",
+              "text": "During the 2008 financial crisis, how did gold perform while stocks fell 57%?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gold rose from around $800 to over $1,900 (137% gain)",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "During the 2008 financial crisis, while the S&P 500 fell 57%, gold rose from around $800 to over $1,900 in the following years, representing a 137% gain and demonstrating its safe haven properties."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Gold fell by the same amount"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold remained completely flat"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold fell by 30%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What was gold's extraordinary performance during the 1970s stagflation period?",
+              "text": "What was gold's extraordinary performance during the 1970s stagflation period?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gold rose 2,200% from $35 to $800 per ounce",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "During the 1970s stagflation period, gold rose an extraordinary 2,200% from $35 to $800 per ounce, demonstrating its ability to protect wealth during periods of high inflation and economic stagnation."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Gold rose 500%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold rose 1,000%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold fell during this period"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the recommended core safe haven allocation for conservative investors?",
+              "text": "What is the recommended core safe haven allocation for conservative investors?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "10-15%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Conservative investors with low risk tolerance are recommended to maintain a 10-15% precious metals allocation for capital preservation and stability during market downturns."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "5-10%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "20-25%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "30-40%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "During the COVID-19 pandemic, what happened to gold prices?",
+              "text": "During the COVID-19 pandemic, what happened to gold prices?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gold reached new all-time highs above $2,000 per ounce",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "During the COVID-19 pandemic, while stocks crashed 35% in weeks, gold reached new all-time highs above $2,000 per ounce, with continued strength through 2024 reaching over $3,300."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Gold crashed with everything else"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold remained completely stable"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold became worthless"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What are early warning indicators that suggest increasing safe haven allocation?",
+              "text": "What are early warning indicators that suggest increasing safe haven allocation?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yield curve inversion and credit market stress",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Early warning indicators include yield curve inversion (which often precedes recessions), credit market stress with rising corporate bond spreads, and central bank policy shifts."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Rising stock prices"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Low unemployment"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Stable currency markets"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Why is physical gold preferred over paper gold for true safe haven protection?",
+              "text": "Why is physical gold preferred over paper gold for true safe haven protection?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No counterparty risk and available even if financial systems fail",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Physical gold is preferred for safe haven protection because it has no counterparty risk and remains accessible even if financial systems fail, unlike ETFs or certificates that depend on financial institutions."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Physical gold pays higher returns"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Physical gold is easier to trade"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Physical gold has lower costs"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Central banks have been significant gold buyers, purchasing over 1,000 tonnes per year since 2010.",
+              "text": "True or False: Central banks have been significant gold buyers, purchasing over 1,000 tonnes per year since 2010.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "True. Central banks worldwide have become significant gold buyers, purchasing over 1,000 tonnes per year since 2010 as they diversify reserves and prepare for potential financial system stress."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is a common mistake in safe haven strategy implementation?",
+              "text": "What is a common mistake in safe haven strategy implementation?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Waiting for crisis to buy safe haven assets",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "A common mistake is waiting for crisis to buy safe haven assets. Safe haven assets should be purchased before you need them, during calm periods, not during the crisis itself when prices may be elevated."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Buying too much gold"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Using physical gold instead of ETFs"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Rebalancing too frequently"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

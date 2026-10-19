@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "id": "d8861a15d3635fba",
+    "url": "https://learn.bulliontradingllc.com/coin-values/1955-doubled-die-penny/",
+    "title": "1955 Doubled Die Penny Value — Rarity, Mintage & Key Dates",
+    "retrieved_at": "2026-10-12T22:13:24.424247+00:00",
+    "status": "fetched",
+    "bytes": 13487,
+    "text_characters": 766,
+    "sha256_html": "e9e93028529fbe2573f76386e1fb334ee385f88a5ca1694398fa844c1b3d3332",
+    "file": "sources/d8861a15d3635fba.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The 1955 Doubled Die Obverse is one of the most celebrated error coins in US numismatics. Strong doubling is visible to the naked eye on the date and lette…",
+  "canonical": "https://learn.bulliontradingllc.com/coin-values/1955-doubled-die-penny/",
+  "text": "Famous error\n1955 Doubled Die Penny Value\nThe 1955 Doubled Die Obverse is one of the most celebrated error coins in US numismatics. Strong doubling is visible to the naked eye on the date and lettering (“LIBERTY”, “IN GOD WE TRUST”).\nKey facts\nCause: a misaligned hub created dramatic doubling on the obverse during die production.\nVisible without magnification — bold doubling of the date and inscriptions.\nA genuine 1955 DDO is valuable in every grade; many fakes and lesser “machine doubling” coins are mistaken for it.\nThinking of selling?\nWe buy coins and bullion in person at our NYC Diamond District counter.\nGet a free quote →\nSee the full\npennies value guide\n, or\nShop gold & silver bullion →\nMore:\nall coin values\n·\nsilver price history\n·\ngold/silver ratio",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Coin Values",
+              "item": "https://learn.bulliontradingllc.com/coin-values/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Pennies",
+              "item": "https://learn.bulliontradingllc.com/coin-values/pennies/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1955 Doubled Die Penny"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "1955 Doubled Die Penny Value",
+          "description": "The 1955 Doubled Die Obverse is one of the most celebrated error coins in US numismatics. Strong doubling is visible to the naked eye on the date and lette…",
+          "url": "https://learn.bulliontradingllc.com/coin-values/1955-doubled-die-penny/",
+          "creator": {
+            "@type": "Organization",
+            "name": "United States Mint"
+          },
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

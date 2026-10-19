@@ -1,0 +1,20 @@
+Shop Online. Plan Your Pickup.
+
+Audience: Adults within practical travel distance of Manhattan who want to purchase bullion and arrange collection.
+Market: NYC local
+Objective: Purchases of physical gold and silver bullion
+
+Approach
+Remove uncertainty between browsing and collecting. Lead with online product choice plus arranged Manhattan pickup, and show the payment eligibility condition in the ad copy. Product category remains the primary destination; contact and location pages support collection planning.
+
+Hypothesis (not a result)
+Convenience may move ready local buyers toward purchase, but payment and clearance requirements can reduce appeal; test that friction explicitly.
+
+Transcript inspiration
+faq-pickup, new-york
+
+Execution
+Google Search: separate ad groups by destination and intent. Meta: the same concept, primary text and product image. Purchases are the primary conversion; product views and carts are diagnostic. Validate purchase tracking before any live test.
+
+Product and copy limits
+Do not promise same-day availability or pickup. Card/PayPal in-store pickup is disallowed in current terms. Contact the business for acceptable payment, clearance, inventory and collection arrangements.

@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "id": "ae629987070becb9",
+    "url": "https://bulliontradingllc.com/charts/palladium-price/",
+    "title": "Palladium Price Today — Live Spot Price Chart | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:29.799045+00:00",
+    "status": "fetched",
+    "bytes": 98643,
+    "text_characters": 2630,
+    "sha256_html": "91ad2d42678564261d17aedf9122aef20013894754a394f77b3ebabaa16aec17",
+    "file": "sources/ae629987070becb9.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Live palladium price per ounce, gram and kilo, updated every minute. Interactive chart with official LBMA history to 1990 and a palladium value calculator.",
+  "canonical": "https://bulliontradingllc.com/charts/palladium-price/",
+  "text": "The palladium spot price is the market rate for one troy ounce of .9995 fine palladium. Most palladium goes into gasoline-engine catalytic converters, with supply dominated by Russia and South Africa — a combination that has produced some of the sharpest price swings of any traded metal.\n—\nper troy ounce\n—\nBid\n—\nAsk\n—\nLast updated:\n—\nET\n24h High\n—\n24h Low\n—\nDay Change\n—\n52-Week High\n—\n52-Week Low\n—\n1D\n1W\n1M\n1Y\n5Y\nALL\n⬇ Save chart\nIntraday: BullionTradingLLC.com live feed · History: LBMA auction prices · Charts by\nTradingView\n· Chart images free to share with attribution\nPalladium Price Converter\nCurrency\nUSD ($)\nEUR (€)\nGBP (£)\nJPY (¥)\nCHF (Fr)\nAUD (A$)\nCAD (C$)\nWeight\nTroy ounce\nGram\nKilogram\nPound\nTola\n—\nPalladium Price per Ounce, Gram & Kilo\nUnit\nPalladium Price\n(USD)\nDay Change\nTroy ounce\n—\n—\nGram\n—\n—\nKilogram\n—\n—\nWhy Watch Palladium?\nPalladium multiplied several times over between 2016 and 2022 and has swung hard since — a trader's metal more than a buy-and-forget holding, and a fascinating gauge of the auto industry.\nPalladium vs. Platinum\nThe two metals substitute for each other in catalytic converters. When one gets expensive, automakers slowly re-engineer toward the other, which is why their prices cross over on multi-year cycles.\nSupply Risk\nRussia and South Africa produce most of the world's palladium. Sanctions, export controls, or mine outages in either country move the price immediately.\nPalladium Price FAQ\nWhat is the spot price of palladium?\nThe spot price is the current market rate for one troy ounce of .9995 fine palladium for immediate settlement, set by global interbank trading.\nWhy is palladium so volatile?\nA small market with concentrated supply and inelastic industrial demand: when converters need palladium, buyers pay whatever it takes — and when demand softens, there are few other buyers.\nCan I buy physical palladium?\nYes — Canadian Palladium Maple Leafs and .9995 fine bars are the standard forms. Premiums and spreads are wider than gold or silver because the market is thinner.\nWhat happened to the palladium price in recent years?\nA decade of deficits drove record highs, then EV adoption and substitution by platinum cooled demand. The full ride is on the historical chart above, back to 1990.\nDoes palladium follow gold?\nOnly loosely. Palladium trades on the auto cycle and supply news far more than on the monetary drivers that move gold.\nWhat purity is palladium bullion?\nInvestment-grade palladium is at least .9995 fine.\nPrices are indicative market rates for informational purposes and are not an offer to buy or sell. Product prices include a premium over spot.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/charts/palladium-price/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/charts/",
+                "name": "Live Gold &amp; Silver Prices — All Metals Dashboard | Bullion Trading LLC"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/charts/palladium-price/",
+                "name": "Palladium Price Today — Live Spot Price Chart | Bullion Trading LLC"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/charts/palladium-price/#webpage",
+          "url": "https://bulliontradingllc.com/charts/palladium-price/",
+          "name": "Palladium Price Today — Live Spot Price Chart | Bullion Trading LLC",
+          "datePublished": "2025-03-11T05:32:26+00:00",
+          "dateModified": "2026-10-12T22:11:19+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/charts/palladium-price/#breadcrumb"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the spot price of palladium?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The spot price is the current market rate for one troy ounce of .9995 fine palladium for immediate settlement, set by global interbank trading."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why is palladium so volatile?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A small market with concentrated supply and inelastic industrial demand: when converters need palladium, buyers pay whatever it takes — and when demand softens, there are few other buyers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I buy physical palladium?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — Canadian Palladium Maple Leafs and .9995 fine bars are the standard forms. Premiums and spreads are wider than gold or silver because the market is thinner."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happened to the palladium price in recent years?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A decade of deficits drove record highs, then EV adoption and substitution by platinum cooled demand. The full ride is on the historical chart above, back to 1990."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does palladium follow gold?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Only loosely. Palladium trades on the auto cycle and supply news far more than on the monetary drivers that move gold."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What purity is palladium bullion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Investment-grade palladium is at least .9995 fine."
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/",
+    "https://www.tradingview.com/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    }
+  ]
+}

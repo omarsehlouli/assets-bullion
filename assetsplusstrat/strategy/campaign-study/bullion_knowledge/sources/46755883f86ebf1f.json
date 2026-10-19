@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "46755883f86ebf1f",
+    "url": "https://bulliontradingllc.com/blog/silver-looks-way-better-than-gold-right-now/",
+    "title": "Silver Looks Way Better Than Gold Right Now - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:06.915830+00:00",
+    "status": "fetched",
+    "bytes": 96057,
+    "text_characters": 3168,
+    "sha256_html": "4f0d3606749ac2891b4177f7b858b74a7b51c3e967567f4cb9f8e80a248215eb",
+    "file": "sources/46755883f86ebf1f.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Now inspect out silver. Where gold futures speculators long positions are three times their short bets, silver spculators are in fact more short than long.",
+  "canonical": "https://bulliontradingllc.com/blog/silver-looks-way-better-than-gold-right-now/",
+  "text": "Now inspect out silver. Where gold futures speculators long positions are three times their short bets, silver spculators are in fact more short than long.\nRecently – perhaps in an indication of how confused the world is ending up being – gold and silver traders have actually diverged. Now inspect out silver. Where gold futures speculators long positions are three times their brief bets, silver spculators are actually more short than long. One possible description is that silver has gotten too low-cost relative to gold and requires to be revalued.\nBased on this (admittedly brief) little current history, a fascinating trade might be to short gold and go long silver on the presumption that silver bullion will surpass gold bullion moving forward. Or just stack more silver than usual for a while.\nWith the worlds mines producing only about 10 times as much silver as gold while silver stockpiles are overshadowed by those of gold due to the fact that so much silver is utilized and then lost in industrial applications, this may be a trade that works for years instead of months.\nWe discovered this good short article at https://seekingalpha.com/article/4153048-silver-looks-way-better-gold-right-now By: John Rubino and thought it would useful to our Silver investors subscribers.\nRevealed graphically, commercials and speculators are meeting the middle at no, something thats both extremely rare and really favorable.\nViewed as a chart with the gray bars representing speculators and red bars the commercials, and where divergence is bearish and convergence bullish, the result is pretty unsightly.\nHere is a post about Silver routes Gold right now. If you wished to see the initial post check out the link listed below this post.\nNormally, the action in the gold and silver futures markets tends to be pretty similar, given that the same basic forces impact both rare-earth elements. When inflation or some other source of stress and anxiety is ascendant, both metals increase, and vice versa.\nRecently – maybe in a sign of how confused the world is ending up being – gold and silver traders have actually diverged. Taking gold first, the speculators – who tend to be wrong at significant inflection points – remain extremely bullish.\nWhat does this indicate? One possible explanation is that silver has gotten too cheap relative to gold and requires to be revalued. That might occur in a number of methods, with both metals rising but silver increasing more, or both falling but silver falling less. Or with gold dropping while silver increases, as unlikely as that appears.\nAs the chart listed below shows, gold has recently been increasing relative to silver (or silver has actually been falling relative to gold), with the gold/silver ratio now close to 80, implying that it takes 80 ounces of silver to purchase one ounce of gold. Its existed 2 other times in the previous years and both times gold consequently increased while silver increased a lot more.\nbulliontrading\nView all posts\nPrevious Post\nCompany To Link Gold Trade Payment Methods With Cryptocurrency Techniques\nNext Post\nHere’s the ideal amount of gold to keep in your investment portfolio",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/03/saupload_Gold-silver-ratio-March-18-jpg-webp.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2018/03/saupload_Gold-silver-ratio-March-18-jpg-webp.webp",
+          "width": "600",
+          "height": "415",
+          "caption": "saupload_Gold-silver-ratio-March-18",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/silver-looks-way-better-than-gold-right-now/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/silver/",
+                "name": "silver"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/silver-looks-way-better-than-gold-right-now/",
+                "name": "Silver Looks Way Better Than Gold Right Now"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/silver-looks-way-better-than-gold-right-now/#webpage",
+          "url": "https://bulliontradingllc.com/blog/silver-looks-way-better-than-gold-right-now/",
+          "name": "Silver Looks Way Better Than Gold Right Now - Bullion Trading LLC",
+          "datePublished": "2018-03-07T10:55:01+00:00",
+          "dateModified": "2018-03-07T10:55:01+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/03/saupload_Gold-silver-ratio-March-18-jpg-webp.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/silver-looks-way-better-than-gold-right-now/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Silver Looks Way Better Than Gold Right Now - Bullion Trading LLC",
+          "datePublished": "2018-03-07T10:55:01+00:00",
+          "dateModified": "2018-03-07T10:55:01+00:00",
+          "articleSection": "silver",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Now inspect out silver. Where gold futures speculators long positions are three times their short bets, silver spculators are in fact more short than long.",
+          "name": "Silver Looks Way Better Than Gold Right Now - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/silver-looks-way-better-than-gold-right-now/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/silver-looks-way-better-than-gold-right-now/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/03/saupload_Gold-silver-ratio-March-18-jpg-webp.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/silver-looks-way-better-than-gold-right-now/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/company-to-link-gold-trade-payment-methods-with-cryptocurrency-techniques/",
+    "https://bulliontradingllc.com/blog/heres-the-ideal-amount-of-gold-to-keep-in-your-investment-portfolio/",
+    "https://bulliontradingllc.com/blog/silver-looks-way-better-than-gold-right-now/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2018/03/saupload_Gold-silver-ratio-March-18-jpg-webp.webp",
+      "alt": "saupload_Gold-silver-ratio-March-18"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "f8b7b7e947cbf76c",
+    "url": "https://learn.bulliontradingllc.com/charts/gold-all-time-high/",
+    "title": "Gold Record High in Monthly LBMA Observations | BTLLC",
+    "retrieved_at": "2026-10-12T22:12:53.213188+00:00",
+    "status": "fetched",
+    "bytes": 36963,
+    "text_characters": 2203,
+    "sha256_html": "c3dd80d8d0466d4fdbbfe78d07157b20e3c45eee82264a91ea7899d4366a3ec0",
+    "file": "sources/f8b7b7e947cbf76c.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Highest monthly gold observation: $5,222 (2026-02-27). Latest sampled fixing: $4,261 as of 2026-09-25. Not an intraday record.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/gold-all-time-high/",
+  "text": "Gold Record High in Monthly Observations\nThe highest monthly observation in this dataset is\n$5,222\n(2026-02-27). The latest sampled fixing is\n$4,261\nas of 2026-09-25: 18.4% below it.\nThese are nominal prices, sampled once per month. Daily and intraday peaks can be higher. Use the\ninflation-adjusted gold chart\nfor a comparison in constant dollars.\nGold\nSilver\nPlatinum\nPalladium\nUSD\nGBP\nEUR\nAll (1968→)\n30Y\n20Y\n10Y\n5Y\nLatest (2026-09-25)\n$4,261\nHighest monthly sample\n$5,222\nFeb 2026\nSample high\n$5,222\nFeb 2026\nSample low\n$34.99\nJan 1970\nSource: LBMA fixing (PM where applicable), per troy ounce. Last available fixing per month; latest month may be incomplete. EUR begins 1999. See the methodology for sampling limits.\nHighest monthly observation by year\nYear\nHighest monthly sample (USD)\nMonth\n2026\n$5,222\nFebruary\n2025\n$4,368\nDecember\n2024\n$2,734\nOctober\n2023\n$2,078\nDecember\n2022\n$1,942\nMarch\n2021\n$1,900\nMay\n2020\n$1,965\nJuly\n2019\n$1,528\nAugust\n2018\n$1,345\nJanuary\n2017\n$1,312\nAugust\n2016\n$1,342\nJuly\n2015\n$1,260\nJanuary\n2014\n$1,327\nFebruary\n2013\n$1,665\nJanuary\n2012\n$1,776\nSeptember\n2011\n$1,814\nAugust\n2010\n$1,406\nDecember\n2009\n$1,176\nNovember\n2008\n$972\nFebruary\n2007\n$834\nDecember\n2006\n$653\nMay\n2005\n$513\nDecember\n2004\n$453\nNovember\n2003\n$416\nDecember\n2002\n$347\nDecember\n2001\n$293\nSeptember\n2000\n$294\nFebruary\n1999\n$299\nOctober\n1998\n$311\nApril\n1997\n$359\nFebruary\n1996\n$406\nJanuary\n1995\n$392\nMarch\n1994\n$395\nSeptember\n1993\n$402\nJuly\n1992\n$358\nJuly\n1991\n$368\nJune\n1990\n$415\nJanuary\n1989\n$408\nNovember\n1988\n$458\nJanuary\n1987\n$493\nNovember\n1986\n$423\nSeptember\n1985\n$333\nAugust\n1984\n$394\nFebruary\n1983\n$500\nJanuary\n1982\n$457\nDecember\n1981\n$514\nMarch\n1980\n$667\nSeptember\n1979\n$512\nDecember\n1978\n$243\nOctober\n1977\n$165\nDecember\n1976\n$135\nDecember\n1975\n$182\nFebruary\n1974\n$187\nDecember\n1973\n$123\nJune\n1972\n$68.30\nJuly\n1971\n$43.63\nDecember\n1970\n$37.54\nNovember\n1969\n$43.60\nApril\n1968\n$41.95\nMay\nSee today's live gold price on the\nspot dashboard\n, or\nshop gold bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold price history",
+              "item": "https://learn.bulliontradingllc.com/charts/gold-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Monthly observation record"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Gold highest monthly observations (LBMA)",
+          "description": "Highest monthly gold observation: $5,222 (2026-02-27). Latest sampled fixing: $4,261 as of 2026-09-25. Not an intraday record.",
+          "url": "https://learn.bulliontradingllc.com/charts/gold-all-time-high/",
+          "temporalCoverage": "1968-04-30/2026-09-25",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

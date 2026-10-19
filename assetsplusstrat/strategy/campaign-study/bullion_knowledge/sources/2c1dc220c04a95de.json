@@ -1,0 +1,344 @@
+{
+  "metadata": {
+    "id": "2c1dc220c04a95de",
+    "url": "https://learn.bulliontradingllc.com/quiz/palladium-tax-and-retirement-planning-quiz/",
+    "title": "Palladium Tax and Retirement Planning Quiz | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:43.324686+00:00",
+    "status": "fetched",
+    "bytes": 27990,
+    "text_characters": 347,
+    "sha256_html": "1ef8c1fe0e6825b0ab5b73d6c1b60f64aaada55bae200b41efbb70264f62b046",
+    "file": "sources/2c1dc220c04a95de.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of tax implications, IRA eligibility, and retirement planning strategies for palladium investments.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/palladium-tax-and-retirement-planning-quiz/",
+  "text": "Palladium Tax and Retirement Planning Quiz\nTest your knowledge of tax implications, IRA eligibility, and retirement planning strategies for palladium investments.\nWhat is the maximum federal tax rate for long-term capital gains on palladium held outside of retirement accounts?\nA\n15%\nB\n20%\nC\n28%\nD\n37%\n←\nBack to Palladium Tax & Retirement Planning",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Palladium Investing Fundamentals",
+              "item": "https://learn.bulliontradingllc.com/guides/palladium-investing-fundamentals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Palladium Tax & Retirement Planning",
+              "item": "https://learn.bulliontradingllc.com/guides/palladium-investing-fundamentals/07-palladium-tax-and-retirement-planning/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Palladium Tax and Retirement Planning Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Palladium Tax and Retirement Planning Quiz",
+          "description": "Test your knowledge of tax implications, IRA eligibility, and retirement planning strategies for palladium investments.",
+          "url": "https://learn.bulliontradingllc.com/quiz/palladium-tax-and-retirement-planning-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Palladium Tax & Retirement Planning"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the maximum federal tax rate for long-term capital gains on palladium held outside of retirement accounts?",
+              "text": "What is the maximum federal tax rate for long-term capital gains on palladium held outside of retirement accounts?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "28%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Palladium is subject to collectibles tax treatment with a maximum federal tax rate of 28% for long-term capital gains, which is higher than typical long-term capital gains rates."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "15%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "20%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "37%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Can physical palladium be held in Self-Directed IRAs?",
+              "text": "Can physical palladium be held in Self-Directed IRAs?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the IRS specifically allows palladium in tax-advantaged accounts",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The IRS specifically allows palladium, along with gold, silver, and platinum, to be held in tax-advantaged accounts like Self-Directed IRAs, provided they meet purity requirements."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "No, precious metals are not allowed in IRAs"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Only palladium ETFs are allowed"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Only coins are allowed, not bars"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the typical minimum purity requirement for palladium to be held in an IRA?",
+              "text": "What is the typical minimum purity requirement for palladium to be held in an IRA?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": ".9995",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Palladium held in IRAs must meet minimum purity requirements, typically .9995 (99.95% pure), to qualify for tax-advantaged treatment."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": ".999"
+                },
+                {
+                  "@type": "Answer",
+                  "text": ".995"
+                },
+                {
+                  "@type": "Answer",
+                  "text": ".99"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the 2025 IRA contribution limit for individuals under 50?",
+              "text": "What is the 2025 IRA contribution limit for individuals under 50?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "$7,000",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The 2025 IRA contribution limit is $7,000 for individuals under 50, with an additional $1,000 catch-up contribution allowed for those 50 and older."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "$6,000"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$6,500"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$7,500"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "At what age do Traditional IRA required minimum distributions (RMDs) begin?",
+              "text": "At what age do Traditional IRA required minimum distributions (RMDs) begin?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "73",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Traditional IRAs require minimum distributions starting at age 73, which affects the timing of palladium liquidation in retirement accounts."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "70½"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "72"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "75"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How are short-term capital gains (≤1 year) on palladium taxed?",
+              "text": "How are short-term capital gains (≤1 year) on palladium taxed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "As ordinary income at individual tax rates",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Short-term capital gains on palladium (held for one year or less) are taxed as ordinary income at the highest individual tax rates, which can be up to 37%."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "At the 28% collectibles rate"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "At preferential capital gains rates"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Tax-free if under $10,000"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the annual limit for deducting capital losses against ordinary income?",
+              "text": "What is the annual limit for deducting capital losses against ordinary income?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "$3,000",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Capital losses can be deducted against ordinary income up to $3,000 per year, with excess losses carrying forward to future tax years indefinitely."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "$1,500"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$5,000"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "No limit"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What tax benefit do inherited palladium assets receive?",
+              "text": "What tax benefit do inherited palladium assets receive?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Stepped-up basis to fair market value at death",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Inherited palladium receives a stepped-up basis to fair market value at the time of death, potentially eliminating capital gains tax on appreciation during the original owner's lifetime."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Tax-free inheritance up to $1 million"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Automatic conversion to Roth IRA status"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Reduced collectibles tax rate of 15%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

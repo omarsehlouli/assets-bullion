@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "id": "ae338781349f233e",
+    "url": "https://learn.bulliontradingllc.com/guides/market-analysis/",
+    "title": "Market Analysis | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:28.659697+00:00",
+    "status": "fetched",
+    "bytes": 19963,
+    "text_characters": 2898,
+    "sha256_html": "b46e34e77a5ab0dbeab60c5312d0c2703b4c5a3708b03d1dde7f2010eb9eba9f",
+    "file": "sources/ae338781349f233e.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Read the precious-metals market the way professionals do — fundamental drivers, technical patterns, and global event triggers.",
+  "canonical": "https://learn.bulliontradingllc.com/guides/market-analysis/",
+  "text": "advanced\nUpdated June 1, 2026\nBy the\nBullion Trading LLC editorial team\nMarket Analysis\nRead the precious-metals market the way professionals do — fundamental drivers, technical patterns, and global event triggers.\nMost retail buyers react to price. Professionals read the conditions that move it — real yields, central-bank flows, currency strength, mine supply, industrial demand, and the chart structure that reveals where conviction sits. This path closes the gap between watching the spot price tick and understanding the forces behind each move.\nBy the end, you will be able to form your own view on gold and silver instead of borrowing one from headlines. You will know which indicators actually predict moves, which patterns are noise, and how a single geopolitical event can repprice the metals overnight. That foundation lets you time entries, size positions, and hold through volatility with a thesis you can defend.\n📊\nWhat you'll learn\nHow to separate signal from noise across fundamental, technical, and macro data\nThe specific indicators that drive gold and silver pricing — and the ones that don’t\nHow to read charts for trend, support, resistance, and momentum shifts\nHow global events translate into precious-metals price action, often within hours\nWhat’s in this path\nReading Market Trends\n— Identify primary, secondary, and short-term trends so you stop trading against the dominant direction.\nFundamental Analysis\n— Evaluate the supply, demand, and monetary forces that set a floor and ceiling on metals prices.\nTechnical Analysis\n— Use price action, volume, and key chart patterns to time entries and exits with discipline.\nEconomic Indicators\n— Track real interest rates, inflation prints, employment data, and dollar strength as leading signals for gold and silver.\nGlobal Events & Their Impact\n— Anticipate how wars, elections, central-bank decisions, and trade shocks reprice precious metals in real time.\nReading Market Trends\nA practical framework for identifying upward trends, consolidations, and reversals in precious metals using price action, volume, and sentiment indicators.\nFundamental Analysis\nHow to read supply, demand, monetary policy, and geopolitical forces to value gold and silver beyond short-term price moves.\nTechnical Analysis\nHow to read precious metals charts using trend, support and resistance, moving averages, momentum indicators, volume, and pattern recognition.\nEconomic Indicators\nHow Fed policy, inflation data, currency moves, and employment figures transmit through to gold and silver prices in 2025.\nGlobal Events & Their Impact\nHow geopolitical tensions, trade wars, supply chain realignment, and economic warfare shape precious metals prices and investor demand.\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Guides",
+              "item": "https://learn.bulliontradingllc.com/guides/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Market Analysis"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Market Analysis",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 5,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "url": "https://learn.bulliontradingllc.com/guides/market-analysis/01-reading-market-trends/",
+              "name": "Reading Market Trends"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "url": "https://learn.bulliontradingllc.com/guides/market-analysis/02-fundamental-analysis/",
+              "name": "Fundamental Analysis"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "url": "https://learn.bulliontradingllc.com/guides/market-analysis/03-technical-analysis/",
+              "name": "Technical Analysis"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "url": "https://learn.bulliontradingllc.com/guides/market-analysis/04-economic-indicators/",
+              "name": "Economic Indicators"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "url": "https://learn.bulliontradingllc.com/guides/market-analysis/05-global-events-impact/",
+              "name": "Global Events & Their Impact"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

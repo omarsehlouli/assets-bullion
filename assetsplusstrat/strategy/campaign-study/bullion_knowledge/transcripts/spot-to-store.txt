@@ -1,0 +1,6 @@
+What actually sets the price of a gold bar?
+It starts with spot: the live market price, traded nearly around the clock, from Sunday evening to Friday afternoon.
+Then a premium covers what it takes to make it and move it: refining, minting, insurance, and shipping.
+Our prices are built from live quotes plus a transparent premium, and reprice within minutes when spot moves.
+Follow gold, silver, platinum, and palladium on our live charts.
+Buy from Bullion Trading.

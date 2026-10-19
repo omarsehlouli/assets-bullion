@@ -1,0 +1,1404 @@
+{
+  "faq-real-gold": {
+    "key": "C major",
+    "progression": [
+      {
+        "t": 0.0,
+        "chord": "Fmaj9"
+      },
+      {
+        "t": 3.115,
+        "chord": "Am9"
+      },
+      {
+        "t": 5.76,
+        "chord": "Dm9"
+      },
+      {
+        "t": 9.755,
+        "chord": "Em7"
+      },
+      {
+        "t": 14.88,
+        "chord": "Fmaj7"
+      },
+      {
+        "t": 18.635,
+        "chord": "G6"
+      },
+      {
+        "t": 22.39,
+        "chord": "Am(add9)"
+      },
+      {
+        "t": 26.385,
+        "chord": "C/E(add9)"
+      },
+      {
+        "t": 31.43,
+        "chord": "F6/9"
+      },
+      {
+        "t": 37.025,
+        "chord": "Gsus4(add9)"
+      },
+      {
+        "t": 41.74,
+        "chord": "C(add9)"
+      }
+    ],
+    "events": [
+      {
+        "t": 0.0,
+        "type": "chord",
+        "detail": "Fmaj9"
+      },
+      {
+        "t": 0.05,
+        "type": "light-on",
+        "detail": "air swell + low boom"
+      },
+      {
+        "t": 0.14,
+        "type": "question-motif",
+        "detail": "G4"
+      },
+      {
+        "t": 0.44,
+        "type": "question-motif",
+        "detail": "D5"
+      },
+      {
+        "t": 1.53,
+        "type": "bell",
+        "detail": "real, \u2192 F5"
+      },
+      {
+        "t": 2.495,
+        "type": "riser",
+        "detail": "into intro"
+      },
+      {
+        "t": 3.115,
+        "type": "chord",
+        "detail": "Am9"
+      },
+      {
+        "t": 3.115,
+        "type": "impact",
+        "detail": "intro"
+      },
+      {
+        "t": 3.835,
+        "type": "bell",
+        "detail": "five \u2192 G5"
+      },
+      {
+        "t": 5.14,
+        "type": "riser",
+        "detail": "into magnet"
+      },
+      {
+        "t": 5.76,
+        "type": "chord",
+        "detail": "Dm9"
+      },
+      {
+        "t": 5.76,
+        "type": "impact",
+        "detail": "magnet"
+      },
+      {
+        "t": 7.38,
+        "type": "bell",
+        "detail": "magnetic, \u2192 F5"
+      },
+      {
+        "t": 9.135,
+        "type": "riser",
+        "detail": "into ice"
+      },
+      {
+        "t": 9.18,
+        "type": "sfx",
+        "detail": "magnet clack + slide"
+      },
+      {
+        "t": 9.755,
+        "type": "chord",
+        "detail": "Em7"
+      },
+      {
+        "t": 9.755,
+        "type": "impact",
+        "detail": "ice"
+      },
+      {
+        "t": 13.015,
+        "type": "sfx",
+        "detail": "ice crackle + drip"
+      },
+      {
+        "t": 14.26,
+        "type": "riser",
+        "detail": "into ping"
+      },
+      {
+        "t": 14.88,
+        "type": "chord",
+        "detail": "Fmaj7"
+      },
+      {
+        "t": 14.88,
+        "type": "impact",
+        "detail": "ping"
+      },
+      {
+        "t": 16.32,
+        "type": "bell",
+        "detail": "real \u2192 E5"
+      },
+      {
+        "t": 16.88,
+        "type": "sfx",
+        "detail": "hero coin ring (~1.8 s)"
+      },
+      {
+        "t": 18.015,
+        "type": "riser",
+        "detail": "into specs"
+      },
+      {
+        "t": 18.635,
+        "type": "chord",
+        "detail": "G6"
+      },
+      {
+        "t": 18.635,
+        "type": "impact",
+        "detail": "specs"
+      },
+      {
+        "t": 19.055,
+        "type": "sfx",
+        "detail": "scale double beep"
+      },
+      {
+        "t": 20.195,
+        "type": "sfx",
+        "detail": "confirm tick (spec)"
+      },
+      {
+        "t": 21.77,
+        "type": "riser",
+        "detail": "into serial"
+      },
+      {
+        "t": 22.39,
+        "type": "chord",
+        "detail": "Am(add9)"
+      },
+      {
+        "t": 22.39,
+        "type": "impact",
+        "detail": "serial"
+      },
+      {
+        "t": 25.07,
+        "type": "sfx",
+        "detail": "confirm tick (serial)"
+      },
+      {
+        "t": 25.765,
+        "type": "riser",
+        "detail": "into office"
+      },
+      {
+        "t": 26.385,
+        "type": "chord",
+        "detail": "C/E(add9)"
+      },
+      {
+        "t": 26.385,
+        "type": "impact",
+        "detail": "office"
+      },
+      {
+        "t": 29.145,
+        "type": "sfx",
+        "detail": "analyzer scan sweep"
+      },
+      {
+        "t": 30.295,
+        "type": "sfx",
+        "detail": "analyzer confirm tone"
+      },
+      {
+        "t": 30.81,
+        "type": "riser",
+        "detail": "into shipping"
+      },
+      {
+        "t": 31.43,
+        "type": "chord",
+        "detail": "F6/9"
+      },
+      {
+        "t": 31.43,
+        "type": "impact",
+        "detail": "shipping"
+      },
+      {
+        "t": 32.55,
+        "type": "sfx",
+        "detail": "packing tape seal"
+      },
+      {
+        "t": 35.43,
+        "type": "sfx",
+        "detail": "records stamp (soft)"
+      },
+      {
+        "t": 36.405,
+        "type": "riser",
+        "detail": "into verify"
+      },
+      {
+        "t": 37.025,
+        "type": "chord",
+        "detail": "Gsus4(add9)"
+      },
+      {
+        "t": 37.025,
+        "type": "impact",
+        "detail": "verify"
+      },
+      {
+        "t": 39.565,
+        "type": "bell",
+        "detail": "genuine. \u2192 G5"
+      },
+      {
+        "t": 40.785,
+        "type": "sfx",
+        "detail": "warm swell (verify)"
+      },
+      {
+        "t": 41.12,
+        "type": "riser",
+        "detail": "into cta"
+      },
+      {
+        "t": 41.74,
+        "type": "chord",
+        "detail": "C(add9)"
+      },
+      {
+        "t": 41.74,
+        "type": "impact",
+        "detail": "cta"
+      },
+      {
+        "t": 41.78,
+        "type": "cta-bloom",
+        "detail": "rolled C(add9)"
+      },
+      {
+        "t": 42.34,
+        "type": "logo-shimmer",
+        "detail": "5 ascending bells"
+      }
+    ],
+    "file": "public/marketing/premium-3/audio/faq-real-gold-score.wav",
+    "durationSeconds": 45.785,
+    "gainAppliedDb": 0.9,
+    "score": {
+      "integratedLufs": -24.0,
+      "lra": 6.4,
+      "truePeakDbtp": -8.4
+    },
+    "voice": {
+      "integratedLufs": -13.2,
+      "lra": 4.4,
+      "truePeakDbtp": -1.5
+    },
+    "voicePlusScore": {
+      "integratedLufs": -13.3,
+      "lra": 4.1,
+      "truePeakDbtp": 0.2
+    },
+    "mixMinusVoiceLu": -0.1,
+    "clicks": {
+      "maxStep": 0.08834,
+      "secondDiffOutlierRatio": 1.47,
+      "dcOffset": [
+        -0.0,
+        -0.0
+      ],
+      "firstSample": 0.0,
+      "lastSample": 0.0
+    }
+  },
+  "faq-sell-in-person": {
+    "key": "G major",
+    "progression": [
+      {
+        "t": 0.0,
+        "chord": "Cmaj9"
+      },
+      {
+        "t": 3.265,
+        "chord": "Gmaj9"
+      },
+      {
+        "t": 6.31,
+        "chord": "Em9"
+      },
+      {
+        "t": 14.315,
+        "chord": "Cmaj7"
+      },
+      {
+        "t": 20.15,
+        "chord": "D6/9"
+      },
+      {
+        "t": 23.755,
+        "chord": "G/B(add9)"
+      },
+      {
+        "t": 29.51,
+        "chord": "Dsus4(add9)"
+      },
+      {
+        "t": 35.905,
+        "chord": "G(add9)"
+      }
+    ],
+    "events": [
+      {
+        "t": 0.0,
+        "type": "chord",
+        "detail": "Cmaj9"
+      },
+      {
+        "t": 0.05,
+        "type": "light-on",
+        "detail": "air swell + low boom"
+      },
+      {
+        "t": 0.14,
+        "type": "question-motif",
+        "detail": "D4"
+      },
+      {
+        "t": 0.44,
+        "type": "question-motif",
+        "detail": "A4"
+      },
+      {
+        "t": 2.645,
+        "type": "riser",
+        "detail": "into quick"
+      },
+      {
+        "t": 3.265,
+        "type": "chord",
+        "detail": "Gmaj9"
+      },
+      {
+        "t": 3.265,
+        "type": "impact",
+        "detail": "quick"
+      },
+      {
+        "t": 5.69,
+        "type": "riser",
+        "detail": "into look"
+      },
+      {
+        "t": 5.805,
+        "type": "bell",
+        "detail": "quick. \u2192 F#5"
+      },
+      {
+        "t": 6.31,
+        "type": "chord",
+        "detail": "Em9"
+      },
+      {
+        "t": 6.31,
+        "type": "impact",
+        "detail": "look"
+      },
+      {
+        "t": 7.47,
+        "type": "sfx",
+        "detail": "loupe glint"
+      },
+      {
+        "t": 13.695,
+        "type": "riser",
+        "detail": "into test"
+      },
+      {
+        "t": 14.315,
+        "type": "chord",
+        "detail": "Cmaj7"
+      },
+      {
+        "t": 14.315,
+        "type": "impact",
+        "detail": "test"
+      },
+      {
+        "t": 17.135,
+        "type": "sfx",
+        "detail": "analyzer scan sweep"
+      },
+      {
+        "t": 18.135,
+        "type": "sfx",
+        "detail": "analyzer confirm tone"
+      },
+      {
+        "t": 19.53,
+        "type": "riser",
+        "detail": "into quote"
+      },
+      {
+        "t": 19.635,
+        "type": "sfx",
+        "detail": "scale double beep"
+      },
+      {
+        "t": 20.15,
+        "type": "chord",
+        "detail": "D6/9"
+      },
+      {
+        "t": 20.15,
+        "type": "impact",
+        "detail": "quote"
+      },
+      {
+        "t": 21.47,
+        "type": "bell",
+        "detail": "spot \u2192 D5"
+      },
+      {
+        "t": 23.135,
+        "type": "riser",
+        "detail": "into pay"
+      },
+      {
+        "t": 23.17,
+        "type": "sfx",
+        "detail": "quote chime"
+      },
+      {
+        "t": 23.755,
+        "type": "chord",
+        "detail": "G/B(add9)"
+      },
+      {
+        "t": 23.755,
+        "type": "impact",
+        "detail": "pay"
+      },
+      {
+        "t": 25.135,
+        "type": "sfx",
+        "detail": "two-note payment chime"
+      },
+      {
+        "t": 26.395,
+        "type": "sfx",
+        "detail": "strike swipe (no sending off)"
+      },
+      {
+        "t": 28.235,
+        "type": "sfx",
+        "detail": "strike swipe (no approval wait)"
+      },
+      {
+        "t": 28.89,
+        "type": "riser",
+        "detail": "into time"
+      },
+      {
+        "t": 29.51,
+        "type": "chord",
+        "detail": "Dsus4(add9)"
+      },
+      {
+        "t": 29.51,
+        "type": "impact",
+        "detail": "time"
+      },
+      {
+        "t": 29.71,
+        "type": "sfx",
+        "detail": "stopwatch tick bed (24 ticks)"
+      },
+      {
+        "t": 33.55,
+        "type": "sfx",
+        "detail": "stopwatch click (minutes)"
+      },
+      {
+        "t": 35.285,
+        "type": "riser",
+        "detail": "into cta"
+      },
+      {
+        "t": 35.905,
+        "type": "chord",
+        "detail": "G(add9)"
+      },
+      {
+        "t": 35.905,
+        "type": "impact",
+        "detail": "cta"
+      },
+      {
+        "t": 35.945,
+        "type": "cta-bloom",
+        "detail": "rolled G(add9)"
+      },
+      {
+        "t": 36.505,
+        "type": "logo-shimmer",
+        "detail": "5 ascending bells"
+      }
+    ],
+    "file": "public/marketing/premium-3/audio/faq-sell-in-person-score.wav",
+    "durationSeconds": 40.27,
+    "gainAppliedDb": 1.6,
+    "score": {
+      "integratedLufs": -24.0,
+      "lra": 3.5,
+      "truePeakDbtp": -8.8
+    },
+    "voice": {
+      "integratedLufs": -13.2,
+      "lra": 3.9,
+      "truePeakDbtp": -1.5
+    },
+    "voicePlusScore": {
+      "integratedLufs": -13.4,
+      "lra": 3.7,
+      "truePeakDbtp": 0.3
+    },
+    "mixMinusVoiceLu": -0.2,
+    "clicks": {
+      "maxStep": 0.049,
+      "secondDiffOutlierRatio": 3.97,
+      "dcOffset": [
+        -0.0,
+        -0.0
+      ],
+      "firstSample": 0.0,
+      "lastSample": 0.0
+    }
+  },
+  "faq-bar-or-eagle": {
+    "key": "D major",
+    "progression": [
+      {
+        "t": 0.0,
+        "chord": "Gmaj9"
+      },
+      {
+        "t": 4.525,
+        "chord": "Bm9"
+      },
+      {
+        "t": 8.1,
+        "chord": "Gmaj7"
+      },
+      {
+        "t": 13.755,
+        "chord": "D/F#(add9)"
+      },
+      {
+        "t": 22.45,
+        "chord": "Em9"
+      },
+      {
+        "t": 31.315,
+        "chord": "A(add9)"
+      },
+      {
+        "t": 39.05,
+        "chord": "Asus4(add9)"
+      },
+      {
+        "t": 46.385,
+        "chord": "D(add9)"
+      }
+    ],
+    "events": [
+      {
+        "t": 0.0,
+        "type": "chord",
+        "detail": "Gmaj9"
+      },
+      {
+        "t": 0.05,
+        "type": "light-on",
+        "detail": "air swell + low boom"
+      },
+      {
+        "t": 0.14,
+        "type": "question-motif",
+        "detail": "A4"
+      },
+      {
+        "t": 0.44,
+        "type": "question-motif",
+        "detail": "E5"
+      },
+      {
+        "t": 3.905,
+        "type": "riser",
+        "detail": "into answer"
+      },
+      {
+        "t": 4.525,
+        "type": "chord",
+        "detail": "Bm9"
+      },
+      {
+        "t": 4.525,
+        "type": "impact",
+        "detail": "answer"
+      },
+      {
+        "t": 5.665,
+        "type": "bell",
+        "detail": "answer, \u2192 D5"
+      },
+      {
+        "t": 7.245,
+        "type": "sfx",
+        "detail": "balance-tip clinks"
+      },
+      {
+        "t": 7.48,
+        "type": "riser",
+        "detail": "into years"
+      },
+      {
+        "t": 8.1,
+        "type": "chord",
+        "detail": "Gmaj7"
+      },
+      {
+        "t": 8.1,
+        "type": "impact",
+        "detail": "years"
+      },
+      {
+        "t": 10.36,
+        "type": "sfx",
+        "detail": "page turn / time whoosh (thirty years)"
+      },
+      {
+        "t": 13.135,
+        "type": "riser",
+        "detail": "into maple"
+      },
+      {
+        "t": 13.755,
+        "type": "chord",
+        "detail": "D/F#(add9)"
+      },
+      {
+        "t": 13.755,
+        "type": "impact",
+        "detail": "maple"
+      },
+      {
+        "t": 15.635,
+        "type": "bell",
+        "detail": "government \u2192 A5"
+      },
+      {
+        "t": 18.175,
+        "type": "sfx",
+        "detail": "coin ring (Maple Leaf)"
+      },
+      {
+        "t": 21.83,
+        "type": "riser",
+        "detail": "into eagle"
+      },
+      {
+        "t": 22.45,
+        "type": "chord",
+        "detail": "Em9"
+      },
+      {
+        "t": 22.45,
+        "type": "impact",
+        "detail": "eagle"
+      },
+      {
+        "t": 26.69,
+        "type": "sfx",
+        "detail": "harder, brighter coin tap"
+      },
+      {
+        "t": 30.695,
+        "type": "riser",
+        "detail": "into bars"
+      },
+      {
+        "t": 31.315,
+        "type": "chord",
+        "detail": "A(add9)"
+      },
+      {
+        "t": 31.315,
+        "type": "impact",
+        "detail": "bars"
+      },
+      {
+        "t": 34.695,
+        "type": "sfx",
+        "detail": "rising tone (overtaken)"
+      },
+      {
+        "t": 38.135,
+        "type": "sfx",
+        "detail": "gram-bar taps"
+      },
+      {
+        "t": 38.43,
+        "type": "riser",
+        "detail": "into choose"
+      },
+      {
+        "t": 39.05,
+        "type": "chord",
+        "detail": "Asus4(add9)"
+      },
+      {
+        "t": 39.05,
+        "type": "impact",
+        "detail": "choose"
+      },
+      {
+        "t": 41.43,
+        "type": "bell",
+        "detail": "liquid. \u2192 B5"
+      },
+      {
+        "t": 43.57,
+        "type": "sfx",
+        "detail": "soft tick (premium)"
+      },
+      {
+        "t": 44.59,
+        "type": "sfx",
+        "detail": "soft tick (much)"
+      },
+      {
+        "t": 45.65,
+        "type": "sfx",
+        "detail": "soft tick (preference)"
+      },
+      {
+        "t": 45.765,
+        "type": "riser",
+        "detail": "into cta"
+      },
+      {
+        "t": 46.385,
+        "type": "chord",
+        "detail": "D(add9)"
+      },
+      {
+        "t": 46.385,
+        "type": "impact",
+        "detail": "cta"
+      },
+      {
+        "t": 46.425,
+        "type": "cta-bloom",
+        "detail": "rolled D(add9)"
+      },
+      {
+        "t": 46.985,
+        "type": "logo-shimmer",
+        "detail": "5 ascending bells"
+      }
+    ],
+    "file": "public/marketing/premium-3/audio/faq-bar-or-eagle-score.wav",
+    "durationSeconds": 50.22,
+    "gainAppliedDb": 2.5,
+    "score": {
+      "integratedLufs": -24.0,
+      "lra": 3.4,
+      "truePeakDbtp": -9.1
+    },
+    "voice": {
+      "integratedLufs": -13.1,
+      "lra": 4.3,
+      "truePeakDbtp": -1.5
+    },
+    "voicePlusScore": {
+      "integratedLufs": -13.2,
+      "lra": 4.0,
+      "truePeakDbtp": -0.0
+    },
+    "mixMinusVoiceLu": -0.1,
+    "clicks": {
+      "maxStep": 0.0822,
+      "secondDiffOutlierRatio": 2.22,
+      "dcOffset": [
+        -0.0,
+        -0.0
+      ],
+      "firstSample": 0.0,
+      "lastSample": 0.0
+    }
+  },
+  "faq-premium": {
+    "key": "A major",
+    "progression": [
+      {
+        "t": 0.0,
+        "chord": "Dmaj9"
+      },
+      {
+        "t": 3.275,
+        "chord": "F#m9"
+      },
+      {
+        "t": 6.87,
+        "chord": "Dmaj7"
+      },
+      {
+        "t": 15.185,
+        "chord": "Bm9"
+      },
+      {
+        "t": 23.58,
+        "chord": "E6"
+      },
+      {
+        "t": 30.145,
+        "chord": "C#m7"
+      },
+      {
+        "t": 34.15,
+        "chord": "Esus4(add9)"
+      },
+      {
+        "t": 39.985,
+        "chord": "A(add9)"
+      }
+    ],
+    "events": [
+      {
+        "t": 0.0,
+        "type": "chord",
+        "detail": "Dmaj9"
+      },
+      {
+        "t": 0.05,
+        "type": "light-on",
+        "detail": "air swell + low boom"
+      },
+      {
+        "t": 0.14,
+        "type": "question-motif",
+        "detail": "E4"
+      },
+      {
+        "t": 0.44,
+        "type": "question-motif",
+        "detail": "B4"
+      },
+      {
+        "t": 2.655,
+        "type": "riser",
+        "detail": "into answer"
+      },
+      {
+        "t": 3.275,
+        "type": "chord",
+        "detail": "F#m9"
+      },
+      {
+        "t": 3.275,
+        "type": "impact",
+        "detail": "answer"
+      },
+      {
+        "t": 3.935,
+        "type": "bell",
+        "detail": "fixed \u2192 E5"
+      },
+      {
+        "t": 5.815,
+        "type": "sfx",
+        "detail": "clock tick motif"
+      },
+      {
+        "t": 6.25,
+        "type": "riser",
+        "detail": "into compare"
+      },
+      {
+        "t": 6.87,
+        "type": "chord",
+        "detail": "Dmaj7"
+      },
+      {
+        "t": 6.87,
+        "type": "impact",
+        "detail": "compare"
+      },
+      {
+        "t": 11.47,
+        "type": "sfx",
+        "detail": "data blip (competition)"
+      },
+      {
+        "t": 12.69,
+        "type": "sfx",
+        "detail": "data blip (inventory)"
+      },
+      {
+        "t": 13.89,
+        "type": "sfx",
+        "detail": "data blip (supply)"
+      },
+      {
+        "t": 14.565,
+        "type": "riser",
+        "detail": "into example"
+      },
+      {
+        "t": 15.185,
+        "type": "chord",
+        "detail": "Bm9"
+      },
+      {
+        "t": 15.185,
+        "type": "impact",
+        "detail": "example"
+      },
+      {
+        "t": 15.885,
+        "type": "bell",
+        "detail": "item \u2192 A5"
+      },
+      {
+        "t": 16.625,
+        "type": "sfx",
+        "detail": "price step mid (50)"
+      },
+      {
+        "t": 19.425,
+        "type": "sfx",
+        "detail": "price step low (30)"
+      },
+      {
+        "t": 21.325,
+        "type": "sfx",
+        "detail": "price step high (80)"
+      },
+      {
+        "t": 22.96,
+        "type": "riser",
+        "detail": "into inventory"
+      },
+      {
+        "t": 23.58,
+        "type": "chord",
+        "detail": "E6"
+      },
+      {
+        "t": 23.58,
+        "type": "impact",
+        "detail": "inventory"
+      },
+      {
+        "t": 24.62,
+        "type": "bell",
+        "detail": "plenty \u2192 C#5"
+      },
+      {
+        "t": 28.24,
+        "type": "sfx",
+        "detail": "downward tone (drop)"
+      },
+      {
+        "t": 29.525,
+        "type": "riser",
+        "detail": "into market"
+      },
+      {
+        "t": 30.145,
+        "type": "chord",
+        "detail": "C#m7"
+      },
+      {
+        "t": 30.145,
+        "type": "impact",
+        "detail": "market"
+      },
+      {
+        "t": 31.465,
+        "type": "sfx",
+        "detail": "strike swipe (markup)"
+      },
+      {
+        "t": 33.53,
+        "type": "riser",
+        "detail": "into tip"
+      },
+      {
+        "t": 34.15,
+        "type": "chord",
+        "detail": "Esus4(add9)"
+      },
+      {
+        "t": 34.15,
+        "type": "impact",
+        "detail": "tip"
+      },
+      {
+        "t": 36.05,
+        "type": "sfx",
+        "detail": "checklist tick (reputable)"
+      },
+      {
+        "t": 37.73,
+        "type": "sfx",
+        "detail": "checklist tick (exact)"
+      },
+      {
+        "t": 39.33,
+        "type": "sfx",
+        "detail": "checklist tick (moment)"
+      },
+      {
+        "t": 39.365,
+        "type": "riser",
+        "detail": "into cta"
+      },
+      {
+        "t": 39.985,
+        "type": "chord",
+        "detail": "A(add9)"
+      },
+      {
+        "t": 39.985,
+        "type": "impact",
+        "detail": "cta"
+      },
+      {
+        "t": 40.025,
+        "type": "cta-bloom",
+        "detail": "rolled A(add9)"
+      },
+      {
+        "t": 40.585,
+        "type": "logo-shimmer",
+        "detail": "5 ascending bells"
+      }
+    ],
+    "file": "public/marketing/premium-3/audio/faq-premium-score.wav",
+    "durationSeconds": 44.26,
+    "gainAppliedDb": 1.8,
+    "score": {
+      "integratedLufs": -24.0,
+      "lra": 4.1,
+      "truePeakDbtp": -9.4
+    },
+    "voice": {
+      "integratedLufs": -13.0,
+      "lra": 4.7,
+      "truePeakDbtp": -1.5
+    },
+    "voicePlusScore": {
+      "integratedLufs": -13.2,
+      "lra": 3.8,
+      "truePeakDbtp": 0.2
+    },
+    "mixMinusVoiceLu": -0.2,
+    "clicks": {
+      "maxStep": 0.03737,
+      "secondDiffOutlierRatio": 1.92,
+      "dcOffset": [
+        -0.0,
+        -0.0
+      ],
+      "firstSample": 0.0,
+      "lastSample": 0.0
+    }
+  },
+  "faq-pickup": {
+    "key": "E major",
+    "progression": [
+      {
+        "t": 0.0,
+        "chord": "Amaj9"
+      },
+      {
+        "t": 4.935,
+        "chord": "C#m9"
+      },
+      {
+        "t": 7.64,
+        "chord": "Amaj7"
+      },
+      {
+        "t": 13.775,
+        "chord": "E/G#(add9)"
+      },
+      {
+        "t": 22.48,
+        "chord": "F#m9"
+      },
+      {
+        "t": 27.905,
+        "chord": "B6/9"
+      },
+      {
+        "t": 40.68,
+        "chord": "B7sus4"
+      },
+      {
+        "t": 44.345,
+        "chord": "E(add9)"
+      }
+    ],
+    "events": [
+      {
+        "t": 0.0,
+        "type": "chord",
+        "detail": "Amaj9"
+      },
+      {
+        "t": 0.05,
+        "type": "light-on",
+        "detail": "air swell + low boom"
+      },
+      {
+        "t": 0.14,
+        "type": "question-motif",
+        "detail": "B4"
+      },
+      {
+        "t": 0.44,
+        "type": "question-motif",
+        "detail": "F#5"
+      },
+      {
+        "t": 4.315,
+        "type": "riser",
+        "detail": "into answer"
+      },
+      {
+        "t": 4.935,
+        "type": "chord",
+        "detail": "C#m9"
+      },
+      {
+        "t": 4.935,
+        "type": "impact",
+        "detail": "answer"
+      },
+      {
+        "t": 6.115,
+        "type": "sfx",
+        "detail": "fork chime"
+      },
+      {
+        "t": 7.02,
+        "type": "riser",
+        "detail": "into office"
+      },
+      {
+        "t": 7.64,
+        "type": "chord",
+        "detail": "Amaj7"
+      },
+      {
+        "t": 7.64,
+        "type": "impact",
+        "detail": "office"
+      },
+      {
+        "t": 9.2,
+        "type": "sfx",
+        "detail": "pin ping (Midtown)"
+      },
+      {
+        "t": 13.08,
+        "type": "bell",
+        "detail": "person. \u2192 Ab5"
+      },
+      {
+        "t": 13.155,
+        "type": "riser",
+        "detail": "into bankcheck"
+      },
+      {
+        "t": 13.775,
+        "type": "chord",
+        "detail": "E/G#(add9)"
+      },
+      {
+        "t": 13.775,
+        "type": "impact",
+        "detail": "bankcheck"
+      },
+      {
+        "t": 15.315,
+        "type": "sfx",
+        "detail": "bank-check paper rustle"
+      },
+      {
+        "t": 16.575,
+        "type": "bell",
+        "detail": "easiest. \u2192 B5"
+      },
+      {
+        "t": 21.86,
+        "type": "riser",
+        "detail": "into release"
+      },
+      {
+        "t": 22.48,
+        "type": "chord",
+        "detail": "F#m9"
+      },
+      {
+        "t": 22.48,
+        "type": "impact",
+        "detail": "release"
+      },
+      {
+        "t": 24.62,
+        "type": "sfx",
+        "detail": "check verified"
+      },
+      {
+        "t": 26.02,
+        "type": "sfx",
+        "detail": "release chime"
+      },
+      {
+        "t": 27.285,
+        "type": "riser",
+        "detail": "into others"
+      },
+      {
+        "t": 27.905,
+        "type": "chord",
+        "detail": "B6/9"
+      },
+      {
+        "t": 27.905,
+        "type": "impact",
+        "detail": "others"
+      },
+      {
+        "t": 30.325,
+        "type": "sfx",
+        "detail": "calendar flips \u00d72 (twoday)"
+      },
+      {
+        "t": 36.005,
+        "type": "sfx",
+        "detail": "calendar flips \u00d75 (five)"
+      },
+      {
+        "t": 40.06,
+        "type": "riser",
+        "detail": "into contact"
+      },
+      {
+        "t": 40.265,
+        "type": "sfx",
+        "detail": "shipping thud"
+      },
+      {
+        "t": 40.68,
+        "type": "chord",
+        "detail": "B7sus4"
+      },
+      {
+        "t": 40.68,
+        "type": "impact",
+        "detail": "contact"
+      },
+      {
+        "t": 42.78,
+        "type": "sfx",
+        "detail": "phone-tap tones"
+      },
+      {
+        "t": 43.725,
+        "type": "riser",
+        "detail": "into cta"
+      },
+      {
+        "t": 44.345,
+        "type": "chord",
+        "detail": "E(add9)"
+      },
+      {
+        "t": 44.345,
+        "type": "impact",
+        "detail": "cta"
+      },
+      {
+        "t": 44.385,
+        "type": "cta-bloom",
+        "detail": "rolled E(add9)"
+      },
+      {
+        "t": 44.945,
+        "type": "logo-shimmer",
+        "detail": "5 ascending bells"
+      }
+    ],
+    "file": "public/marketing/premium-3/audio/faq-pickup-score.wav",
+    "durationSeconds": 48.43,
+    "gainAppliedDb": 2.1,
+    "score": {
+      "integratedLufs": -24.0,
+      "lra": 2.6,
+      "truePeakDbtp": -8.9
+    },
+    "voice": {
+      "integratedLufs": -13.0,
+      "lra": 3.4,
+      "truePeakDbtp": -1.5
+    },
+    "voicePlusScore": {
+      "integratedLufs": -13.0,
+      "lra": 3.1,
+      "truePeakDbtp": 0.2
+    },
+    "mixMinusVoiceLu": 0.0,
+    "clicks": {
+      "maxStep": 0.04156,
+      "secondDiffOutlierRatio": 1.94,
+      "dcOffset": [
+        -0.0,
+        -0.0
+      ],
+      "firstSample": 0.0,
+      "lastSample": 0.0
+    }
+  }
+}

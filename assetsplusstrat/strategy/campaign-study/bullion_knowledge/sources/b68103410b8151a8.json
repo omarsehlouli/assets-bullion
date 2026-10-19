@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "id": "b68103410b8151a8",
+    "url": "https://bulliontradingllc.com/blog/category/gold-bars/",
+    "title": "Gold Bars - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:26.525961+00:00",
+    "status": "fetched",
+    "bytes": 122853,
+    "text_characters": 2410,
+    "sha256_html": "c15351326b691c1c5f6554f94277fbae338e09bc57ddf3a9e2670743ea26a7ce",
+    "file": "sources/b68103410b8151a8.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Buy gold bars in sizes from grams to larger weights for efficient stacking. BTLLC provides competitive pricing and secure shipping with tracking on orders.",
+  "canonical": "https://bulliontradingllc.com/blog/category/gold-bars/",
+  "text": "Gold\nEducation\nGold Bars\nMiller vs Wohlwill: how refiners take gold from 99.5% to 99.99%\nThe purity stamp on a gold bar is the last line of a chemistry lesson most buyers never see,\nBy\nbulliontrading\nOctober 7, 2026\nOctober 7, 2026\nGold\nGold Bars\nguide\nGold Bar Serial Numbers: What They Mean and How to Track Your Bullion\nEvery gold bar produced by a reputable refinery carries a set of markings that function as its\nBy\nbulliontrading\nApril 6, 2026\nApril 6, 2026\nGold Bars\nGold Market & Economics\nguide\nCast Gold Bars and Minted Bars: Understanding the Key Differences for Investors\nWhen shopping for gold bars, you will quickly encounter two distinct types: cast gold bars and\nBy\nbulliontrading\nFebruary 10, 2026\nFebruary 10, 2026\nGold Bars\nGold\nPAMP Suisse Lunar Legend Series: A New Chapter in Ancient Storytelling\nWhen PAMP Suisse announced their new Lunar Legend Series in 2024, I’ll admit I was\nBy\nbulliontrading\nAugust 26, 2025\nAugust 26, 2025\nGold Bars\nExploring Prominent Gold Bar Brands and Their Significance in 2024’s Golden Era\nAs the global market for precious metals continues to grow and evolve, leading brands such as\nBy\nbulliontrading\nOctober 29, 2024\nOctober 29, 2024\nGold\nGold Bars\nThe Best PAMP Gold Bars to buy for investment in 2024, Featuring the New Lunar Series\nFor both seasoned and new investors, the radiant world of gold is always an attractive option.\nBy\nbulliontrading\nOctober 24, 2023\nGold\nGold Bars\nGold Market & Economics\nnews\nsilver\nsilver bars\nSilver Coins\nThe Journey of a Gold or Silver Item: From Mine to Market\nGold and silver travel a long way from where they're dug up to the shops. People have always\nBy\nbulliontrading\nSeptember 9, 2023\nGold\nGold Bars\ngold bullion\nGold Market & Economics\nBullion Gold vs. Jewelry Gold: Understanding the Differences\nGold has been valued for a long time, both for its looks and as an investment. But here's the\nBy\nbulliontrading\nSeptember 4, 2023\nGold\nGold Bars\nLady Fortuna and why you should get her gold bars\nLady Fortuna gold bars: an emblem of hope, history, and prosperity. Beyond investment, it's a\nBy\nbulliontrading\nAugust 24, 2023\nAugust 21, 2025\ncoin collection\nGold\nGold Bars\ngold bullion\ngold coins\nsilver\nsilver bars\nSilver Coins\nWhat Are Assays & Certificates Of Authenticity?\nChances are, if you’re a precious metal investor or collector, you might have had casual\nBy\nbulliontrading\nApril 10, 2023\n1\n2\n…\n4\nOlder Posts",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/category/gold-bars/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-bars/",
+                "name": "Gold Bars"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://bulliontradingllc.com/blog/category/gold-bars/#webpage",
+          "url": "https://bulliontradingllc.com/blog/category/gold-bars/",
+          "name": "Gold Bars - Bullion Trading LLC",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/category/gold-bars/#breadcrumb"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/bullion-gold-vs-jewelry-gold-understanding-the-differences/",
+    "https://bulliontradingllc.com/blog/cast-gold-bars-and-minted-bars-differences-guide/",
+    "https://bulliontradingllc.com/blog/category/coin-collection/",
+    "https://bulliontradingllc.com/blog/category/education/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-bars/",
+    "https://bulliontradingllc.com/blog/category/gold-bars/page/2/",
+    "https://bulliontradingllc.com/blog/category/gold-bars/page/4/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/category/guide/",
+    "https://bulliontradingllc.com/blog/category/news/",
+    "https://bulliontradingllc.com/blog/category/silver-bars/",
+    "https://bulliontradingllc.com/blog/category/silver-coins/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/exploring-prominent-gold-bar-brands-2024/",
+    "https://bulliontradingllc.com/blog/gold-bar-serial-numbers-tracking-verification/",
+    "https://bulliontradingllc.com/blog/miller-vs-wohlwill-gold-refining/",
+    "https://bulliontradingllc.com/blog/pamp-suisse-lunar-legend-series-a-new-chapter-in-ancient-storytelling/",
+    "https://bulliontradingllc.com/blog/the-best-pamp-gold-bars-to-buy-for-investment-in-2024/",
+    "https://bulliontradingllc.com/blog/the-journey-of-a-gold-or-silver-item-from-mine-to-market/",
+    "https://bulliontradingllc.com/blog/what-are-assays-certificates-of-authenticity/",
+    "https://bulliontradingllc.com/blog/why-lady-fortuna-gold-bars/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2026/10/miller-vs-wohlwill-gold-refining.webp",
+      "alt": "Miller vs Wohlwill"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/04/Gold-Bar-Serial-Numbers.webp",
+      "alt": "Close-up of a gold bar showing engraved serial numbers and markings"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/02/Cast-Gold-Bars-and-Minted-Bars.webp",
+      "alt": "Cast and minted gold bars displayed side by side"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2025/08/12-lunar_composition_01-fotor-20250826173927-scaled.webp",
+      "alt": "Lunar-themed bullion coins arranged with dragon and snake artwork"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2024/10/PROMIMENT.webp",
+      "alt": "Stacked gold bars representing prominent gold bar brands"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2023/10/PAMP-bars-guide.webp",
+      "alt": "Guide to Pamp Suisse Gold Bars"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2023/09/goldtomarket.webp",
+      "alt": "Gold Market"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2023/09/Article-1-pic.webp",
+      "alt": "Bullion Gold vs. Jewelry Gold: Understanding the Differences"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2023/08/photo.webp",
+      "alt": "photo"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2017/07/certificate-of-authenticity-jpg.webp",
+      "alt": "certificate of authenticity"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

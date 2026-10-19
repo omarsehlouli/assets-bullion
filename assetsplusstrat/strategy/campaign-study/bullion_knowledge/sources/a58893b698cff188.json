@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "id": "a58893b698cff188",
+    "url": "https://bulliontradingllc.com/blog/why-central-bank-buying-has-the-gold-market-guessing/",
+    "title": "Why Central Bank Buying Has the Gold Market Guessing - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:18.045826+00:00",
+    "status": "fetched",
+    "bytes": 97388,
+    "text_characters": 4604,
+    "sha256_html": "e33aa7fe9663b0a26b9aefff3951a7903dece14c4d7c65aa20345b69b3e61636",
+    "file": "sources/a58893b698cff188.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The gold market was captured by surprise when 2 of eastern Europes most significant economies, Poland and Hungary, made uncommon purchases in current months.",
+  "canonical": "https://bulliontradingllc.com/blog/why-central-bank-buying-has-the-gold-market-guessing/",
+  "text": "The gold market was captured by surprise when 2 of eastern Europes most significant economies, Poland and Hungary, made uncommon purchases in current months. Why central banks buy gold is often a major subject of market speculation.\n.\nHere is a post about why Central Bank is purchasing Gold. , if want to check out the original content check out the link at the end of this post.\n1. Why do main banks own gold?\nGold– a finite possession as opposed to a fiat currency– can help support economies amid times of market turmoil. Central bank holdings of gold have leapt in the previous decade, driven generally by Russia, China and Kazakhstan, among other nations. Central banks now hold more than 33,000 metric tons of the metal, about a fifth of all the gold ever mined.\n2. Why are the purchases by Poland and Hungary unexpected?\nTheyre the first significant gold purchases by any EU nation in more than a years. Whether coincidence or not, Poland and Hungary also happen to be the two countries presently rattling Europes liberal order.\n3. What speculation did Poland and Hungary activate?\nThere was talk that the 2 nations were trying to “brace for a potential currency crisis” must worldwide inflation select up; preparing themselves in case Russia begins settling trades with gold; or asserting their self-reliance from the Brussels-based leadership of the EU. Russia, for circumstances, a major gold purchaser, has slashed holdings of the greenback this year.\n4. What reasons did Poland and Hungary give?\nHungarys reserve bank governor, Gyorgy Matolcsy, said boosting gold holdings 10-fold in October was a way to make the countrys wealth more secure. It also assisted bring the share of gold in its reserves in line with other countries in the region. While Poland decreased to talk about its purchases, some analysts said golds recent drop to the least expensive in more than a year assisted make the metal more attractive.\n5. Will this be a pattern in Eastern Europe?\nIts too early to state, but nations with fairly low holdings may be more most likely to buy. Whether countries like Romania, the Czech Republic, and Lithuania follow match with purchases is still anyones guess.\nMain Buyers\nA handful of countries have actually driven gold purchases in the past years\nInformation: IMF; graphic by Bloomberg QuickTake\nKeep in mind: Amount added to reserves considering that 2008\n6. Will these purchases impact costs?\nEven if Poland and Hungary keep buying, theyre unlikely to have much price effect. Their purchases up until now are still small compared with Russias additions this year, and reserve banks internationally represent perhaps less than 10 percent of general gold demand. More so than the quantity of the purchases, the ventures by Poland and Hungary into gold are maybe more fascinating to the marketplace for what they signify about bullions function in the financial system. The metal also tends to react to modifications in supply and demand less than other products, often acting more like a currency and an echo chamber for stress and anxieties about the economy.\n7. Will other main banks keep purchasing?\nWhy central banks purchase gold is frequently a significant subject of market speculation. Central bank holdings of gold have actually jumped in the previous years, driven mainly by Russia, China and Kazakhstan, among other nations. Central banks now hold more than 33,000 metric loads of the metal, about a fifth of all the gold ever mined.\nHungarys central bank guv, Gyorgy Matolcsy, said enhancing gold holdings 10-fold in October was a method to make the countrys wealth much safer. Their purchases so far are still little compared with Russias additions this year, and main banks worldwide account for perhaps less than 10 percent of general gold demand.\nExperts expect worldwide gold reserves to keep growing, even if the rate has slowed in the last few years. Main banks will probably buy about 350 loads of gold this year and another 300 lots in 2019, according to JPMorgan Chase & & Co\nWe found this great short article at https://www.bloomberg.com/news/articles/2018-10-29/why-central-bank-buying-has-the-gold-market-guessing-quicktake By: Rupert Rowling\n. A QuickTake explainer on golds ups and downs.\nA short history of bullions function in the financial system by the World Gold Council.\nAn appearance at how Germany repatriated its gold reserves.\nWhy gold perplexed ex-Federal Reserve Chairman Ben S. Bernanke.\nbulliontrading\nView all posts\nPrevious Post\nGold gains as stock sell-off revives safe-haven appeal\nNext Post\nWhat Central Banks Bought Gold In 2018?",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/10/gold-bar-1000x500-1-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2018/10/gold-bar-1000x500-1-jpg.webp",
+          "width": "1000",
+          "height": "500",
+          "caption": "gold-bar-1000&#215;500",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/why-central-bank-buying-has-the-gold-market-guessing/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/why-central-bank-buying-has-the-gold-market-guessing/",
+                "name": "Why Central Bank Buying Has the Gold Market Guessing"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/why-central-bank-buying-has-the-gold-market-guessing/#webpage",
+          "url": "https://bulliontradingllc.com/blog/why-central-bank-buying-has-the-gold-market-guessing/",
+          "name": "Why Central Bank Buying Has the Gold Market Guessing - Bullion Trading LLC",
+          "datePublished": "2018-10-29T10:26:59+00:00",
+          "dateModified": "2018-10-29T10:26:59+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/10/gold-bar-1000x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/why-central-bank-buying-has-the-gold-market-guessing/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Why Central Bank Buying Has the Gold Market Guessing - Bullion Trading LLC",
+          "datePublished": "2018-10-29T10:26:59+00:00",
+          "dateModified": "2018-10-29T10:26:59+00:00",
+          "articleSection": "Gold, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "The gold market was captured by surprise when 2 of eastern Europes most significant economies, Poland and Hungary, made uncommon purchases in current months.",
+          "name": "Why Central Bank Buying Has the Gold Market Guessing - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/why-central-bank-buying-has-the-gold-market-guessing/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/why-central-bank-buying-has-the-gold-market-guessing/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/10/gold-bar-1000x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/why-central-bank-buying-has-the-gold-market-guessing/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/gold-gains-as-stock-sell-off-revives-safe-haven-appeal/",
+    "https://bulliontradingllc.com/blog/what-central-banks-bought-gold-in-2018/",
+    "https://bulliontradingllc.com/blog/why-central-bank-buying-has-the-gold-market-guessing/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2018/10/gold-bar-1000x500-1-jpg.webp",
+      "alt": "gold-bar-1000×500"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "id": "ebf83b15b029be1d",
+    "url": "https://learn.bulliontradingllc.com/coin-values/1958-d-wheat-penny/",
+    "title": "1958-D Wheat Penny Value — Rarity, Mintage & Key Dates",
+    "retrieved_at": "2026-10-12T22:13:24.586647+00:00",
+    "status": "fetched",
+    "bytes": 13400,
+    "text_characters": 717,
+    "sha256_html": "8fad0530fa27e6386775ee32eddfca5211f4c5673778d33fab89ded02b591eeb",
+    "file": "sources/ebf83b15b029be1d.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "1958 was the final year of the “wheat ears” reverse before the Lincoln Memorial design arrived in 1959. The 1958-D (Denver) is very common, so most are wor…",
+  "canonical": "https://learn.bulliontradingllc.com/coin-values/1958-d-wheat-penny/",
+  "text": "Common but collected\n1958-D Wheat Penny Value\n1958 was the final year of the “wheat ears” reverse before the Lincoln Memorial design arrived in 1959. The 1958-D (Denver) is very common, so most are worth a few cents — but high-grade red examples are collected as the end of an era.\nKey facts\nLast year of the wheat-back cent (1909–1958).\nComposition: 95% copper. Extremely common in circulated grades.\nPremiums apply mainly to high-grade, fully red (RD) uncirculated coins.\nThinking of selling?\nWe buy coins and bullion in person at our NYC Diamond District counter.\nGet a free quote →\nSee the full\npennies value guide\n, or\nShop gold & silver bullion →\nMore:\nall coin values\n·\nsilver price history\n·\ngold/silver ratio",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Coin Values",
+              "item": "https://learn.bulliontradingllc.com/coin-values/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Pennies",
+              "item": "https://learn.bulliontradingllc.com/coin-values/pennies/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1958-D Wheat Penny"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "1958-D Wheat Penny Value",
+          "description": "1958 was the final year of the “wheat ears” reverse before the Lincoln Memorial design arrived in 1959. The 1958-D (Denver) is very common, so most are wor…",
+          "url": "https://learn.bulliontradingllc.com/coin-values/1958-d-wheat-penny/",
+          "creator": {
+            "@type": "Organization",
+            "name": "United States Mint"
+          },
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

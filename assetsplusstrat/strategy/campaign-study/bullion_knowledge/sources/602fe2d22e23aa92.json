@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "id": "602fe2d22e23aa92",
+    "url": "https://bulliontradingllc.com/blog/gold-prices-still-at-the-mercy-of-us-tax-cut-prospects/",
+    "title": "Gold Prices Still at the Mercy of US Tax Cut Prospects - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:43.829869+00:00",
+    "status": "fetched",
+    "bytes": 96547,
+    "text_characters": 3278,
+    "sha256_html": "1fddc826e413bf063de44a8661aa53864e0afc62d01a2d754961312bbc540d99",
+    "file": "sources/602fe2d22e23aa92.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "This is a good article about Gold Prices. , if you have any concerns or desire see the original short article you can find the link at the end of this post.",
+  "canonical": "https://bulliontradingllc.com/blog/gold-prices-still-at-the-mercy-of-us-tax-cut-prospects/",
+  "text": "This is a good article about Gold Prices. , if you have any concerns or desire see the original short article you can find the link at the end of this post.\n.\nTalking Points:\nThe weekly set of stock circulation statistics from the EIA is now in the spotlight. Median forecasts indicate a drawdown of 2.2 million barrels however comparable API data launched yesterday forecasted a smaller sized 1.56 million barrel outflow. If that shows to foreshadow a disappointment on todays main release, costs may deal with renewed selling pressure.\nPetroleum price stalled after striking the greatest level since July 2015 as the impact of Saudi-inspired geopolitical concerns alleviated. The scenario did not materially enhance however traders appeared unwilling to continue pressing the story up until a trade-able cause and impact relationship between current events and international possession costs became obvious.\nGold costs slump back into familiar variety as geopolitical jitters fade\nUS tax cut prospects still in focus for 2018 Fed rate of interest hike bets\nIf EIA inventory data echoes API price quote, crude oil rates might fall\nGold prices turned lower as the US Dollar mounted a recovery from the previous days losses, weakening the appeal of anti-fiat properties. From here, a lull in top-tier data circulation keeps the concentrate on prospects for passing an US tax cut reform. That puts the yellow metal at the grace of inbound headlines as financiers wait for the release of the Senates variation of a tax reform proposal.\nWhat are the forces driving long-lasting unrefined oil price trends? Discover here!\nGOLD TECHNICAL ANALYSIS– Gold prices continue to struggle for instructions in a narrow variety. CRUDE OIL TECHNICAL ANALYSIS– Crude oil prices stopped briefly to digest gains after checking resistance at 57.57, the 38.2% Fibonacci expansion.\nThis fantastic short article we discovered at https://www.dailyfx.com/forex/fundamental/daily_briefing/daily_pieces/commodities/2017/11/08/Gold-Prices-Still-at-the-Mercy-of-US-Tax-Cut-Prospects.html by: Ilya Spivak and thought this was something that our subscribers might discover extremely helpful.\nCRUDE OIL TECHNICAL ANALYSIS– Crude oil prices paused to digest gains after testing resistance at 57.57, the 38.2% Fibonacci expansion. An everyday close above this barrier opens the door for an obstacle of the 50% level at 58.71. Alternatively, a turnaround listed below the 23.6% Fib at 56.17 paves the way for a retest of resistance-turned-support at 55.24, the January 3 high.\nGold costs turned lower as the United States Dollar mounted a recovery from the previous days losses, undermining the appeal of anti-fiat possessions. If that proves to foreshadow a frustration on todays main release, rates might deal with renewed selling pressure.\nGOLD TECHNICAL ANALYSIS– Gold rates continue to struggle for direction in a narrow variety. A day-to-day close above the 23.6% Fibonacci growth at 1283.22 exposes the 14.6% level at 1291.92. A reversal listed below the 1266.16-69.10 location (pattern line, 38.2% Fib) targets the 50% growth at 1257.69.\nbulliontrading\nView all posts\nPrevious Post\nWhat Do Gold Experts Think About Bitcoin?\nNext Post\n10 Best Silver Coins To Buy For Investment: Complete Guide For Investors",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2017/11/Gold-Prices-Still-at-the-Mercy-of-US-Tax-Cut-Prospects_body_Picture_4.png",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2017/11/Gold-Prices-Still-at-the-Mercy-of-US-Tax-Cut-Prospects_body_Picture_4.png",
+          "width": "896",
+          "height": "425",
+          "caption": "Gold-Prices-Still-at-the-Mercy-of-US-Tax-Cut-Prospects_body_Picture_4",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-still-at-the-mercy-of-us-tax-cut-prospects/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-prices-still-at-the-mercy-of-us-tax-cut-prospects/",
+                "name": "Gold Prices Still at the Mercy of US Tax Cut Prospects"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-still-at-the-mercy-of-us-tax-cut-prospects/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-prices-still-at-the-mercy-of-us-tax-cut-prospects/",
+          "name": "Gold Prices Still at the Mercy of US Tax Cut Prospects - Bullion Trading LLC",
+          "datePublished": "2017-11-10T11:18:12+00:00",
+          "dateModified": "2017-11-10T11:18:12+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2017/11/Gold-Prices-Still-at-the-Mercy-of-US-Tax-Cut-Prospects_body_Picture_4.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-still-at-the-mercy-of-us-tax-cut-prospects/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold Prices Still at the Mercy of US Tax Cut Prospects - Bullion Trading LLC",
+          "datePublished": "2017-11-10T11:18:12+00:00",
+          "dateModified": "2017-11-10T11:18:12+00:00",
+          "articleSection": "Gold, Gold Bars, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "This is a good article about Gold Prices. , if you have any concerns or desire see the original short article you can find the link at the end of this post.",
+          "name": "Gold Prices Still at the Mercy of US Tax Cut Prospects - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-still-at-the-mercy-of-us-tax-cut-prospects/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-still-at-the-mercy-of-us-tax-cut-prospects/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2017/11/Gold-Prices-Still-at-the-Mercy-of-US-Tax-Cut-Prospects_body_Picture_4.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-still-at-the-mercy-of-us-tax-cut-prospects/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/10-best-silver-coins-to-buy-for-investment/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-bars/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/gold-prices-still-at-the-mercy-of-us-tax-cut-prospects/",
+    "https://bulliontradingllc.com/blog/what-do-gold-experts-think-about-bitcoin/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2017/11/Gold-Prices-Still-at-the-Mercy-of-US-Tax-Cut-Prospects_body_Picture_4.png",
+      "alt": "Gold-Prices-Still-at-the-Mercy-of-US-Tax-Cut-Prospects_body_Picture_4"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

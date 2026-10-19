@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "id": "20c168be70450f39",
+    "url": "https://bulliontradingllc.com/blog/gold-rises-more-than-1-on-global-turmoil/",
+    "title": "Gold rises more than 1% on global turmoil - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:44.972042+00:00",
+    "status": "fetched",
+    "bytes": 97001,
+    "text_characters": 3846,
+    "sha256_html": "06f9ba7b9a8aa7c57962879a45992092041f69cd9809c468753a14a51428b819",
+    "file": "sources/20c168be70450f39.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Spot gold jumped 1.27% to $1,507.40 per ounce while U.S. gold futures rose 0.83% to $1,512.1. The gold-backed SPDR Gold Trust exchange-traded fund was down",
+  "canonical": "https://bulliontradingllc.com/blog/gold-rises-more-than-1-on-global-turmoil/",
+  "text": "Spot gold jumped 1.27% to $1,507.40 per ounce while U.S. gold futures rose 0.83% to $1,512.1. The gold-backed SPDR Gold Trust exchange-traded fund was down 0.82% at $140.15, with 874.51 tonnes of gold in trust on Friday.\nGlobal development outlook remains suppressed amid the continuous trade war in between the U.S. and China, which might possibly sustain demand for safe-haven properties. Chinese Premier Li Keqiang stated in a current interview that it is “extremely difficult” for the worlds second-largest economy to maintain a growth rate at 6% or more.\nFor his part, U.S. President Donald Trump stated the U.S. is “locked and packed,” however his administration is waiting on Riyadh to identify who launched the strikes prior to continuing on a course of action.\nWe discovered this great post at https://www.cnbc.com/2019/09/16/gold-surges-more-than-1percent-on-global-turmoil-but-silver-rises-more.html By: Saheli Roy Choudhury and believed it would be handy to our followers.\nThe relocations came after Saudi Arabia on Saturday shut down half its oil production after a series of strikes struck the worlds largest oil processing center. The attack was declared by Yemens Houthi rebels and the Trump administration has actually blamed Iran.\nThat closure is set to affect practically 5.7 million barrels of unrefined production a day, according to Saudi Aramco. Thats about 5% of the worlds daily oil production. In August, Saudi Arabia produced 9.85 million barrels each day, according to the data from the U.S. Energy Information Administration.\nU.S. crude and Brent prices leapt more than 9% each Monday early morning during Asian hours.\nThe Kingdoms energy minister stated the attacks likewise resulted in a stop in gas production, which is set to minimize the supply of ethane and gas liquids by 50%.\nHere is a post regarding gold rate increases more than 1% today on global chaos. If you desire to read the original post you can discover the link at the bottom of this post.\nLike gold, silver is viewed as a safe-haven financial investment however the metal is likewise utilized in the production of consumer electronic devices goods in addition to in the industrial sector, such as photovoltaic panels. Spot silver got 2.96% to $17.94 per ounce.\nGold and silver prices jumped more than 1% on Monday as financiers ran away to safe-haven assets after an attack on Saudi oil facilities raised issues over international energy supply and ratcheted tensions in the Middle East.\nArea gold leapt 1.27% to $1,507.40 per ounce while U.S. gold futures increased 0.83% to $1,512.1. Spot silver got 2.96% to $17.94 per ounce.Investors fled to safe-haven possessions after an attack on Saudi oil facilities raised issues over worldwide energy supply and ratcheted tensions in the Middle East.\nThe attack raised tensions in the Middle East after the United States blamed Tehran for the strikes, and called it an “extraordinary attack on worlds energy supply.” For his part, U.S. President Donald Trump stated the U.S. is “locked and filled,” but his administration is waiting on Riyadh to identify who introduced the strikes prior to proceeding on a course of action. Iran has dismissed those allegations as “useless.”.\nIn other places, the U.S. Federal Open Market Committee is set to fulfill on Tuesday and Wednesday and markets expect the main bank to cut interest rates by a quarter point.\nThat closure is set to impact practically 5.7 million barrels of unrefined production a day, according to Saudi Aramco. Thats about 5% of the worlds daily oil production. In August, Saudi Arabia produced 9.85 million barrels per day, according to the information from the U.S. Energy Information Administration.\nbulliontrading\nView all posts\nPrevious Post\nGold to keep bullish trend next week\nNext Post\nFour ways to hold gold as a safe haven investment",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/09/Gold-rises-more-than-1-800x500-1-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2019/09/Gold-rises-more-than-1-800x500-1-jpg.webp",
+          "width": "800",
+          "height": "500",
+          "caption": "Gold-rises-more-than-1-800&#215;500",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-rises-more-than-1-on-global-turmoil/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-rises-more-than-1-on-global-turmoil/",
+                "name": "Gold rises more than 1% on global turmoil"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-rises-more-than-1-on-global-turmoil/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-rises-more-than-1-on-global-turmoil/",
+          "name": "Gold rises more than 1% on global turmoil - Bullion Trading LLC",
+          "datePublished": "2019-09-16T11:17:12+00:00",
+          "dateModified": "2019-09-16T11:17:12+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/09/Gold-rises-more-than-1-800x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-rises-more-than-1-on-global-turmoil/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold rises more than 1% on global turmoil - Bullion Trading LLC",
+          "datePublished": "2019-09-16T11:17:12+00:00",
+          "dateModified": "2019-09-16T11:17:12+00:00",
+          "articleSection": "Gold, silver",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Spot gold jumped 1.27% to $1,507.40 per ounce while U.S. gold futures rose 0.83% to $1,512.1. The gold-backed SPDR Gold Trust exchange-traded fund was down",
+          "name": "Gold rises more than 1% on global turmoil - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-rises-more-than-1-on-global-turmoil/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-rises-more-than-1-on-global-turmoil/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/09/Gold-rises-more-than-1-800x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-rises-more-than-1-on-global-turmoil/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/four-ways-to-hold-gold-as-a-safe-haven-investment/",
+    "https://bulliontradingllc.com/blog/gold-rises-more-than-1-on-global-turmoil/",
+    "https://bulliontradingllc.com/blog/gold-to-keep-bullish-trend-next-week/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2019/09/Gold-rises-more-than-1-800x500-1-jpg.webp",
+      "alt": "Gold-rises-more-than-1-800×500"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

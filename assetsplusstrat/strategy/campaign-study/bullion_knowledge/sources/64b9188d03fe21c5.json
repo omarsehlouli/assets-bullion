@@ -1,0 +1,344 @@
+{
+  "metadata": {
+    "id": "64b9188d03fe21c5",
+    "url": "https://learn.bulliontradingllc.com/quiz/physical-platinum-investment-quiz/",
+    "title": "Physical Platinum Investment Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:43.863451+00:00",
+    "status": "fetched",
+    "bytes": 27614,
+    "text_characters": 313,
+    "sha256_html": "5fb19935f3db09f4c26e1e2c082c15c7eb109fcf9e33b0d6f464ee292673dd64",
+    "file": "sources/64b9188d03fe21c5.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of physical platinum ownership, storage options, premiums, and direct investment strategies.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/physical-platinum-investment-quiz/",
+  "text": "Physical Platinum Investment Quiz\nTest your knowledge of physical platinum ownership, storage options, premiums, and direct investment strategies.\nWhat are typical premiums for platinum bars in US markets?\nA\n1-2% over spot\nB\n2-4% over spot\nC\n5-7% over spot\nD\n8-10% over spot\n←\nBack to Physical Platinum Investment",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Platinum Investing",
+              "item": "https://learn.bulliontradingllc.com/guides/platinum-investing/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Physical Platinum Investment",
+              "item": "https://learn.bulliontradingllc.com/guides/platinum-investing/03-physical-platinum-investment/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Physical Platinum Investment Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Physical Platinum Investment Quiz",
+          "description": "Test your knowledge of physical platinum ownership, storage options, premiums, and direct investment strategies.",
+          "url": "https://learn.bulliontradingllc.com/quiz/physical-platinum-investment-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Physical Platinum Investment"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What are typical premiums for platinum bars in US markets?",
+              "text": "What are typical premiums for platinum bars in US markets?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "2-4% over spot",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Platinum bars in US markets typically carry premiums of 2-4% over spot price, making them the most cost-effective form of physical platinum ownership."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "1-2% over spot"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "5-7% over spot"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "8-10% over spot"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the minimum purity requirement for platinum coins like American Eagles?",
+              "text": "What is the minimum purity requirement for platinum coins like American Eagles?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "99.95% (.9995 fineness)",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "American Platinum Eagles and other major platinum coins have 99.95% purity (.9995 fineness), which is the standard for investment-grade platinum coins."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "99.9% (.999 fineness)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "99.99% (.9999 fineness)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "100% pure platinum"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What VAT rate do UK investors face on platinum purchases?",
+              "text": "What VAT rate do UK investors face on platinum purchases?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "20%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "UK investors face 20% VAT on platinum purchases, which is typically non-recoverable on resale, significantly impacting the cost of physical platinum investment."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "15%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "25%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "No VAT"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which storage option typically costs $50-200 annually?",
+              "text": "Which storage option typically costs $50-200 annually?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Bank safety deposit boxes",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Bank safety deposit boxes typically cost $50-200 annually, providing secure storage with banking regulations and insurance coverage."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Home safe storage"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Private depository storage"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Specialized precious metals insurance"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the main advantage of allocated storage over unallocated storage?",
+              "text": "What is the main advantage of allocated storage over unallocated storage?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Specific identified metals assigned to you",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Allocated storage provides segregated storage where specific identified metals are assigned to you, offering maximum security and clear chain of custody documentation."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Lower costs"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Better liquidity"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Easier trading capabilities"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What percentage of value do specialized precious metals insurance policies typically cost annually?",
+              "text": "What percentage of value do specialized precious metals insurance policies typically cost annually?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1-2%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Specialized precious metals insurance typically costs 1-2% of value annually, providing full replacement value coverage with no deductible and worldwide protection."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "0.5-1%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "2-3%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "3-5%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which platinum coin features changing designs each year?",
+              "text": "Which platinum coin features changing designs each year?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Australian Platinum Koala",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The Australian Platinum Koala from Perth Mint features changing koala designs each year, creating collectible appeal with limited mintages that can appreciate beyond metal value."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "American Platinum Eagle"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Canadian Platinum Maple Leaf"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Austrian Platinum Philharmonic"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "For significant platinum holdings, what storage amount threshold often makes professional allocated storage optimal?",
+              "text": "For significant platinum holdings, what storage amount threshold often makes professional allocated storage optimal?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Over $25,000",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "For significant platinum holdings exceeding $25,000, professional allocated storage often provides the optimal security-cost balance compared to home storage or bank deposit boxes."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Over $10,000"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Over $50,000"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Over $100,000"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

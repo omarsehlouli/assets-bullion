@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "id": "f43583067140fece",
+    "url": "https://bulliontradingllc.com/blog/steel-and-aluminum-lets-talk-about-gold/",
+    "title": "Steel and Aluminum? Let’s Talk About Gold - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:08.608077+00:00",
+    "status": "fetched",
+    "bytes": 97925,
+    "text_characters": 4677,
+    "sha256_html": "fa0a37570794a62a036bf9b17c6d23c47ad0d7ce769d602ad9986a890b328557",
+    "file": "sources/f43583067140fece.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "President Trump has rightly blamed bad trade deals, especially those with Mexico and China, for adding to this disaster. But the Federal Reserve should have a",
+  "canonical": "https://bulliontradingllc.com/blog/steel-and-aluminum-lets-talk-about-gold/",
+  "text": "President Trump has rightly blamed bad trade deals, especially those with Mexico and China, for adding to this disaster. But the Federal Reserve should have a share of the blame, too, because its inflationary policies evaluated U.S. makers from international trade. Because 2000, their prices have increased almost 50%, compared to about 25% for German rivals– matching the domestic inflation rates in each country. As an outcome, producers left the U.S., much the way American families have left high-tax states.\nMy constituents in West Virginia get little bit of the advantage from the Feds cash development and the majority of the drawback. They do not gain from speculative investment returns, however they do lose their houses and jobs when the regional plant decides to close due to the fact that its too expensive to contend from the U.S\nLike President Trump, I believe that success is again possible for Americans who go to work every day and build things. Mr. Trumps vision of how the American economy could and ought to work resonated with citizens in 2016. Returning to the gold requirement is a way for the president to deliver on his promise of American working-class success.\nThe option is to take control of the cash supply far from the Fed and offer it back to the American individuals– simply put, to go back to the gold requirement. Since of its misuse throughout the 20th century, gold gets a bad rap in some history books. This neglects its peacetime record of high growth and nil inflation between 1834 and 1913.\n. The current Federal Reserve system benefits elites. The gold standard is equitable and puts “we individuals” in control of the cash supply. Thats why it belonged to Americas starting and has been a key to the countrys long economic success.\nClouding the historic photo are two phony gold requirements. The Depression-era gold standard was built to make prices fall towards the levels that dominated before World War I, with the disastrous result of deflation. Under the Bretton Woods version after World War II, only foreign main banks could transform dollars into gold. This defect triggered inflation, which escalated after the Fed gained total control of the cash supply in the early 1970s.\nI think in complimentary trade, but I still understand why President Trump is enforcing tariffs on steel, aluminum and a series of Chinese products. Americas commercial workers have actually suffered for a very long time, and Mr. Trump is fighting to develop middle-class tasks.\nOn Thursday I introduced a costs that would return the dollar to the gold standard– the first such attempt since Jack Kemps Gold Standard Act of 1984. Under this legislation the Fed would still exist, however it would administer the cash supply rather than dictate it. Rather the marketplace would supervise, the supply and need for money would compare, and costs would be shaped by economics rather than the impulses of bureaucrats.\nHere is a good article about gold standards. , if you want to check out the original post checkout the link at the bottom of this post.\nWe discovered this excellent short article at https://www.wsj.com/articles/steel-and-aluminum-lets-talk-about-gold-1522005011 By: Alex X. Mooney and thought it would to our fans.\nThe solution is to take control of the cash supply away from the Fed and offer it back to the American individuals– in other words, to return to the gold standard. The Depression-era gold requirement was constructed to make prices fall towards the levels that dominated prior to World War I, with the devastating result of deflation. The gold standard is equitable and puts “we the individuals” in control of the cash supply. On Thursday I presented a bill that would return the dollar to the gold standard– the very first such effort since Jack Kemps Gold Standard Act of 1984. Returning to the gold standard is a way for the president to deliver on his promise of American working-class success.\n.\nAttaining that will take more than righting the last administrations wrongs on taxes and regulation, a task currently well under method. Blue-collar prosperity was deteriorated along with American production. From 2000-10, U.S. production employment diminished by a third after holding steady for 30 years.\nBecause then the U.S. has seesawed between too much and too little cash in the economy. Its efficiency worsened in the 2000s due to the fact that the Fed started to grade itself by how its money development enhanced the financial markets.\nbulliontrading\nView all posts\nPrevious Post\nSilver prices may break the December jinx with a take-off\nNext Post\nThis New Blockchain Platform Aims to Give Gold a Digital Edge",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/03/0180323160635-1170x500-1-jpg-webp.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2018/03/0180323160635-1170x500-1-jpg-webp.webp",
+          "width": "1170",
+          "height": "500",
+          "caption": "0180323160635-1170&#215;500",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/steel-and-aluminum-lets-talk-about-gold/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/steel-and-aluminum-lets-talk-about-gold/",
+                "name": "Steel and Aluminum? Let’s Talk About Gold"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/steel-and-aluminum-lets-talk-about-gold/#webpage",
+          "url": "https://bulliontradingllc.com/blog/steel-and-aluminum-lets-talk-about-gold/",
+          "name": "Steel and Aluminum? Let’s Talk About Gold - Bullion Trading LLC",
+          "datePublished": "2018-03-26T10:59:32+00:00",
+          "dateModified": "2018-03-26T10:59:32+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/03/0180323160635-1170x500-1-jpg-webp.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/steel-and-aluminum-lets-talk-about-gold/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Steel and Aluminum? Let’s Talk About Gold - Bullion Trading LLC",
+          "datePublished": "2018-03-26T10:59:32+00:00",
+          "dateModified": "2018-03-26T10:59:32+00:00",
+          "articleSection": "Gold, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "President Trump has rightly blamed bad trade deals, especially those with Mexico and China, for adding to this disaster. But the Federal Reserve should have a",
+          "name": "Steel and Aluminum? Let’s Talk About Gold - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/steel-and-aluminum-lets-talk-about-gold/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/steel-and-aluminum-lets-talk-about-gold/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/03/0180323160635-1170x500-1-jpg-webp.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/steel-and-aluminum-lets-talk-about-gold/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/silver-prices-may-break-the-december-jinx-with-a-take-off/",
+    "https://bulliontradingllc.com/blog/steel-and-aluminum-lets-talk-about-gold/",
+    "https://bulliontradingllc.com/blog/this-new-blockchain-platform-aims-to-give-gold-a-digital-edge/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2018/03/0180323160635-1170x500-1-jpg-webp.webp",
+      "alt": "0180323160635-1170×500"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

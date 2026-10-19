@@ -1,0 +1,63 @@
+1
+00:00:00,400 --> 00:00:01,710
+What actually sets the
+
+2
+00:00:01,720 --> 00:00:03,220
+price of a gold bar?
+
+3
+00:00:03,515 --> 00:00:04,795
+It starts with spot:
+
+4
+00:00:04,995 --> 00:00:06,375
+the live market price,
+
+5
+00:00:06,495 --> 00:00:07,925
+traded nearly around the clock,
+
+6
+00:00:07,935 --> 00:00:10,615
+from Sunday evening to Friday afternoon.
+
+7
+00:00:10,960 --> 00:00:12,470
+Then a premium covers what it
+
+8
+00:00:12,480 --> 00:00:15,600
+takes to make it and move it: refining,
+
+9
+00:00:15,780 --> 00:00:19,100
+minting, insurance, and shipping.
+
+10
+00:00:19,595 --> 00:00:21,365
+Our prices are built from live
+
+11
+00:00:21,375 --> 00:00:23,705
+quotes plus a transparent premium,
+
+12
+00:00:23,715 --> 00:00:25,125
+and reprice within
+
+13
+00:00:25,135 --> 00:00:26,835
+minutes when spot moves.
+
+14
+00:00:27,270 --> 00:00:29,060
+Follow gold, silver, platinum,
+
+15
+00:00:29,070 --> 00:00:31,070
+and palladium on our live charts.
+
+16
+00:00:31,435 --> 00:00:33,115
+Buy from Bullion Trading.

@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "bd4739c36922ab14",
+    "url": "https://bulliontradingllc.com/blog/improving-gold-market-to-lend-a-hand-to-underperforming-platinum/",
+    "title": "Improving Gold Market To Lend A Hand To Underperforming Platinum - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:54.644846+00:00",
+    "status": "fetched",
+    "bytes": 96418,
+    "text_characters": 3740,
+    "sha256_html": "43ce9a88efa5746fac48d933fc06ed7cd486d3ac588b7a652260322c342ccda7",
+    "file": "sources/bd4739c36922ab14.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "\" Sliding USD index, included rate expectations and issues surrounding threat appetite helped gold to trade near $1,200/ oz,\" TD Securities noted.",
+  "canonical": "https://bulliontradingllc.com/blog/improving-gold-market-to-lend-a-hand-to-underperforming-platinum/",
+  "text": "” Sliding USD index, included rate expectations and issues surrounding threat appetite helped gold to trade near $1,200/ oz,” TD Securities noted. “Disappointing U.S. inflation numbers sapped strength from the hypothesis that the Fed will stay on its dot plot course, which assisted to drive gold into $1,200/ oz territory as the USD was losing momentum.”\n” Platinum ought to see much better days ahead as the gold environments supports, the USD deteriorates, the CNY and South African Rand enhance and producers rightsize production to cut expenses,” said TD Securities head of global method Bart Melek.\nStabilizing EM economies as well as enhancing gold environment will help improve platinums need, TD Securities highlighted in its Commodities Weekly report.\n” Platinums close connection has actually been one of the factors why it has been hit so hard, as the gold environment ended up being increasingly difficult. Gold and therefore platinum also suffered as EM turmoil drove capital into the greenback,” Melek stated.\n” With the physical market most likely tightening up and materials dropping, the platinum forward curves are flattening and may follow palladium into a backwardated trajectory (albeit not quite yet), as customers are extending the length of their leases to secure product. Greater funding rates and the flattening curve are also likely to keep lease rates moving greater into 2019,” Melek wrote.\nA healthier gold market environment will work in favor of one of the most significant PGM under-performers of the year– platinum, according to TD Securities, which sees the metals rate striking $1,100 by the end of 2019.\nHere is a short article about how much healthier Gold market assistance underperforming Platinum. , if you desire to see the initial article you can discover a link at the end of this post.\nThe rare-earth element has actually been struggling for many of the year after hitting a high of $1,028 in early 2018.\nNow, things are lastly looking better for gold, with the valuable metal holding onto the $1,200 level. December gold futures were last trading at $1,202.80, down 0.25% on the day.\nNow, things are lastly looking much better for gold, with the valuable metal keeping the $1,200 level. According to Meleks rate projections, the yellow metal will end the year at $1,275 and after that climb towards $1,375 by the end of next year. December gold futures were last trading at $1,202.80, down 0.25% on the day.\nAt the time of writing, platinum was trading at $795.00, down 0.38% on the day, according to Kitcos aggregated charts. Melek projects for costs to rise to $900 by the end of this year and after that continue to reach $1,100 towards the end of next year.\nWe found this post at http://www.kitco.com/news/2018-09-17/Improving-Gold-Market-To-Lend-A-Hand-To-Underperforming-Platinum-TD-Securities.html By: Anna Golubova\n.\n” The metal is still some $150/oz lower than at the start of the year and is only trading at 80% of the palladium price,” Melek said.\n” Platinums close correlation has actually been one of the reasons it has actually been hit so hard, as the gold environment became increasingly hard. The yellow metal has actually suffered as traders started to re-price treasuries as they thought that strong United States growth, multi-decade low unemployment may effectively keep the Fed on its dot plot trajectory into 2019. Gold and therefore platinum also suffered as EM turmoil drove capital into the greenback,” Melek stated.\nPlatinums struggle has actually largely been tied to golds bad efficiency given that mid-April, the note explained.\nbulliontrading\nView all posts\nPrevious Post\nGold Prices Up After U.S. Data Releases\nNext Post\nWhy Investors Should Expect Gold To Jump",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/09/TDSecurities.png",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2018/09/TDSecurities.png",
+          "width": "630",
+          "height": "480",
+          "caption": "TDSecurities",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/improving-gold-market-to-lend-a-hand-to-underperforming-platinum/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/improving-gold-market-to-lend-a-hand-to-underperforming-platinum/",
+                "name": "Improving Gold Market To Lend A Hand To Underperforming Platinum"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/improving-gold-market-to-lend-a-hand-to-underperforming-platinum/#webpage",
+          "url": "https://bulliontradingllc.com/blog/improving-gold-market-to-lend-a-hand-to-underperforming-platinum/",
+          "name": "Improving Gold Market To Lend A Hand To Underperforming Platinum - Bullion Trading LLC",
+          "datePublished": "2018-09-24T10:09:48+00:00",
+          "dateModified": "2018-09-24T10:09:48+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/09/TDSecurities.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/improving-gold-market-to-lend-a-hand-to-underperforming-platinum/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Improving Gold Market To Lend A Hand To Underperforming Platinum - Bullion Trading LLC",
+          "datePublished": "2018-09-24T10:09:48+00:00",
+          "dateModified": "2018-09-24T10:09:48+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "&quot; Sliding USD index, included rate expectations and issues surrounding threat appetite helped gold to trade near $1,200/ oz,&quot; TD Securities noted.",
+          "name": "Improving Gold Market To Lend A Hand To Underperforming Platinum - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/improving-gold-market-to-lend-a-hand-to-underperforming-platinum/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/improving-gold-market-to-lend-a-hand-to-underperforming-platinum/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/09/TDSecurities.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/improving-gold-market-to-lend-a-hand-to-underperforming-platinum/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/gold-prices-up-after-u-s-data-releases/",
+    "https://bulliontradingllc.com/blog/improving-gold-market-to-lend-a-hand-to-underperforming-platinum/",
+    "https://bulliontradingllc.com/blog/why-investors-should-expect-gold-to-jump/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2018/09/TDSecurities.png",
+      "alt": "TDSecurities"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

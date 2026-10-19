@@ -1,0 +1,293 @@
+{
+  "metadata": {
+    "id": "c35cc8961aca48d5",
+    "url": "https://bulliontradingllc.com/blog/category/silver/",
+    "title": "silver - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:28.378419+00:00",
+    "status": "fetched",
+    "bytes": 125348,
+    "text_characters": 2285,
+    "sha256_html": "ac04b4953177c42f36fcabc632c8f72e1233db1e31ad16a553c1eae5eb3600ab",
+    "file": "sources/c35cc8961aca48d5.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Buy silver bullion for stacking, from 1 oz rounds to 100 oz bars and popular coins. BTLLC provides competitive pricing and secure shipping for your vault.",
+  "canonical": "https://bulliontradingllc.com/blog/category/silver/",
+  "text": "Silver Coins\nEducation\nPrecious Metals\nsilver\nThe Pittman Act: when America melted 270 million silver dollars\nIn the spring of 1918, the melting rooms at the Philadelphia Mint ran overtime. An electric\nBy\nbulliontrading\nOctober 5, 2026\nOctober 5, 2026\nEducation\nGold\nPrecious Metals\nsilver\nWhy Is Silver So Cheap Compared to Gold?\nOn September 15, 2026, an ounce of gold cost about $4,310 and an ounce of silver about $63.50.\nBy\nbulliontrading\nSeptember 15, 2026\nSeptember 15, 2026\nguide\nEducation\nsilver\nWhat is a monster box? The 500-coin silver buyer’s guide\nWalk up to a typical dealer counter for one Silver Eagle this week and you will pay about $70.\nBy\nbulliontrading\nJuly 23, 2026\nJuly 23, 2026\nSilver Coins\nsilver\nWhy Did the US Stop Making Silver Coins in 1965?\nWhy did the US stop making silver coins? Because silver got too valuable to spend. By the early\nBy\nbulliontrading\nJuly 6, 2026\nJuly 6, 2026\nEducation\nGold\nPrecious Metals\nsilver\nFlying With Gold and Silver: TSA Rules and Customs Limits\nYou packed a few gold coins and a couple of silver bars, zipped them into your carry-on, and\nBy\nbulliontrading\nJune 24, 2026\nJune 24, 2026\nEducation\nsilver\nThe Spanish Silver Fleets: How New World Treasure Shaped the Global Economy\nOne of the most consequential economic events in human history began not in a bank or a royal\nBy\nbulliontrading\nMay 18, 2026\nMay 18, 2026\nEducation\nGold\nsilver\nHow to Calculate the Melt Value of Silver Coins and Gold Jewelry\nGold cleared $4,700 per troy ounce in early 2026. Silver crossed $80. At those prices, the\nBy\nbulliontrading\nMay 8, 2026\nMay 8, 2026\nsilver\nEducation\nWhere Does Silver Come From? The Volcanic Origins of the World’s Most Useful Metal\nSilver sits in jewelry boxes, lines the circuits of smartphones, and backs the solar panels\nBy\nbulliontrading\nApril 15, 2026\nApril 15, 2026\nEducation\nsilver\nWhy Does Silver Tarnish? How to Prevent and Remove Tarnish on Silver Bullion\nIf you own silver bullion, you have probably noticed it: that dull, dark film that slowly\nBy\nbulliontrading\nApril 8, 2026\nApril 8, 2026\nnews\nsilver\nThe WallStreetBets Silver Squeeze of 2021: When Reddit Tried to Break the Silver Market\nIn late January 2021, a group of retail traders on\nBy\nbulliontrading\nApril 3, 2026\nApril 3, 2026\n1\n2\n…\n11\nOlder Posts",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/category/silver/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/silver/",
+                "name": "silver"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://bulliontradingllc.com/blog/category/silver/#webpage",
+          "url": "https://bulliontradingllc.com/blog/category/silver/",
+          "name": "silver - Bullion Trading LLC",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/category/silver/#breadcrumb"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/education/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/guide/",
+    "https://bulliontradingllc.com/blog/category/news/",
+    "https://bulliontradingllc.com/blog/category/precious-metals/",
+    "https://bulliontradingllc.com/blog/category/silver-coins/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/category/silver/page/11/",
+    "https://bulliontradingllc.com/blog/category/silver/page/2/",
+    "https://bulliontradingllc.com/blog/flying-with-gold-and-silver/",
+    "https://bulliontradingllc.com/blog/how-to-calculate-melt-value-silver-coins-gold-jewelry/",
+    "https://bulliontradingllc.com/blog/pittman-act/",
+    "https://bulliontradingllc.com/blog/silver-tarnishes-prevent-remove-tarnish/",
+    "https://bulliontradingllc.com/blog/spanish-silver-fleets/",
+    "https://bulliontradingllc.com/blog/the-wallstreetbets-silver-squeeze-of-2021-when-reddit-tried-to-break-the-silver-market/",
+    "https://bulliontradingllc.com/blog/what-is-a-monster-box/",
+    "https://bulliontradingllc.com/blog/where-does-silver-come-from/",
+    "https://bulliontradingllc.com/blog/why-did-the-us-stop-making-silver-coins/",
+    "https://bulliontradingllc.com/blog/why-is-silver-so-cheap-compared-to-gold/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2026/10/pittman-act.webp",
+      "alt": "Pittman Act"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/why-is-silver-so-cheap-compared-to-gold.webp",
+      "alt": "why is silver so cheap"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/07/monster-box-featured-final.webp",
+      "alt": "monster box"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/07/why-did-the-us-stop-making-silver-coins.webp",
+      "alt": "why did the US stop making silver coins"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/06/flying-with-gold-and-silver-1.webp",
+      "alt": "flying with gold and silver"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/05/The-Spanish-Silver-Fleets.webp",
+      "alt": "Spanish galleons sailing across the sea in formation"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/05/How-to-Calculate-the-Melt-Value-of-Silver-Coins-and-Gold-Jewelry.webp",
+      "alt": "Silver coins and gold jewelry arranged beside a calculator"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/04/Where-Does-Silver-Come-From.webp",
+      "alt": "Fiery volcanic lava flowing through dark rocky terrain"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/04/Why-Does-Silver-Tarnish.webp",
+      "alt": "Tarnished silver coin with darkened surface and worn details"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/04/The-WallStreetBets-Silver-Squeeze-of-2021.webp",
+      "alt": "Silver bars and coins stacked beside a rising market chart"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

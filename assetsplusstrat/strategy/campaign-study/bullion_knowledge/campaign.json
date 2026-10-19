@@ -1,0 +1,975 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "videos": [
+    {
+      "id": "first-piece",
+      "composition": "Bullion-YourFirstPiece",
+      "title": "Your first piece",
+      "audience": "First-time physical gold and silver buyers",
+      "scenes": [
+        {
+          "id": "hook",
+          "text": "Your first piece of gold or silver starts with a closer look.",
+          "headline": "Your first\npiece.",
+          "eyebrow": "GOLD & SILVER",
+          "visual": "hero"
+        },
+        {
+          "id": "choice",
+          "text": "Explore gold bars, silver coins, and rounds at Bullion Trading.",
+          "headline": "Find your\nkind of metal.",
+          "eyebrow": "BARS / COINS / ROUNDS",
+          "visual": "products"
+        },
+        {
+          "id": "details",
+          "text": "Compare weights, discover the details, and find the piece that fits your collection.",
+          "headline": "It's in\nthe details.",
+          "eyebrow": "A CLOSER LOOK",
+          "visual": "detail"
+        },
+        {
+          "id": "confidence",
+          "text": "With live, spot-based pricing and a New York team behind every order, take the next step.",
+          "headline": "A real team.\nA clear next step.",
+          "eyebrow": "ONLINE / NEW YORK CITY",
+          "visual": "trust"
+        },
+        {
+          "id": "cta",
+          "text": "Buy from Bullion Trading.",
+          "headline": "Buy from\nBullion Trading.",
+          "eyebrow": "YOUR NEXT PIECE STARTS HERE",
+          "visual": "cta"
+        }
+      ]
+    },
+    {
+      "id": "new-york",
+      "composition": "Bullion-NewYorkConnection",
+      "title": "A real New York connection",
+      "audience": "New York shoppers and buyers who value a physical dealer",
+      "scenes": [
+        {
+          "id": "hook",
+          "text": "In the heart of New York's Diamond District, precious metals are a hands-on experience.",
+          "headline": "New York.\nReal metal.",
+          "eyebrow": "THE DIAMOND DISTRICT",
+          "visual": "city"
+        },
+        {
+          "id": "heritage",
+          "text": "Bullion Trading has served buyers and sellers since two thousand eight.",
+          "headline": "Since\n2008.",
+          "eyebrow": "BUYING & SELLING PRECIOUS METALS",
+          "visual": "year"
+        },
+        {
+          "id": "visit",
+          "text": "Explore gold and silver online, or visit our counter on West Forty-Seventh Street.",
+          "headline": "Online.\nOr in person.",
+          "eyebrow": "20 WEST 47TH STREET",
+          "visual": "address"
+        },
+        {
+          "id": "people",
+          "text": "Real products. A real place. A team you can talk to.",
+          "headline": "Real products.\nReal people.",
+          "eyebrow": "A NEW YORK CONNECTION",
+          "visual": "trust"
+        },
+        {
+          "id": "cta",
+          "text": "Buy from Bullion Trading.",
+          "headline": "Buy from\nBullion Trading.",
+          "eyebrow": "MEET YOUR NEW YORK DEALER",
+          "visual": "cta"
+        }
+      ]
+    },
+    {
+      "id": "meaningful-gift",
+      "composition": "Bullion-AGiftWithMeaning",
+      "title": "A gift with meaning",
+      "audience": "Milestone and anniversary gift buyers",
+      "scenes": [
+        {
+          "id": "hook",
+          "text": "Some moments deserve more than an ordinary gift.",
+          "headline": "For moments\nthat matter.",
+          "eyebrow": "A GIFT WITH MEANING",
+          "visual": "gift"
+        },
+        {
+          "id": "milestones",
+          "text": "A silver anniversary. A golden milestone. A new tradition of your own.",
+          "headline": "Silver moments.\nGolden memories.",
+          "eyebrow": "CELEBRATE YOUR STORY",
+          "visual": "milestones"
+        },
+        {
+          "id": "selection",
+          "text": "Explore gold and silver pieces at Bullion Trading, from beautifully detailed bars to memorable coins and rounds.",
+          "headline": "Beautiful\nin every detail.",
+          "eyebrow": "GOLD & SILVER GIFTS",
+          "visual": "products"
+        },
+        {
+          "id": "keepsake",
+          "text": "Choose something they can hold, admire, and remember. Make the moment shine.",
+          "headline": "Hold it.\nRemember it.",
+          "eyebrow": "MAKE THE MOMENT SHINE",
+          "visual": "keepsake"
+        },
+        {
+          "id": "cta",
+          "text": "Buy from Bullion Trading.",
+          "headline": "Buy from\nBullion Trading.",
+          "eyebrow": "GIVE SOMETHING MEANINGFUL",
+          "visual": "cta"
+        }
+      ]
+    },
+    {
+      "id": "icons-of-gold",
+      "composition": "Bullion-IconsOfGold",
+      "title": "Icons of gold",
+      "audience": "Buyers who want recognized, world-famous coins and bars",
+      "scenes": [
+        {
+          "id": "hook",
+          "text": "Some gold coins are known all over the world.",
+          "headline": "Known the\nworld over.",
+          "eyebrow": "ICONS OF GOLD",
+          "visual": "icons"
+        },
+        {
+          "id": "icons",
+          "text": "The American Eagle. The Canadian Maple Leaf. The Krugerrand. The Britannia.",
+          "headline": "The icons.",
+          "eyebrow": "FOUR LEGENDS",
+          "visual": "rollcall"
+        },
+        {
+          "id": "bars",
+          "text": "And bars from names like PAMP Suisse, Valcambi, and the Perth Mint.",
+          "headline": "Names you know.",
+          "eyebrow": "BARS",
+          "visual": "bars"
+        },
+        {
+          "id": "shop",
+          "text": "Explore them at Bullion Trading, online or in New York's Diamond District.",
+          "headline": "Online.\nOr in New York.",
+          "eyebrow": "BULLION TRADING",
+          "visual": "shop"
+        },
+        {
+          "id": "cta",
+          "text": "Buy from Bullion Trading.",
+          "headline": "Buy from\nBullion Trading.",
+          "eyebrow": "THE ICONS ARE HERE",
+          "visual": "cta"
+        }
+      ]
+    },
+    {
+      "id": "makers-edge",
+      "composition": "Bullion-TheMakersEdge",
+      "title": "The Maker's Edge",
+      "audience": "Independent jewelers and jewelry manufacturers buying casting grain (NYC, LA, Miami)",
+      "closing": "dot com.",
+      "pacing": {
+        "lead": [
+          2.8,
+          0.8,
+          2.1,
+          1.2,
+          0.9
+        ],
+        "gap": 0.4,
+        "tail": 3.2
+      },
+      "scenes": [
+        {
+          "id": "element",
+          "text": "You don't build a masterpiece on weak foundations. And you don't scale a jewelry business by paying outrageous milling fees.",
+          "headline": "",
+          "eyebrow": "THE RAW ELEMENT",
+          "visual": "forge",
+          "caption": []
+        },
+        {
+          "id": "frustration",
+          "text": "When other dealers charge you ten to fifteen dollars over spot just for casting grain, they aren't just taking your money. They are eating your profit margins. They are taxing your craft.",
+          "headline": "",
+          "eyebrow": "THE PROBLEM",
+          "visual": "invoice",
+          "caption": [
+            [
+              "ten to fifteen dollars",
+              "$10\u2013$15"
+            ]
+          ]
+        },
+        {
+          "id": "arsenal",
+          "text": "Welcome to Bullion Trading LLC. We supply the makers. Pure gold, sterling silver, and platinum casting grain. No hidden markups. No extortionate premiums. Just the raw, high-purity materials you need, priced fairly.",
+          "headline": "",
+          "eyebrow": "THE ARSENAL",
+          "visual": "vault",
+          "caption": []
+        },
+        {
+          "id": "district",
+          "text": "Located right in the heart of New York's Diamond District. Need it today? Walk into our showroom on Forty-Seventh Street and walk out with your grain. Not in New York? We ship fully insured, same day, anywhere in the country.",
+          "headline": "",
+          "eyebrow": "THE 47TH STREET ADVANTAGE",
+          "visual": "district",
+          "caption": [
+            [
+              "Forty-Seventh Street",
+              "47th Street"
+            ]
+          ]
+        },
+        {
+          "id": "cta",
+          "text": "Protect your margins. Perfect your craft. Visit the wholesale desk at twenty West Forty-Seventh Street, or lock in your live price right now at Bullion Trading LLC dot com.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "cta",
+          "caption": [
+            [
+              "twenty West Forty-Seventh Street",
+              "20 West 47th Street"
+            ],
+            [
+              "Bullion Trading LLC dot com",
+              "BullionTradingLLC.com"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "traditions",
+      "group": "premium-2",
+      "composition": "Bullion-Traditions",
+      "title": "Traditions in gold & silver",
+      "audience": "Families marking cultural and religious milestones",
+      "source": [
+        "https://bulliontradingllc.com/traditions/"
+      ],
+      "scenes": [
+        {
+          "id": "hook",
+          "text": "Across cultures, life's biggest moments are marked in gold and silver.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "hook"
+        },
+        {
+          "id": "arras",
+          "text": "Thirteen gold coins, blessed and passed hand to hand at a wedding.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "arras"
+        },
+        {
+          "id": "pidyon",
+          "text": "Five silver coins, on a firstborn son's thirty-first day.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "pidyon"
+        },
+        {
+          "id": "dhanteras",
+          "text": "A piece of gold on Dhun-teh-rus, to welcome Lukshmee home.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "dhanteras",
+          "caption": [
+            [
+              "Dhun-teh-rus",
+              "Dhanteras"
+            ],
+            [
+              "Lukshmee",
+              "Lakshmi"
+            ]
+          ]
+        },
+        {
+          "id": "lunar",
+          "text": "A gold coin in a red envelope for the Lunar New Year.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "lunar"
+        },
+        {
+          "id": "sovereign",
+          "text": "And a gold sovereign at twenty-one, the key of the door.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "sovereign"
+        },
+        {
+          "id": "cta",
+          "text": "Buy from Bullion Trading.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "cta"
+        }
+      ]
+    },
+    {
+      "id": "sell-to-us",
+      "group": "premium-2",
+      "composition": "Bullion-SellToUs",
+      "title": "Sell to us",
+      "closing": "Sell it to Bullion Trading.",
+      "audience": "Owners of gold and silver who want to sell",
+      "source": [
+        "https://bulliontradingllc.com/sell-to-us/"
+      ],
+      "scenes": [
+        {
+          "id": "hook",
+          "text": "Thinking of selling your gold or silver?",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "hook"
+        },
+        {
+          "id": "prices",
+          "text": "Our buyback prices are published online, and they update with the market.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "prices"
+        },
+        {
+          "id": "lock",
+          "text": "Pick your products and lock in your price, any time, day or night.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "lock"
+        },
+        {
+          "id": "ship",
+          "text": "Then ship them to us with the label we provide.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "ship"
+        },
+        {
+          "id": "pay",
+          "text": "After inspection and approval, you're paid in one to three business days.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "pay"
+        },
+        {
+          "id": "cta",
+          "text": "Sell it to Bullion Trading.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "cta"
+        }
+      ]
+    },
+    {
+      "id": "real-or-fake",
+      "group": "premium-2",
+      "composition": "Bullion-RealOrFake",
+      "title": "Real or fake?",
+      "audience": "Buyers who want to verify authenticity",
+      "source": [
+        "https://bulliontradingllc.com/blog/safety-week-spotting-fake-gold-and-silver/",
+        "https://bulliontradingllc.com/blog/safety-week-assays-and-certificates/"
+      ],
+      "scenes": [
+        {
+          "id": "hook",
+          "text": "Real gold, or fake? Here are five checks the pros use.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "hook"
+        },
+        {
+          "id": "magnet",
+          "text": "Gold and silver aren't magnetic, so a magnet won't stick.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "magnet"
+        },
+        {
+          "id": "ice",
+          "text": "Silver carries heat so well that ice starts melting on it right away.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "ice"
+        },
+        {
+          "id": "ping",
+          "text": "Tap a coin, and real metal rings for a second or two.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "ping"
+        },
+        {
+          "id": "specs",
+          "text": "Its weight and size should match the published specifications.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "specs"
+        },
+        {
+          "id": "serial",
+          "text": "And on a certified bar, the serial number should match the certificate.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "serial"
+        },
+        {
+          "id": "source",
+          "text": "Best of all, buy from a dealer you can trust.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "source"
+        },
+        {
+          "id": "cta",
+          "text": "Buy from Bullion Trading.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "cta"
+        }
+      ]
+    },
+    {
+      "id": "spot-to-store",
+      "group": "premium-2",
+      "composition": "Bullion-SpotToStore",
+      "title": "From spot to store",
+      "audience": "Buyers curious how bullion is priced",
+      "source": [
+        "https://bulliontradingllc.com/charts/",
+        "https://bulliontradingllc.com/blog/understanding-gold-premiums-an-in-depth-guide/"
+      ],
+      "scenes": [
+        {
+          "id": "hook",
+          "text": "What actually sets the price of a gold bar?",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "hook"
+        },
+        {
+          "id": "spot",
+          "text": "It starts with spot: the live market price, traded nearly around the clock, from Sunday evening to Friday afternoon.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "spot"
+        },
+        {
+          "id": "premium",
+          "text": "Then a premium covers what it takes to make it and move it: refining, minting, insurance, and shipping.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "premium"
+        },
+        {
+          "id": "store",
+          "text": "Our prices are built from live quotes plus a transparent premium, and reprice within minutes when spot moves.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "store"
+        },
+        {
+          "id": "charts",
+          "text": "Follow gold, silver, platinum, and palladium on our live charts.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "charts"
+        },
+        {
+          "id": "cta",
+          "text": "Buy from Bullion Trading.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "cta"
+        }
+      ]
+    },
+    {
+      "id": "bullion-tax",
+      "group": "premium-2",
+      "composition": "Bullion-TaxByState",
+      "title": "Bullion tax, state by state",
+      "audience": "US buyers asking about sales tax",
+      "source": [
+        "https://bulliontradingllc.com/bullion-tax/",
+        "https://bulliontradingllc.com/bullion-tax/new-york/"
+      ],
+      "scenes": [
+        {
+          "id": "hook",
+          "text": "Will you pay sales tax on gold and silver? That depends on your state.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "hook"
+        },
+        {
+          "id": "basics",
+          "text": "Investment bullion is tax-free in most states. Collector coins are usually taxed, and jewelry always is.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "basics"
+        },
+        {
+          "id": "minimum",
+          "text": "Some states set a minimum. In New York, qualifying orders of a thousand dollars or more are tax-free.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "minimum"
+        },
+        {
+          "id": "guide",
+          "text": "Find your state in our plain-English bullion tax guide.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "guide"
+        },
+        {
+          "id": "cta",
+          "text": "Buy from Bullion Trading.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "cta"
+        }
+      ]
+    },
+    {
+      "id": "faq-real-gold",
+      "group": "premium-3",
+      "composition": "Bullion-FAQ-RealGold",
+      "title": "How do I know the gold is real?",
+      "audience": "First-time and cautious buyers",
+      "source": [
+        "Owner FAQ supplied by the client (Oct 2026)",
+        "https://bulliontradingllc.com/blog/safety-week-spotting-fake-gold-and-silver/"
+      ],
+      "scenes": [
+        {
+          "id": "question",
+          "text": "How do you know gold is real, before you buy it?",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "question"
+        },
+        {
+          "id": "intro",
+          "text": "Start with five checks the pros use.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "intro"
+        },
+        {
+          "id": "magnet",
+          "text": "Gold and silver aren't magnetic, so a magnet won't stick.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "magnet"
+        },
+        {
+          "id": "ice",
+          "text": "Silver carries heat so well that ice starts melting on it right away.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "ice"
+        },
+        {
+          "id": "ping",
+          "text": "Tap a coin, and real metal rings for a second or two.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "ping"
+        },
+        {
+          "id": "specs",
+          "text": "Its weight and size should match the published specifications.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "specs"
+        },
+        {
+          "id": "serial",
+          "text": "And on a certified bar, the serial number should match the certificate.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "serial"
+        },
+        {
+          "id": "office",
+          "text": "At our Manhattan office, we'll test your gold on our testing equipment, right in front of you.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "office"
+        },
+        {
+          "id": "shipping",
+          "text": "Before anything ships, we inspect and test it, and keep records of what we send.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "shipping"
+        },
+        {
+          "id": "verify",
+          "text": "We never just assume a bar or coin is genuine. We verify it.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "verify"
+        },
+        {
+          "id": "cta",
+          "text": "Buy from Bullion Trading.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "cta"
+        }
+      ]
+    },
+    {
+      "id": "faq-sell-in-person",
+      "group": "premium-3",
+      "composition": "Bullion-FAQ-SellInPerson",
+      "title": "Selling gold in person",
+      "closing": "Sell it to Bullion Trading.",
+      "audience": "Owners selling gold over the counter",
+      "source": [
+        "Owner FAQ supplied by the client (Oct 2026)"
+      ],
+      "scenes": [
+        {
+          "id": "question",
+          "text": "What happens when you sell gold to a dealer in person?",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "question"
+        },
+        {
+          "id": "quick",
+          "text": "For most common gold bars and coins, it's quick.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "quick"
+        },
+        {
+          "id": "look",
+          "text": "First, a visual inspection. We buy and sell bullion every day, so we know how major coins and bars should look, feel, and measure.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "look"
+        },
+        {
+          "id": "test",
+          "text": "Next, we verify it on our precious-metals testing equipment, and weigh it to confirm the weight.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "test",
+          "caption": [
+            [
+              "precious metals",
+              "precious-metals"
+            ]
+          ]
+        },
+        {
+          "id": "quote",
+          "text": "Then we check the current spot price, and give you our quote.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "quote"
+        },
+        {
+          "id": "pay",
+          "text": "Accept it, and you're paid right away. No sending it off for testing. No lengthy approval.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "pay"
+        },
+        {
+          "id": "time",
+          "text": "For a standard bar or coin, it typically takes just three to six minutes, from inspection to payment.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "time"
+        },
+        {
+          "id": "cta",
+          "text": "Sell it to Bullion Trading.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "cta"
+        }
+      ]
+    },
+    {
+      "id": "faq-bar-or-eagle",
+      "group": "premium-3",
+      "composition": "Bullion-FAQ-BarOrEagle",
+      "title": "1 oz bar or Gold Eagle?",
+      "audience": "Buyers choosing their first ounce",
+      "source": [
+        "Owner FAQ supplied by the client (Oct 2026)"
+      ],
+      "scenes": [
+        {
+          "id": "question",
+          "text": "Is it better to buy a one-ounce gold bar, or an American Gold Eagle?",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "question",
+          "caption": [
+            [
+              "American gold eagle",
+              "American Gold Eagle"
+            ],
+            [
+              "one ounce",
+              "one-ounce"
+            ]
+          ]
+        },
+        {
+          "id": "answer",
+          "text": "There's no single answer, because preferences change.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "answer"
+        },
+        {
+          "id": "years",
+          "text": "Our owner has spent more than thirty years in precious metals, and has watched it happen.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "years"
+        },
+        {
+          "id": "maple",
+          "text": "Years ago, buyers favored government coins, especially the Canadian Gold Maple Leaf: twenty-four karat, point nine nine nine nine fine.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "maple",
+          "caption": [
+            [
+              "24 carat.9999",
+              "24-karat, .9999 fine"
+            ],
+            [
+              "gold maple leaf",
+              "Gold Maple Leaf"
+            ]
+          ]
+        },
+        {
+          "id": "eagle",
+          "text": "Then many moved to the American Gold Eagle. A little alloy makes it harder and more scratch-resistant, and it still holds a full troy ounce of gold.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "eagle"
+        },
+        {
+          "id": "bars",
+          "text": "Over roughly the past year, one-ounce bars have overtaken coins with our customers, along with smaller gram bars.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "bars",
+          "caption": [
+            [
+              "one ounce",
+              "one-ounce"
+            ]
+          ]
+        },
+        {
+          "id": "choose",
+          "text": "Eagles remain highly recognizable and liquid. The best choice depends on the premium, how much you're buying, and your preference.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "choose"
+        },
+        {
+          "id": "cta",
+          "text": "Buy from Bullion Trading.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "cta"
+        }
+      ],
+      "pacing": {
+        "gap": 0.32,
+        "tail": 2.2
+      }
+    },
+    {
+      "id": "faq-premium",
+      "group": "premium-3",
+      "composition": "Bullion-FAQ-Premium",
+      "title": "How much over spot?",
+      "audience": "Price-conscious buyers",
+      "source": [
+        "Owner FAQ supplied by the client (Oct 2026)"
+      ],
+      "scenes": [
+        {
+          "id": "question",
+          "text": "How much over spot should you really pay for gold?",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "question",
+          "caption": [
+            [
+              "overspot",
+              "over spot"
+            ]
+          ]
+        },
+        {
+          "id": "answer",
+          "text": "There's no fixed premium. It can change throughout the day.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "answer"
+        },
+        {
+          "id": "compare",
+          "text": "We constantly compare prices across the bullion market, and adjust for competition, inventory, and supply and demand.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "compare"
+        },
+        {
+          "id": "example",
+          "text": "The same item might be fifty dollars over spot in the morning, thirty a few hours later, and eighty or ninety later that day.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "example"
+        },
+        {
+          "id": "inventory",
+          "text": "When a dealer has plenty of Gold Eagles or one-ounce bars, the premium may drop to move that inventory.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "inventory",
+          "caption": [
+            [
+              "gold eagles",
+              "Gold Eagles"
+            ],
+            [
+              "one ounce",
+              "one-ounce"
+            ]
+          ]
+        },
+        {
+          "id": "market",
+          "text": "So it isn't a permanent markup. The market largely sets it.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "market"
+        },
+        {
+          "id": "tip",
+          "text": "To judge a premium, compare what reputable dealers charge for that exact product, at that moment.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "tip"
+        },
+        {
+          "id": "cta",
+          "text": "Buy from Bullion Trading.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "cta"
+        }
+      ]
+    },
+    {
+      "id": "faq-pickup",
+      "group": "premium-3",
+      "composition": "Bullion-FAQ-Pickup",
+      "title": "Same-day pickup in Manhattan?",
+      "audience": "New York buyers who want their metal today",
+      "source": [
+        "Owner FAQ supplied by the client (Oct 2026)"
+      ],
+      "scenes": [
+        {
+          "id": "question",
+          "text": "Can you buy gold online and pick it up in Manhattan the same day?",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "question"
+        },
+        {
+          "id": "answer",
+          "text": "Sometimes. It depends on how you pay.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "answer"
+        },
+        {
+          "id": "office",
+          "text": "With a physical office in Midtown Manhattan, you can arrange to pick up your bullion in person.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "office"
+        },
+        {
+          "id": "bankcheck",
+          "text": "For same-day pickup, a bank check is usually easiest. Come in, confirm your purchase and price, and tell us which bank you'll use.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "bankcheck"
+        },
+        {
+          "id": "release",
+          "text": "Come back with the bank check, and once we verify it, we can usually release your bullion that same day.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "release"
+        },
+        {
+          "id": "others",
+          "text": "A wire transfer typically means a two-day wait. A personal or business check is held until it clears, generally about five business days. And credit card orders generally must be shipped.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "others"
+        },
+        {
+          "id": "contact",
+          "text": "If same-day pickup matters, contact us before you come in.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "contact"
+        },
+        {
+          "id": "cta",
+          "text": "Buy from Bullion Trading.",
+          "headline": "",
+          "eyebrow": "",
+          "visual": "cta"
+        }
+      ],
+      "pacing": {
+        "gap": 0.32,
+        "tail": 2.2
+      }
+    }
+  ]
+}

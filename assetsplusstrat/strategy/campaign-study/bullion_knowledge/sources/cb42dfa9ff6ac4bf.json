@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "cb42dfa9ff6ac4bf",
+    "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2017/",
+    "title": "Silver Price in 2017 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:21.244731+00:00",
+    "status": "fetched",
+    "bytes": 19503,
+    "text_characters": 1222,
+    "sha256_html": "9f920eb770d16c7875c699ea4bab2b36dd389e3bdab7a88cfb1c4f2b817d14cf",
+    "file": "sources/cb42dfa9ff6ac4bf.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Silver in 2017: 12 monthly observations, 2017-01-31 to 2017-12-29. Sampled high $18.28, low $16.47; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/silver-price-in-2017/",
+  "text": "Silver Price in 2017\nAmong 12 monthly observations available for 2017, the LBMA silver price fell 2.5% between 2017-01-31 ($17.29) and 2017-12-29 ($16.87). The highest sampled price was $18.28 in February and the lowest was $16.47 in June. The mean of these observations was $17.17. This is a first-to-last observation change, not a calendar-year return.\n2017 silver price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$17.29\n(2017-01-31)\n$18.28\n(February)\n$16.47\n(June)\n$16.87\n(2017-12-29)\n$17.17\nGBP\n£13.87\n(2017-01-31)\n£14.70\n(February)\n£12.32\n(November)\n£12.48\n(2017-12-29)\n£13.25\nEUR\n€16.08\n(2017-01-31)\n€17.24\n(February)\n€14.00\n(November)\n€14.07\n(2017-12-29)\n€15.14\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live silver price on the\nBullion Trading LLC spot dashboard\n, or\nshop silver bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Silver price history",
+              "item": "https://learn.bulliontradingllc.com/charts/silver-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "2017"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Silver price in 2017 — LBMA monthly fix",
+          "description": "Silver in 2017: 12 monthly observations, 2017-01-31 to 2017-12-29. Sampled high $18.28, low $16.47; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2017/",
+          "temporalCoverage": "2017-01-31/2017-12-29",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

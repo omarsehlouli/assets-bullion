@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "id": "a02699251160af25",
+    "url": "https://bulliontradingllc.com/blog/central-banks-are-buying-the-most-gold-since-the-end-of-world-war-ii-heres-why/",
+    "title": "Central banks are buying the most gold since the end of World War II — here's why - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:28.587762+00:00",
+    "status": "fetched",
+    "bytes": 96662,
+    "text_characters": 2841,
+    "sha256_html": "80528a77c824612306d1d771e04b702cd6e2ebb5a43b23d79279281cff9fd670",
+    "file": "sources/a02699251160af25.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Gold holdings had actually been on the decrease for several years however have seen a clear increase just recently.",
+  "canonical": "https://bulliontradingllc.com/blog/central-banks-are-buying-the-most-gold-since-the-end-of-world-war-ii-heres-why/",
+  "text": "Gold holdings had actually been on the decrease for several years however have seen a clear increase just recently.\n.\nIn addition to its value associated to inflation, gold is most likely to see demand boost, while supply will remain “flat at best,” Bernstein stated, boosting its value to reserve banks and financiers alike. “As with any other product, robust need and weak supply indicates cost gratitude,” Bernsteins analysts wrote.\nThe near-record buildup in government financial obligation internationally, particularly in the US, makes other perceived risk-free assets less attractive.\nGold is trading at $1,310 an ounce, up nearly 10% from its recent low in September.\nHere is an article about why Central Bank are buying gold given that completion of World War 2. , if you desire to view the original material you can discover the link at the end of the post.\nReserve banks have purchased the most gold considering that the end of World War II, with the commodity ending up being a significantly valuable hedge against growing global instability.\nGold is seen to have returns comparable to equities in the current cycle, and a dip in supply makes it a more important property for central banks and financiers alike.\n” Beyond simply the threat of inflation, it is likewise remarkable that, for the very first time given that completion of Bretton Woods and, undoubtedly, because completion of the Second World War, main bank purchasing of gold has in fact increased,” a note sent to customers by the company stated on Monday.\nWe found this great article at https://www.businessinsider.com/central-banks-buy-gold-at-rate-not-seen-since-wwii-2019-2 By: Callum Burroughs\nReserve banks have been purchasing up gold at a rate not seen given that World War II as issues about geopolitics and the strong dollar see a shift in appreciation for the quintessential safe asset.\nA broad combination of factors have actually resulted in golds resurgence, according to the research firm Bernstein. They consist of geopolitical danger, issues about government financial obligation, supply issues, and the perception that gold gives much better returns over other assets.\nEqually, the case for gold purchases is boosted by the near-record levels of government financial obligation in the US, which makes other possible risk-free assets more questionable and might increase inflation figures.\nBernstein likewise explain that beyond the discussion about main banks holdings of gold is its increase in use over jewelry. Both public and private “financial” holding of gold have actually surpassed precious jewelry need as the primary source of need development for gold in the last few years, according to Bernstein.\nbulliontrading\nView all posts\nPrevious Post\nGold Finds Its Wings Again\nNext Post\nGold Price Nears a Fresh 10-Month High as US Dollar Dips",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/02/centran-banks-buying-gold-1170x500-1-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2019/02/centran-banks-buying-gold-1170x500-1-jpg.webp",
+          "width": "1170",
+          "height": "500",
+          "caption": "centran-banks-buying-gold-1170&#215;500",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/central-banks-are-buying-the-most-gold-since-the-end-of-world-war-ii-heres-why/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/central-banks-are-buying-the-most-gold-since-the-end-of-world-war-ii-heres-why/",
+                "name": "Central banks are buying the most gold since the end of World War II — here&#8217;s why"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/central-banks-are-buying-the-most-gold-since-the-end-of-world-war-ii-heres-why/#webpage",
+          "url": "https://bulliontradingllc.com/blog/central-banks-are-buying-the-most-gold-since-the-end-of-world-war-ii-heres-why/",
+          "name": "Central banks are buying the most gold since the end of World War II — here&#039;s why - Bullion Trading LLC",
+          "datePublished": "2019-02-11T10:05:59+00:00",
+          "dateModified": "2019-02-11T10:05:59+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/02/centran-banks-buying-gold-1170x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/central-banks-are-buying-the-most-gold-since-the-end-of-world-war-ii-heres-why/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Central banks are buying the most gold since the end of World War II — here&#039;s why - Bullion Trading LLC",
+          "datePublished": "2019-02-11T10:05:59+00:00",
+          "dateModified": "2019-02-11T10:05:59+00:00",
+          "articleSection": "Gold, Uncategorized",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Gold holdings had actually been on the decrease for several years however have seen a clear increase just recently.",
+          "name": "Central banks are buying the most gold since the end of World War II — here&#039;s why - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/central-banks-are-buying-the-most-gold-since-the-end-of-world-war-ii-heres-why/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/central-banks-are-buying-the-most-gold-since-the-end-of-world-war-ii-heres-why/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/02/centran-banks-buying-gold-1170x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/central-banks-are-buying-the-most-gold-since-the-end-of-world-war-ii-heres-why/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/uncategorized/",
+    "https://bulliontradingllc.com/blog/central-banks-are-buying-the-most-gold-since-the-end-of-world-war-ii-heres-why/",
+    "https://bulliontradingllc.com/blog/gold-finds-its-wings-again/",
+    "https://bulliontradingllc.com/blog/gold-price-nears-a-fresh-10-month-high-as-us-dollar-dips/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2019/02/centran-banks-buying-gold-1170x500-1-jpg.webp",
+      "alt": "centran-banks-buying-gold-1170×500"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

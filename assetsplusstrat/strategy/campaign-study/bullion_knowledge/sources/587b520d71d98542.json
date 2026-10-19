@@ -1,0 +1,293 @@
+{
+  "metadata": {
+    "id": "587b520d71d98542",
+    "url": "https://bulliontradingllc.com/blog/category/news/",
+    "title": "news - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:27.434418+00:00",
+    "status": "fetched",
+    "bytes": 124352,
+    "text_characters": 2533,
+    "sha256_html": "d19f8be3a24f85ce869c9a6d74e978627a218843ebcade475d1c94f6545eed09",
+    "file": "sources/587b520d71d98542.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Read gold, silver, platinum and palladium news with market moves and product updates from BTLLC, backed by competitive pricing and secure shipping plus alerts.",
+  "canonical": "https://bulliontradingllc.com/blog/category/news/",
+  "text": "news\nGold\nGold Market & Economics\nGold rally August 2026: from $4,000 to $4,600, explained\nGold started August 2026 near $4,000 an ounce, a level it had been grinding around since the\nBy\nbulliontrading\nAugust 24, 2026\nAugust 24, 2026\nnews\nGold Market & Economics\nPrecious Metals\nThe Rosland Capital Collapse: What Went Wrong and What Gold Buyers Should Learn\nOn July 2, 2026, one of the most heavily advertised names in retail gold filed for\nBy\nbulliontrading\nJuly 8, 2026\nJuly 8, 2026\nGold\nGold Market & Economics\nnews\nSovereign Wealth Funds and Gold: Why the World’s Largest Investors Are Accumulating the Metal\nGold crossed $5,405 per ounce in January 2026 before pulling back, and the narrative in\nBy\nbulliontrading\nMay 4, 2026\nMay 4, 2026\nnews\nEducation\nGold\nBasel III and Gold as HQLA: What the Reclassification Means for Gold Prices\nFor decades, the global gold market operated on a simple but fragile architecture. Bullion\nBy\nbulliontrading\nApril 20, 2026\nApril 20, 2026\nnews\nsilver\nThe WallStreetBets Silver Squeeze of 2021: When Reddit Tried to Break the Silver Market\nIn late January 2021, a group of retail traders on\nBy\nbulliontrading\nApril 3, 2026\nApril 3, 2026\nGold\nGold Market & Economics\nguide\nnews\nGold Prices During Military Conflicts: How Wars Have Shaped the Safe Haven Trade From the Gulf War to Iran\nWhen tanks roll across borders or missiles light up the night sky, one of the first things\nBy\nbulliontrading\nMarch 23, 2026\nMarch 23, 2026\nGold\nGold Market & Economics\nnews\nsilver\nGold Silver Correction 2026: Why the Pullback After January’s Record Rally Is Normal\nEarlier this year, gold and silver staged one of the most explosive rallies the precious metals\nBy\nbulliontrading\nMarch 5, 2026\nMarch 5, 2026\nGold Market & Economics\nnews\nsilver\nGold and Silver Price Crash January 2026: What Triggered the Historic Precious Metals Selloff\nThe precious metals market experienced one of its most turbulent weeks in history at the end of\nBy\nbulliontrading\nFebruary 2, 2026\nFebruary 2, 2026\nnews\nGold\nGold Market & Economics\nsilver\nBloomberg Commodity Index Rebalancing 2026: What Silver and Gold Investors Need to Know\nIf you’ve been scrolling through social media or precious metals forums over the past few\nBy\nbulliontrading\nJanuary 8, 2026\nJanuary 8, 2026\nnews\nsilver\nPaper Silver vs Physical Silver Price Disconnect 2026: What’s Really Happening\nSocial media has been going crazy lately about silver. You have probably seen the posts: rumors\nBy\nbulliontrading\nJanuary 7, 2026\nJanuary 7, 2026\n1\n2\n…\n4\nOlder Posts",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/category/news/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/news/",
+                "name": "news"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://bulliontradingllc.com/blog/category/news/#webpage",
+          "url": "https://bulliontradingllc.com/blog/category/news/",
+          "name": "news - Bullion Trading LLC",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/category/news/#breadcrumb"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/basel-iii-gold-as-hqla-reclassification/",
+    "https://bulliontradingllc.com/blog/bloomberg-commodity-index-rebalancing/",
+    "https://bulliontradingllc.com/blog/category/education/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/category/guide/",
+    "https://bulliontradingllc.com/blog/category/news/",
+    "https://bulliontradingllc.com/blog/category/news/page/2/",
+    "https://bulliontradingllc.com/blog/category/news/page/4/",
+    "https://bulliontradingllc.com/blog/category/precious-metals/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/gold-and-silver-price-crash-january-2026/",
+    "https://bulliontradingllc.com/blog/gold-prices-during-military-conflicts-gulf-war-to-iran/",
+    "https://bulliontradingllc.com/blog/gold-rally-august-2026/",
+    "https://bulliontradingllc.com/blog/gold-silver-correction-2026-pullback/",
+    "https://bulliontradingllc.com/blog/paper-silver-vs-physical-silver-price-disconnect-2026/",
+    "https://bulliontradingllc.com/blog/rosland-capital-bankruptcy-what-went-wrong/",
+    "https://bulliontradingllc.com/blog/sovereign-wealth-funds-and-gold/",
+    "https://bulliontradingllc.com/blog/the-wallstreetbets-silver-squeeze-of-2021-when-reddit-tried-to-break-the-silver-market/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2026/08/gold-rally-august-2026.webp",
+      "alt": "gold rally August 2026"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/07/rosland-capital-bankruptcy-what-went-wrong-1.webp",
+      "alt": "Rosland Capital bankruptcy"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/05/Sovereign-Wealth-Fund.webp",
+      "alt": "Gold bars stacked beside a globe on a dark surface"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/04/Basel-III-and-Gold-as-HQLA.webp",
+      "alt": "Stacked gold bars beside Basel III paperwork"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/04/The-WallStreetBets-Silver-Squeeze-of-2021.webp",
+      "alt": "Silver bars and coins stacked beside a rising market chart"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/03/Gold-Prices-During-Military-Conflicts.webp",
+      "alt": "Gold price chart showing spikes during military conflicts"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/03/Gold-Silver-Correction-2026.webp",
+      "alt": "Gold and silver price chart with recent rally and correction"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/02/Gold-and-Silver-Price-Crash-January-2026.webp",
+      "alt": "Gold and silver price chart showing a sharp market crash"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/01/Bloomberg-Commodity-Index-Rebalancing-2026.webp",
+      "alt": "Bloomberg commodity index chart displayed on a laptop screen"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/01/Paper-Silver-vs-Physical-Silver-Price-Disconnect-2026-Whats-Really-Happening.webp",
+      "alt": "paper silver vs physical silver price disconnect"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

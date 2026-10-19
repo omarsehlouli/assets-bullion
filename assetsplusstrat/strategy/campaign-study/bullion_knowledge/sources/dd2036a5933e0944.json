@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "id": "dd2036a5933e0944",
+    "url": "https://learn.bulliontradingllc.com/quiz/introduction-silver-investing-quiz/",
+    "title": "Introduction to Silver Investing Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:42.780519+00:00",
+    "status": "fetched",
+    "bytes": 26805,
+    "text_characters": 313,
+    "sha256_html": "dd2f0f6c287303bee9a0b2728436aabac9792e16a89e7c216945e21e16a68baa",
+    "file": "sources/dd2036a5933e0944.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of silver's fundamental properties, historical performance, and investment characteristics.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/introduction-silver-investing-quiz/",
+  "text": "Introduction to Silver Investing Quiz\nTest your knowledge of silver's fundamental properties, historical performance, and investment characteristics.\nFor how many years have gold and silver never failed as assets?\nA\n1,000 years\nB\n2,500 years\nC\n5,000 years\nD\n10,000 years\n←\nBack to Introduction to Silver Investing",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Silver Investing Fundamentals",
+              "item": "https://learn.bulliontradingllc.com/guides/silver-investing-fundamentals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Introduction to Silver Investing",
+              "item": "https://learn.bulliontradingllc.com/guides/silver-investing-fundamentals/01-introduction-silver-investing/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Introduction to Silver Investing Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Introduction to Silver Investing Quiz",
+          "description": "Test your knowledge of silver's fundamental properties, historical performance, and investment characteristics.",
+          "url": "https://learn.bulliontradingllc.com/quiz/introduction-silver-investing-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Introduction to Silver Investing"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "For how many years have gold and silver never failed as assets?",
+              "text": "For how many years have gold and silver never failed as assets?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "5,000 years",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "For 5,000 years, gold and silver have never failed as assets and have maintained their value over time."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "1,000 years"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "2,500 years"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "10,000 years"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the historical average gold/silver ratio over 2,000 years?",
+              "text": "What is the historical average gold/silver ratio over 2,000 years?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "12:1",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Historically, the average exchange rate between silver and gold for 2,000 years was about 12 ounces of silver to 1 ounce of gold."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "25:1"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "50:1"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "75:1"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What percentage of silver is used in industrial applications?",
+              "text": "What percentage of silver is used in industrial applications?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "60%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Over 60% of silver is used in industrial applications, with the remainder used in jewelry and bullion."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "30%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "45%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "80%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is silver's standard deviation of daily price change compared to gold's?",
+              "text": "What is silver's standard deviation of daily price change compared to gold's?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Silver: 1.8%, Gold: 0.9%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Silver's standard deviation of daily price change is 1.8% compared to gold's 0.9%, making silver notably more volatile."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Silver: 0.9%, Gold: 1.8%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Both are equal at 1.2%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Silver: 2.5%, Gold: 1.5%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Silver saw a 1,000%+ gain by 1980.",
+              "text": "True or False: Silver saw a 1,000%+ gain by 1980.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Silver saw a 1,000%+ gain by 1980 and another 900% gain by 2012, demonstrating its explosive upside potential."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What makes silver more accessible than gold for investors?",
+              "text": "What makes silver more accessible than gold for investors?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lower entry point and affordability",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Silver is more affordable and abundant than gold, making it more accessible to a wider range of investors with a lower entry point."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Higher liquidity"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Better storage options"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Higher industrial demand"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "In a severe economic collapse, what role could silver potentially play?",
+              "text": "In a severe economic collapse, what role could silver potentially play?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Primary currency for day-to-day goods",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "In a severe economic collapse, silver could serve as the primary currency for day-to-day goods and services, while gold would be too highly priced for such use."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Store of major wealth only"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Industrial commodity only"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Investment vehicle only"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the current gold/silver ratio indicating about silver's valuation?",
+              "text": "What is the current gold/silver ratio indicating about silver's valuation?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Silver is extremely undervalued",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The current gold/silver ratio has soared to over 50:1, indicating an extreme undervaluation of silver compared to the historical 12:1 average."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Silver is overvalued"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Silver is fairly valued"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "The ratio is irrelevant"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

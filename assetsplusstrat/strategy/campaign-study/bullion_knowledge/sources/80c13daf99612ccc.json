@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "id": "80c13daf99612ccc",
+    "url": "https://bulliontradingllc.com/blog/safety-week-spotting-fake-gold-and-silver/",
+    "title": "Safety Week: Spotting Fake Gold and Silver - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:05.513156+00:00",
+    "status": "fetched",
+    "bytes": 96187,
+    "text_characters": 3016,
+    "sha256_html": "eecd65b61c39baec6f7fb40784ffe90440863a9186f61900e5439ca9ce4506e7",
+    "file": "sources/80c13daf99612ccc.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Another technique is the ping test. Real valuable metals will give off a ringing noise that lasts for about 1-2 seconds when carefully struck by another piece",
+  "canonical": "https://bulliontradingllc.com/blog/safety-week-spotting-fake-gold-and-silver/",
+  "text": "Another technique is the ping test. Real valuable metals will give off a ringing noise that lasts for about 1-2 seconds when carefully struck by another piece of metal. Any other sounds (particularly a clunk) will let you know that the bullion isnt genuine.\nEvery piece of silver or gold bears what is known as the mintmark of its manufacturer. One of the hardest details to phony are the structural details on the edge of the coin. A lot of coins (specifically more modern ones) have an uniform relief that allows the coins to be quickly stackable.\nNobody likes being duped, and nobody likes purchasing phony gold and silver that is provided as genuine. It is essential to secure yourself versus buying fake gold and silver by being able to verify your purchase is genuine. Doing so will not only save you time, but also conserve your valuable money. How do you do so?\nFortunately, it is really simple to validate the credibility of gold and silver without a specialist. It is always recommended to look for the opinion of a professional, anybody can find out how to do it. We are going to be reviewing the several methods which you can secure yourself and your investment today.\nAs part of our Safety Week here at Bullion Trading, were circulating some of our most popular guides on avoiding frauds and remaining safe while purchasing silver or gold. Take pleasure in!\nThe weight and measurements of piece of bullion are other simple techniques in which to check authenticity. It is easy to acquire the managed dimensions of a piece of bullion.\n3 tests in fact examine the chemistry of the gold and silver. Neither silver, or gold is magnetic, meaning that you can evaluate its credibility with an easy magnet. Silver is specifically conductive of thermal energy. By placing an ice on a silver bar it should immediately begin melting. silver acid test kits are available to check the level of acidity of the surface area of the silver. These responses are next to impossible to phony.\nThe very best approach at the end of the day in making sure that you are buying authentic gold and silver is by purchasing them from a reliable source. These sources will have no issue in satisfying your needs, or in offering you with the approaches required to confirm your purchase.\nAre you able to secure yourself against phony gold and silver? Share this story, and let us know in the remarks!\nNobody likes being duped, and no one likes purchasing fake gold and silver that is presented as real. It is crucial to protect yourself against buying fake gold and silver by being able to\nknow that gold is fake or real\n. Every piece of silver or gold bears what is understood as the mintmark of its producer. Neither silver, or gold is magnetic, suggesting that you can check its authenticity with a simple magnet. silver acid test sets are offered to inspect the acidity of the surface of the silver.\nbulliontrading\nView all posts\nPrevious Post\nSafety Week: Avoiding Sketchy Dealers\nNext Post\nSafety Week: Assays and Certificates",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/Fake-gold-bar-tungsten-drill-bit-1-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2021/04/Fake-gold-bar-tungsten-drill-bit-1-jpg.webp",
+          "width": "425",
+          "height": "299",
+          "caption": "Untitled",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/safety-week-spotting-fake-gold-and-silver/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/coin-collection/",
+                "name": "coin collection"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/safety-week-spotting-fake-gold-and-silver/",
+                "name": "Safety Week: Spotting Fake Gold and Silver"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/safety-week-spotting-fake-gold-and-silver/#webpage",
+          "url": "https://bulliontradingllc.com/blog/safety-week-spotting-fake-gold-and-silver/",
+          "name": "Safety Week: Spotting Fake Gold and Silver - Bullion Trading LLC",
+          "datePublished": "2017-08-27T10:00:20+00:00",
+          "dateModified": "2017-08-27T10:00:20+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/Fake-gold-bar-tungsten-drill-bit-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/safety-week-spotting-fake-gold-and-silver/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Safety Week: Spotting Fake Gold and Silver - Bullion Trading LLC",
+          "datePublished": "2017-08-27T10:00:20+00:00",
+          "dateModified": "2017-08-27T10:00:20+00:00",
+          "articleSection": "coin collection, Gold, Gold Bars, gold bullion, gold coins, silver",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Another technique is the ping test. Real valuable metals will give off a ringing noise that lasts for about 1-2 seconds when carefully struck by another piece",
+          "name": "Safety Week: Spotting Fake Gold and Silver - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/safety-week-spotting-fake-gold-and-silver/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/safety-week-spotting-fake-gold-and-silver/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/Fake-gold-bar-tungsten-drill-bit-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/safety-week-spotting-fake-gold-and-silver/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/coin-collection/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-bars/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/how-can-you-know-if-gold-is-fake-or-real/",
+    "https://bulliontradingllc.com/blog/safety-week-assays-and-certificates/",
+    "https://bulliontradingllc.com/blog/safety-week-avoiding-sketchy-dealers/",
+    "https://bulliontradingllc.com/blog/safety-week-spotting-fake-gold-and-silver/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/Fake-gold-bar-tungsten-drill-bit-1-jpg.webp",
+      "alt": "Untitled"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

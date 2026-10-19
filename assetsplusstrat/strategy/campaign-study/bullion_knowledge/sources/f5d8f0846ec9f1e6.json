@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "id": "f5d8f0846ec9f1e6",
+    "url": "https://bulliontradingllc.com/privacy-policy/",
+    "title": "Privacy Policy | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:46.299831+00:00",
+    "status": "fetched",
+    "bytes": 94114,
+    "text_characters": 5873,
+    "sha256_html": "2a5b5e8319cf95e3838cd5ea4d8d4a4a2268b6811c9617251740b9d0085f113d",
+    "file": "sources/f5d8f0846ec9f1e6.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Learn how Bullion Trading LLC collects, uses, and protects your personal information, plus your choices and rights regarding data and privacy.",
+  "canonical": "https://bulliontradingllc.com/privacy-policy/",
+  "text": "Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. If you purchase a product from us or sell a product to us, we request certain personal information from you (such as your name, email, billing and shipping addresses, and financial information).\nEmail Addresses. We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.\nShipping Information. We use the information you provide about yourself when placing an order only to bill, process, complete, deliver and ship that order and to provide customer service. We do not share this information with outside parties except to the extent necessary to complete that order (i.e., charge your credit card, fill and deliver your order, and provide customer service).\nWe use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.\nData Security. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.\nOpt-Out. Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.\nChildren. Our website is intended for general audiences and we do not knowingly collect any personal information from or sell to children. By purchasing products from our website, you confirm that you are of legal age.\nUser Accounts and Price Level Alerts. As a user of this website, you may establish an account, by providing us with certain information such as your email address, name, birth date, place of birth, address, telephone and facsimile number, and you will choose a password to be used in conjunction with your email address to access features and services on this website. In order to use this website, you must enter your email address and password to access your account. Once you have authenticated your account, you will have access. As part of creating your account, you may also be requested to provide questions and/or secret answers which we use to help verify your identity and assist in resetting your password.\nYou should not reveal your account information to anyone else. You are solely responsible for maintaining the confidentiality and security of your account and for all activities that occur on or through your account, and you agree to immediately notify this website of any security breach of your account. This website shall not be responsible for any losses arising out of the unauthorized use of your account. You are responsible for all use of this website using your email address, user name and password. You may not access or use any other user’s account at any time without the permission of Bulliontradingllc. Do not attempt to access the password protected area if you do not have an authorized user name and password from us. This website may revoke your password and access to this website for any reason at its sole discretion, without notice to you.\nYou agree to provide accurate and complete information when you register with, and as you use, this website. You agree to update your registration data to keep it accurate and complete. You agree that this website may store and use the data you provide for use in maintaining and billing fees to your account.\nFor our customers’ protection Bulliontradingllc has no access to your user account password. Furthermore, by creating a price level alert you are agreeing to be notified of certain prices. Should you desire to cancel and no longer receive these alerts it is the user’s responsibility to access their account and disable this feature. Bulliontradingllc is unable to disable these alerts as all user account passwords are known only to the user.\nThis website has the right, but not the obligation, to monitor any materials submitted by you and to investigate any reported or apparent violation of this User Agreement, and to take any action that this website in its sole discretion deems appropriate, including, without limitation, termination under this User Agreement.\nAuthorization. You represent that you are of legal age and that you are fully authorized to contract with us. If you are using this website on behalf of a business entity or other organization, you represent and warrant to Bulliontradingllc that you have the legal authority to legally bind such business entity or other organization to this User Agreement. In such event, both you, acting on behalf of the business entity or other organization, and the business entity or organization for whom you act, are bound by this User Agreement.\nVoice Recording. You understand and agree that Bulliontradingllc may, in its sole discretion, but is not obligated to, monitor or record your telephone conversations with Bulliontradingllc for quality control and our protection. You hereby consent to the recording of such phone conversations. Bulliontradingllc does not consent to the recording of telephone conversation by you or any third party.\nContact. You expressly authorize Bulliontradingllc to contact you at the email, text messaging, facsimile, or telephone numbers provided by you regardless of whether these phone numbers are listed on any state or federal Do Not Call list. If you request that bulliontradingllc no longer contact you, we will promptly place your name on our Do Not Call list.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/privacy-policy/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/privacy-policy/",
+                "name": "Privacy Policy"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/privacy-policy/#webpage",
+          "url": "https://bulliontradingllc.com/privacy-policy/",
+          "name": "Privacy Policy | Bullion Trading LLC",
+          "datePublished": "2021-04-18T03:53:12+00:00",
+          "dateModified": "2024-10-03T14:17:04+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/privacy-policy/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Privacy Policy | Bullion Trading LLC",
+          "datePublished": "2021-04-18T03:53:12+00:00",
+          "dateModified": "2024-10-03T14:17:04+00:00",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Learn how Bullion Trading LLC collects, uses, and protects your personal information, plus your choices and rights regarding data and privacy.",
+          "name": "Privacy Policy | Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/privacy-policy/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/privacy-policy/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/privacy-policy/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    }
+  ]
+}

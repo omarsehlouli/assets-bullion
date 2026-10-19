@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "id": "99fdfed820c03215",
+    "url": "https://bulliontradingllc.com/blog/gold-and-the-fine-print/",
+    "title": "Gold and the Fine Print - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:36.731603+00:00",
+    "status": "fetched",
+    "bytes": 93559,
+    "text_characters": 2819,
+    "sha256_html": "be167e0234d2c4d7e313d6fadbd26a8c28da69b6931591aa023bcd630516da96",
+    "file": "sources/99fdfed820c03215.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The prospectus makes a number of declarations that will definitely raise a few eyebrows, beginning the claim that any bullionfound in the vaults that do not",
+  "canonical": "https://bulliontradingllc.com/blog/gold-and-the-fine-print/",
+  "text": "The prospectus makes a number of declarations that will definitely raise a few eyebrows, beginning the claim that any bullionfound in the vaults that do not “fulfill the standards of the vault it is kept in” will be written off as a loss to the financier. Is GLD saving bars of fake gold, totally mindful of this deception, with the intention of not officially “finding” the forgery till after the time of purchase? Is so, it asks the bigger concern of whether or not GLD actually owns any physical gold to begin with or if it is all merely “paper gold” that they are offering to clients. The prospectus also specifies that GLD does not oversee the actions of their sub-custodians, and if those sub-custodians were to dedicate theft from the fund, any legal action against them would be really minimal. Imagine if there was a bank that used to store your finances however might not be held responsible if those financial resources were then damaged by either their workers or some other intermediary you do not even know. Not just would you not trust such a bank, but they would be a contradiction of the really definition that we hold banks to be.\nWe here at Bullion Trading LLC would like to bring a story to your attention. And so, now the funds prospectus is under close analysis, with particular language and option of words being examined.\nTo apply that statement to this example: if a merchant asserts they have offered you gold but can not produce the product, then there is no distinction between them and somebody who never had any bullion to begin with.\nWe here at Bullion Trading LLC would like to bring a story to your attention. SPDR Gold Trust, also called GLD, which is one of the most active and popular funds utilized by investors for gold trading. GLD is popular for having low costs and $69 billion in possessions. Yet now there is talk surrounding GLD and possible fraud accusations from individual financiers. And so, now the funds prospectus is under close analysis, with certain language and choice of words being examined.\nTo use that declaration to this example: if a merchant asserts they have sold you gold but can not produce the product, then there is no difference between them and someone who never had any bullion to start with.\nIf nothing else comes out of this news story, at least it will motivate investors to begin reading the prospectus a bit more carefully.\nIf absolutely nothing else comes out of this news story, at least it will motivate investors to begin checking out the prospectus a little bit more closely.\nAgain, this is why its constantly important to do the necessary research study before the time of trade, whether you are the consumer or the dealership.\nbulliontrading\nView all posts\nPrevious Post\n1 Ounce Johnson Matthey Silver Bars\nNext Post\nGermany Turns To Gold",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-and-the-fine-print/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-bullion/",
+                "name": "gold bullion"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-and-the-fine-print/",
+                "name": "Gold and the Fine Print"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-and-the-fine-print/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-and-the-fine-print/",
+          "name": "Gold and the Fine Print - Bullion Trading LLC",
+          "datePublished": "2012-11-14T06:55:42+00:00",
+          "dateModified": "2012-11-14T06:55:42+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-and-the-fine-print/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold and the Fine Print - Bullion Trading LLC",
+          "datePublished": "2012-11-14T06:55:42+00:00",
+          "dateModified": "2012-11-14T06:55:42+00:00",
+          "articleSection": "gold bullion, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "The prospectus makes a number of declarations that will definitely raise a few eyebrows, beginning the claim that any bullionfound in the vaults that do not",
+          "name": "Gold and the Fine Print - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-and-the-fine-print/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-and-the-fine-print/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-and-the-fine-print/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/1-ounce-johnson-matthey-silver-bars/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/germany-turns-to-gold-2/",
+    "https://bulliontradingllc.com/blog/gold-and-the-fine-print/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

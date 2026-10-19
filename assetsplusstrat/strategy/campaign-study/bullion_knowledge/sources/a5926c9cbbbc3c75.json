@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "id": "a5926c9cbbbc3c75",
+    "url": "https://learn.bulliontradingllc.com/charts/platinum-price-in-1996/",
+    "title": "Platinum Price in 1996 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:09.805760+00:00",
+    "status": "fetched",
+    "bytes": 18994,
+    "text_characters": 1121,
+    "sha256_html": "af5ed9cc19df671731f5fe57eaa7e37180bb8cb0a4a3686a3efa4a5b7e729219",
+    "file": "sources/a5926c9cbbbc3c75.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Platinum in 1996: 12 monthly observations, 1996-01-31 to 1996-12-30. Sampled high $420, low $370; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/platinum-price-in-1996/",
+  "text": "Platinum Price in 1996\nAmong 12 monthly observations available for 1996, the LBMA platinum price fell 12.0% between 1996-01-31 ($420) and 1996-12-30 ($370). The highest sampled price was $420 in January and the lowest was $370 in December. The mean of these observations was $395. This is a first-to-last observation change, not a calendar-year return.\n1996 platinum price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$420\n(1996-01-31)\n$420\n(January)\n$370\n(December)\n$370\n(1996-12-30)\n$395\nGBP\n£278\n(1996-01-31)\n£278\n(January)\n£218\n(December)\n£218\n(1996-12-30)\n£252\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live platinum price on the\nBullion Trading LLC spot dashboard\n, or\nshop platinum bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Platinum price history",
+              "item": "https://learn.bulliontradingllc.com/charts/platinum-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1996"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Platinum price in 1996 — LBMA monthly fix",
+          "description": "Platinum in 1996: 12 monthly observations, 1996-01-31 to 1996-12-30. Sampled high $420, low $370; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/platinum-price-in-1996/",
+          "temporalCoverage": "1996-01-31/1996-12-30",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/platinum-and-palladium/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

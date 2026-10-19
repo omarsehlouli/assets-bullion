@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "id": "3bcc43fae62e57cd",
+    "url": "https://learn.bulliontradingllc.com/coin-values/dimes/",
+    "title": "Dimes Worth Money — Silver Content & Key Dates | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:25.634211+00:00",
+    "status": "fetched",
+    "bytes": 30021,
+    "text_characters": 2354,
+    "sha256_html": "e1b5f726e54f36bdfc4f15ab8119d98119874c6f8739ad129b9a090157fa34fd",
+    "file": "sources/3bcc43fae62e57cd.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "A dime is 10 cents — unless it is dated 1964 or earlier, in which case it is 90% silver and worth roughly its weight in silver, with key Mercury dimes wort…",
+  "canonical": "https://learn.bulliontradingllc.com/coin-values/dimes/",
+  "text": "Dimes Worth Money\nA dime is 10 cents — unless it is dated 1964 or earlier, in which case it is 90% silver and worth roughly its weight in silver, with key Mercury dimes worth far more.\n💰 What's it worth? — live melt calculator\nBy coin\n90% \"junk\" silver by face value\nCoin\nSilver dime (1964 & earlier)\nHow many\nMelt value (\nsilver\n)\n$4.68\n$4.68\neach ·\n0.0723\noz\nsilver\n/coin\nSell yours to us →\nShop US silver coins\n→\nMelt = pure metal content ×\nrecent\nspot (\nsilver\n$\n64.71\n/oz\n). This is the bullion floor; collectible coins can be worth far more. Melting circulating US coins is illegal — this estimates intrinsic value.\n📈 The melt-value time machine — what a\ndime\n's\nsilver\nhas been worth since\n1968\nMetal value in 1968\n$0.14\n0.0723 oz silver\nPeak (2026)\n$7.46\nmonthly LBMA high\nToday\n$4.68\nrecent spot\nA\ndime\nheld about\n$0.14\nof\nsilver\nin\n1968\n, peaked near\n$7.46\nin\n2026\n, and its metal is worth\n$4.68\ntoday\n. That is intrinsic melt only — a real, dated example carries a collector premium on top.\nSee what we'll pay for yours →\nIs your dime silver?\nSilver years:\n1796–1964 (Roosevelt, Mercury, Barber).\nDimes dated 1964 and earlier are 90% silver; 1965 and later are copper-nickel clad. Silver dimes have a plain silver edge with no copper stripe.\nDime composition by year\nYears\nComposition\nSilver content\n1796–1964\n90% silver, 10% copper\n0.0723 oz\n1965–present\nCopper-nickel clad (no silver)\n—\nWhich dimes are worth money\nSilver dimes (1964 & earlier): worth their melt in silver.\nKey date: the 1916-D Mercury dime is one of the most famous keys in US coinage.\nThe 1942/1 Mercury dime overdate is a sought-after error.\nBarber dimes (1892–1916), especially the 1894-S, are major rarities.\nPopular dimes by year\n1965 Dime\n1916-D Mercury Dime\nHave dimes to sell?\nWe buy gold, silver and coins in person at our NYC Diamond District counter, or by insured mail.\nGet a free quote →\nLooking to buy?\nShop US silver coins →\nBuy at Bullion Trading LLC\nLive prices from our store — buy online or at our NYC Diamond District counter.\nMorgan Silver Dollar Coin BU - Random Year\n$89.75\nView →\n1 oz American Silver Eagle Coin (Random Year) BU\n$79.23\nView →\n1 oz Silver American Eagle $1 Colorized Coin (Random Year)\n$70.29\nView →\nPAMP 1 oz Silver $2 Burton Morris - Popcorn Coin Pop!\n$134.23\nView →\nMore:\nall coin values\n·\nsilver price history\n·\ngold/silver ratio",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Coin Values",
+              "item": "https://learn.bulliontradingllc.com/coin-values/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Dimes"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Dimes — melt value, silver content & key dates",
+          "description": "A dime is 10 cents — unless it is dated 1964 or earlier, in which case it is 90% silver and worth roughly its weight in silver, with key Mercury dimes wort…",
+          "url": "https://learn.bulliontradingllc.com/coin-values/dimes/",
+          "creator": {
+            "@type": "Organization",
+            "name": "United States Mint"
+          },
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/product/1-oz-american-silver-eagle-coin-random-year-bu/",
+    "https://bulliontradingllc.com/product/1-oz-silver-american-eagle-1-colorized-coin-random-year/",
+    "https://bulliontradingllc.com/product/morgan-silver-dollar-coin-bu-random-year/",
+    "https://bulliontradingllc.com/product/pamp-1-oz-silver-2-burton-morris-popcorn-coin-pop/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/",
+    "https://bulliontradingllc.com/silver/silver-coins-for-sale/us-silver-coins/"
+  ],
+  "images": [
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/morgan-silver-dollar-coin-300x169.jpg",
+      "alt": "Morgan silver dollar coin, 26.73 gram, classic Liberty design"
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/American_Eagle_1_oz_Silver_coin-1-231x300.jpg",
+      "alt": "1 oz American Silver Eagle coin with Walking Liberty design"
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/american-eagle-random-year-250x300.webp",
+      "alt": "1 oz silver American Eagle colorized coin with eagle design"
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/2023-pamp-1-oz-silver-2-burton-morris-popcorn2-300x300.webp",
+      "alt": "PAMP 1 oz silver Burton Morris Popcorn coin with colorful packaging"
+    }
+  ]
+}

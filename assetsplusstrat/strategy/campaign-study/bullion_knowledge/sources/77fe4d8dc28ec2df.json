@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "77fe4d8dc28ec2df",
+    "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2020/",
+    "title": "Silver Price in 2020 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:21.827823+00:00",
+    "status": "fetched",
+    "bytes": 19707,
+    "text_characters": 1334,
+    "sha256_html": "7bdf2760afa4ba632851f0e81c8c09b3a38b459117c5040256aacd4100bf22da",
+    "file": "sources/77fe4d8dc28ec2df.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Silver in 2020: 12 monthly observations, 2020-01-31 to 2020-12-31. Sampled high $27.35, low $13.93; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/silver-price-in-2020/",
+  "text": "Silver Price in 2020\nAmong 12 monthly observations available for 2020, the LBMA silver price rose 48.1% between 2020-01-31 ($17.89) and 2020-12-31 ($26.49). The highest sampled price was $27.35 in August and the lowest was $13.93 in March. The mean of these observations was $20.60. This is a first-to-last observation change, not a calendar-year return.\nWhat happened in 2020:\nCOVID-19 and unprecedented monetary stimulus pushed gold above $2,000 per ounce for the first time.\n2020 silver price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$17.89\n(2020-01-31)\n$27.35\n(August)\n$13.93\n(March)\n$26.49\n(2020-12-31)\n$20.60\nGBP\n£13.62\n(2020-01-31)\n£20.56\n(August)\n£11.27\n(March)\n£19.41\n(2020-12-31)\n£15.91\nEUR\n€16.21\n(2020-01-31)\n€22.98\n(August)\n€12.73\n(March)\n€21.58\n(2020-12-31)\n€17.85\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live silver price on the\nBullion Trading LLC spot dashboard\n, or\nshop silver bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Silver price history",
+              "item": "https://learn.bulliontradingllc.com/charts/silver-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "2020"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Silver price in 2020 — LBMA monthly fix",
+          "description": "Silver in 2020: 12 monthly observations, 2020-01-31 to 2020-12-31. Sampled high $27.35, low $13.93; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2020/",
+          "temporalCoverage": "2020-01-31/2020-12-31",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

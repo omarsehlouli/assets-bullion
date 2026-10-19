@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "id": "9a9e1f72957faa70",
+    "url": "https://learn.bulliontradingllc.com/guides/",
+    "title": "All Guides | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:26.679073+00:00",
+    "status": "fetched",
+    "bytes": 25640,
+    "text_characters": 4747,
+    "sha256_html": "316c460884560b538ced3d8ef0312ef03b6197c07d8fd3a9f4babc71a4ba8649",
+    "file": "sources/9a9e1f72957faa70.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Bullion Trading LLC Knowledge Center — guides, tools, and answers for precious-metals investors.",
+  "canonical": "https://learn.bulliontradingllc.com/guides/",
+  "text": "Learning Paths\nEach path is a curated sequence of topics. Each topic is broken into short, chunked parts.\nNew to Precious Metals\nStart here. Four topics walk you through why people buy physical gold and silver, how much to allocate, which metals to pick, and when to enter the market.\nWhy Buy Physical Gold?\nHow Much Gold and Silver to Buy\nWhich Precious Metals to Buy\nWhen to Buy Gold & Silver\nGold Investing Fundamentals\nFrom market mechanics to advanced approaches and tax planning — the complete framework for gold investors.\nIntroduction to Gold Investing\nGold Market Fundamentals\nPhysical Gold Investment\nIndirect Gold Investment Methods\nComprehensive Gold Investment Strategy\nAdvanced Gold Investment Approaches\nGold Tax & Retirement Planning\nSilver Investing Fundamentals\nSilver is more volatile than gold but with bigger upside in industrial demand. A complete framework for silver investors.\nIntroduction to Silver Investing\nSilver Market Fundamentals\nPhysical Silver Investment\nIndirect Silver Investment Methods\nComprehensive Silver Investment Strategy\nAdvanced Silver Investment Approaches\nSilver Tax Planning\nPlatinum Investing\nRarer than gold, with strong industrial demand from auto catalysts. Platinum trades on a different rhythm — here is the framework.\nIntroduction to Platinum Investing\nPlatinum Market Fundamentals\nPhysical Platinum Investment\nIndirect Platinum Investment Methods\nComprehensive Platinum Investment Strategy\nAdvanced Platinum Investment Approaches\nPlatinum Tax & Retirement Planning\nPalladium Investing Fundamentals\nThe smallest and most volatile of the four precious metals. Where palladium fits, and where it does not.\nIntroduction to Palladium Investing\nPalladium Market Fundamentals\nPhysical Palladium Investment\nIndirect Palladium Investment Methods\nComprehensive Palladium Investment Strategy\nAdvanced Palladium Investment Approaches\nPalladium Tax & Retirement Planning\nInvestment Strategies\nFive proven strategies for precious-metals investors: safe-haven, dollar-cost averaging, diversification, time-horizon, and tax-aware investing.\nGold as a Safe Haven Strategy\nDollar-Cost Averaging\nPortfolio Diversification with Precious Metals\nLong-term vs. Short-term Strategies\nTax Implications\nMarket Analysis\nRead the precious-metals market the way professionals do — fundamental drivers, technical patterns, and global event triggers.\nReading Market Trends\nFundamental Analysis\nTechnical Analysis\nEconomic Indicators\nGlobal Events & Their Impact\nStorage & Security\nWhere you keep your metal matters as much as what you buy. Home safe, vault, insurance, authenticity — covered.\nHome vs. Vault Storage\nInsurance Options\nSecurity Considerations\nHandling & Authenticity\nUnderstanding Gold & Silver\nThe foundational vocabulary: how to compare gold vs silver, what bullion forms exist, and what purity numbers actually mean.\nGold vs. Silver as an Investment\nTypes of Gold Bullion Products\nTypes of Silver Bullion Products\nUnderstanding Precious Metal Purity\nQuestions & Answers\nQuick answers to the 34 questions new and returning precious-metals investors ask most often.\nHow the 2008 Crisis Changed Everything: A Personal Story\nHow are Gold Prices Determined?\nWhat is Spot Price vs Premium in Precious Metals?\nHow to Spot Counterfeit Precious Metals\nWhat is a Precious Metals IRA?\nDifference Between Gold Bullion Bars and Coins\nHow to Safely Store Precious Metals\nWhat is Numismatic Value?\nHistorical Significance of American Eagle Coins\nGold vs Silver: Which is a Better Investment?\nHow to Choose a Reputable Precious Metals Dealer\nA Complete Beginner's Guide to Precious Metals Investing\nHow Do Precious Metals Perform During Economic Recessions?\nHow Volatile Are Precious Metals Compared to Stocks?\nTax Implications of Investing in Precious Metals\nWhat are Proof Coins?\nWhen is the Best Time to Buy Precious Metals?\nPhysical Precious Metals vs ETFs: A Comparison\nHow a Silver Dollar Changed My Perspective on Money Forever\nUnderstanding the Gold-Silver Ratio: What It Means & How to Use It\nHow to Verify Silver Authenticity\nWhat is a Troy Ounce?\nHow Much Is a Silver Dollar Worth?\nHow to Tell if Gold or Silver is Real: Complete Authentication Guide\nShould I Include Precious Metals in My Retirement Planning?\nWhy Do People Really Buy Gold? Real Stories and Motivations\nWhy I Started Buying Silver at 25: A Young Investor's Story\nHow Do I Pass Precious Metals to My Heirs?\nMinimum Amount to Start Investing in Precious Metals\nHow Much of My Portfolio Should Be in Precious Metals?\nWhat My Grandfather Taught Me About Gold: A Family Legacy\nHow Inflation Destroyed My Savings (And How Gold Could Have Helped)\nCommon Precious Metals Investment Myths Debunked\nDifference Between a 1oz Gold Bar and a 1kg Gold Bar",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

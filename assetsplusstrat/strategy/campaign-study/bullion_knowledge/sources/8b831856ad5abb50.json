@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "8b831856ad5abb50",
+    "url": "https://learn.bulliontradingllc.com/charts/gold-price-2020s/",
+    "title": "Gold Price in the 2020s — LBMA Decade Chart & Data | BTLLC",
+    "retrieved_at": "2026-10-12T22:12:54.017561+00:00",
+    "status": "fetched",
+    "bytes": 17371,
+    "text_characters": 629,
+    "sha256_html": "5ffce2633d35a0581c05e24505a48db20f2d86fc5f0c50115634b54bf9568cae",
+    "file": "sources/8b831856ad5abb50.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Gold price through the 2020s: from $1,584 to $4,261, monthly-sample high $5,222, monthly-sample low $1,584. Monthly LBMA chart for the decade.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/gold-price-2020s/",
+  "text": "Gold Price in the 2020s\nBetween the first (2020-01-31) and last (2026-09-25) monthly observations available for the 2020s, the LBMA gold price went from $1,584 to $4,261 — a gain of 169% — with a sampled high of $5,222 (Feb 2026) and a sampled low of $1,584 (Jan 2020).\nYears in the 2020s\n2020\n2021\n2022\n2023\n2024\n2025\n2026\nSee today's live gold price on the\nspot dashboard\n, or\nshop gold bullion\nat Bullion Trading LLC.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold price history",
+              "item": "https://learn.bulliontradingllc.com/charts/gold-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "2020s"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Gold price in the 2020s — LBMA monthly fix",
+          "description": "Gold price through the 2020s: from $1,584 to $4,261, monthly-sample high $5,222, monthly-sample low $1,584. Monthly LBMA chart for the decade.",
+          "url": "https://learn.bulliontradingllc.com/charts/gold-price-2020s/",
+          "temporalCoverage": "2020-01-31/2026-09-25",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

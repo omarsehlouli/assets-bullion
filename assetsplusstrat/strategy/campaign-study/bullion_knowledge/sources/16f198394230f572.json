@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "16f198394230f572",
+    "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2021/",
+    "title": "Silver Price in 2021 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:22.381573+00:00",
+    "status": "fetched",
+    "bytes": 19500,
+    "text_characters": 1219,
+    "sha256_html": "bb902991c1d8b53b1c1b190908e991bdeb5a880c19cecff43d35fc3088ac3829",
+    "file": "sources/16f198394230f572.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Silver in 2021: 12 monthly observations, 2021-01-29 to 2021-12-31. Sampled high $27.63, low $21.53; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/silver-price-in-2021/",
+  "text": "Silver Price in 2021\nAmong 12 monthly observations available for 2021, the LBMA silver price fell 15.8% between 2021-01-29 ($27.42) and 2021-12-31 ($23.09). The highest sampled price was $27.63 in May and the lowest was $21.53 in September. The mean of these observations was $24.87. This is a first-to-last observation change, not a calendar-year return.\n2021 silver price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$27.42\n(2021-01-29)\n$27.63\n(May)\n$21.53\n(September)\n$23.09\n(2021-12-31)\n$24.87\nGBP\n£19.99\n(2021-01-29)\n£19.99\n(January)\n£16.02\n(September)\n£17.14\n(2021-12-31)\n£18.06\nEUR\n€22.60\n(2021-01-29)\n€22.69\n(May)\n€18.61\n(September)\n€20.40\n(2021-12-31)\n€21.03\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live silver price on the\nBullion Trading LLC spot dashboard\n, or\nshop silver bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Silver price history",
+              "item": "https://learn.bulliontradingllc.com/charts/silver-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "2021"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Silver price in 2021 — LBMA monthly fix",
+          "description": "Silver in 2021: 12 monthly observations, 2021-01-29 to 2021-12-31. Sampled high $27.63, low $21.53; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2021/",
+          "temporalCoverage": "2021-01-29/2021-12-31",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

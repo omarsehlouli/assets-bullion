@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "id": "d7e3133b58bbd263",
+    "url": "https://learn.bulliontradingllc.com/charts/platinum-price-in-2017/",
+    "title": "Platinum Price in 2017 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:12.359468+00:00",
+    "status": "fetched",
+    "bytes": 19542,
+    "text_characters": 1203,
+    "sha256_html": "ebbe77b8176ba45e7b4e890875d2c9609c17ae5efa7e8eb54601efcd769f6d9b",
+    "file": "sources/d7e3133b58bbd263.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Platinum in 2017: 12 monthly observations, 2017-01-31 to 2017-12-28. Sampled high $1,029, low $915; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/platinum-price-in-2017/",
+  "text": "Platinum Price in 2017\nAmong 12 monthly observations available for 2017, the LBMA platinum price fell 6.7% between 2017-01-31 ($991) and 2017-12-28 ($925). The highest sampled price was $1,029 in February and the lowest was $915 in October. The mean of these observations was $950. This is a first-to-last observation change, not a calendar-year return.\n2017 platinum price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$991\n(2017-01-31)\n$1,029\n(February)\n$915\n(October)\n$925\n(2017-12-28)\n$950\nGBP\n£793\n(2017-01-31)\n£829\n(February)\n£686\n(September)\n£688\n(2017-12-28)\n£733\nEUR\n€921\n(2017-01-31)\n€971\n(February)\n€774\n(December)\n€774\n(2017-12-28)\n€838\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live platinum price on the\nBullion Trading LLC spot dashboard\n, or\nshop platinum bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Platinum price history",
+              "item": "https://learn.bulliontradingllc.com/charts/platinum-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "2017"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Platinum price in 2017 — LBMA monthly fix",
+          "description": "Platinum in 2017: 12 monthly observations, 2017-01-31 to 2017-12-28. Sampled high $1,029, low $915; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/platinum-price-in-2017/",
+          "temporalCoverage": "2017-01-31/2017-12-28",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/platinum-and-palladium/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

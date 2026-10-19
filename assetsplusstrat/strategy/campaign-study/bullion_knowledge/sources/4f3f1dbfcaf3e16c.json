@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "id": "4f3f1dbfcaf3e16c",
+    "url": "https://learn.bulliontradingllc.com/quiz/long-term-vs-short-term-quiz/",
+    "title": "Long-term vs. Short-term Strategies Quiz | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:42.892251+00:00",
+    "status": "fetched",
+    "bytes": 27588,
+    "text_characters": 306,
+    "sha256_html": "d992616ff0de9165e74d35f33075f0d22e824a591e3b56c31abab6b812ad0313",
+    "file": "sources/4f3f1dbfcaf3e16c.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of long-term versus short-term precious metals investment strategies.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/long-term-vs-short-term-quiz/",
+  "text": "Long-term vs. Short-term Strategies Quiz\nTest your knowledge of long-term versus short-term precious metals investment strategies.\nWhat is typically considered a long-term investment horizon for precious metals?\nA\n1-2 years\nB\n3-6 months\nC\n5+ years\nD\n1-3 months\n←\nBack to Long-term vs. Short-term Strategies",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Investment Strategies",
+              "item": "https://learn.bulliontradingllc.com/guides/investment-strategies/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Long-term vs. Short-term Strategies",
+              "item": "https://learn.bulliontradingllc.com/guides/investment-strategies/04-long-term-vs-short-term/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Long-term vs. Short-term Strategies Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Long-term vs. Short-term Strategies Quiz",
+          "description": "Test your knowledge of long-term versus short-term precious metals investment strategies.",
+          "url": "https://learn.bulliontradingllc.com/quiz/long-term-vs-short-term-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Long-term vs. Short-term Strategies"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is typically considered a long-term investment horizon for precious metals?",
+              "text": "What is typically considered a long-term investment horizon for precious metals?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "5+ years",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Long-term precious metals investing typically involves holding periods of 5+ years, allowing investors to benefit from long-term trends and ride out short-term volatility."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "1-2 years"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "3-6 months"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "1-3 months"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which strategy is generally more suitable for wealth preservation?",
+              "text": "Which strategy is generally more suitable for wealth preservation?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Long-term holding",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Long-term holding is generally more suitable for wealth preservation as it allows precious metals to fulfill their historical role as stores of value over extended periods."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Short-term trading"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Day trading"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Weekly speculation"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is a key advantage of long-term precious metals investing?",
+              "text": "What is a key advantage of long-term precious metals investing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Reduces the impact of short-term volatility",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Long-term investing reduces the impact of short-term volatility, allowing investors to focus on fundamental trends rather than daily price movements."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Requires constant market monitoring"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Guarantees daily profits"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Eliminates all investment risk"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Short-term precious metals trading typically involves which time frame?",
+              "text": "Short-term precious metals trading typically involves which time frame?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Days to months",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Short-term precious metals trading typically involves holding periods from days to months, focusing on capturing price movements over shorter time frames."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "5-10 years"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "10+ years"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "2-5 years"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which approach requires more active management and market timing skills?",
+              "text": "Which approach requires more active management and market timing skills?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Short-term trading",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Short-term trading requires more active management, market timing skills, and constant monitoring of price movements and market conditions."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Long-term buy and hold"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Dollar-cost averaging"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Set-and-forget investing"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is a potential disadvantage of short-term precious metals trading?",
+              "text": "What is a potential disadvantage of short-term precious metals trading?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Higher transaction costs and tax implications",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Short-term trading typically involves higher transaction costs due to frequent buying and selling, and may result in less favorable tax treatment compared to long-term holdings."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Lower transaction costs"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Guaranteed profits"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "No market risk"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which strategy is better suited for investors seeking portfolio insurance?",
+              "text": "Which strategy is better suited for investors seeking portfolio insurance?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Long-term strategic allocation",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Long-term strategic allocation is better suited for portfolio insurance, as it provides consistent protection against economic uncertainty and market volatility over time."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Short-term speculation"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Day trading"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Momentum trading"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Long-term precious metals investing typically requires less expertise in technical analysis.",
+              "text": "True or False: Long-term precious metals investing typically requires less expertise in technical analysis.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "True. Long-term precious metals investing focuses more on fundamental analysis and long-term trends, requiring less expertise in technical analysis and chart reading compared to short-term trading."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "id": "6af6a97ca6b36d99",
+    "url": "https://learn.bulliontradingllc.com/charts/platinum-price-in-1991/",
+    "title": "Platinum Price in 1991 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:09.083081+00:00",
+    "status": "fetched",
+    "bytes": 18993,
+    "text_characters": 1120,
+    "sha256_html": "3333106b900c9b1e9171475fd0f2dcca8b632c55ddfa16f12fe65df58274c493",
+    "file": "sources/6af6a97ca6b36d99.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Platinum in 1991: 12 monthly observations, 1991-01-31 to 1991-12-30. Sampled high $404, low $332; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/platinum-price-in-1991/",
+  "text": "Platinum Price in 1991\nAmong 12 monthly observations available for 1991, the LBMA platinum price fell 15.3% between 1991-01-31 ($392) and 1991-12-30 ($332). The highest sampled price was $404 in February and the lowest was $332 in December. The mean of these observations was $370. This is a first-to-last observation change, not a calendar-year return.\n1991 platinum price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$392\n(1991-01-31)\n$404\n(February)\n$332\n(December)\n$332\n(1991-12-30)\n$370\nGBP\n£200\n(1991-01-31)\n£232\n(June)\n£178\n(December)\n£178\n(1991-12-30)\n£211\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live platinum price on the\nBullion Trading LLC spot dashboard\n, or\nshop platinum bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Platinum price history",
+              "item": "https://learn.bulliontradingllc.com/charts/platinum-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1991"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Platinum price in 1991 — LBMA monthly fix",
+          "description": "Platinum in 1991: 12 monthly observations, 1991-01-31 to 1991-12-30. Sampled high $404, low $332; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/platinum-price-in-1991/",
+          "temporalCoverage": "1991-01-31/1991-12-30",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/platinum-and-palladium/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

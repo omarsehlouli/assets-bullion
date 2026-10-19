@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "id": "1107e09a6e42f046",
+    "url": "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "title": "Historical Gold Price Lookup — Any Date Since 1968 | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:02.062749+00:00",
+    "status": "fetched",
+    "bytes": 16164,
+    "text_characters": 728,
+    "sha256_html": "3e0f27327a042c78c7953c752aeeacab7391d507000becd095972d93635cd389",
+    "file": "sources/1107e09a6e42f046.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Look up the LBMA gold, silver, platinum or palladium fix on any exact date back to 1968, in USD, GBP or EUR — plus \"this day in history\": the price on today's date across the decades.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+  "text": "Historical Gold Price Lookup\nPick any date back to 1968 and see the official LBMA fix that day — for gold, silver, platinum or\npalladium, in USD, GBP or EUR. Scroll down for\nthis day in history\n: the price on the\nsame calendar day across the decades.\nGold\nSilver\nPlatinum\nPalladium\nUSD\nGBP\nEUR\nLoading 58 years of daily fixes…\nAbout the data\nThese are the official LBMA London fixings (PM where applicable), the benchmark prices used to settle\nphysical bullion worldwide. Fixes are published on business days only, so for a weekend or holiday the\ntool shows the most recent prior fix. Need today's live price instead? See the\nspot dashboard\n.\nExplore the full history:\ngold\n,\nsilver\n,\nthe gold/silver ratio\n, or the\ncharts hub\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Historical price lookup"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "LBMA daily fix — historical price lookup (1968–today)",
+          "description": "Look up the LBMA gold, silver, platinum or palladium fix on any exact date back to 1968, in USD, GBP or EUR — plus \"this day in history\": the price on today's date across the decades.",
+          "url": "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+          "temporalCoverage": "1968/2026",
+          "creator": {
+            "@type": "Organization",
+            "name": "London Bullion Market Association"
+          },
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "id": "561a6cb638299e56",
+    "url": "https://bulliontradingllc.com/blog/british-sovereign-gold-coin/",
+    "title": "British Sovereign Gold Coin - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:22.498460+00:00",
+    "status": "fetched",
+    "bytes": 99544,
+    "text_characters": 4318,
+    "sha256_html": "5fb3d2456a6f8d9e3b9653c71c7a0449e749a9f3350da73ed10d04b64850080a",
+    "file": "sources/561a6cb638299e56.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Explains the British Sovereign gold coin: its 1817 origins, £1 face value, shift from circulation to bullion, and Saint George & Dragon reverse.",
+  "canonical": "https://bulliontradingllc.com/blog/british-sovereign-gold-coin/",
+  "text": "The sovereign is a gold coin of the UK, with a nominal value of one pound sterling. Struck from 1817 up until today time, it was initially a circulating coin accepted in Britain and elsewhere in the world; it is now a bullion coin and is often mounted in jewelry. In newest years, it has borne the style of Saint George and the Dragon on the reverse; the initials (B P) of the designer, Benedetto Pistrucci, are visible to the right of the date.\nThe coin was called after the English gold sovereign, last minted about 1603, and came from as part of the Terrific Recoinage of 1816. Numerous in Parliament thought a one-pound coin should be provided instead of the 21-shilling (1.05 pounds) guinea struck till that time. The Master of the Mint, William Wellesley Pole, had Pistrucci design the new coin, and his representation was also used for other gold coins. Initially, the coin was out of favor as the public chosen the convenience of banknotes, however paper currency of value ₤ 1 was quickly restricted by law. With that competition gone, the sovereign not just ended up being a popular circulating coin, but was used in global trade and in foreign lands, trusted as a coin consisting of a known amount of gold.\nThe Royal Mint in London is among the earliest operation centers in the world. Minting coins for the United Kingdom for over a thousand years, it is the mint of origin for a few of the finest coins still in existence today. For financiers and collectors searching for really distinct coins.\nThe Design of the Gold Sovereign Coins\nThe design of the British sovereign gold coins differs according to the year they were minted. The pioneering sovereign coin featured the British crown and shield motif in the front, which are surrounded by a heraldic circlet. In 1817, the design of the gold sovereign was changed and the back was designed by the famous Italian engraver, Benedetto Pistrucci.\nThe new design depicted Saint George riding on horseback while slaying a dragon. The Royal Mint in India, Australia, Canada, and South Africa soon adopted the new design. The year the coin was minted is also engraved on the reverse.\nThe front of the sovereign coin has features the portrait of the reigning British monarch since the coins were minted for the first time. For instance, the first edition of the coin featured the effigy of King George III who reigned from 1760 to 1820. The subsequent gold sovereign bore the image of King George IV (1820-1830) and King William IV (1830-1837).\nThe remaining gold sovereign coins bore three different images of Queen Victoria (1837-1901), King Edward VII (1902-1910), and King George V (1911-1936). The British Sovereign gold coins struck from 1952 bore the image of Queen Elizabeth II in three different portraits.\nThe standard sovereign coin is 1.52 mm thick and 22.05 mm in diameter and has a milled edge on both sides.\nClick the link if you want to buy\nBritish Sovereign Gold Coin\nWhy Invest In The British Sovereign Gold Coins?\nThe sovereign coin has a rich history and global acceptance, which makes it a perfect option for investors. It’s a perfect choice for investors looking for a bullion coin with aesthetic, numismatic, and historical value.\nThe British sovereign gold coin was invented under the leadership of King Henry VII in 1489. The original sovereign gold coin was last minted in 1604 before was redesigned in 1816. The following year, the Royal Mint started to produce new modern sovereign coins with a minimalist face value of one sterling pound. The coin has retained its face value for a century, but its market price has gone up over the years.\nModern sovereign gold coins were circulated for 114 years until Great Britain moved away from the gold standard. The gold content of the British sovereign has remained the same to this day. The 1816 act caped the gold content at 0.235420 troy ounces of pure gold which translates to 7.322381 grams.\nThe sovereign gold is struck in the same 22-carat gold with a purity level of .91213. The British Sovereign Gold coin was the first to become legal tender in the UK, and other commonwealth countries like Australia, Canada, India, and South Africa.\nbulliontrading\nView all posts\nPrevious Post\nGold Makes Headway Above $1,500 as 2020 Comes Into Closer Focus\nNext Post\n1 oz Australian Gold Kangaroo",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2020/04/best-online-gold-dealers-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2020/04/best-online-gold-dealers-jpg.webp",
+          "width": "1176",
+          "height": "1176",
+          "caption": "best-online-gold-dealers",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/british-sovereign-gold-coin/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-coins/",
+                "name": "gold coins"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/british-sovereign-gold-coin/",
+                "name": "British Sovereign Gold Coin"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/british-sovereign-gold-coin/#webpage",
+          "url": "https://bulliontradingllc.com/blog/british-sovereign-gold-coin/",
+          "name": "British Sovereign Gold Coin - Bullion Trading LLC",
+          "datePublished": "2020-04-13T14:14:45+00:00",
+          "dateModified": "2020-04-13T14:14:45+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2020/04/best-online-gold-dealers-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/british-sovereign-gold-coin/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "British Sovereign Gold Coin - Bullion Trading LLC",
+          "keywords": "British Sovereign Gold Coin",
+          "datePublished": "2020-04-13T14:14:45+00:00",
+          "dateModified": "2020-04-13T14:14:45+00:00",
+          "articleSection": "gold coins",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Explains the British Sovereign gold coin: its 1817 origins, £1 face value, shift from circulation to bullion, and Saint George &amp; Dragon reverse.",
+          "name": "British Sovereign Gold Coin - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/british-sovereign-gold-coin/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/british-sovereign-gold-coin/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2020/04/best-online-gold-dealers-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/british-sovereign-gold-coin/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/1-oz-australian-gold-kangaroo/",
+    "https://bulliontradingllc.com/blog/british-sovereign-gold-coin/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/gold-makes-headway-above-1500-as-2020-comes-into-closer-focus/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/product/british-sovereign-gold-coin/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2020/04/best-online-gold-dealers-jpg.webp",
+      "alt": "best-online-gold-dealers"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

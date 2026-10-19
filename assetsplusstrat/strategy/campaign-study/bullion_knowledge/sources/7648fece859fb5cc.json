@@ -1,0 +1,292 @@
+{
+  "metadata": {
+    "id": "7648fece859fb5cc",
+    "url": "https://bulliontradingllc.com/bullion-tax/west-virginia/",
+    "title": "Bullion Sales Tax in West Virginia (2026): Rules & Exemptions",
+    "retrieved_at": "2026-10-12T22:11:28.439643+00:00",
+    "status": "fetched",
+    "bytes": 105132,
+    "text_characters": 2496,
+    "sha256_html": "1494433f0f4790ec0232ff627e804f1c1a52143887ee0c8099e2ef898439cf90",
+    "file": "sources/7648fece859fb5cc.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "West Virginia has a statewide sales tax, but qualifying gold/silver bullion and certain coins are fully exempt. Jewelry is taxable; nonqualifying items are taxed.",
+  "canonical": "https://bulliontradingllc.com/bullion-tax/west-virginia/",
+  "text": "←\nAll states\nBullion treatment\nTax-free\nQualifying investment bullion is exempt.\nWhat's taxed?\nGood to know\nCommon questions\nHere's how each kind of item is treated in this state. Tap a row to read the plain-English note.\nWhat you're buying\nSales tax?\nWhat that means\nBullion Bars\nNo sales tax\nYou won't pay sales tax on these in West Virginia.\nBullion Coins\nNo sales tax\nYou won't pay sales tax on these in West Virginia.\nBullion Rounds\nNo sales tax\nYou won't pay sales tax on these in West Virginia.\nLegal-Tender Coins\nNo sales tax\nYou won't pay sales tax on these in West Virginia.\nNumismatic Coins\nDepends on the order\nSome items in this category qualify; others are taxed. Depends on the specific product.\nJewelry\nSales tax applies\nStandard West Virginia sales tax applies at checkout.\nIndustrial Precious Metal\nAsk before ordering\nTax treatment depends on the item. If you're unsure, contact us before ordering.\nCollectibles (Non-Coin)\nSales tax applies\nStandard West Virginia sales tax applies at checkout.\nPaper Currency\nSales tax applies\nStandard West Virginia sales tax applies at checkout.\nAccessories\nSales tax applies\nStandard West Virginia sales tax applies at checkout.\nWhat's covered by the exemption\nQualifying gold/silver bullion and certain coins\nHow they decide what counts as bullion\nThe state asks whether the item is priced for its metal value (qualifying bullion) or for rarity, design, or collector demand (taxable).\nWhat's NOT covered\nJewelry, rarity-priced collectibles, paper currency held as collectible, fabricated/industrial-use precious metal, and accessories.\nCommon questions about sales tax on gold and silver in West Virginia.\nIs gold bullion sales-tax exempt in West Virginia?\n+\nYes. Qualifying gold bullion is fully exempt from West Virginia sales tax under the statewide rule.\nIs silver bullion sales-tax exempt in West Virginia?\n+\nYes. Qualifying silver bullion is fully exempt, as long as it meets the state’s investment bullion/coin criteria.\nAre coins exempt from sales tax in West Virginia?\n+\nCertain coins are exempt when they qualify under West Virginia’s bullion/coin criteria; nonqualifying coins can be taxable.\nDo I pay sales tax on numismatic coins in West Virginia?\n+\nSometimes. Numismatic items are conditional and may be taxed if they do not qualify as exempt bullion or qualifying coins.\nIs precious-metal jewelry taxed in West Virginia?\n+\nYes. Jewelry is taxable in West Virginia even though qualifying bullion and certain coins are exempt.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Sales Tax in West Virginia (2026): Rules &amp; Exemptions",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "description": "West Virginia has a statewide sales tax, but qualifying gold/silver bullion and certain coins are fully exempt. Jewelry is taxable; nonqualifying items are taxed."
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/bullion-tax/west-virginia/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/bullion-tax/",
+                "name": "Bullion Sales Tax by State"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "name": "West Virginia",
+              "item": "https://bulliontradingllc.com/bullion-tax/west-virginia/"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "WebPage",
+            "FAQPage"
+          ],
+          "@id": "https://bulliontradingllc.com/bullion-tax/west-virginia/#webpage",
+          "url": "https://bulliontradingllc.com/bullion-tax/west-virginia/",
+          "name": "Bullion Sales Tax in West Virginia (2026): Rules &amp; Exemptions",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/west-virginia/#breadcrumb"
+          },
+          "headline": "West Virginia Sales Tax on Bullion",
+          "description": "West Virginia has a statewide sales tax, but qualifying gold/silver bullion and certain coins are fully exempt. Jewelry is taxable; nonqualifying items are taxed.",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is gold bullion sales-tax exempt in West Virginia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Qualifying gold bullion is fully exempt from West Virginia sales tax under the statewide rule."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is silver bullion sales-tax exempt in West Virginia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Qualifying silver bullion is fully exempt, as long as it meets the state’s investment bullion/coin criteria."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are coins exempt from sales tax in West Virginia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Certain coins are exempt when they qualify under West Virginia’s bullion/coin criteria; nonqualifying coins can be taxable."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do I pay sales tax on numismatic coins in West Virginia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sometimes. Numismatic items are conditional and may be taxed if they do not qualify as exempt bullion or qualifying coins."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is precious-metal jewelry taxed in West Virginia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Jewelry is taxable in West Virginia even though qualifying bullion and certain coins are exempt."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Bullion Sales Tax in West Virginia (2026): Rules &amp; Exemptions",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "West Virginia has a statewide sales tax, but qualifying gold/silver bullion and certain coins are fully exempt. Jewelry is taxable; nonqualifying items are taxed.",
+          "name": "Bullion Sales Tax in West Virginia (2026): Rules &amp; Exemptions",
+          "@id": "https://bulliontradingllc.com/bullion-tax/west-virginia/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/west-virginia/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/west-virginia/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/bullion-tax/wisconsin/",
+    "https://bulliontradingllc.com/bullion-tax/wyoming/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    }
+  ]
+}

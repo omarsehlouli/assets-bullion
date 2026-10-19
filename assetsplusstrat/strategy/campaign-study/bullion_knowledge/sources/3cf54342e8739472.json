@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "3cf54342e8739472",
+    "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1990/",
+    "title": "Silver Price in 1990 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:17.546253+00:00",
+    "status": "fetched",
+    "bytes": 18940,
+    "text_characters": 1126,
+    "sha256_html": "a32bdde1c94407613c68fa648b1b6b9b2121180f6a1cb42a37406d58111baade",
+    "file": "sources/3cf54342e8739472.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Silver in 1990: 12 monthly observations, 1990-01-31 to 1990-12-31. Sampled high $5.21, low $4.09; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/silver-price-in-1990/",
+  "text": "Silver Price in 1990\nAmong 12 monthly observations available for 1990, the LBMA silver price fell 19.4% between 1990-01-31 ($5.21) and 1990-12-31 ($4.19). The highest sampled price was $5.21 in January and the lowest was $4.09 in November. The mean of these observations was $4.76. This is a first-to-last observation change, not a calendar-year return.\n1990 silver price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$5.21\n(1990-01-31)\n$5.21\n(January)\n$4.09\n(November)\n$4.19\n(1990-12-31)\n$4.76\nGBP\n£3.10\n(1990-01-31)\n£3.10\n(January)\n£2.11\n(November)\n£2.17\n(1990-12-31)\n£2.68\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live silver price on the\nBullion Trading LLC spot dashboard\n, or\nshop silver bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Silver price history",
+              "item": "https://learn.bulliontradingllc.com/charts/silver-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1990"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Silver price in 1990 — LBMA monthly fix",
+          "description": "Silver in 1990: 12 monthly observations, 1990-01-31 to 1990-12-31. Sampled high $5.21, low $4.09; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1990/",
+          "temporalCoverage": "1990-01-31/1990-12-31",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

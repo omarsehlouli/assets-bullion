@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "id": "6c55fdec97547c61",
+    "url": "https://bulliontradingllc.com/blog/gold-rises-as-weak-chinese-trade-data-revives-growth-concerns/",
+    "title": "Gold rises as weak Chinese trade data revives growth concerns - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:44.713111+00:00",
+    "status": "fetched",
+    "bytes": 96299,
+    "text_characters": 3299,
+    "sha256_html": "15424a0c61317ca351c9680fed73d29f20f9b6c3a6593662284ab946bb59c127",
+    "file": "sources/6c55fdec97547c61.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Here is a post about Gold price rises as weak Chinese trade information restores development issues. , if you want to check out the initial article you can",
+  "canonical": "https://bulliontradingllc.com/blog/gold-rises-as-weak-chinese-trade-data-revives-growth-concerns/",
+  "text": "Here is a post about Gold price rises as weak Chinese trade information restores development issues. , if you want to check out the initial article you can the link at the bottom of this post.\nArea gold increased 0.53 percent to $1,294.95 per ounce by 7:23 a.m. ET, while U.S. gold futures were up 0.4 percent at $1,294.70 per ounce.\nIncluding to the geopolitical anxiousness, is an impending vote on British Prime Minister Theresa Mays Brexit deal on Tuesday, together with a stretched partial U.S. federal government shutdown over President Donald Trumps demand to develop a wall along the U.S.-Mexico border.\nThe metal is frequently used as a hedge versus political and economic unpredictability.\n” Some of the exuberance we have actually seen across dangerous possessions in the last couple of weeks appears to have faded off as we start a new week. With that, we are once again seeing an underlined demand for gold,” stated Saxo Bank analyst Ole Hansen.\nInvestors will now be acutely eyeing developments on trade between the United States and China, with U.S. authorities expecting a go to by Beijings top trade mediator later this month, after mid-level discussions between the two nations ended on a relatively positive note.\nSoftening equities and weak trade information from China “highlights that despite the fact that the market is confident of a (U.S.-China) trade deal, the question remains whether this existing momentum towards weaker international financial growth can be arrested.”\nWeak China trade data drags down Asia stocks.Spot gold looks neutral in $1,279-$ 1,299 range.Palladium below record high hit last week.\nGold has likewise been significantly raised by a dovish indication from U.S. Federal Reserve Chairman Jerome Powell, who last week reaffirmed that the central bank had the prospective to remain patient on monetary policy, minimizing tips rate of interest would be raised twice more this year.\nAmongst other valuable metals, palladium rose 0.08 percent to $1,318.99 an ounce. It hit a record high at $1,342.43 recently.\nGold costs increased on Monday as financiers sought safety as equities slipped after weak Chinese trade data dented threat belief and revived fears of a worldwide financial downturn.\nPlatinum dropped 1.27 percent to $800.24, while silver slipped 0.18 percent to $15.597 an ounce.\nChinese exports fell by their most in 2 years in December, alongside a significant contraction in imports, data showed on Monday, triggering a deceleration in global stock markets and highlighting worries of a sharper slowdown in global growth.\n“Safe haven appeal continues to gleam in the current term as financiers deliberate on financial unpredictabilities and increased geopolitical threats in 2019,” experts at Phillip Futures stated in a note.\nOn the technical front, the $1,300 an ounce level is “quite a barrier” for gold at the moment, stated ABN AMRO analyst Georgette Boele.\n.\nSpot gold has gained more than 11 percent since striking a 1-1/2-year low in mid-August at $1,159.96.\nWe found this short article at https://www.cnbc.com/2019/01/14/gold-markets-fed-and-dollar-moves-in-focus.html and thought it would be practical to our fans.\nbulliontrading\nView all posts\nPrevious Post\nThe Gold Price And Equity Volatility\nNext Post\nGold Finds Its Wings Again",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/01/gold-market-740x500-1.jpg",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2019/01/gold-market-740x500-1.jpg",
+          "width": "740",
+          "height": "500",
+          "caption": "gold-market-740&#215;500",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-rises-as-weak-chinese-trade-data-revives-growth-concerns/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-rises-as-weak-chinese-trade-data-revives-growth-concerns/",
+                "name": "Gold rises as weak Chinese trade data revives growth concerns"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-rises-as-weak-chinese-trade-data-revives-growth-concerns/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-rises-as-weak-chinese-trade-data-revives-growth-concerns/",
+          "name": "Gold rises as weak Chinese trade data revives growth concerns - Bullion Trading LLC",
+          "datePublished": "2019-01-14T09:43:54+00:00",
+          "dateModified": "2019-01-14T09:43:54+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/01/gold-market-740x500-1.jpg"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-rises-as-weak-chinese-trade-data-revives-growth-concerns/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold rises as weak Chinese trade data revives growth concerns - Bullion Trading LLC",
+          "datePublished": "2019-01-14T09:43:54+00:00",
+          "dateModified": "2019-01-14T09:43:54+00:00",
+          "articleSection": "Gold, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Here is a post about Gold price rises as weak Chinese trade information restores development issues. , if you want to check out the initial article you can",
+          "name": "Gold rises as weak Chinese trade data revives growth concerns - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-rises-as-weak-chinese-trade-data-revives-growth-concerns/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-rises-as-weak-chinese-trade-data-revives-growth-concerns/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/01/gold-market-740x500-1.jpg"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-rises-as-weak-chinese-trade-data-revives-growth-concerns/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/gold-finds-its-wings-again/",
+    "https://bulliontradingllc.com/blog/gold-rises-as-weak-chinese-trade-data-revives-growth-concerns/",
+    "https://bulliontradingllc.com/blog/the-gold-price-and-equity-volatility/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2019/01/gold-market-740x500-1.jpg",
+      "alt": "gold-market-740×500"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

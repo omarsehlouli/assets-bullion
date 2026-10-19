@@ -1,0 +1,684 @@
+{
+  "metadata": {
+    "id": "3d917258dd5e45ce",
+    "url": "https://bulliontradingllc.com/mints/the-royal-mint/",
+    "title": "The Royal Mint - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:44.410210+00:00",
+    "status": "fetched",
+    "bytes": 333303,
+    "text_characters": 3410,
+    "sha256_html": "d294b7f29b2c1d2460840e55341d661dc7c930cd2414285c48041d3bff7e425d",
+    "file": "sources/3d917258dd5e45ce.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The Royal Mint of the United Kingdom is one of the world’s most historic and respected mints, producing sovereign coinage and investment bullion with exceptional craftsmanship. Renowned for the Britannia series, The Royal Mint combines iconic British design with advanced security features and strong global investor recognition.",
+  "canonical": "https://bulliontradingllc.com/mints/the-royal-mint/",
+  "text": "The Royal Mint at a glance\n✓ LBMA Good Delivery\nType\nSovereign mint\nCountry\nUnited Kingdom\nFounded\n886\nSignature products\nBritannia, Gold Sovereign & The Queen’s Beasts\nAuthentication\nUK government guarantee; some bars carry hidden security features.\nFilters\nShowing all 14 results\nList\nGrid\nFilter by Metal\nGold\nSilver\nPlatinum\nPalladium\nFilter by Weight\n0.1106 oz\n0.2304 oz\n0.7734 oz\n0.9675 oz\n1 gram\n1 kilo\n1 oz\n1.205 oz\n1.25 oz\n1.5 oz\n1/10 oz\n1/2 gram\n1/2 oz\n1/20 oz\n1/4 oz\n10 gram\n10 oz\n10.725 oz\n100 gram\n100 oz\n1000.9 oz\n178.75 oz\n2 gram\n2 oz\n2.5 gram\n20 gram\n20 oz\n25 gram\n25 oz\n250 gram\n3.575 oz\n30 gram\n36 oz\n4 oz\n5 gram\n5 oz\n50 gram\n50 oz\n500 gram\n500 oz\n7.15 oz\n71.5 oz\n715 oz\nQty\nAdd to cart\nGovernment Minted Silver Coins\n2 oz .9999 Silver Royal Tudor Beast’s Coins   (Random Years)\n$\n140.16\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\nGovernment Minted Silver Coins\n2 oz Silver Royal Canadian Maple Leaf  Coin .9999 Random Year\n$\n135.16\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\nSilver Coins\nGreat Britain 1 oz Silver Britannia Coins BU Random Years Tube of 25\n$\n1,738.15\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\nSilver Coins\nMonster Box of 500 – Great Britain 1 oz Silver Britannia  Coins BU (Random Years)\n$\n35,262.96\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\nBritish Royal Mint Gold Coins\n1/4 oz British Gold Britannia Coin (Random Year)\n$\n1,247.13\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\nPlatinum and Palladium\n1 Oz Platinum British Britannia Coin Random Year\n$\n1,946.34\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\nGovernment Mint Silver Coins\nGreat Britain 1 oz Silver Britannia Coin – (Random Years)\n$\n72.53\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\nBritish Royal Mint Gold Coins\nBritish Sovereign Gold Coin\n$\n1,015.70\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\n1 oz Gold Bars\n1 oz Britannia Minted Gold Bar (In Assay)\n$\n4,327.72\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nOut of stock\nRead more\nGold Bars\n100 Gram Britannia Minted Gold Bar (In Assay)\n$\n13,827.81\nRead more\nQuickview\nGo to compare\nAdd to compare\nOut of stock\nRead more\n1 oz Gold Coins\n1 oz Rolling Stones Gold Coin\n$\n4,259.52\nRead more\nQuickview\nGo to compare\nAdd to compare\nOut of stock\nRead more\n1 oz Gold Coins\n1 oz British Britannia Gold Coin(Random Year)\n$\n4,288.52\nRead more\nQuickview\nGo to compare\nAdd to compare\nOut of stock\nRead more\n1 oz Gold Coins\n2023 Great Britain 1 oz Gold Coin (King Charles III)\n$\n4,281.52\nRead more\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\nSilver\nGreat Britain 1 oz Silver Coin Britannia BU (King Charles III)\n$\n69.03\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nThe Royal Mint of the United Kingdom is one of the world’s most historic and respected mints, producing sovereign coinage and investment bullion with exceptional craftsmanship. Renowned for the Britannia series, The Royal Mint combines iconic British design with advanced security features and strong global investor recognition.\nof 1 Pages\nExplore Bullion Trading LLC\nShopping The Royal Mint? Browse by metal, learn the fundamentals, or sell your bullion to us.\nGold Bullion\nSilver Bullion\nPlatinum & Palladium\nAll Mints\nGuides\nCalculators & Tools\nSell to Us",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/mints/the-royal-mint/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/mints/the-royal-mint/",
+                "name": "The Royal Mint"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://bulliontradingllc.com/mints/the-royal-mint/#webpage",
+          "url": "https://bulliontradingllc.com/mints/the-royal-mint/",
+          "name": "The Royal Mint - Bullion Trading LLC",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/mints/the-royal-mint/#breadcrumb"
+          },
+          "about": {
+            "@id": "https://bulliontradingllc.com/mints/the-royal-mint/#brand"
+          },
+          "mainEntity": {
+            "@id": "https://bulliontradingllc.com/mints/the-royal-mint/#itemlist"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "Organization",
+            "Brand"
+          ],
+          "@id": "https://bulliontradingllc.com/mints/the-royal-mint/#brand",
+          "name": "The Royal Mint",
+          "url": "https://bulliontradingllc.com/mints/the-royal-mint/",
+          "legalName": "The Royal Mint Limited",
+          "foundingDate": "886",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q951830",
+            "https://en.wikipedia.org/wiki/Royal_Mint",
+            "https://www.royalmint.com"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "GB"
+          },
+          "hasCredential": {
+            "@type": "EducationalOccupationalCredential",
+            "name": "LBMA Good Delivery",
+            "credentialCategory": "accreditation",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "London Bullion Market Association",
+              "alternateName": "LBMA",
+              "url": "https://www.lbma.org.uk/"
+            }
+          },
+          "description": "The Royal Mint is the United Kingdom's official mint, producing Britannia and Sovereign bullion coins; over 1,100 years old.",
+          "logo": "https://bulliontradingllc.com/wp-content/uploads/2026/02/The-Royal-Mint-Logo.webp",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "@id": "https://bulliontradingllc.com/mints/the-royal-mint/#itemlist",
+          "name": "The Royal Mint products",
+          "numberOfItems": "14",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "url": "https://bulliontradingllc.com/product/2-oz-silver-royal-tudor-beasts-coins-2023-2024-the-bull-of-clarence-the-tudor-dragon/",
+              "name": "2 oz .9999 Silver Royal Tudor Beast&#8217;s Coins   (Random Years)"
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "url": "https://bulliontradingllc.com/product/2-oz-silver-royal-canadian-maple-leaf-coin-9999-random-year/",
+              "name": "2 oz Silver Royal Canadian Maple Leaf  Coin .9999 Random Year"
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "url": "https://bulliontradingllc.com/product/25-oz-silver-britannia-coins-bu-tube/",
+              "name": "Great Britain 1 oz Silver Britannia Coins BU Random Years Tube of 25"
+            },
+            {
+              "@type": "ListItem",
+              "position": "4",
+              "url": "https://bulliontradingllc.com/product/monster-box-500-great-britain-1-oz-silver-britannia-coins-bu-random-year/",
+              "name": "Monster Box of 500 &#8211; Great Britain 1 oz Silver Britannia  Coins BU (Random Years)"
+            },
+            {
+              "@type": "ListItem",
+              "position": "5",
+              "url": "https://bulliontradingllc.com/product/1-4-oz-british-gold-britannia-coin-random-year/",
+              "name": "1/4 oz British Gold Britannia Coin (Random Year)"
+            },
+            {
+              "@type": "ListItem",
+              "position": "6",
+              "url": "https://bulliontradingllc.com/product/1-oz-platinum-british-britannia-coin-random-year/",
+              "name": "1 Oz Platinum British Britannia Coin Random Year"
+            },
+            {
+              "@type": "ListItem",
+              "position": "7",
+              "url": "https://bulliontradingllc.com/product/great-britain-1-oz-silver-britannia-coin-random-years/",
+              "name": "Great Britain 1 oz Silver Britannia Coin &#8211; (Random Years)"
+            },
+            {
+              "@type": "ListItem",
+              "position": "8",
+              "url": "https://bulliontradingllc.com/product/british-sovereign-gold-coin/",
+              "name": "British Sovereign Gold Coin"
+            },
+            {
+              "@type": "ListItem",
+              "position": "9",
+              "url": "https://bulliontradingllc.com/product/1-oz-britannia-minted-gold-bar-in-assay/",
+              "name": "1 oz Britannia Minted Gold Bar (In Assay)"
+            },
+            {
+              "@type": "ListItem",
+              "position": "10",
+              "url": "https://bulliontradingllc.com/product/100-gram-britannia-minted-gold-bar/",
+              "name": "100 Gram Britannia Minted Gold Bar (In Assay)"
+            },
+            {
+              "@type": "ListItem",
+              "position": "11",
+              "url": "https://bulliontradingllc.com/product/1-oz-rolling-stones-gold-coin/",
+              "name": "1 oz Rolling Stones Gold Coin"
+            },
+            {
+              "@type": "ListItem",
+              "position": "12",
+              "url": "https://bulliontradingllc.com/product/1-oz-british-britannia-gold-coinrandom-year/",
+              "name": "1 oz British Britannia Gold Coin(Random Year)"
+            },
+            {
+              "@type": "ListItem",
+              "position": "13",
+              "url": "https://bulliontradingllc.com/product/2023-great-britain-1-oz-gold-coin-king-charles-iii/",
+              "name": "2023 Great Britain 1 oz Gold Coin (King Charles III)"
+            },
+            {
+              "@type": "ListItem",
+              "position": "14",
+              "url": "https://bulliontradingllc.com/product/great-britain-1-oz-silver-coin-britannia-bu-king-charles-iii/",
+              "name": "Great Britain 1 oz Silver Coin Britannia BU (King Charles III)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/casting-grain/",
+    "https://bulliontradingllc.com/casting-grain/gold-casting-grain/",
+    "https://bulliontradingllc.com/casting-grain/platinum-casting-grain/",
+    "https://bulliontradingllc.com/casting-grain/silver-casting-grain/",
+    "https://bulliontradingllc.com/compare/",
+    "https://bulliontradingllc.com/gifts/",
+    "https://bulliontradingllc.com/gifts/collectibles/",
+    "https://bulliontradingllc.com/gifts/golf-tees/",
+    "https://bulliontradingllc.com/gifts/religious-collection/",
+    "https://bulliontradingllc.com/gifts/secondary-market-gold-silver/",
+    "https://bulliontradingllc.com/gifts/silver-bullets-for-sale/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/gold/bars/",
+    "https://bulliontradingllc.com/gold/bars/1-2-oz-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/1-kilo-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/1-oz-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/10-oz-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/5-oz-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/10-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/100-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/2-5-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/2-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/20-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/250-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/5-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/50-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/500-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/coins/",
+    "https://bulliontradingllc.com/gold/coins/1-10-oz-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/1-2-oz-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/1-4-oz-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/1-oz-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/australian-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/austrian-gold-philharmonics-coins/",
+    "https://bulliontradingllc.com/gold/coins/british-royal-mint-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/canadian-maple-leaf-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/chinese-gold-coin/",
+    "https://bulliontradingllc.com/gold/coins/krugerrand-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/us-mint-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/us-mint-gold-coins/american-buffalo-gold-coin/",
+    "https://bulliontradingllc.com/gold/coins/us-mint-gold-coins/american-eagle-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/us-mint-gold-coins/pre-1933-us-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/world-gold-coin/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_metal=gold",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_metal=palladium",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_metal=platinum",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_metal=silver",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_type-of-bullion=bar",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_type-of-bullion=coin",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_type-of-bullion=round",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=0-1106-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=0-2304-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=0-7734-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=0-9675-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=1-10-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=1-2-gram",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=1-2-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=1-20-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=1-205-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=1-25-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=1-4-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=1-5-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=1-gram",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=1-kilo",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=1-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=10-725-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=10-gram",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=10-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=100-gram",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=100-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=1000-9-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=178-75-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=2-5-gram",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=2-gram",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=2-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=20-gram",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=20-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=25-gram",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=25-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=250-gram",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=3-575-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=30-gram",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=36-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=4-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=5-gram",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=5-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=50-gram",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=50-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=500-gram",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=500-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=7-15-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=71-5-oz",
+    "https://bulliontradingllc.com/mints/the-royal-mint?filter_weight=715-oz",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/platinum-and-palladium/",
+    "https://bulliontradingllc.com/platinum-and-palladium/palladium/",
+    "https://bulliontradingllc.com/platinum-and-palladium/palladium/palladium-bars/",
+    "https://bulliontradingllc.com/platinum-and-palladium/palladium/palladium-coins/",
+    "https://bulliontradingllc.com/platinum-and-palladium/platinum/",
+    "https://bulliontradingllc.com/platinum-and-palladium/platinum/platinum-bars/",
+    "https://bulliontradingllc.com/platinum-and-palladium/platinum/platinum-coins/",
+    "https://bulliontradingllc.com/product/1-4-oz-british-gold-britannia-coin-random-year/",
+    "https://bulliontradingllc.com/product/1-oz-britannia-minted-gold-bar-in-assay/",
+    "https://bulliontradingllc.com/product/1-oz-british-britannia-gold-coinrandom-year/",
+    "https://bulliontradingllc.com/product/1-oz-platinum-british-britannia-coin-random-year/",
+    "https://bulliontradingllc.com/product/1-oz-rolling-stones-gold-coin/",
+    "https://bulliontradingllc.com/product/100-gram-britannia-minted-gold-bar/",
+    "https://bulliontradingllc.com/product/2-oz-silver-royal-canadian-maple-leaf-coin-9999-random-year/",
+    "https://bulliontradingllc.com/product/2-oz-silver-royal-tudor-beasts-coins-2023-2024-the-bull-of-clarence-the-tudor-dragon/",
+    "https://bulliontradingllc.com/product/2023-great-britain-1-oz-gold-coin-king-charles-iii/",
+    "https://bulliontradingllc.com/product/25-oz-silver-britannia-coins-bu-tube/",
+    "https://bulliontradingllc.com/product/british-sovereign-gold-coin/",
+    "https://bulliontradingllc.com/product/great-britain-1-oz-silver-britannia-coin-random-years/",
+    "https://bulliontradingllc.com/product/great-britain-1-oz-silver-coin-britannia-bu-king-charles-iii/",
+    "https://bulliontradingllc.com/product/monster-box-500-great-britain-1-oz-silver-britannia-coins-bu-random-year/",
+    "https://bulliontradingllc.com/shop/",
+    "https://bulliontradingllc.com/silver/",
+    "https://bulliontradingllc.com/silver/bars/",
+    "https://bulliontradingllc.com/silver/bars/1-kilo-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/1-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/10-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/100-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/50-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/gram-silver-bars/",
+    "https://bulliontradingllc.com/silver/coins/",
+    "https://bulliontradingllc.com/silver/coins/african-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/canadian-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/government-mint-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/government-mint-silver-coins/austrian-silver-philharmonics/",
+    "https://bulliontradingllc.com/silver/coins/government-mint-silver-coins/chinese-silver-pandas/",
+    "https://bulliontradingllc.com/silver/coins/government-minted-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/silver-rounds/",
+    "https://bulliontradingllc.com/silver/coins/us-silver-coins/",
+    "https://bulliontradingllc.com/social-media-deals/",
+    "https://bulliontradingllc.com/social-media-deals/5-10-oz-platinum-and-palladium-bars/",
+    "https://bulliontradingllc.com/social-media-deals/platinum-and-palladium-gram-bars/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2025/02/Tudor-Beasts-2-300x300.webp",
+      "alt": "2 oz silver Royal Tudor Beasts coin, random year, Royal Mint"
+    },
+    {
+      "url": "/wp-content/uploads/2025/02/Front-2019-Royal-Tudor-2-oz-Beast-Coin-300x300.webp",
+      "alt": "2 oz silver Royal Tudor Beast coin with ornate heraldic design"
+    },
+    {
+      "url": "/wp-content/uploads/2025/02/2023-gb-2-oz-silver-royal-tudor-beasts-the-bull-of-clarence_279167_rev-300x300.webp",
+      "alt": "2 oz silver Royal Tudor Beasts coin with bull of Clarence design"
+    },
+    {
+      "url": "/wp-content/uploads/2025/02/2019-Royal-Tudor-2-oz-Beast-Coin-300x300.webp",
+      "alt": "2 oz silver Royal Tudor Beasts coin with lion design"
+    },
+    {
+      "url": "/wp-content/uploads/2025/02/Horse-300x300.webp",
+      "alt": "2 oz silver Royal Tudor Beasts coin featuring horse design"
+    },
+    {
+      "url": "/wp-content/uploads/2025/02/Lion-300x300.webp",
+      "alt": "2 oz silver Royal Tudor Beast coin featuring the Lion design"
+    },
+    {
+      "url": "/wp-content/uploads/2025/02/Bull-Of-Clarenece-300x300.webp",
+      "alt": "2 oz silver Royal Tudor Beast coin featuring a bull design"
+    },
+    {
+      "url": "/wp-content/uploads/2025/02/Panther-300x300.webp",
+      "alt": "2 oz silver Royal Tudor Beasts Panther coin from the Royal Mint"
+    },
+    {
+      "url": "/wp-content/uploads/2025/02/Dragon-300x300.webp",
+      "alt": "2 oz silver Royal Tudor Beast coin with dragon design"
+    },
+    {
+      "url": "/wp-content/uploads/2026/04/2-oz-maple-leaf-silver-coin-10-Silver-300x300.webp",
+      "alt": "2 oz silver Royal Canadian Maple Leaf coin .9999 fine"
+    },
+    {
+      "url": "/wp-content/uploads/2026/04/2-oz-maple-leaf-silver-reverse.webp",
+      "alt": "2 oz silver Royal Canadian Maple Leaf coin with reverse maple leaf design"
+    },
+    {
+      "url": "/wp-content/uploads/2026/04/2-oz-maple-leaf-silver-front-300x300.webp",
+      "alt": "2 oz silver Royal Canadian Maple Leaf coin with maple design"
+    },
+    {
+      "url": "/wp-content/uploads/2026/06/2-pounds23-300x300.webp",
+      "alt": "Great Britain 1 oz Silver Britannia Coins BU Random Years Tube of 25"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/2023-great-britain-1-oz-silver-britannia-bu-king-charles-iii_268047_obv-300x300.jpg",
+      "alt": "1 oz silver Britannia coin featuring King Charles III portrait"
+    },
+    {
+      "url": "/wp-content/uploads/2024/12/2023-great-britain-1-oz-silver-britannia-bu-king-charles-iii_268047_a-1-jpg-webp-300x300.webp",
+      "alt": "1 oz silver Great Britain Britannia coin, King Charles III design"
+    },
+    {
+      "url": "/wp-content/uploads/2024/12/2-pounds5-300x300.jpg",
+      "alt": "Great Britain 1 oz Silver Britannia Coins BU Random Years Tube of 25"
+    },
+    {
+      "url": "/wp-content/uploads/2024/12/Great-Britain-Moster-Box-500-coins-300x300.webp",
+      "alt": "Monster box of 500 Great Britain 1 oz Silver Britannia coins"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/2023-great-britain-1-oz-silver-britannia-bu-king-charles-iii_268047_obv-300x300.jpg",
+      "alt": "1 oz silver Britannia coin featuring King Charles III portrait"
+    },
+    {
+      "url": "/wp-content/uploads/2024/12/2023-great-britain-1-oz-silver-britannia-bu-king-charles-iii_268047_a-1-jpg-webp-300x300.webp",
+      "alt": "1 oz silver Great Britain Britannia coin, King Charles III design"
+    },
+    {
+      "url": "/wp-content/uploads/2024/12/1-oz-Silver-Britannia-Random-years-300x300.webp",
+      "alt": "1 oz silver Britannia coin from The Royal Mint in protective packaging"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/14-oz-British-Gold-Britannia-Coin-Random-Year-300x300.webp",
+      "alt": "1/4 oz gold British Britannia coin with standing Britannia design"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-4-oz-British-Gold-Britannia-Coin-1-300x300.webp",
+      "alt": "1/4 oz British Gold Britannia coin, random year, featuring Britannia design"
+    },
+    {
+      "url": "/wp-content/uploads/2026/05/1-oz-Platinum-britannia-Coin-reverse-300x300.webp",
+      "alt": "1 oz platinum British Britannia coin reverse, Royal Mint Britannia series"
+    },
+    {
+      "url": "/wp-content/uploads/2026/05/1-oz-Platinum-britannia-Coin-obverse-300x300.webp",
+      "alt": "1 oz platinum British Britannia coin obverse with Britannia design"
+    },
+    {
+      "url": "/wp-content/uploads/2026/05/1-oz-Platinum-britannia-Coin-both-300x300.webp",
+      "alt": "1 oz platinum British Britannia coin, obverse and reverse"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/enu-2020-MintFirst-1-oz-Silver-Britannia-25-coins-35040MFT2020-50000-2-300x300.webp",
+      "alt": "1 oz silver Britannia coins from The Royal Mint in MintFirst packaging"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/2023-great-britain-1-oz-silver-britannia-bu-king-charles-iii_268047_obv-300x300.jpg",
+      "alt": "1 oz silver Britannia coin featuring King Charles III portrait"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/british-sovereign-gold-coins-1-300x300.webp",
+      "alt": "British Sovereign gold coin, 7.98 gram Royal Mint design"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/british-sovereign-gold-coins-random-year-300x300.webp",
+      "alt": "British Sovereign 7.98g gold coin from The Royal Mint"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-oz-gold-bar-the-royal-mint-britannia-in-assay_172949_slab-300x300.jpg",
+      "alt": "1 oz gold The Royal Mint Britannia bar in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-oz-gold-bar-the-royal-mint-britannia-in-assay_172949_obv-300x300.jpg",
+      "alt": "1 oz gold Britannia bar from The Royal Mint in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-oz-gold-bar-the-royal-mint-britannia-in-assay_172949_rev-300x300.jpg",
+      "alt": "1 oz gold Britannia bar from The Royal Mint in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-oz-gold-bar-the-royal-mint-britannia-in-assay_172949_a-300x300.jpg",
+      "alt": "1 oz gold Britannia bar from The Royal Mint in assay packaging"
+    },
+    {
+      "url": "/wp-content/uploads/2025/03/100g-britannia-gold-bullion-bar-in-blister-pack-front-1500x1500-ea404be-300x300.webp",
+      "alt": "100 gram gold Britannia Mint bar in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2025/03/100g-britannia-gold-bullion-bar-in-blister-pack-back-1500x1500-ea404be-300x300.webp",
+      "alt": "100 gram gold Britannia Mint bar sealed in assay blister pack"
+    },
+    {
+      "url": "/wp-content/uploads/2025/03/2021-gold-britannia-bullion-100g-bar-side-reverse-2000x2000-064a3d6-1-1-300x300.webp",
+      "alt": "100 gram gold Britannia Mint bar in assay packaging"
+    },
+    {
+      "url": "/wp-content/uploads/2025/03/trmmb100g-300x300.webp",
+      "alt": "100 gram gold Britannia Mint bar in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/front-49-removebg-preview-300x300.webp",
+      "alt": "1 oz gold Rolling Stones coin from Royal Mint British Music Legends Series"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/back-49-removebg-preview-300x300.webp",
+      "alt": "1 oz gold Rolling Stones coin from Royal Mint British Music Legends series"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1_oz_british_britannia_gold_coin_random_year-300x300.webp",
+      "alt": "1 oz gold British Britannia coin with Britannia design"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1_oz_british_britannia_gold_coin-300x300.webp",
+      "alt": "1 oz gold British Britannia coin showing Britannia design"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/2023king-300x300.webp",
+      "alt": "2023 Great Britain 1 oz gold Britannia coin featuring King Charles III"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/2023king-1-300x300.webp",
+      "alt": "2023 1 oz gold Britannia coin with King Charles III effigy"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/2023-great-britain-1-oz-silver-britannia-bu-king-charles-iii_268047_rev-300x300.jpg",
+      "alt": "1 oz silver Great Britain Britannia coin with King Charles III"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/2023-great-britain-1-oz-silver-britannia-bu-king-charles-iii_268047_obv-300x300.jpg",
+      "alt": "1 oz silver Britannia coin featuring King Charles III portrait"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/2023-great-britain-1-oz-silver-britannia-bu-king-charles-iii_268047_a-1-300x300.jpg",
+      "alt": "1 oz silver Great Britain Britannia coin featuring King Charles III"
+    }
+  ]
+}

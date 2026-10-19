@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "id": "0bbb0c94bc85d387",
+    "url": "https://learn.bulliontradingllc.com/coin-values/",
+    "title": "Coin Values — What's My Coin Worth? (US Coin Value Guide)",
+    "retrieved_at": "2026-10-12T22:13:23.252442+00:00",
+    "status": "fetched",
+    "bytes": 28804,
+    "text_characters": 3705,
+    "sha256_html": "1ba2e4e14f29ebcd92422c2b72091a63c1fd7dc7388547eb7f705406b062fa60",
+    "file": "sources/0bbb0c94bc85d387.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Find out what your US coins are worth. Live melt-value calculator for silver coins and 90% junk silver, plus value guides for quarters, dimes, nickels, pennies, half dollars and silver dollars — which years are silver and which are worth money.",
+  "canonical": "https://learn.bulliontradingllc.com/coin-values/",
+  "text": "What's My Coin Worth?\nMost pocket change is worth face value — but older US coins can be worth far more. Every\nquarter,\ndime or half dollar dated 1964 or earlier is 90% silver\n, silver dollars hold about three-quarters\nof an ounce, and certain dates and error coins command big collector premiums. Use the live calculator to\nsee the silver/gold melt value, then explore each denomination.\n💰 What's it worth? — live melt calculator\nBy coin\n90% \"junk\" silver by face value\nCoin\nSilver dime (1964 & earlier)\nSilver quarter (1964 & earlier)\nSilver half dollar (1964 & earlier)\n40% silver half (1965–1970)\nWar nickel (1942–1945)\nMorgan / Peace silver dollar\n40% silver Eisenhower dollar\nAmerican Silver Eagle (1 oz)\nAmerican Gold Eagle (1 oz)\n$20 Double Eagle (Saint / Liberty)\n$10 Gold Eagle (pre-1933)\n$5 Gold Half Eagle (pre-1933)\nHow many\nMelt value (\nsilver\n)\n$4.68\n$4.68\neach ·\n0.0723\noz\nsilver\n/coin\nSell yours to us →\nBuy US silver coins\n→\nMelt = pure metal content ×\nrecent\nspot (\nsilver\n$\n64.71\n/oz\n). This is the bullion floor; collectible coins can be worth far more. Melting circulating US coins is illegal — this estimates intrinsic value.\nCounting rolls? How many coins are in a roll + live roll values →\nWhat is junk silver? 90% silver coins explained + live value →\nWhat common US coins are worth (quick answers)\nSilver content is fixed; the dollar melt moves with spot — use the live calculator above for today's figure.\nCoin\nSilver content\nWhat it's worth\nDime, 1964 & earlier\n0.0723 oz\nSilver melt (× live spot)\nQuarter, 1964 & earlier\n0.1808 oz\nSilver melt (× live spot)\nHalf dollar, 1964 & earlier\n0.3617 oz\nSilver melt (× live spot)\nKennedy half, 1965–1970\n0.1479 oz (40%)\nSilver melt (× live spot)\nSilver dollar (Morgan/Peace)\n0.7734 oz\nSilver melt (× live spot)\nWar nickel, 1942–1945\n0.0563 oz (35%)\nSilver melt (× live spot)\nAny coin, 1965 onward\n—\nFace value, unless a key date or error\nCoin value guides\nQuarters\nSilver: 1932–1964\nDimes\nSilver: 1796–1964\nNickels\nSilver: 1942–1945 war nickels only\nPennies\nValues & key dates\nHalf Dollars\nSilver: 1964\nSilver Dollars\nSilver: 1878–1935\nDollar Coins\nValues & key dates\nPopular coin searches\n1943 Steel Penny\n1944 Wheat Penny\n1909-S VDB Penny\n1958-D Wheat Penny\n1955 Doubled Die Penny\n1964 Quarter\n1976 Bicentennial Quarter\n2023 Quarter Errors &s\n1964 Nickel\n1937 Buffalo Nickel\n1965 Dime\n1916-D Mercury Dime\n1921 Silver Dollar\n1893-S Morgan Dollar\n1964 Kennedy Half Dollar\nIs your coin silver? (quick rule)\nFor US dimes, quarters and half dollars, the date is the tell:\n1964 and earlier = 90% silver\n;\n1965 and later are copper-nickel \"clad\" with no silver (the exception is the 1965–1970 Kennedy half, which\nis 40% silver). Check a coin's edge — silver coins show a solid silver-white edge, while clad coins show a\ncopper stripe. Nickels contain no silver except the 1942–1945 \"war nickels.\"\nHave silver coins to sell? We buy gold, silver and coins in person at our NYC Diamond District counter —\nget a quote on the\nSell to Us\npage — or\nshop US silver coins\nto buy.\nFrequently asked\nHow much is each coin worth?\nUS coins dated 1964 or earlier are 90% silver and worth their silver melt — a dime holds 0.0723 oz, a quarter 0.1808 oz, a half dollar 0.3617 oz, and a silver dollar 0.7734 oz of fine silver. Multiply by the live silver price (use the calculator above) for today's value. Coins from 1965 on are usually worth face value unless they are a key date or error.\nWhich US coins are silver?\nDimes, quarters and half dollars dated 1964 and earlier are 90% silver; 1965 and later are copper-nickel clad. The exception is the 1965-1970 Kennedy half, which is 40% silver. Nickels contain no silver except the 1942-1945 \"war nickels.\"",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Coin Values"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "US coin value guides",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 7,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "url": "https://learn.bulliontradingllc.com/coin-values/quarters/",
+              "name": "Quarters worth money"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "url": "https://learn.bulliontradingllc.com/coin-values/dimes/",
+              "name": "Dimes worth money"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "url": "https://learn.bulliontradingllc.com/coin-values/nickels/",
+              "name": "Nickels worth money"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "url": "https://learn.bulliontradingllc.com/coin-values/pennies/",
+              "name": "Pennies worth money"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "url": "https://learn.bulliontradingllc.com/coin-values/half-dollars/",
+              "name": "Half Dollars worth money"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "url": "https://learn.bulliontradingllc.com/coin-values/silver-dollars/",
+              "name": "Silver Dollars worth money"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "url": "https://learn.bulliontradingllc.com/coin-values/dollar-coins/",
+              "name": "Dollar Coins worth money"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "US coin melt values & silver content",
+          "description": "Find out what your US coins are worth. Live melt-value calculator for silver coins and 90% junk silver, plus value guides for quarters, dimes, nickels, pennies, half dollars and silver dollars — which years are silver and which are worth money.",
+          "url": "https://learn.bulliontradingllc.com/coin-values/",
+          "creator": {
+            "@type": "Organization",
+            "name": "United States Mint"
+          },
+          "temporalCoverage": "1793/2026",
+          "variableMeasured": [
+            "Fine silver content",
+            "Fine gold content",
+            "Melt value",
+            "Spot price"
+          ],
+          "isAccessibleForFree": true
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How much is each coin worth?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "US coins dated 1964 or earlier are 90% silver and worth their silver melt — a dime holds 0.0723 oz, a quarter 0.1808 oz, a half dollar 0.3617 oz, and a silver dollar 0.7734 oz of fine silver. Multiply by the live silver price (use the calculator above) for today's value. Coins from 1965 on are usually worth face value unless they are a key date or error."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Which US coins are silver?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dimes, quarters and half dollars dated 1964 and earlier are 90% silver; 1965 and later are copper-nickel clad. The exception is the 1965-1970 Kennedy half, which is 40% silver. Nickels contain no silver except the 1942-1945 \"war nickels.\""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/",
+    "https://bulliontradingllc.com/silver/silver-coins-for-sale/us-silver-coins/"
+  ],
+  "images": []
+}

@@ -1,0 +1,52 @@
+{
+  "google_search": {
+    "headlines": [
+      {
+        "text": "Buy Gold in New York City",
+        "characters": 25
+      },
+      {
+        "text": "NYC Diamond District Bullion",
+        "characters": 28
+      },
+      {
+        "text": "20 West 47th Street",
+        "characters": 19
+      },
+      {
+        "text": "Gold & Silver. A Real Address.",
+        "characters": 30
+      },
+      {
+        "text": "Shop Bullion With a NYC Team",
+        "characters": 28
+      },
+      {
+        "text": "Bullion Trading LLC",
+        "characters": 19
+      }
+    ],
+    "descriptions": [
+      {
+        "text": "Shop gold and silver online, or plan a visit to our New York Diamond District counter.",
+        "characters": 86
+      },
+      {
+        "text": "20 West 47th Street, Lower Level #24. Contact our team before planning your visit.",
+        "characters": 82
+      },
+      {
+        "text": "Explore bars and coins with live prices. A real New York team is here to help.",
+        "characters": 78
+      }
+    ]
+  },
+  "meta": {
+    "primary_text": "Explore gold and silver with a real New York team. Shop online or contact Bullion Trading LLC at 20 West 47th Street, Lower Level #24, to plan your visit.",
+    "headline": "Your New York Bullion Dealer",
+    "description": "Shop gold. Plan a Diamond District visit.",
+    "cta": "Shop Now"
+  },
+  "creative_overlay_suggestion": "Gold has a New York address.",
+  "note": "Copy and image are separate assets. No live ad was created."
+}

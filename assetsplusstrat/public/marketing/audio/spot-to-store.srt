@@ -1,0 +1,23 @@
+1
+00:00:00,100 --> 00:00:02,620
+What actually sets the price of a gold bar?
+
+2
+00:00:02,915 --> 00:00:09,715
+It starts with spot: the live market price, traded nearly around the clock, from Sunday evening to Friday afternoon.
+
+3
+00:00:10,060 --> 00:00:17,900
+Then a premium covers what it takes to make it and move it: refining, minting, insurance, and shipping.
+
+4
+00:00:18,395 --> 00:00:25,335
+Our prices are built from live quotes plus a transparent premium, and reprice within minutes when spot moves.
+
+5
+00:00:25,770 --> 00:00:29,270
+Follow gold, silver, platinum, and palladium on our live charts.
+
+6
+00:00:29,635 --> 00:00:31,015
+Buy from Bullion Trading.

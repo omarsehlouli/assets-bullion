@@ -1,0 +1,13 @@
+ad_group,keyword,match_type,evidence
+gold,buy 1 oz gold bar,Exact,Suggested intent; no volume or CPC data retrieved
+gold,buy 1 oz gold bar,Phrase,Suggested intent; no volume or CPC data retrieved
+gold,1 oz gold bar price,Exact,Suggested intent; no volume or CPC data retrieved
+gold,1 oz gold bar price,Phrase,Suggested intent; no volume or CPC data retrieved
+gold,PAMP gold bar for sale,Exact,Suggested intent; no volume or CPC data retrieved
+gold,PAMP gold bar for sale,Phrase,Suggested intent; no volume or CPC data retrieved
+gold,Valcambi gold bar,Exact,Suggested intent; no volume or CPC data retrieved
+gold,Valcambi gold bar,Phrase,Suggested intent; no volume or CPC data retrieved
+gold,gold bar premium,Exact,Suggested intent; no volume or CPC data retrieved
+gold,gold bar premium,Phrase,Suggested intent; no volume or CPC data retrieved
+gold,compare gold bar prices,Exact,Suggested intent; no volume or CPC data retrieved
+gold,compare gold bar prices,Phrase,Suggested intent; no volume or CPC data retrieved

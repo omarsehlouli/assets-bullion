@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "id": "61e0f3d4f14aaf8c",
+    "url": "https://bulliontradingllc.com/traditions/",
+    "title": "Gold & Silver Traditions & Gifting Guides - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:12:51.972780+00:00",
+    "status": "fetched",
+    "bytes": 88902,
+    "text_characters": 1526,
+    "sha256_html": "7bc3a813c0b5cf341ceca419a0d392da090c78e5d12cc616c42489a5faf3f18f",
+    "file": "sources/61e0f3d4f14aaf8c.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Guides to the customs behind buying gold and silver for Pidyon HaBen, Dhanteras, Lunar New Year, Las Arras, gold sovereigns and anniversary gifts.",
+  "canonical": "https://bulliontradingllc.com/traditions/",
+  "text": "Bullion Trading Traditions\nTraditions\nThe cultural, religious, and life-event reasons families come to us for silver and gold — explained plainly, with the halacha and the metal in one place.\nAnniversary Gifts by Year — Silver, Gold & the Metal Milestones\nThe year-by-year wedding-anniversary gift list — the metal milestones (Silver 25th, Gold 50th, Platinum 70th), gemstone years, and a keepsake that lasts.\nRead the guide →\nLas Arras & Mexican Gold — the 13 Wedding Coins\nThe 13 wedding coins (las arras) explained — their origin, the meaning of thirteen, the padrinos, and Mexico’s gold: the Centenario and Hidalgo pesos.\nRead the guide →\nThe 21st-Birthday Gold Sovereign — Britain’s “Key of the Door”\nWhy the gold sovereign is Britain’s classic 21st-birthday “key of the door” gift — Pistrucci’s St George, the guinea link, and the modern revivals.\nRead the guide →\nLunar New Year Gold — Year of the Horse 2026\nA guide to gold and silver for Lunar New Year — the zodiac and rare Fire Horse, red-envelope etiquette, lucky numbers, and what to give by recipient.\nRead the guide →\nDhanteras — The Most Auspicious Day to Buy Gold & Silver\nA plain-English guide to buying gold and silver for Dhanteras and Diwali — the legends, the five days, what to buy by budget, plus weights and timing.\nRead the guide →\nPidyon HaBen — The Redemption of the Firstborn Son\nA plain-English guide to Pidyon HaBen — the mitzvah, the five silver shekels, the 31st day, and the ceremony — for families redeeming a firstborn son.\nRead the guide →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/traditions/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/traditions/",
+                "name": "Traditions"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://bulliontradingllc.com/traditions/#webpage",
+          "url": "https://bulliontradingllc.com/traditions/",
+          "name": "Gold &amp; Silver Traditions &amp; Gifting Guides - Bullion Trading LLC",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/traditions/#breadcrumb"
+          },
+          "mainEntity": {
+            "@type": "ItemList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": "1",
+                "url": "https://bulliontradingllc.com/traditions/anniversary-gold-silver-gifts/",
+                "name": "Anniversary Gifts by Year — Silver, Gold &amp; the Metal Milestones"
+              },
+              {
+                "@type": "ListItem",
+                "position": "2",
+                "url": "https://bulliontradingllc.com/traditions/dhanteras/",
+                "name": "Dhanteras — The Most Auspicious Day to Buy Gold &amp; Silver"
+              },
+              {
+                "@type": "ListItem",
+                "position": "3",
+                "url": "https://bulliontradingllc.com/traditions/las-arras-mexican-gold/",
+                "name": "Las Arras &amp; Mexican Gold — the 13 Wedding Coins"
+              },
+              {
+                "@type": "ListItem",
+                "position": "4",
+                "url": "https://bulliontradingllc.com/traditions/lunar-new-year-gold/",
+                "name": "Lunar New Year Gold — Year of the Horse 2026"
+              },
+              {
+                "@type": "ListItem",
+                "position": "5",
+                "url": "https://bulliontradingllc.com/traditions/pidyon-haben/",
+                "name": "Pidyon HaBen — The Redemption of the Firstborn Son"
+              },
+              {
+                "@type": "ListItem",
+                "position": "6",
+                "url": "https://bulliontradingllc.com/traditions/gold-sovereign-21st-birthday/",
+                "name": "The 21st-Birthday Gold Sovereign — Britain’s “Key of the Door”"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://bulliontradingllc.com/traditions/anniversary-gold-silver-gifts/",
+    "https://bulliontradingllc.com/traditions/dhanteras/",
+    "https://bulliontradingllc.com/traditions/gold-sovereign-21st-birthday/",
+    "https://bulliontradingllc.com/traditions/las-arras-mexican-gold/",
+    "https://bulliontradingllc.com/traditions/lunar-new-year-gold/",
+    "https://bulliontradingllc.com/traditions/pidyon-haben/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    }
+  ]
+}

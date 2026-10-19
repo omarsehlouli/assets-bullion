@@ -1,0 +1,1165 @@
+{
+ "language": "en",
+ "duration": 79.1321875,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.7,
+   "text": "On October 2nd, new data rules took effect in Kazakhstan.",
+   "words": [
+    {
+     "word": "On",
+     "start": 0.0,
+     "end": 0.42,
+     "p": 0.944
+    },
+    {
+     "word": "October",
+     "start": 0.42,
+     "end": 0.68,
+     "p": 0.918
+    },
+    {
+     "word": "2nd,",
+     "start": 0.68,
+     "end": 1.54,
+     "p": 0.904
+    },
+    {
+     "word": "new",
+     "start": 1.62,
+     "end": 1.86,
+     "p": 0.988
+    },
+    {
+     "word": "data",
+     "start": 1.86,
+     "end": 2.12,
+     "p": 0.989
+    },
+    {
+     "word": "rules",
+     "start": 2.12,
+     "end": 2.44,
+     "p": 0.998
+    },
+    {
+     "word": "took",
+     "start": 2.44,
+     "end": 2.68,
+     "p": 0.995
+    },
+    {
+     "word": "effect",
+     "start": 2.68,
+     "end": 3.02,
+     "p": 0.983
+    },
+    {
+     "word": "in",
+     "start": 3.02,
+     "end": 3.42,
+     "p": 0.997
+    },
+    {
+     "word": "Kazakhstan.",
+     "start": 3.42,
+     "end": 3.7,
+     "p": 0.998
+    }
+   ]
+  },
+  {
+   "start": 4.64,
+   "end": 7.58,
+   "text": "Your client's personal data must stay in the country,",
+   "words": [
+    {
+     "word": "Your",
+     "start": 4.64,
+     "end": 4.78,
+     "p": 0.995
+    },
+    {
+     "word": "client's",
+     "start": 4.78,
+     "end": 5.26,
+     "p": 0.964
+    },
+    {
+     "word": "personal",
+     "start": 5.26,
+     "end": 5.64,
+     "p": 0.998
+    },
+    {
+     "word": "data",
+     "start": 5.64,
+     "end": 5.98,
+     "p": 0.998
+    },
+    {
+     "word": "must",
+     "start": 5.98,
+     "end": 6.4,
+     "p": 0.975
+    },
+    {
+     "word": "stay",
+     "start": 6.4,
+     "end": 6.88,
+     "p": 0.999
+    },
+    {
+     "word": "in",
+     "start": 6.88,
+     "end": 7.08,
+     "p": 0.999
+    },
+    {
+     "word": "the",
+     "start": 7.08,
+     "end": 7.18,
+     "p": 0.999
+    },
+    {
+     "word": "country,",
+     "start": 7.18,
+     "end": 7.58,
+     "p": 0.998
+    }
+   ]
+  },
+  {
+   "start": 7.82,
+   "end": 10.94,
+   "text": "and it can't leave Kazakhstan without the client's consent.",
+   "words": [
+    {
+     "word": "and",
+     "start": 7.82,
+     "end": 8.2,
+     "p": 0.992
+    },
+    {
+     "word": "it",
+     "start": 8.2,
+     "end": 8.32,
+     "p": 0.997
+    },
+    {
+     "word": "can't",
+     "start": 8.32,
+     "end": 8.64,
+     "p": 0.997
+    },
+    {
+     "word": "leave",
+     "start": 8.64,
+     "end": 8.8,
+     "p": 0.997
+    },
+    {
+     "word": "Kazakhstan",
+     "start": 8.8,
+     "end": 9.4,
+     "p": 0.998
+    },
+    {
+     "word": "without",
+     "start": 9.4,
+     "end": 9.74,
+     "p": 0.996
+    },
+    {
+     "word": "the",
+     "start": 9.74,
+     "end": 10.16,
+     "p": 0.998
+    },
+    {
+     "word": "client's",
+     "start": 10.16,
+     "end": 10.58,
+     "p": 0.993
+    },
+    {
+     "word": "consent.",
+     "start": 10.58,
+     "end": 10.94,
+     "p": 1.0
+    }
+   ]
+  },
+  {
+   "start": 12.1,
+   "end": 12.74,
+   "text": "Now picture this.",
+   "words": [
+    {
+     "word": "Now",
+     "start": 12.1,
+     "end": 12.14,
+     "p": 0.967
+    },
+    {
+     "word": "picture",
+     "start": 12.14,
+     "end": 12.34,
+     "p": 0.835
+    },
+    {
+     "word": "this.",
+     "start": 12.34,
+     "end": 12.74,
+     "p": 0.998
+    }
+   ]
+  },
+  {
+   "start": 13.34,
+   "end": 15.28,
+   "text": "A client hands your company her passport.",
+   "words": [
+    {
+     "word": "A",
+     "start": 13.34,
+     "end": 13.5,
+     "p": 0.994
+    },
+    {
+     "word": "client",
+     "start": 13.5,
+     "end": 13.78,
+     "p": 0.999
+    },
+    {
+     "word": "hands",
+     "start": 13.78,
+     "end": 14.1,
+     "p": 0.985
+    },
+    {
+     "word": "your",
+     "start": 14.1,
+     "end": 14.28,
+     "p": 0.986
+    },
+    {
+     "word": "company",
+     "start": 14.28,
+     "end": 14.62,
+     "p": 0.998
+    },
+    {
+     "word": "her",
+     "start": 14.62,
+     "end": 14.84,
+     "p": 0.996
+    },
+    {
+     "word": "passport.",
+     "start": 14.84,
+     "end": 15.28,
+     "p": 0.993
+    }
+   ]
+  },
+  {
+   "start": 15.9,
+   "end": 18.88,
+   "text": "Your manager, in a hurry, pastes it into ChatGPT.",
+   "words": [
+    {
+     "word": "Your",
+     "start": 15.9,
+     "end": 16.04,
+     "p": 0.993
+    },
+    {
+     "word": "manager,",
+     "start": 16.04,
+     "end": 16.4,
+     "p": 0.994
+    },
+    {
+     "word": "in",
+     "start": 16.58,
+     "end": 16.7,
+     "p": 0.999
+    },
+    {
+     "word": "a",
+     "start": 16.7,
+     "end": 16.84,
+     "p": 0.999
+    },
+    {
+     "word": "hurry,",
+     "start": 16.84,
+     "end": 17.16,
+     "p": 0.999
+    },
+    {
+     "word": "pastes",
+     "start": 17.38,
+     "end": 17.74,
+     "p": 0.966
+    },
+    {
+     "word": "it",
+     "start": 17.74,
+     "end": 17.84,
+     "p": 0.99
+    },
+    {
+     "word": "into",
+     "start": 17.84,
+     "end": 18.12,
+     "p": 0.98
+    },
+    {
+     "word": "ChatGPT.",
+     "start": 18.12,
+     "end": 18.88,
+     "p": 0.781
+    }
+   ]
+  },
+  {
+   "start": 19.68,
+   "end": 21.04,
+   "text": "Write a contract for this client.",
+   "words": [
+    {
+     "word": "Write",
+     "start": 19.68,
+     "end": 19.78,
+     "p": 0.997
+    },
+    {
+     "word": "a",
+     "start": 19.78,
+     "end": 19.92,
+     "p": 0.999
+    },
+    {
+     "word": "contract",
+     "start": 19.92,
+     "end": 20.3,
+     "p": 0.996
+    },
+    {
+     "word": "for",
+     "start": 20.3,
+     "end": 20.52,
+     "p": 0.984
+    },
+    {
+     "word": "this",
+     "start": 20.52,
+     "end": 20.66,
+     "p": 0.998
+    },
+    {
+     "word": "client.",
+     "start": 20.66,
+     "end": 21.04,
+     "p": 0.999
+    }
+   ]
+  },
+  {
+   "start": 22.12,
+   "end": 24.28,
+   "text": "ChatGPT's servers aren't in Kazakhstan.",
+   "words": [
+    {
+     "word": "ChatGPT's",
+     "start": 22.12,
+     "end": 22.76,
+     "p": 0.975
+    },
+    {
+     "word": "servers",
+     "start": 22.76,
+     "end": 23.1,
+     "p": 0.995
+    },
+    {
+     "word": "aren't",
+     "start": 23.1,
+     "end": 23.6,
+     "p": 0.998
+    },
+    {
+     "word": "in",
+     "start": 23.6,
+     "end": 23.84,
+     "p": 0.999
+    },
+    {
+     "word": "Kazakhstan.",
+     "start": 23.84,
+     "end": 24.28,
+     "p": 0.999
+    }
+   ]
+  },
+  {
+   "start": 25.04,
+   "end": 27.82,
+   "text": "In one second, her data has crossed the border,",
+   "words": [
+    {
+     "word": "In",
+     "start": 25.04,
+     "end": 25.26,
+     "p": 0.996
+    },
+    {
+     "word": "one",
+     "start": 25.26,
+     "end": 25.56,
+     "p": 0.935
+    },
+    {
+     "word": "second,",
+     "start": 25.56,
+     "end": 26.04,
+     "p": 0.999
+    },
+    {
+     "word": "her",
+     "start": 26.28,
+     "end": 26.48,
+     "p": 0.998
+    },
+    {
+     "word": "data",
+     "start": 26.48,
+     "end": 26.78,
+     "p": 0.999
+    },
+    {
+     "word": "has",
+     "start": 26.78,
+     "end": 27.04,
+     "p": 0.998
+    },
+    {
+     "word": "crossed",
+     "start": 27.04,
+     "end": 27.32,
+     "p": 0.996
+    },
+    {
+     "word": "the",
+     "start": 27.32,
+     "end": 27.56,
+     "p": 0.999
+    },
+    {
+     "word": "border,",
+     "start": 27.56,
+     "end": 27.82,
+     "p": 0.997
+    }
+   ]
+  },
+  {
+   "start": 27.82,
+   "end": 29.44,
+   "text": "without her consent.",
+   "words": [
+    {
+     "word": "without",
+     "start": 27.82,
+     "end": 28.56,
+     "p": 0.567
+    },
+    {
+     "word": "her",
+     "start": 28.56,
+     "end": 29.04,
+     "p": 0.984
+    },
+    {
+     "word": "consent.",
+     "start": 29.04,
+     "end": 29.44,
+     "p": 0.997
+    }
+   ]
+  },
+  {
+   "start": 30.36,
+   "end": 31.2,
+   "text": "Who answers for that?",
+   "words": [
+    {
+     "word": "Who",
+     "start": 30.36,
+     "end": 30.42,
+     "p": 0.951
+    },
+    {
+     "word": "answers",
+     "start": 30.42,
+     "end": 30.68,
+     "p": 0.994
+    },
+    {
+     "word": "for",
+     "start": 30.68,
+     "end": 30.96,
+     "p": 0.994
+    },
+    {
+     "word": "that?",
+     "start": 30.96,
+     "end": 31.2,
+     "p": 0.999
+    }
+   ]
+  },
+  {
+   "start": 31.74,
+   "end": 33.44,
+   "text": "Not the manager, you.",
+   "words": [
+    {
+     "word": "Not",
+     "start": 31.74,
+     "end": 31.96,
+     "p": 0.955
+    },
+    {
+     "word": "the",
+     "start": 31.96,
+     "end": 32.1,
+     "p": 0.996
+    },
+    {
+     "word": "manager,",
+     "start": 32.1,
+     "end": 32.52,
+     "p": 0.936
+    },
+    {
+     "word": "you.",
+     "start": 33.08,
+     "end": 33.44,
+     "p": 0.96
+    }
+   ]
+  },
+  {
+   "start": 34.86,
+   "end": 36.22,
+   "text": "Your company holds the data.",
+   "words": [
+    {
+     "word": "Your",
+     "start": 34.86,
+     "end": 34.96,
+     "p": 0.871
+    },
+    {
+     "word": "company",
+     "start": 34.96,
+     "end": 35.28,
+     "p": 0.993
+    },
+    {
+     "word": "holds",
+     "start": 35.28,
+     "end": 35.64,
+     "p": 0.979
+    },
+    {
+     "word": "the",
+     "start": 35.64,
+     "end": 35.88,
+     "p": 0.999
+    },
+    {
+     "word": "data.",
+     "start": 35.88,
+     "end": 36.22,
+     "p": 0.998
+    }
+   ]
+  },
+  {
+   "start": 36.76,
+   "end": 38.22,
+   "text": "Your company pays the fine.",
+   "words": [
+    {
+     "word": "Your",
+     "start": 36.76,
+     "end": 36.9,
+     "p": 0.986
+    },
+    {
+     "word": "company",
+     "start": 36.9,
+     "end": 37.28,
+     "p": 0.999
+    },
+    {
+     "word": "pays",
+     "start": 37.28,
+     "end": 37.62,
+     "p": 0.997
+    },
+    {
+     "word": "the",
+     "start": 37.62,
+     "end": 37.86,
+     "p": 0.998
+    },
+    {
+     "word": "fine.",
+     "start": 37.86,
+     "end": 38.22,
+     "p": 0.998
+    }
+   ]
+  },
+  {
+   "start": 38.74,
+   "end": 42.7,
+   "text": "Up to 2,000 MRP, 8.6 million Tenge.",
+   "words": [
+    {
+     "word": "Up",
+     "start": 38.74,
+     "end": 38.82,
+     "p": 0.937
+    },
+    {
+     "word": "to",
+     "start": 38.82,
+     "end": 39.0,
+     "p": 0.997
+    },
+    {
+     "word": "2",
+     "start": 39.0,
+     "end": 39.32,
+     "p": 0.636
+    },
+    {
+     "word": ",000",
+     "start": 39.32,
+     "end": 39.84,
+     "p": 0.994
+    },
+    {
+     "word": "MRP,",
+     "start": 39.84,
+     "end": 40.5,
+     "p": 0.94
+    },
+    {
+     "word": "8",
+     "start": 41.02,
+     "end": 41.22,
+     "p": 0.958
+    },
+    {
+     "word": ".6",
+     "start": 41.22,
+     "end": 41.84,
+     "p": 0.996
+    },
+    {
+     "word": "million",
+     "start": 41.84,
+     "end": 42.3,
+     "p": 0.966
+    },
+    {
+     "word": "Tenge.",
+     "start": 42.3,
+     "end": 42.7,
+     "p": 0.759
+    }
+   ]
+  },
+  {
+   "start": 43.7,
+   "end": 47.24,
+   "text": "This year, the number of people punished for data violations",
+   "words": [
+    {
+     "word": "This",
+     "start": 43.7,
+     "end": 44.38,
+     "p": 0.994
+    },
+    {
+     "word": "year,",
+     "start": 44.38,
+     "end": 44.66,
+     "p": 1.0
+    },
+    {
+     "word": "the",
+     "start": 44.98,
+     "end": 45.04,
+     "p": 0.996
+    },
+    {
+     "word": "number",
+     "start": 45.04,
+     "end": 45.24,
+     "p": 0.999
+    },
+    {
+     "word": "of",
+     "start": 45.24,
+     "end": 45.46,
+     "p": 0.999
+    },
+    {
+     "word": "people",
+     "start": 45.46,
+     "end": 45.68,
+     "p": 0.999
+    },
+    {
+     "word": "punished",
+     "start": 45.68,
+     "end": 46.12,
+     "p": 0.985
+    },
+    {
+     "word": "for",
+     "start": 46.12,
+     "end": 46.38,
+     "p": 0.999
+    },
+    {
+     "word": "data",
+     "start": 46.38,
+     "end": 46.6,
+     "p": 0.99
+    },
+    {
+     "word": "violations",
+     "start": 46.6,
+     "end": 47.24,
+     "p": 0.996
+    }
+   ]
+  },
+  {
+   "start": 47.24,
+   "end": 48.82,
+   "text": "has more than quadrupled,",
+   "words": [
+    {
+     "word": "has",
+     "start": 47.24,
+     "end": 47.52,
+     "p": 0.992
+    },
+    {
+     "word": "more",
+     "start": 47.52,
+     "end": 47.82,
+     "p": 0.997
+    },
+    {
+     "word": "than",
+     "start": 47.82,
+     "end": 48.02,
+     "p": 0.995
+    },
+    {
+     "word": "quadrupled,",
+     "start": 48.02,
+     "end": 48.82,
+     "p": 0.998
+    }
+   ]
+  },
+  {
+   "start": 49.24,
+   "end": 51.72,
+   "text": "and the ministry's next draft is already written.",
+   "words": [
+    {
+     "word": "and",
+     "start": 49.24,
+     "end": 49.48,
+     "p": 0.994
+    },
+    {
+     "word": "the",
+     "start": 49.48,
+     "end": 49.6,
+     "p": 0.995
+    },
+    {
+     "word": "ministry's",
+     "start": 49.6,
+     "end": 50.1,
+     "p": 0.893
+    },
+    {
+     "word": "next",
+     "start": 50.1,
+     "end": 50.28,
+     "p": 0.998
+    },
+    {
+     "word": "draft",
+     "start": 50.28,
+     "end": 50.64,
+     "p": 1.0
+    },
+    {
+     "word": "is",
+     "start": 50.64,
+     "end": 50.84,
+     "p": 0.982
+    },
+    {
+     "word": "already",
+     "start": 50.84,
+     "end": 51.2,
+     "p": 0.998
+    },
+    {
+     "word": "written.",
+     "start": 51.2,
+     "end": 51.72,
+     "p": 0.999
+    }
+   ]
+  },
+  {
+   "start": 52.5,
+   "end": 56.84,
+   "text": "Fines up to 5,000 MRP and criminal charges for mass leaks.",
+   "words": [
+    {
+     "word": "Fines",
+     "start": 52.5,
+     "end": 52.58,
+     "p": 0.734
+    },
+    {
+     "word": "up",
+     "start": 52.58,
+     "end": 52.84,
+     "p": 0.991
+    },
+    {
+     "word": "to",
+     "start": 52.84,
+     "end": 53.04,
+     "p": 0.998
+    },
+    {
+     "word": "5",
+     "start": 53.04,
+     "end": 53.38,
+     "p": 0.978
+    },
+    {
+     "word": ",000",
+     "start": 53.38,
+     "end": 53.88,
+     "p": 0.998
+    },
+    {
+     "word": "MRP",
+     "start": 53.88,
+     "end": 54.58,
+     "p": 0.996
+    },
+    {
+     "word": "and",
+     "start": 54.58,
+     "end": 55.02,
+     "p": 0.735
+    },
+    {
+     "word": "criminal",
+     "start": 55.02,
+     "end": 55.36,
+     "p": 0.989
+    },
+    {
+     "word": "charges",
+     "start": 55.36,
+     "end": 55.8,
+     "p": 0.999
+    },
+    {
+     "word": "for",
+     "start": 55.8,
+     "end": 56.1,
+     "p": 0.998
+    },
+    {
+     "word": "mass",
+     "start": 56.1,
+     "end": 56.4,
+     "p": 0.979
+    },
+    {
+     "word": "leaks.",
+     "start": 56.4,
+     "end": 56.84,
+     "p": 0.996
+    }
+   ]
+  },
+  {
+   "start": 56.84,
+   "end": 60.86,
+   "text": "Meanwhile, it happens in offices every day,",
+   "words": [
+    {
+     "word": "Meanwhile,",
+     "start": 56.84,
+     "end": 57.96,
+     "p": 0.897
+    },
+    {
+     "word": "it",
+     "start": 58.54,
+     "end": 58.62,
+     "p": 0.986
+    },
+    {
+     "word": "happens",
+     "start": 58.62,
+     "end": 58.94,
+     "p": 0.996
+    },
+    {
+     "word": "in",
+     "start": 58.94,
+     "end": 59.2,
+     "p": 0.995
+    },
+    {
+     "word": "offices",
+     "start": 59.2,
+     "end": 59.56,
+     "p": 0.988
+    },
+    {
+     "word": "every",
+     "start": 59.56,
+     "end": 60.2,
+     "p": 0.797
+    },
+    {
+     "word": "day,",
+     "start": 60.2,
+     "end": 60.86,
+     "p": 0.998
+    }
+   ]
+  },
+  {
+   "start": 61.12,
+   "end": 63.28,
+   "text": "quietly, with good intentions.",
+   "words": [
+    {
+     "word": "quietly,",
+     "start": 61.12,
+     "end": 61.62,
+     "p": 0.977
+    },
+    {
+     "word": "with",
+     "start": 62.32,
+     "end": 62.46,
+     "p": 0.998
+    },
+    {
+     "word": "good",
+     "start": 62.46,
+     "end": 62.68,
+     "p": 0.998
+    },
+    {
+     "word": "intentions.",
+     "start": 62.68,
+     "end": 63.28,
+     "p": 0.998
+    }
+   ]
+  },
+  {
+   "start": 64.48,
+   "end": 67.66,
+   "text": "So, do you know what your team pasted into AI today?",
+   "words": [
+    {
+     "word": "So,",
+     "start": 64.48,
+     "end": 64.54,
+     "p": 0.944
+    },
+    {
+     "word": "do",
+     "start": 65.06,
+     "end": 65.22,
+     "p": 0.985
+    },
+    {
+     "word": "you",
+     "start": 65.22,
+     "end": 65.34,
+     "p": 0.998
+    },
+    {
+     "word": "know",
+     "start": 65.34,
+     "end": 65.48,
+     "p": 0.998
+    },
+    {
+     "word": "what",
+     "start": 65.48,
+     "end": 65.64,
+     "p": 0.994
+    },
+    {
+     "word": "your",
+     "start": 65.64,
+     "end": 65.9,
+     "p": 0.983
+    },
+    {
+     "word": "team",
+     "start": 65.9,
+     "end": 66.2,
+     "p": 0.999
+    },
+    {
+     "word": "pasted",
+     "start": 66.2,
+     "end": 66.72,
+     "p": 0.997
+    },
+    {
+     "word": "into",
+     "start": 66.72,
+     "end": 66.96,
+     "p": 0.981
+    },
+    {
+     "word": "AI",
+     "start": 66.96,
+     "end": 67.28,
+     "p": 0.958
+    },
+    {
+     "word": "today?",
+     "start": 67.28,
+     "end": 67.66,
+     "p": 0.994
+    }
+   ]
+  },
+  {
+   "start": 69.06,
+   "end": 69.48,
+   "text": "Don't worry.",
+   "words": [
+    {
+     "word": "Don't",
+     "start": 69.06,
+     "end": 69.28,
+     "p": 0.977
+    },
+    {
+     "word": "worry.",
+     "start": 69.28,
+     "end": 69.48,
+     "p": 0.992
+    }
+   ]
+  },
+  {
+   "start": 70.24,
+   "end": 72.58,
+   "text": "From the next message on, we've got you.",
+   "words": [
+    {
+     "word": "From",
+     "start": 70.24,
+     "end": 70.52,
+     "p": 0.932
+    },
+    {
+     "word": "the",
+     "start": 70.52,
+     "end": 70.62,
+     "p": 0.996
+    },
+    {
+     "word": "next",
+     "start": 70.62,
+     "end": 70.82,
+     "p": 0.996
+    },
+    {
+     "word": "message",
+     "start": 70.82,
+     "end": 71.2,
+     "p": 0.943
+    },
+    {
+     "word": "on,",
+     "start": 71.2,
+     "end": 71.48,
+     "p": 0.977
+    },
+    {
+     "word": "we've",
+     "start": 71.84,
+     "end": 72.08,
+     "p": 0.983
+    },
+    {
+     "word": "got",
+     "start": 72.08,
+     "end": 72.26,
+     "p": 0.999
+    },
+    {
+     "word": "you.",
+     "start": 72.26,
+     "end": 72.58,
+     "p": 0.947
+    }
+   ]
+  },
+  {
+   "start": 74.0,
+   "end": 74.34,
+   "text": "Blur.",
+   "words": [
+    {
+     "word": "Blur.",
+     "start": 74.0,
+     "end": 74.34,
+     "p": 0.885
+    }
+   ]
+  }
+ ]
+}

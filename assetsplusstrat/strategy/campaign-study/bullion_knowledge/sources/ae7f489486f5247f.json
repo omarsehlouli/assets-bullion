@@ -1,0 +1,279 @@
+{
+  "metadata": {
+    "id": "ae7f489486f5247f",
+    "url": "https://bulliontradingllc.com/blog/how-much-gold-is-there-on-earth/",
+    "title": "How Much Gold Is There on Earth? - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:51.508762+00:00",
+    "status": "fetched",
+    "bytes": 95604,
+    "text_characters": 3453,
+    "sha256_html": "2ce06a69320ca04388721a0a9fcd6c2c0132dca643a9b90b8448d75b93aa77a0",
+    "file": "sources/ae7f489486f5247f.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "So, how much gold is there? Little that a years worth of mining it would just net you a cube that were just 20 square meters.",
+  "canonical": "https://bulliontradingllc.com/blog/how-much-gold-is-there-on-earth/",
+  "text": "So, how much gold is there? Little that a years worth of mining it would just net you a cube that were just 20 square meters.\nJust how much gold exists in the world? The rate of gold is driven by supply and demand, and this is based upon the real quantity of gold supply. If there were a flood of gold on the marketplace, it would be worth less than if there remained a small amount.\nTo put this into visual kind, if you put all of the gold inside of that cube and put it on a pathway in Paris, it would really be simple to ignore it. This $125,000,000,000 cube assists to show the actual percentage of gold that weve mined. Have a look at this image supplied by Visual Capitalist:\nvia Visual Capitalist\nThe yearly gold supply is renewed by just 4,000 tonnes a year, with the pure amount of gold tonnage at 170,000 tonnes in general. Just 60% of the gold presented into the marketplace every year comes from brand-new minage, with the rest being recovered from gold utilized in other items (such as electronic devices and medical devices). This suggests that just 2400 tonnes of gold are being presented into the marketplace each year as brand-new gold. The rest is gold that has actually currently been mined, and is being recycled.\nTo respond to the question asked at the top of the post, how much gold is there worldwide? Insufficient! This is why gold is valuable dollar-wise, and an exceedingly safe financial investment.\nOn top of the record levels of gold production, there is our record level of gold consumption. China, one of the biggest customers of gold on the world market, needs around 1200 tonnes of gold annually. The United States and India demand similar amounts of gold each year, significantly denting the amount of brand-new gold that is introduced.\nConsider the gold thats held in reserve by banks, and national reserves. Its estimated that roughly 20% of all the gold thats been mined throughout the history of the world is held by these entities. This indicates that, while there have to do with 170,000 tonnes of gold above ground, only 80% is offered for the mass consumer.\nThe cost of gold is driven by supply and need, and this is based on the real quantity of gold supply. The yearly gold supply is renewed by only 4,000 tonnes a year, with the pure quantity of gold tonnage at 170,000 tonnes overall. Only 60% of the gold presented into the market every year comes from new minage, with the rest being recuperated from gold utilized in other products (such as electronics and medical equipment). China, one of the largest consumers of gold on the world market, needs around 1200 tonnes of gold per year. The United States and India demand similar amounts of gold per year, badly denting the quantity of brand-new gold that is introduced.\nWhat do you think about the supply of the gold on the planet? Do you feel there is more gold than portrayed here? Share this story, and let us know in the comments!\nAs can be easily seen, the amount of gold that is both produced and available is deceptive. Yes, 4000 tonnes of brand-new gold is produced each year, but this is barely sufficient to maintain to the need of the leading 3 consumers. International gold need reached $200 billion in 2013, 800% greater than silver. The gold supply, while more is being added annually, is in fact more scant than it appears.\nbulliontrading\nView all posts\nPrevious Post\nWhat Impacts the Price of Silver?\nNext Post\nSpot Price VS Physical Price",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-1-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-1-jpg.webp",
+          "width": "887",
+          "height": "552",
+          "caption": "Untitled",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/how-much-gold-is-there-on-earth/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/how-much-gold-is-there-on-earth/",
+                "name": "How Much Gold Is There on Earth?"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/how-much-gold-is-there-on-earth/#webpage",
+          "url": "https://bulliontradingllc.com/blog/how-much-gold-is-there-on-earth/",
+          "name": "How Much Gold Is There on Earth? - Bullion Trading LLC",
+          "datePublished": "2017-07-14T12:40:30+00:00",
+          "dateModified": "2017-07-14T12:40:30+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/how-much-gold-is-there-on-earth/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "How Much Gold Is There on Earth? - Bullion Trading LLC",
+          "datePublished": "2017-07-14T12:40:30+00:00",
+          "dateModified": "2017-07-14T12:40:30+00:00",
+          "articleSection": "Gold, Gold Bars, gold bullion, gold coins",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "So, how much gold is there? Little that a years worth of mining it would just net you a cube that were just 20 square meters.",
+          "name": "How Much Gold Is There on Earth? - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/how-much-gold-is-there-on-earth/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/how-much-gold-is-there-on-earth/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/how-much-gold-is-there-on-earth/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-bars/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/how-much-gold-is-there-on-earth/",
+    "https://bulliontradingllc.com/blog/spot-price-vs-physical-price/",
+    "https://bulliontradingllc.com/blog/what-impacts-the-price-of-silver/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/gold-1-jpg.webp",
+      "alt": "Untitled"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

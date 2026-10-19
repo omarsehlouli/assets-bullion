@@ -1,0 +1,15 @@
+# Rebuildable or machine-specific
+node_modules/
+out/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Renders are not stored in this repo
+*.mp4
+*.mov
+
+# Secrets never belong here
+.env
+.env.*

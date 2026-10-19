@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "c5b027c5fd3ee717",
+    "url": "https://bulliontradingllc.com/blog/facts-about-diwali-festival/",
+    "title": "Facts About Diwali Festival - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:31.886913+00:00",
+    "status": "fetched",
+    "bytes": 96438,
+    "text_characters": 3649,
+    "sha256_html": "cbe742d6e39d46a1621d2488c720ed5f5b85701ce43a7bf82bf29c2296a00bbf",
+    "file": "sources/c5b027c5fd3ee717.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Discover when Diwali 2016 in this exclusive Diwali Schedule is!! The in-depth schedule web page plainly mentions Diwali Date 2016. Learn Diwali Day for the",
+  "canonical": "https://bulliontradingllc.com/blog/facts-about-diwali-festival/",
+  "text": "Discover when Diwali 2016 in this exclusive Diwali Schedule is!! The in-depth schedule web page plainly mentions Diwali Date 2016. Learn Diwali Day for the past as well as coming year in the Diwali Schedule 2009 and Diwali Calendar 2016.\nIf you wish to buy gold this Diwali festival Bullion Trading LLC provides the very best prices.\nGold Investments has actually created 15 interesting realities about Diwali and likewise gold acquisitions at this time of year. Demand for the rare-earth element tends to improve before and also after the celebration (the wedding event season starts afterwards).\nAccording to Hindu reckoning, the day of Diwali falls on 15th day of the dark fortnight in the useful Hindu month of Kartik or the month of October/November in English schedule. This Diwali day falls on the amavasya or the no moon day. Diwali day comes 20 days after the favored celebration of Dussehra or Vijaya Dashmi.\nWhen lack of knowledge is brushed aside by acknowledging as well as enlightenment, Diwali could in addition work with the understanding of internal light within a private.\nInfo About Diwali Festival\nDiwali holds significance not simply in Hinduism however likewise in Sikhism who honor the release of their 6th Master (real translation: educator) Hargobind. To Sikhs, it is referred to as Bandi Chhor Divas. The Jains commemorate it as the day when Lord Mahaveer, the last trithankara, acquired Paradise or Moksha.\nThe Festival of Lights, Diwali, is a thrilled and vibrant event. Relative prepare their houses and themselves for the special events that symbolize the success of spiritual advantages and likewise the training of spiritual darkness. Firecrackers are triggered to drive away wicked, oil lamps are lit, blossom garlands are made, candle lights wander in bowls of water outdoors homes and also desserts are shared as part of the festivities.\nDiwali day modifications every year as the day are figured out inning accordance with the setting of the moon. When Diwali 2016 in this special Diwali Schedule is!! The in-depth schedule web page plainly discusses Diwali Date 2016, Discover. Likewise learn Diwali Day for the past in addition to coming year in the Diwali Schedule 2009 and Diwali Calendar 2016.\nAccording to Hindu reckoning, the day of Diwali falls on 15th day of the dark fortnight in the helpful Hindu month of Kartik or the month of October/November in English schedule. Diwali day comes 20 days after the preferred event of Dussehra or Vijaya Dashmi.\nGold is set up in Indian society– the rare-earth element is normally deemed a link in between the countrys spirituality and also its heritage.\nDiwali marks the return of Lord Rama that was the seventh variation of Vishnu from a fourteen year exile.\nDiwali is honored in between mid-October and mid-November in the western schedule, relying on the lunar cycle for that year.\nThe Festival of Lights occurs on the darkest night (opening night of the new moon) in the month of Kartik in the Hindu schedule.\nDiwali Festival\nThroughout India roads and holy locations are embellished with splendid light screens as well as dynamic garlands.\nThis year people of India will certainly be commemorating the event of lights that is Diwali on 30th October 2015. For the Hindu Indians it is absolutely one of the most waited for days of event of the year because Diwali, which is likewise referred as Deepawali is among the biggest Indian event of India. In fact individuals of every age wait the beneficial day of Diwali event in India.\nbulliontrading\nView all posts\nPrevious Post\nWe’re Gearing Up for Diwali 2016!\nNext Post\nIs it Safe to Sell Gold Coins to a Dealer?",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2016/10/Things-You-Need-to-Know-About-Diwali-Festival-1170x500-1-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2016/10/Things-You-Need-to-Know-About-Diwali-Festival-1170x500-1-jpg.webp",
+          "width": "1170",
+          "height": "500",
+          "caption": "Things-You-Need-to-Know-About-Diwali-Festival-1170&#215;500",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/facts-about-diwali-festival/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/facts-about-diwali-festival/",
+                "name": "Facts About Diwali Festival"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/facts-about-diwali-festival/#webpage",
+          "url": "https://bulliontradingllc.com/blog/facts-about-diwali-festival/",
+          "name": "Facts About Diwali Festival - Bullion Trading LLC",
+          "datePublished": "2016-10-11T15:21:35+00:00",
+          "dateModified": "2016-10-11T15:21:35+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2016/10/Things-You-Need-to-Know-About-Diwali-Festival-1170x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/facts-about-diwali-festival/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Facts About Diwali Festival - Bullion Trading LLC",
+          "datePublished": "2016-10-11T15:21:35+00:00",
+          "dateModified": "2016-10-11T15:21:35+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Discover when Diwali 2016 in this exclusive Diwali Schedule is!! The in-depth schedule web page plainly mentions Diwali Date 2016. Learn Diwali Day for the",
+          "name": "Facts About Diwali Festival - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/facts-about-diwali-festival/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/facts-about-diwali-festival/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2016/10/Things-You-Need-to-Know-About-Diwali-Festival-1170x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/facts-about-diwali-festival/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/facts-about-diwali-festival/",
+    "https://bulliontradingllc.com/blog/is-it-safe-to-sell-gold-coins-to-a-dealer/",
+    "https://bulliontradingllc.com/blog/were-gearing-up-for-diwali-2016/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2016/10/Things-You-Need-to-Know-About-Diwali-Festival-1170x500-1-jpg.webp",
+      "alt": "Things-You-Need-to-Know-About-Diwali-Festival-1170×500"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

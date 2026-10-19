@@ -1,0 +1,20 @@
+Gold Has a New York Address
+
+Audience: Adults in the New York metro area who prefer a reachable local dealer and an in-person purchase conversation.
+Market: NYC local
+Objective: Purchases of physical gold and silver bullion
+
+Approach
+Make the physical business the reason to choose this dealer. Pair the catalog products with a conceptual counter conversation, the verified Diamond District address, and a direct gold-shopping link. Add location and phone links as secondary actions; keep purchasing as the primary outcome.
+
+Hypothesis (not a result)
+A verifiable Manhattan location and a human conversation may improve trust and purchase intent among local buyers with authenticity concerns.
+
+Transcript inspiration
+new-york, faq-real-gold, real-or-fake
+
+Execution
+Google Search: separate ad groups by destination and intent. Meta: the same concept, primary text and product image. Purchases are the primary conversion; product views and carts are diagnostic. Validate purchase tracking before any live test.
+
+Product and copy limits
+Do not present the generated counter or hands as actual staff/store photography. Do not imply any simple home test proves authenticity. Confirm business hours before a visit.

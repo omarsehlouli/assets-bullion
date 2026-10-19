@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "d6c8d5e4e7d3a79e",
+    "url": "https://learn.bulliontradingllc.com/charts/silver-all-time-high/",
+    "title": "Silver Record High in Monthly LBMA Observations | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:13.761273+00:00",
+    "status": "fetched",
+    "bytes": 37135,
+    "text_characters": 2224,
+    "sha256_html": "ebedf1a545031ca43c31ef5daeb0afe501f279435270273e9f1fad63e77d14ab",
+    "file": "sources/d6c8d5e4e7d3a79e.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Highest monthly silver observation: $103 (2026-01-30). Latest sampled fixing: $65.02 as of 2026-09-25. Not an intraday record.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/silver-all-time-high/",
+  "text": "Silver Record High in Monthly Observations\nThe highest monthly observation in this dataset is\n$103\n(2026-01-30). The latest sampled fixing is\n$65.02\nas of 2026-09-25: 37.0% below it.\nThese are nominal prices, sampled once per month. Daily and intraday peaks can be higher. Use the\ninflation-adjusted gold chart\nfor a comparison in constant dollars.\nGold\nSilver\nPlatinum\nPalladium\nUSD\nGBP\nEUR\nAll (1968→)\n30Y\n20Y\n10Y\n5Y\nLatest (2026-09-25)\n$65.02\nHighest monthly sample\n$103\nJan 2026\nSample high\n$103\nJan 2026\nSample low\n$1.31\nOct 1971\nSource: LBMA fixing (PM where applicable), per troy ounce. Last available fixing per month; latest month may be incomplete. EUR begins 1999. See the methodology for sampling limits.\nHighest monthly observation by year\nYear\nHighest monthly sample (USD)\nMonth\n2026\n$103\nJanuary\n2025\n$71.99\nDecember\n2024\n$33.59\nOctober\n2023\n$25.02\nNovember\n2022\n$24.82\nMarch\n2021\n$27.63\nMay\n2020\n$27.35\nAugust\n2019\n$18.39\nAugust\n2018\n$17.23\nJanuary\n2017\n$18.28\nFebruary\n2016\n$20.04\nJuly\n2015\n$16.92\nJanuary\n2014\n$21.27\nFebruary\n2013\n$32.03\nJanuary\n2012\n$37.23\nFebruary\n2011\n$48.70\nApril\n2010\n$30.63\nDecember\n2009\n$18.14\nNovember\n2008\n$19.62\nFebruary\n2007\n$14.76\nDecember\n2006\n$13.68\nNovember\n2005\n$8.83\nDecember\n2004\n$7.83\nMarch\n2003\n$5.97\nDecember\n2002\n$5.05\nMay\n2001\n$4.79\nJanuary\n2000\n$5.26\nJanuary\n1999\n$5.58\nFebruary\n1998\n$6.37\nFebruary\n1997\n$6.00\nDecember\n1996\n$5.52\nFebruary\n1995\n$5.83\nApril\n1994\n$5.74\nMarch\n1993\n$5.30\nJuly\n1992\n$4.13\nJanuary\n1991\n$4.45\nJune\n1990\n$5.21\nJanuary\n1989\n$5.86\nFebruary\n1988\n$6.80\nJuly\n1987\n$8.32\nJuly\n1986\n$6.10\nJanuary\n1985\n$6.66\nMarch\n1984\n$9.65\nMarch\n1983\n$13.82\nJanuary\n1982\n$10.87\nDecember\n1981\n$13.15\nJanuary\n1980\n$35.52\nFebruary\n1979\n$32.20\nDecember\n1978\n$6.26\nOctober\n1977\n$4.85\nOctober\n1976\n$4.83\nJune\n1975\n$5.00\nJuly\n1974\n$5.69\nFebruary\n1973\n$3.26\nDecember\n1972\n$2.03\nDecember\n1971\n$1.69\nApril\n1970\n$1.91\nJanuary\n1969\n$2.00\nJanuary\n1968\n$2.50\nJune\nSee today's live silver price on the\nspot dashboard\n, or\nshop silver bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Silver price history",
+              "item": "https://learn.bulliontradingllc.com/charts/silver-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Monthly observation record"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Silver highest monthly observations (LBMA)",
+          "description": "Highest monthly silver observation: $103 (2026-01-30). Latest sampled fixing: $65.02 as of 2026-09-25. Not an intraday record.",
+          "url": "https://learn.bulliontradingllc.com/charts/silver-all-time-high/",
+          "temporalCoverage": "1968-01-31/2026-09-25",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

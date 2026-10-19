@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "1377b7a64278fa78",
+    "url": "https://bulliontradingllc.com/blog/gold-price-rebound-under-threat-silver-battles-conflicting-signals/",
+    "title": "Gold Price Rebound Under Threat, Silver Battles Conflicting Signals - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:42.139655+00:00",
+    "status": "fetched",
+    "bytes": 96167,
+    "text_characters": 3298,
+    "sha256_html": "dbf32d79daea2c6ea9865311894d8afda0feeb1159a8d93b405eb9a2c0ee2696",
+    "file": "sources/1377b7a64278fa78.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "GOLD AND SILVER PRICE ANALYSIS AND CHARTS.",
+  "canonical": "https://bulliontradingllc.com/blog/gold-price-rebound-under-threat-silver-battles-conflicting-signals/",
+  "text": "GOLD AND SILVER PRICE ANALYSIS AND CHARTS.\nHere is a short article about Gold prices rebound under threat. If you wish to read the original material you can discover the link at the bottom of this post.\nGolds recent pull-back has come to a halt ahead of a week loaded with danger events.Silver captured in between pattern and 200-day moving average.\nGOLD FADES LOWER BUT RISK LIES AHEAD\nSilver remains simply above $15.03/ oz with small assistance seen at the physiological $15.00/ oz before somewhat more significant support from the 200-day moving average, presently at $14.97/ oz. The longer-dated ma has provoked helpful cost in the last month and may turn to resistance if a fresh break and close listed below happens. Below here 23.6% Fibonacci retracement at $14.91/ oz. Silver has broken– is currently trading above– the downtrend line based off the February 20 high, and a tidy break and close above may bring open the method to $15.09 – $15.11/ oz in the short-term. The last swing high at $15.34/ oz remains the next target.\nGold sits simply above an important support zone as it attempts to keep gains made recently. While the short-term chart pattern remains bearish, with lower highs and lower lows seen considering that February 20, the week has plenty of high-risk events and information releases which may help to underpin gold at its present levels.\nWe found this excellent short article at https://www.dailyfx.com/forex/market_alert/2019/04/29/Gold-Price-Rebound-Under-Threat-Silver-Battles-Conflicting-Signals.html By: Nick Cawley and thought it would work to our fans.\nSilver stays just above $15.03/ oz with minor support seen at the physiological $15.00/ oz prior to a little more significant support from the 200-day moving average, presently at $14.97/ oz.\nGOLD DAILY PRICE CHART (MAY 2018– APRIL 29, 2019).\nIG Client Sentimentshows that retail traders are 73.0% net-long gold, a bearish contrarian sign. Recent daily and weekly sentiment shifts suggest that the current gold pattern may reverse higher.\nSILVER– 200-DMA BATTLES BEARISH BIAS.\nThe day-to-day chart reveals gold nearing the $1,276 – $1,281/ oz zone that served as small resistance recently. The upper band of this zone ought to now act as initially, minor, support prior to $1,276/ oz and $1,266/ oz entered into play. To the advantage, 61.8% Fibonacci retracement at $1,287/ oz is the very first target for bullish traders followed soon after by $1,289/ oz. The CCI indicator reveals gold mid-market, neither overbought or oversold.\nIG Client Sentiment reveals how retail traders are placed in a wide variety of cryptocurrencies, currencies and commodities. See how current modifications in positioning impact our trading bias.\nSILVER DAILY PRICE CHART (AUGUST 2018– APRIL 29, 2019).\nThe upper band of this zone need to now act as first, small, assistance before $1,276/ oz and $1,266/ oz come into play. To the upside, 61.8% Fibonacci retracement at $1,287/ oz is the first target for bullish traders followed quickly after by $1,289/ oz. The CCI indication reveals gold mid-market, neither overbought or oversold.\nbulliontrading\nView all posts\nPrevious Post\nA Recession, Debt Crisis Would Be Good For Gold\nNext Post\nGold Price Futures (GC) Technical Analysis – Trend Changes to Up on Trade Through $1290.90",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/04/Gold-Price-Rebound-Under-Threat-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2019/04/Gold-Price-Rebound-Under-Threat-jpg.webp",
+          "width": "530",
+          "height": "298",
+          "caption": "Gold-Price-Rebound-Under-Threat",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-price-rebound-under-threat-silver-battles-conflicting-signals/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-price-rebound-under-threat-silver-battles-conflicting-signals/",
+                "name": "Gold Price Rebound Under Threat, Silver Battles Conflicting Signals"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-price-rebound-under-threat-silver-battles-conflicting-signals/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-price-rebound-under-threat-silver-battles-conflicting-signals/",
+          "name": "Gold Price Rebound Under Threat, Silver Battles Conflicting Signals - Bullion Trading LLC",
+          "datePublished": "2019-04-29T12:51:13+00:00",
+          "dateModified": "2019-04-29T12:51:13+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/04/Gold-Price-Rebound-Under-Threat-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-price-rebound-under-threat-silver-battles-conflicting-signals/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold Price Rebound Under Threat, Silver Battles Conflicting Signals - Bullion Trading LLC",
+          "datePublished": "2019-04-29T12:51:13+00:00",
+          "dateModified": "2019-04-29T12:51:13+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "GOLD AND SILVER PRICE ANALYSIS AND CHARTS.",
+          "name": "Gold Price Rebound Under Threat, Silver Battles Conflicting Signals - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-price-rebound-under-threat-silver-battles-conflicting-signals/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-price-rebound-under-threat-silver-battles-conflicting-signals/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/04/Gold-Price-Rebound-Under-Threat-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-price-rebound-under-threat-silver-battles-conflicting-signals/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/a-recession-debt-crisis-would-be-good-for-gold/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/gold-price-futures-gc-technical-analysis-trend-changes-to-up-on-trade-through-1290-90/",
+    "https://bulliontradingllc.com/blog/gold-price-rebound-under-threat-silver-battles-conflicting-signals/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2019/04/Gold-Price-Rebound-Under-Threat-jpg.webp",
+      "alt": "Gold-Price-Rebound-Under-Threat"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

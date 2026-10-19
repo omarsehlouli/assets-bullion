@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "id": "283a9ff186347da9",
+    "url": "https://learn.bulliontradingllc.com/coin-values/nickels/",
+    "title": "Nickels Worth Money — Silver Content & Key Dates | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:26.169680+00:00",
+    "status": "fetched",
+    "bytes": 30164,
+    "text_characters": 2452,
+    "sha256_html": "8ed4e9a0996776d11bb47a8d89c0e7ba49717f091b08a514e681c683d85cc4b0",
+    "file": "sources/283a9ff186347da9.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Nickels contain no silver — except the 1942–1945 'war nickels,' which are 35% silver. Buffalo nickels and key-date Jeffersons also command strong collector…",
+  "canonical": "https://learn.bulliontradingllc.com/coin-values/nickels/",
+  "text": "Nickels Worth Money\nNickels contain no silver — except the 1942–1945 'war nickels,' which are 35% silver. Buffalo nickels and key-date Jeffersons also command strong collector premiums.\n💰 What's it worth? — live melt calculator\nBy coin\n90% \"junk\" silver by face value\nCoin\nWar nickel (1942–1945)\nHow many\nMelt value (\nsilver\n)\n$3.64\n$3.64\neach ·\n0.0563\noz\nsilver\n/coin\nSell yours to us →\nShop US silver coins\n→\nMelt = pure metal content ×\nrecent\nspot (\nsilver\n$\n64.71\n/oz\n). This is the bullion floor; collectible coins can be worth far more. Melting circulating US coins is illegal — this estimates intrinsic value.\n📈 The melt-value time machine — what a\nnickel\n's\nsilver\nhas been worth since\n1968\nMetal value in 1968\n$0.11\n0.0563 oz silver\nPeak (2026)\n$5.81\nmonthly LBMA high\nToday\n$3.64\nrecent spot\nA\nnickel\nheld about\n$0.11\nof\nsilver\nin\n1968\n, peaked near\n$5.81\nin\n2026\n, and its metal is worth\n$3.64\ntoday\n. That is intrinsic melt only — a real, dated example carries a collector premium on top.\nSee what we'll pay for yours →\nIs your nickel silver?\nSilver years:\n1942–1945 war nickels only (35% silver).\nWar nickels (mid-1942 through 1945) have a large mint mark (P, D or S) above Monticello on the reverse — the only Jefferson nickels that contain silver.\nNickel composition by year\nYears\nComposition\nSilver content\n1866–1942, 1946–present\n75% copper, 25% nickel\n—\n1942–1945 (war nickels)\n56% copper, 35% silver, 9% manganese\n0.0563 oz\nWhich nickels are worth money\nWar nickels (1942–1945): 35% silver, worth a small silver premium each.\nBuffalo nickels (1913–1938): strong demand; the 1913-S Type 2, 1918/7-D overdate and 1937-D three-legged buffalo are famous.\nKey Jefferson dates and full-step examples carry premiums.\n1880 and 1885 Liberty Head nickels are classic rarities.\nPopular nickels by year\n1964 Nickel\n1937 Buffalo Nickel\nHave nickels to sell?\nWe buy gold, silver and coins in person at our NYC Diamond District counter, or by insured mail.\nGet a free quote →\nLooking to buy?\nShop US silver coins →\nBuy at Bullion Trading LLC\nLive prices from our store — buy online or at our NYC Diamond District counter.\nMorgan Silver Dollar Coin BU - Random Year\n$89.75\nView →\n1 oz American Silver Eagle Coin (Random Year) BU\n$79.23\nView →\n1 oz Silver American Eagle $1 Colorized Coin (Random Year)\n$70.29\nView →\nPAMP 1 oz Silver $2 Burton Morris - Popcorn Coin Pop!\n$134.23\nView →\nMore:\nall coin values\n·\nsilver price history\n·\ngold/silver ratio",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Coin Values",
+              "item": "https://learn.bulliontradingllc.com/coin-values/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Nickels"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Nickels — melt value, silver content & key dates",
+          "description": "Nickels contain no silver — except the 1942–1945 'war nickels,' which are 35% silver. Buffalo nickels and key-date Jeffersons also command strong collector…",
+          "url": "https://learn.bulliontradingllc.com/coin-values/nickels/",
+          "creator": {
+            "@type": "Organization",
+            "name": "United States Mint"
+          },
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/product/1-oz-american-silver-eagle-coin-random-year-bu/",
+    "https://bulliontradingllc.com/product/1-oz-silver-american-eagle-1-colorized-coin-random-year/",
+    "https://bulliontradingllc.com/product/morgan-silver-dollar-coin-bu-random-year/",
+    "https://bulliontradingllc.com/product/pamp-1-oz-silver-2-burton-morris-popcorn-coin-pop/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/",
+    "https://bulliontradingllc.com/silver/silver-coins-for-sale/us-silver-coins/"
+  ],
+  "images": [
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/morgan-silver-dollar-coin-300x169.jpg",
+      "alt": "Morgan silver dollar coin, 26.73 gram, classic Liberty design"
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/American_Eagle_1_oz_Silver_coin-1-231x300.jpg",
+      "alt": "1 oz American Silver Eagle coin with Walking Liberty design"
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/american-eagle-random-year-250x300.webp",
+      "alt": "1 oz silver American Eagle colorized coin with eagle design"
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/2023-pamp-1-oz-silver-2-burton-morris-popcorn2-300x300.webp",
+      "alt": "PAMP 1 oz silver Burton Morris Popcorn coin with colorful packaging"
+    }
+  ]
+}

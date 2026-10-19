@@ -1,0 +1,344 @@
+{
+  "metadata": {
+    "id": "62ef671f05e5ba65",
+    "url": "https://learn.bulliontradingllc.com/quiz/palladium-market-fundamentals-quiz/",
+    "title": "Palladium Market Fundamentals Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:43.322877+00:00",
+    "status": "fetched",
+    "bytes": 27750,
+    "text_characters": 258,
+    "sha256_html": "9a8bba3786b13628fe7f6ee4c012c180b18a43adf348275b0eea154c1aa96f34",
+    "file": "sources/62ef671f05e5ba65.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your understanding of the key forces driving palladium prices and market dynamics.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/palladium-market-fundamentals-quiz/",
+  "text": "Palladium Market Fundamentals Quiz\nTest your understanding of the key forces driving palladium prices and market dynamics.\nWhat percentage of global palladium production does Russia account for?\nA\n30%\nB\n35%\nC\n40%\nD\n45%\n←\nBack to Palladium Market Fundamentals",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Palladium Investing Fundamentals",
+              "item": "https://learn.bulliontradingllc.com/guides/palladium-investing-fundamentals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Palladium Market Fundamentals",
+              "item": "https://learn.bulliontradingllc.com/guides/palladium-investing-fundamentals/02-palladium-market-fundamentals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Palladium Market Fundamentals Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Palladium Market Fundamentals Quiz",
+          "description": "Test your understanding of the key forces driving palladium prices and market dynamics.",
+          "url": "https://learn.bulliontradingllc.com/quiz/palladium-market-fundamentals-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Palladium Market Fundamentals"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What percentage of global palladium production does Russia account for?",
+              "text": "What percentage of global palladium production does Russia account for?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "40%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Russia accounts for about 40% of global palladium production, making it the largest producer and creating significant geopolitical supply risk."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "30%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "35%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "45%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What percentage of palladium's industrial demand comes from the automotive sector?",
+              "text": "What percentage of palladium's industrial demand comes from the automotive sector?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "80-90%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The automotive sector accounts for approximately 80-90% of palladium's industrial demand, primarily through catalytic converters in gasoline vehicles."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "60-70%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "70-80%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "90-95%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "By what percentage did Norilsk Nickel's output reduction contribute to palladium supply disruption in 2020?",
+              "text": "By what percentage did Norilsk Nickel's output reduction contribute to palladium supply disruption in 2020?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "28%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The 2020 Nornickel flooding led to a 28% reduction in output, demonstrating how concentrated supply sources can create significant market disruptions."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "18%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "23%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "33%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is palladium primarily extracted as?",
+              "text": "What is palladium primarily extracted as?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "By-product of nickel and copper mining",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Palladium is primarily extracted as a by-product of mining for other metals like nickel and copper, making its supply vulnerable to disruptions in these primary mining operations."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Primary mining target"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "By-product of gold mining"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "By-product of platinum mining"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the main challenge with substituting platinum for palladium in gasoline engines?",
+              "text": "What is the main challenge with substituting platinum for palladium in gasoline engines?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Platinum is less effective in gasoline engines",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Platinum is less effective in gasoline engines compared to palladium, making rapid substitution challenging despite price considerations."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Platinum is more expensive"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Platinum is harder to source"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Platinum requires different manufacturing processes"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the projected price range for palladium in 2025?",
+              "text": "What is the projected price range for palladium in 2025?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "$800-$1,200 per troy ounce",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "2025 projections for palladium range between $800 and $1,200 per troy ounce, reflecting concerns about economic slowdown and EV transition effects."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "$600-$900 per troy ounce"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$1,000-$1,500 per troy ounce"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$1,200-$1,800 per troy ounce"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which emerging technology poses the greatest long-term threat to palladium demand?",
+              "text": "Which emerging technology poses the greatest long-term threat to palladium demand?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Electric vehicles",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Electric vehicles pose the greatest long-term threat to palladium demand because EVs do not require catalytic converters, which account for 80-90% of palladium's industrial demand."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Hydrogen fuel cells"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Solar panels"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Wind turbines"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What makes palladium the most volatile among major precious metals?",
+              "text": "What makes palladium the most volatile among major precious metals?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Concentrated supply and geopolitical sensitivity",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Palladium's concentrated supply (70-80% from Russia and South Africa) combined with high geopolitical sensitivity makes it highly volatile and reactive to supply disruptions and political events."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "High industrial demand only"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Small market size only"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Limited investment interest"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

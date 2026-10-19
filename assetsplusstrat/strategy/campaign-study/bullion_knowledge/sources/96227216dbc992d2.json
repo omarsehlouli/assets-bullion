@@ -1,0 +1,291 @@
+{
+  "metadata": {
+    "id": "96227216dbc992d2",
+    "url": "https://bulliontradingllc.com/blog/category/coin/",
+    "title": "Coin - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:26.166375+00:00",
+    "status": "fetched",
+    "bytes": 127438,
+    "text_characters": 2331,
+    "sha256_html": "93424aae0f7f2b1b2f3dea27203fdbf2eeed7e658a3d11f86f325f364106a626",
+    "file": "sources/96227216dbc992d2.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Read coin guides, market notes, and updates on bullion coins and collecting trends. BTLLC shares insights plus competitive pricing and secure shipping options.",
+  "canonical": "https://bulliontradingllc.com/blog/category/coin/",
+  "text": "gold coins\nCoin\nEducation\nGold\nGold Eagle Face Value: Why a $50 Coin Is Legal Tender Worth More Than $4,000\nFlip over a one ounce American Gold Eagle and you will find, stamped right into the metal, the\nBy\nbulliontrading\nAugust 3, 2026\nAugust 3, 2026\nCoin\nCoin Collecting\nGold\nKrugerrand vs gold eagle: which one should you actually buy?\nHere is the part that surprises most first-time buyers: in the krugerrand vs gold eagle\nBy\nbulliontrading\nJune 30, 2026\nJune 30, 2026\nEducation\nCoin\nCoin Collecting\ncoin collection\nMint Marks Explained: What CC, S, D, P, and W Mean on US Coins\nPull a handful of change out of your pocket and look closely at a quarter, right near the date.\nBy\nbulliontrading\nMay 24, 2026\nMay 24, 2026\nCoin\nCoin Collecting\ngold coins\nSilver Coins\nProof Coin vs Bullion Coin: Key Differences Every Buyer Should Know\nIf you’ve ever browsed a dealer’s inventory and wondered why two coins that look\nBy\nbulliontrading\nMarch 30, 2026\nMarch 30, 2026\nCoin\nCoin Collecting\nEducation\nguide\nNGC and PCGS Coin Grading: How Authentication Works and Why It Matters for Investors\nIf you have ever bought or sold a collectible coin, you have probably seen those small,\nBy\nbulliontrading\nMarch 13, 2026\nMarch 13, 2026\nSilver Coins\nCoin\nCoin Collecting\nguide\nsilver\nMilk Spots on Silver Coins: Causes, Prevention, and Value Impact\nIf you’ve ever pulled a silver coin from storage only to discover cloudy white patches\nBy\nbulliontrading\nFebruary 23, 2026\nFebruary 23, 2026\nCoin\ncoin collection\ngold coins\nSilver Coins\nUncategorized\nWhy Collectible Coins Are Worth More Than Their Weight in Gold/Silver\nWhy can a Morgan Silver Dollar sell for hundreds of dollars when its silver content is only\nBy\nbulliontrading\nOctober 6, 2025\nOctober 6, 2025\nCoin\ncoin collection\nguide\nYour Complete Guide to Buying 1 oz Gold Coins Online\nAre you contemplating where to buy 1 oz gold coins online? Perhaps you’re mulling over\nBy\nbulliontrading\nNovember 13, 2023\nCoin\nSilver Coins\nAmerican Silver Eagle: A Smart Investment\nWhen it comes to putting your money in precious metals, the 1 oz American Silver Eagle Coin is\nBy\nbulliontrading\nOctober 17, 2023\nCoin\nGold\ngold coins\n1 oz British Gold Britannia Coin\nThe first British Gold Britannia coin was minted over 2,000 years ago when the Roman Empire\nBy\nbulliontrading\nJune 1, 2021\n1\n2\nOlder Posts",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/category/coin/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/coin/",
+                "name": "Coin"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://bulliontradingllc.com/blog/category/coin/#webpage",
+          "url": "https://bulliontradingllc.com/blog/category/coin/",
+          "name": "Coin - Bullion Trading LLC",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/category/coin/#breadcrumb"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/1-oz-british-britannia-gold-coin/",
+    "https://bulliontradingllc.com/blog/american-silver-eagle-a-smart-investment/",
+    "https://bulliontradingllc.com/blog/category/coin-collecting/",
+    "https://bulliontradingllc.com/blog/category/coin-collection/",
+    "https://bulliontradingllc.com/blog/category/coin/",
+    "https://bulliontradingllc.com/blog/category/coin/page/2/",
+    "https://bulliontradingllc.com/blog/category/education/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/category/guide/",
+    "https://bulliontradingllc.com/blog/category/silver-coins/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/category/uncategorized/",
+    "https://bulliontradingllc.com/blog/gold-eagle-face-value/",
+    "https://bulliontradingllc.com/blog/krugerrand-vs-gold-eagle/",
+    "https://bulliontradingllc.com/blog/milk-spots-on-silver-coins-guide/",
+    "https://bulliontradingllc.com/blog/mint-marks-explained-us-coins/",
+    "https://bulliontradingllc.com/blog/ngc-and-pcgs-coin-grading-guide/",
+    "https://bulliontradingllc.com/blog/proof-coin-vs-bullion-coin-differences/",
+    "https://bulliontradingllc.com/blog/why-collectible-coins-are-worth-more-than-their-weight-in-gold-silver/",
+    "https://bulliontradingllc.com/blog/your-complete-e-guide-to-buying-1-oz-gold-coins-online/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2026/08/gold-eagle-face-value.webp",
+      "alt": "gold eagle face value"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/06/krugerrand-vs-gold-eagle.webp",
+      "alt": "krugerrand vs gold eagle"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/05/Mint_Marks_Explained.webp",
+      "alt": "Close-up of a coin showing a mint mark near the date"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/03/Proof-Coin-vs-Bullion-Coin.webp",
+      "alt": "Two silver coins displayed side by side"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/03/NGC-and-PCGS-Coin-Grading.webp",
+      "alt": "Graded coins in NGC and PCGS plastic holders"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/02/milk-spots-on-silver-coin.webp",
+      "alt": "milk spots on silver coins"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2025/10/Why-Collectible-Coins-Are-Worth-More-Than-Their-Weight-in-GoldSilver.webp",
+      "alt": "Collectible Coins"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2023/11/1oz-gold-coins-guide.webp",
+      "alt": "1 Oz Gold Coins: Your Complate Guide"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2023/10/Article-pic.webp",
+      "alt": "Monster Box of American Eagle Silver Coins"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

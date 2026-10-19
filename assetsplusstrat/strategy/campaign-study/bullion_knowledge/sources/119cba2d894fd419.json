@@ -1,0 +1,463 @@
+{
+  "metadata": {
+    "id": "119cba2d894fd419",
+    "url": "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars/",
+    "title": "1 Gram Gold Bars - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:33.927981+00:00",
+    "status": "fetched",
+    "bytes": 293307,
+    "text_characters": 2582,
+    "sha256_html": "d2c09fc95f2f7e029413afad3df2957863061c6f58892672fd1b88b6f4afc1b0",
+    "file": "sources/119cba2d894fd419.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Shop 1 gram gold bars, .9999 fine, for compact gifting and saving. BTLLC offers competitive pricing and secure shipping nationwide with insured delivery.",
+  "canonical": "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars/",
+  "text": "Filters\nShowing all 11 results\nList\nGrid\nFilter by Weight\n0.1106 oz\n0.2304 oz\n0.7734 oz\n0.9675 oz\n1 gram\n1 kilo\n1 oz\n1.205 oz\n1.25 oz\n1.5 oz\n1/10 oz\n1/2 gram\n1/2 oz\n1/20 oz\n1/4 oz\n10 gram\n10 oz\n10.725 oz\n100 gram\n100 oz\n1000.9 oz\n178.75 oz\n2 gram\n2 oz\n2.5 gram\n20 gram\n20 oz\n25 gram\n25 oz\n250 gram\n3 oz\n3.575 oz\n30 gram\n36 oz\n4 oz\n5 gram\n5 oz\n50 gram\n50 oz\n500 gram\n500 oz\n7.15 oz\n71.5 oz\n715 oz\nFilter by Brands\nA-Mark Precious Metals\nAGA KULCHE\nArgor Heraeus\nAsahi Refining\nAustrian Mint\nBavarian Mint\nBuenos Aires Mint\nChina Mint\nCredit Suisse\nDC Comics\nElemetal\nEngelhard\nGolden State Mint\nHandy & Harman\nHighland Mint\nHungarian Mint\nImperial Russia Mint\nIstanbul Gold Refinery\nItalpreziosi\nJohnson Matthey\nLiberty Trade\nMetalor\nMexican Mint\nOhio Precious Metals\nPAMP\nPan American Silver Corp\nPerth Mint\nPhiloro\nPREMEX\nRand Refinery\nRANDOM\nRoyal Canadian Mint\nScottsdale Mint\nSilverTowne\nSouth African Mint\nSunshine Mint\nThe East India Company\nThe Royal Mint\nUmicore\nUnited States Mint\nUS Assay Office\nValcambi\nQty\nAdd to cart\n1 Gram Gold Bars\n1 Gram Valcambi Gold Bar (New w/ Assay)\n$\n180.75\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\n1 Gram Gold Bars\n1 Gram PAMP Suisse Gold Bar – Lady Fortuna\n$\n201.00\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\nGold Bars\n1 Gram Argor Heraeus Kinebar Gold Bar (In Assay)\n$\n177.95\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\n1 Gram Gold Bars\n100 x 1 gram Gold Valcambi CombiBar (In Assay)\n$\n13,945.68\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\n1 Gram Gold Bars\n1 Gram Gold Bar – Random (In Assay)\n$\n179.25\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nOut of stock\nRead more\n1 Gram Gold Bars\nCredit Suisse 1 gram gold bar Statue of Liberty (New Assay)\n$\n207.75\nRead more\nQuickview\nGo to compare\nAdd to compare\nOut of stock\nRead more\nGold Bars\n1/2 gram Gold Bar – (IGR) Istanbul Gold Refinery (New with Assay)\n$\n96.37\nRead more\nQuickview\nGo to compare\nAdd to compare\nOut of stock\nRead more\n1 Gram Gold Bars\n1 Gram PAMP Gold Rosa Bar\n$\n180.75\nRead more\nQuickview\nGo to compare\nAdd to compare\nOut of stock\nRead more\n1 Gram Gold Bars\n1 gram Gold Bar – (IGR) Istanbul Gold Refinery (New with Assay)\n$\n175.75\nRead more\nQuickview\nGo to compare\nAdd to compare\nOut of stock\nRead more\n1 Gram Gold Bars\n1 gram Gold Bar – Secondary Market\n$\n165.75\nRead more\nQuickview\nGo to compare\nAdd to compare\nOut of stock\nRead more\n1 Gram Gold Bars\n1 Gram Credit Suisse Gold Bar\n$\n197.75\nRead more\nQuickview\nGo to compare\nAdd to compare\nof 1 Pages",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Store",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/gold/",
+                "name": "Gold Bullion"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/gold/bars/",
+                "name": "Gold Bars"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "4",
+              "item": {
+                "@id": "https://bulliontradingllc.com/gold/bars/gram-gold-bars/",
+                "name": "Gram Gold Bars"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "5",
+              "item": {
+                "@id": "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars/",
+                "name": "1 Gram Gold Bars"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars/#webpage",
+          "url": "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars/",
+          "name": "1 Gram Gold Bars - Bullion Trading LLC",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars/#breadcrumb"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/casting-grain/",
+    "https://bulliontradingllc.com/casting-grain/gold-casting-grain/",
+    "https://bulliontradingllc.com/casting-grain/platinum-casting-grain/",
+    "https://bulliontradingllc.com/casting-grain/silver-casting-grain/",
+    "https://bulliontradingllc.com/compare/",
+    "https://bulliontradingllc.com/gifts/",
+    "https://bulliontradingllc.com/gifts/collectibles/",
+    "https://bulliontradingllc.com/gifts/golf-tees/",
+    "https://bulliontradingllc.com/gifts/religious-collection/",
+    "https://bulliontradingllc.com/gifts/secondary-market-gold-silver/",
+    "https://bulliontradingllc.com/gifts/silver-bullets-for-sale/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/gold/bars/",
+    "https://bulliontradingllc.com/gold/bars/1-2-oz-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/1-kilo-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/1-oz-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/10-oz-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/5-oz-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_type-of-bullion=bar",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_type-of-bullion=coin",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_type-of-bullion=round",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=0-1106-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=0-2304-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=0-7734-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=0-9675-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=1-10-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=1-2-gram",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=1-2-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=1-20-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=1-205-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=1-25-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=1-4-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=1-5-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=1-gram",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=1-kilo",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=1-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=10-725-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=10-gram",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=10-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=100-gram",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=100-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=1000-9-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=178-75-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=2-5-gram",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=2-gram",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=2-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=20-gram",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=20-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=25-gram",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=25-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=250-gram",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=3-575-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=3-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=30-gram",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=36-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=4-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=5-gram",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=5-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=50-gram",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=50-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=500-gram",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=500-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=7-15-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=71-5-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars?filter_weight=715-oz",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/10-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/100-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/2-5-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/2-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/20-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/250-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/5-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/50-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/500-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/coins/",
+    "https://bulliontradingllc.com/gold/coins/1-10-oz-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/1-2-oz-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/1-4-oz-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/1-oz-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/australian-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/austrian-gold-philharmonics-coins/",
+    "https://bulliontradingllc.com/gold/coins/british-royal-mint-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/canadian-maple-leaf-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/chinese-gold-coin/",
+    "https://bulliontradingllc.com/gold/coins/krugerrand-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/us-mint-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/us-mint-gold-coins/american-buffalo-gold-coin/",
+    "https://bulliontradingllc.com/gold/coins/us-mint-gold-coins/american-eagle-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/us-mint-gold-coins/pre-1933-us-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/world-gold-coin/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/mints/a-mark-precious-metals/",
+    "https://bulliontradingllc.com/mints/aga-kulche/",
+    "https://bulliontradingllc.com/mints/argor-heraeus/",
+    "https://bulliontradingllc.com/mints/asahi/",
+    "https://bulliontradingllc.com/mints/austrian-mint/",
+    "https://bulliontradingllc.com/mints/bavarian-mint/",
+    "https://bulliontradingllc.com/mints/buenos-aires-mint/",
+    "https://bulliontradingllc.com/mints/china-mint/",
+    "https://bulliontradingllc.com/mints/credit-suisse/",
+    "https://bulliontradingllc.com/mints/dc-comics/",
+    "https://bulliontradingllc.com/mints/elemetal/",
+    "https://bulliontradingllc.com/mints/engelhard/",
+    "https://bulliontradingllc.com/mints/golden-state-mint/",
+    "https://bulliontradingllc.com/mints/handy-harman/",
+    "https://bulliontradingllc.com/mints/highland-mint/",
+    "https://bulliontradingllc.com/mints/hungarian-mint/",
+    "https://bulliontradingllc.com/mints/imperial-russia-mint/",
+    "https://bulliontradingllc.com/mints/istanbul-gold-refinery/",
+    "https://bulliontradingllc.com/mints/italpreziosi/",
+    "https://bulliontradingllc.com/mints/johnson-matthey/",
+    "https://bulliontradingllc.com/mints/liberty-trade/",
+    "https://bulliontradingllc.com/mints/metalor/",
+    "https://bulliontradingllc.com/mints/mexican-mint/",
+    "https://bulliontradingllc.com/mints/ohio-precious-metals/",
+    "https://bulliontradingllc.com/mints/pamp/",
+    "https://bulliontradingllc.com/mints/pan-american-silver-corp/",
+    "https://bulliontradingllc.com/mints/perth-mint/",
+    "https://bulliontradingllc.com/mints/philoro/",
+    "https://bulliontradingllc.com/mints/premex/",
+    "https://bulliontradingllc.com/mints/rand-refinery/",
+    "https://bulliontradingllc.com/mints/random/",
+    "https://bulliontradingllc.com/mints/royal-canadian-mint/",
+    "https://bulliontradingllc.com/mints/scottsdale-mint/",
+    "https://bulliontradingllc.com/mints/silvertowne/",
+    "https://bulliontradingllc.com/mints/south-african-mint/",
+    "https://bulliontradingllc.com/mints/sunshine-mint/",
+    "https://bulliontradingllc.com/mints/the-east-india-company/",
+    "https://bulliontradingllc.com/mints/the-royal-mint/",
+    "https://bulliontradingllc.com/mints/umicore/",
+    "https://bulliontradingllc.com/mints/us-assay-office/",
+    "https://bulliontradingllc.com/mints/us-mint/",
+    "https://bulliontradingllc.com/mints/valcambi/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/platinum-and-palladium/",
+    "https://bulliontradingllc.com/platinum-and-palladium/palladium/",
+    "https://bulliontradingllc.com/platinum-and-palladium/palladium/palladium-bars/",
+    "https://bulliontradingllc.com/platinum-and-palladium/palladium/palladium-coins/",
+    "https://bulliontradingllc.com/platinum-and-palladium/platinum/",
+    "https://bulliontradingllc.com/platinum-and-palladium/platinum/platinum-bars/",
+    "https://bulliontradingllc.com/platinum-and-palladium/platinum/platinum-coins/",
+    "https://bulliontradingllc.com/product/1-2-gram-gold-bar-igr-istanbul-gold-refinery-new-with-assay/",
+    "https://bulliontradingllc.com/product/1-gram-argor-heraeus-kinebar-gold-bar/",
+    "https://bulliontradingllc.com/product/1-gram-credit-suisse-gold-bar/",
+    "https://bulliontradingllc.com/product/1-gram-gold-bar-istanbul-gold-refinery-new-with-assay/",
+    "https://bulliontradingllc.com/product/1-gram-gold-bar-random-in-assay/",
+    "https://bulliontradingllc.com/product/1-gram-gold-bar-secondary-market/",
+    "https://bulliontradingllc.com/product/1-gram-pamp-gold-rosa-bar/",
+    "https://bulliontradingllc.com/product/1-gram-pamp-suisse-gold-bar-lady-fortuna/",
+    "https://bulliontradingllc.com/product/1-gram-valcambi-gold-bar-new-assay/",
+    "https://bulliontradingllc.com/product/100-x-1-gram-gold-valcambi-combibar-in-assay/",
+    "https://bulliontradingllc.com/product/credit-suisse-1-gram-gold-bar-statue-of-liberty-new-assay/",
+    "https://bulliontradingllc.com/shop/",
+    "https://bulliontradingllc.com/silver/",
+    "https://bulliontradingllc.com/silver/bars/",
+    "https://bulliontradingllc.com/silver/bars/1-kilo-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/1-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/10-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/100-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/50-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/gram-silver-bars/",
+    "https://bulliontradingllc.com/silver/coins/",
+    "https://bulliontradingllc.com/silver/coins/african-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/canadian-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/government-mint-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/government-mint-silver-coins/austrian-silver-philharmonics/",
+    "https://bulliontradingllc.com/silver/coins/government-mint-silver-coins/chinese-silver-pandas/",
+    "https://bulliontradingllc.com/silver/coins/government-minted-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/silver-rounds/",
+    "https://bulliontradingllc.com/silver/coins/us-silver-coins/",
+    "https://bulliontradingllc.com/social-media-deals/",
+    "https://bulliontradingllc.com/social-media-deals/5-10-oz-platinum-and-palladium-bars/",
+    "https://bulliontradingllc.com/social-media-deals/platinum-and-palladium-gram-bars/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2024/11/1-gram-gold-bar-valcambi-in-assay_sslab-300x300.webp",
+      "alt": "1 gram Valcambi gold bar in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/11/1-gram-gold-bar-valcambi-in-assay_A-300x300.webp",
+      "alt": "1 gram Valcambi gold bar sealed in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/11/1-gram-gold-bar-valcambi-in-assay_rev-300x300.webp",
+      "alt": "1 gram gold Valcambi bar in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/11/1-gram-gold-bar-valcambi-in-assay_0obv-300x300.webp",
+      "alt": "1 gram gold Valcambi bar in assay packaging"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-Gram-PAMP-Suisse-Gold-Bar-Lady-Fortuna-1-300x300.webp",
+      "alt": "1 gram gold PAMP Suisse Lady Fortuna bar in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-Gram-PAMP-Suisse-Gold-Bar-Lady-Fortuna-assay-300x300.webp",
+      "alt": "1 gram gold PAMP Suisse Lady Fortuna bar in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/11/1-gram-Argor-Heraeus-Kinebar-Gold-Bar-Both-1-300x300.webp",
+      "alt": "1 gram Argor-Heraeus Kinebar gold bar in assay packaging"
+    },
+    {
+      "url": "/wp-content/uploads/2024/11/1-gram-Argor-Heraeus-Kinebar-Gold-Bar-Front-1-300x300.webp",
+      "alt": "1 gram Argor Heraeus Kinebar gold bar in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/11/1-gram-Argor-Heraeus-Kinebar-Gold-Bar-Rear-1-300x300.webp",
+      "alt": "1 gram Argor Heraeus Kinebar gold bar rear side"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/100-x-1-gram-gold-valcambi-combibar-in-assay_85612_Obv-300x300.jpg",
+      "alt": "100 gram gold Valcambi CombiBar in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/100-x-1-gram-gold-valcambi-combibar-in-assay_85612_Rev-300x300.jpg",
+      "alt": "100 gram gold Valcambi CombiBar sheet in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-gram-gold-bar-random-in-assay-300x300.jpg",
+      "alt": "1 gram gold bar in assay card, random brand, bullion packaging"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/Untitled-design-3-300x300.webp",
+      "alt": "1 gram gold Credit Suisse Statue of Liberty bar in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/s-l500-1-300x300.jpg",
+      "alt": "Credit Suisse 1 gram gold bar Statue of Liberty in New Assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/reverse-liberty-gold-bar-300x300.jpg",
+      "alt": "Credit Suisse 1 gram gold bar with Statue of Liberty design"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/Untitled-design-3-1-300x300.jpg",
+      "alt": "Credit Suisse 1 gram gold bar Statue of Liberty New Assay"
+    },
+    {
+      "url": "/wp-content/uploads/2025/11/half-gram-igr-gold-bar-300x300.webp",
+      "alt": "1/2 gram gold bar from IGR Istanbul Gold Refinery with assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2025/11/half-gram-igr-gold-bar-front-300x300.webp",
+      "alt": "1/2 gram gold bar from IGR Istanbul Gold Refinery with assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2025/11/0.5-gram-IGR-Gold-Bar-300x300.webp",
+      "alt": "1/2 gram gold IGR Istanbul Gold Refinery bar in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/My-project-13-300x300.webp",
+      "alt": "1 gram gold PAMP Suisse Rosa bar in assay packaging"
+    },
+    {
+      "url": "/wp-content/uploads/2024/11/1-gram-gold-bar-istanbul-gold-refinery-new-assay-Back-1-300x300.webp",
+      "alt": "1 gram gold Istanbul Gold Refinery bar on assay card back"
+    },
+    {
+      "url": "/wp-content/uploads/2024/11/1-gram-gold-bar-igr-front-300x300.webp",
+      "alt": "1 gram gold bar from Istanbul Gold Refinery with assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/11/Gold-Bar_1-g-igr-300x300.webp",
+      "alt": "1 gram gold bar from IGR Istanbul Gold Refinery in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1gramGoldBarSecondaryMarketAll-300x300.webp",
+      "alt": "1 gram gold secondary market bar with visible wear and surface damage"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-gram-Gold-Bar-Secondary-Market-side-300x300.webp",
+      "alt": "1 gram gold bar, secondary market, side view, no brand visible"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-gram-Gold-Bar-Secondary-Market-Back-300x300.webp",
+      "alt": "1 gram gold secondary market bar reverse side"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-gram-Gold-Bar-Secondary-Market-jpg-webp-300x300.webp",
+      "alt": "1 gram gold secondary market bar in sealed plastic packaging"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/credit_suisse_1_gram_gold_bar-300x300.jpg",
+      "alt": "1 gram Credit Suisse gold bar in assay packaging"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1_gram_credit_suisse_gold_bar-300x300.jpg",
+      "alt": "1 gram Credit Suisse gold bar with Valcambi assay card"
+    }
+  ]
+}

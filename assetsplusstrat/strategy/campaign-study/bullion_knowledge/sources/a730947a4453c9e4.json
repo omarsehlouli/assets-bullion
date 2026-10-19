@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "a730947a4453c9e4",
+    "url": "https://learn.bulliontradingllc.com/charts/gold-price-1990s/",
+    "title": "Gold Price in the 1990s — LBMA Decade Chart & Data | BTLLC",
+    "retrieved_at": "2026-10-12T22:12:53.660849+00:00",
+    "status": "fetched",
+    "bytes": 17543,
+    "text_characters": 638,
+    "sha256_html": "8542ba41995f4cfe09f5c900ad347ec0e9126dc3e259ca81708926353111d10e",
+    "file": "sources/a730947a4453c9e4.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Gold price through the 1990s: from $415 to $290, monthly-sample high $415, monthly-sample low $255. Monthly LBMA chart for the decade.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/gold-price-1990s/",
+  "text": "Gold Price in the 1990s\nBetween the first (1990-01-31) and last (1999-12-30) monthly observations available for the 1990s, the LBMA gold price went from $415 to $290 — a decline of 30% — with a sampled high of $415 (Jan 1990) and a sampled low of $255 (Aug 1999).\nYears in the 1990s\n1990\n1991\n1992\n1993\n1994\n1995\n1996\n1997\n1998\n1999\nSee today's live gold price on the\nspot dashboard\n, or\nshop gold bullion\nat Bullion Trading LLC.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold price history",
+              "item": "https://learn.bulliontradingllc.com/charts/gold-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1990s"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Gold price in the 1990s — LBMA monthly fix",
+          "description": "Gold price through the 1990s: from $415 to $290, monthly-sample high $415, monthly-sample low $255. Monthly LBMA chart for the decade.",
+          "url": "https://learn.bulliontradingllc.com/charts/gold-price-1990s/",
+          "temporalCoverage": "1990-01-31/1999-12-30",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

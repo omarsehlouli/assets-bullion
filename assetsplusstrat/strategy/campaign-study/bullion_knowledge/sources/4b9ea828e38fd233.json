@@ -1,0 +1,407 @@
+{
+  "metadata": {
+    "id": "4b9ea828e38fd233",
+    "url": "https://bulliontradingllc.com/product/1-oz-silver-bar-buffalo/",
+    "title": "1 oz Silver Buffalo Bar | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:12:04.746283+00:00",
+    "status": "fetched",
+    "bytes": 153062,
+    "text_characters": 3810,
+    "sha256_html": "cecfbf58bfcdc5dd9361e9ad096e11cd25b0f9b5261ec4b5032d7e1b13cf814c",
+    "file": "sources/4b9ea828e38fd233.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Classic American bison design on a 1 oz .999 silver Buffalo bar. Spot-linked bullion for everyday stacking with secure shipping.",
+  "canonical": "https://bulliontradingllc.com/product/1-oz-silver-bar-buffalo/",
+  "text": "Skip to content\nFully insured shipping\nAuthenticity guaranteed\nWe buy it back\nNYC Diamond District counter\nSecure checkout\n1 oz Silver Bar – Buffalo\nby\nHighland Mint\n$\n72.74\nPriced live off the spot market.\nSee price history ↓\nMetal\nSilver\nWeight\n1 oz Troy Ounces\nPurity\n99.9\nType\nBar\nOut of stock\nAdd to wishlist\nGo to compare\nAdd to compare\nFully insured shipping\nShips in 1–3 business days\nWe buy it back —\nsell to us\nSecure checkout · NYC Diamond District counter\nSKU:\ns1obuffalohm\nCategories:\n1 Oz Silver Bars\n,\nSilver\n,\nSilver Bars\nMint:\nHighland Mint\nPrice history\n1 oz Silver Bar - Buffalo was last recorded at $73.15 on October 1, 2026. Over the past 12 months it is up 28.0% and has ranged between $56.51 and $134.13.\nLast recorded\nLoading…\n1Y\n7D\n1M\n3M\n6M\n1Y\nAll\nDescription\nAdditional information\nDescription\nHolds 1 troy ounce of silver bullion.\nPurity of .999 (or 99.9%) silver.\nThe front of the bar showcases the iconic ‘Black Diamond,’ the iconic American bison, originally drawn by Fraser at the New York Central Park Zoo along with information related to the bar (weight, purity, metal type, country of origin).\nThe backside pattern of repeating diamonds showcases the natural textures of silver.\nEach bar is sealed by Highland Mint in a protective plastic sleeve. This defends the bar against blemishes and tarnish.\nIn addition to the replica of the American Buffalo stamped at the top, the weight, metal type, purity, and origin are displayed on the front of the bar. “One Troy Ounce” displayed at the top with a number “1” in the background. “FINE SILVER 999+” underneath specifying the metal type and fineness (99.9% + ). Finally at the bottom “Made in U.S.A. and then the initials of the manufacturer “HM”.\nThe reverse side of the bar shows off the wonderful natural textures silver can have. A diamond pattern repeats itself across the back.\nThe Highland Mint was established in the 1980s in Melbourne Florida. In addition to minting silver products, they are world famous for their official sports memorabilia (cards, coins, and other collectables). Quite a few investors use the Highland mint for custom precious metals products.\nKey Features:\nDimensions: Approximately 50 mm x 29 mm\nThickness: Approximately 2.3 mm\nComposed of  1 oz of .999 fine silver.\nSecurely packaged for protection.\nFront: Showcases ‘Black Diamond,’ the iconic American bison, originally drawn by Fraser at the New York Central Park Zoo.\nBack: Features a diamond repeated design\nEnhance your collection with this renowned Silver Buffalo bar today!\nInvest in the stunning 1 oz Buffalo .999 Silver Bar, a premium bullion product crafted from .999 fine silver.\nAdditional information\nMetal\nSilver\nProduct Type\nbullion\nIssuer Country\nUS\nIs Legal Tender\nNo\nIs Monetized Bullion\nNo\nPurity %\n99.9\nType of Bullion\nBar\nWeight\n1 oz\nWeight Unit\nTroy Ounces\nRelated products\nOut of stock\nRead more\nSilver\n,\nSilver Coins\n,\nUS Silver Coins\nSilver Peace Dollars(Random Year)\n$\n54.25\nRead more\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\n10 Oz Silver Bars\n,\nGifts\n,\nSilver\n,\nSilver Bars\n,\nSilver Bullets for Sale\n10 oz Silver Bullet\n$\n754.33\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nOut of stock\nRead more\nGovernment Mint Silver Coins\n,\nSilver\n,\nSilver Coins\n1/2 Oz Silver Australian Lunar Horse Coin\n$\n46.72\nRead more\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\n1 Oz Silver Bars\n,\nGifts\n,\nSilver\n,\nSilver Bars\n,\nSilver Bullets for Sale\n1 oz Silver Bullet\n$\n85.58\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nLogin/Register\nDon't have an account\nRegister\nCustomer Login\nIf you have an account, sign in with your email address.\nContinue with Google\nLoading\nYour Cart\nCart is Empty\nUpdating Cart!\nHowdy,                             Guest\nSign in\nDepartments\nShop\nMints\nCart\nMy Account",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2025/01/1oz-buffalo-silver-bar-royal-bull-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2025/01/1oz-buffalo-silver-bar-royal-bull-jpg.webp",
+          "width": "1200",
+          "height": "1200",
+          "caption": "1 oz silver Buffalo bar with iconic bison design",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/product/1-oz-silver-bar-buffalo/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/silver/",
+                "name": "Silver"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/silver/bars/",
+                "name": "Silver Bars"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "4",
+              "item": {
+                "@id": "https://bulliontradingllc.com/silver/bars/1-oz-silver-bars/",
+                "name": "1 Oz Silver Bars"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "5",
+              "item": {
+                "@id": "https://bulliontradingllc.com/product/1-oz-silver-bar-buffalo/",
+                "name": "1 oz Silver Bar &#8211; Buffalo"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ItemPage",
+          "@id": "https://bulliontradingllc.com/product/1-oz-silver-bar-buffalo/#webpage",
+          "url": "https://bulliontradingllc.com/product/1-oz-silver-bar-buffalo/",
+          "name": "1 oz Silver Buffalo Bar | Bullion Trading LLC",
+          "datePublished": "2025-01-07T16:51:56+00:00",
+          "dateModified": "2026-03-24T16:13:32+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2025/01/1oz-buffalo-silver-bar-royal-bull-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/product/1-oz-silver-bar-buffalo/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "1 oz Silver Buffalo Bar | Bullion Trading LLC",
+          "description": "Classic American bison design on a 1 oz .999 silver Buffalo bar. Spot-linked bullion for everyday stacking with secure shipping.",
+          "sku": "s1obuffalohm",
+          "category": "Silver &gt; Silver Bars &gt; 1 Oz Silver Bars",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/product/1-oz-silver-bar-buffalo/#webpage"
+          },
+          "gtin": "49",
+          "image": [
+            "https://bulliontradingllc.com/wp-content/uploads/2025/01/1oz-buffalo-silver-bar-royal-bull-jpg.webp",
+            "https://bulliontradingllc.com/wp-content/uploads/2025/01/1oz-buffalo-silver-bar-royal-bull-2-jpg.webp"
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "72.88",
+            "priceCurrency": "USD",
+            "priceValidUntil": "2026-10-04",
+            "availability": "https://schema.org/OutOfStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "url": "https://bulliontradingllc.com/product/1-oz-silver-bar-buffalo/",
+            "seller": {
+              "@type": "Organization",
+              "@id": "https://bulliontradingllc.com/#organization",
+              "name": "Bullion Trading LLC",
+              "url": "https://bulliontradingllc.com/"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnNotPermitted"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "10",
+                "currency": "USD"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": "1",
+                  "maxValue": "3",
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": "1",
+                  "maxValue": "5",
+                  "unitCode": "DAY"
+                }
+              }
+            }
+          },
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Metal",
+              "value": "Silver"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Product Type",
+              "value": "bullion"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Issuer Country",
+              "value": "US"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Is Legal Tender",
+              "value": "No"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Is Monetized Bullion",
+              "value": "No"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Purity %",
+              "value": "99.9"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Type of Bullion",
+              "value": "Bar"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Weight",
+              "value": "1 oz"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Weight Unit",
+              "value": "Troy Ounces"
+            }
+          ],
+          "material": "Silver",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "1",
+            "unitText": "Troy Ounces",
+            "unitCode": "APZ"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "Highland Mint"
+          },
+          "@id": "https://bulliontradingllc.com/product/1-oz-silver-bar-buffalo/#richSnippet"
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/compare/",
+    "https://bulliontradingllc.com/gifts/",
+    "https://bulliontradingllc.com/gifts/silver-bullets-for-sale/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/mints/highland-mint/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/?redirect=https%3A%2F%2Fbulliontradingllc.com%2Fproduct%2F1-oz-silver-bar-buffalo",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/product/1-2-oz-silver-australian-lunar-horse-coin/",
+    "https://bulliontradingllc.com/product/1-oz-silver-bullet/",
+    "https://bulliontradingllc.com/product/10-oz-silver-bullet/",
+    "https://bulliontradingllc.com/product/silver-peace-dollarsrandom-year/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/shop/",
+    "https://bulliontradingllc.com/silver/",
+    "https://bulliontradingllc.com/silver/bars/",
+    "https://bulliontradingllc.com/silver/bars/1-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/10-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/coins/",
+    "https://bulliontradingllc.com/silver/coins/government-mint-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/us-silver-coins/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2025/01/1oz-buffalo-silver-bar-royal-bull-1024x1024.webp",
+      "alt": "1 oz silver Buffalo bar with iconic bison design"
+    },
+    {
+      "url": "/wp-content/uploads/2025/01/1oz-buffalo-silver-bar-royal-bull-2-1024x1024.webp",
+      "alt": "1 oz silver Buffalo bar with American bison design, Royal Bull"
+    },
+    {
+      "url": "/wp-content/uploads/2026/02/Highland-Mint-Logo.webp",
+      "alt": "Highland Mint logo in metallic gold lettering"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/Silver_Peace_Dollars-300x300.webp",
+      "alt": "1 oz silver Peace Dollar coin, United States series design"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/Peace_Silver_Dollars-300x300.webp",
+      "alt": "Silver Peace dollars coin stack showing Liberty profile and eagle design"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/10ozBullet.50calFRONT-300x300.jpg",
+      "alt": "10 oz Silver Bullet .50 caliber-shaped silver bullion round"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-2-Oz-Silver-Australian-Lunar-Horse-Coin-300x300.webp",
+      "alt": "1/2 oz silver Perth Mint Australian Lunar Horse coin"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/australian_horse_silver_coin_1-jpg-webp-300x300.webp",
+      "alt": "1/2 oz silver Perth Mint Lunar Horse coin with horse design"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-oz-silver-bullet-bulliontradingllc-jpg-webp-300x300.webp",
+      "alt": "1 oz silver Bullet .45 caliber ACP bullion trading decorative piece"
+    }
+  ]
+}

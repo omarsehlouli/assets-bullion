@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "id": "3c9e96426e218232",
+    "url": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/",
+    "title": "Gold Investing Fundamentals | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:26.749231+00:00",
+    "status": "fetched",
+    "bytes": 22229,
+    "text_characters": 3823,
+    "sha256_html": "172c29b797b76fd8afe506fe08b075599dee70e0b908396f7fa8ae2baaf4f6c5",
+    "file": "sources/3c9e96426e218232.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "From market mechanics to advanced approaches and tax planning — the complete framework for gold investors.",
+  "canonical": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/",
+  "text": "intermediate\nUpdated June 1, 2026\nBy the\nBullion Trading LLC editorial team\nGold Investing Fundamentals\nFrom market mechanics to advanced approaches and tax planning — the complete framework for gold investors.\nGold occupies a strange position in modern portfolios. It pays no yield, generates no earnings, and yet central banks hold roughly 36,000 tonnes of it and add more each year. Most investors either dismiss the metal outright or overweight it on instinct, and both reactions usually stem from the same problem: a shallow grasp of how the gold market actually works, who sets the price, and which vehicles are appropriate for which goals.\nThis path builds the working knowledge an intermediate investor needs to size, structure, and hold a gold position with intent. You will move from spot pricing and the LBMA fix through bullion premiums, ETFs, mining equities, futures, and the specific tax treatment the IRS applies to collectibles — and you will finish able to defend each allocation decision on its own merits rather than on narrative.\n📊\nWhat you'll learn\nHow the global gold market is priced, cleared, and settled across spot, futures, and physical channels\nWhen to choose physical bullion, ETFs, mining stocks, or futures based on your objective and time horizon\nHow to build and rebalance a gold allocation that complements the rest of your portfolio\nThe tax rules, IRA structures, and reporting requirements that determine your real after-tax return\nWhat’s in this path\nIntroduction to Gold Investing\n— Why gold behaves differently from other assets and where it fits in a modern portfolio.\nGold Market Fundamentals\n— Spot pricing, the London fix, COMEX futures, and the supply and demand flows that move the metal.\nPhysical Gold Investment\n— Coins, bars, premiums, dealers, authentication, and storage decisions for tangible holdings.\nIndirect Gold Investment Methods\n— ETFs, closed-end funds, mining equities, royalty companies, and futures contracts compared head to head.\nComprehensive Gold Investment Strategy\n— Sizing an allocation, blending vehicles, and setting rebalancing rules that survive market stress.\nAdvanced Gold Investment Approaches\n— Options overlays, gold-to-silver ratio trades, miner spreads, and tactical tilts for experienced investors.\nGold Tax & Retirement Planning\n— Collectibles tax treatment, gold IRAs, reporting thresholds, and estate considerations that shape net returns.\nIntroduction to Gold Investing\nA primer on gold as a monetary asset, its portfolio roles, and the diversification, inflation-hedge, and safe-haven characteristics investors should understand.\nGold Market Fundamentals\nHow gold prices are set, what moves them, and how to read premiums, purity, and product categories before you buy.\nPhysical Gold Investment\nHow to buy, store, and integrate physical gold into a portfolio, covering coin and bar types, dealers, storage, taxes, and accumulation strategies.\nIndirect Gold Investment Methods\nCompare ETFs, mining stocks, futures, mutual funds, and digital gold platforms for gaining gold exposure without physical ownership.\nComprehensive Gold Investment Strategy\nHow to build a complete gold portfolio across physical bullion, ETFs, and miners, with allocation, accumulation, and rebalancing frameworks.\nAdvanced Gold Investment Approaches\nSophisticated tools for experienced investors — derivatives, arbitrage, quantitative analysis, and institutional-grade risk management applied to gold portfolios.\nGold Tax & Retirement Planning\nHow physical gold is taxed in the US, IRA eligibility rules, distribution timing, and estate planning strategies for precious metals investors.\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Guides",
+              "item": "https://learn.bulliontradingllc.com/guides/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold Investing Fundamentals"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Gold Investing Fundamentals",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 7,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "url": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/01-introduction-gold-investing/",
+              "name": "Introduction to Gold Investing"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "url": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/02-gold-market-fundamentals/",
+              "name": "Gold Market Fundamentals"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "url": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/03-physical-gold-investment/",
+              "name": "Physical Gold Investment"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "url": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/04-indirect-gold-investment-methods/",
+              "name": "Indirect Gold Investment Methods"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "url": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/05-comprehensive-gold-investment-strategy/",
+              "name": "Comprehensive Gold Investment Strategy"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "url": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/06-advanced-gold-investment-approaches/",
+              "name": "Advanced Gold Investment Approaches"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "url": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/07-gold-tax-planning-considerations/",
+              "name": "Gold Tax & Retirement Planning"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

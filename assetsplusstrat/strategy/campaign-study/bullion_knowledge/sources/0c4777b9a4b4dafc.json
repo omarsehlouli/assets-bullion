@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "id": "0c4777b9a4b4dafc",
+    "url": "https://learn.bulliontradingllc.com/guides/investment-strategies/05-tax-implications/",
+    "title": "Tax Implications | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:28.592855+00:00",
+    "status": "fetched",
+    "bytes": 24562,
+    "text_characters": 6990,
+    "sha256_html": "f828c143d31620139c4ea5ff255c0276443e42c1c2e543796d0b7584e39432bb",
+    "file": "sources/0c4777b9a4b4dafc.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "How the IRS treats physical precious metals, why bullion is taxed as a collectible, and the state sales tax and reporting rules that affect investors.",
+  "canonical": "https://learn.bulliontradingllc.com/guides/investment-strategies/05-tax-implications/",
+  "text": "intermediate\nBy the\nBullion Trading LLC editorial team\nTax Implications\nHow the IRS treats physical precious metals, why bullion is taxed as a collectible, and the state sales tax and reporting rules that affect investors.\nPhysical precious metals occupy an unusual corner of the U.S. tax code. They are not securities, not currency, and not ordinary personal property. The IRS classifies them as\ncollectibles\n, which means investors face a different capital gains regime than they would with stocks or bonds. State-level treatment varies even more widely, and a handful of dealer reporting rules add another layer most newcomers overlook.\nThis guide covers the federal capital gains rules, sales tax landscape, IRA-specific treatment, and reporting thresholds that matter when you buy or sell bullion.\nFederal capital gains: the 28% collectibles rate\nUnder IRC Section 408(m), gold, silver, platinum, and palladium bullion are defined as collectibles for tax purposes, along with art, antiques, and certain coins. When you sell physical metal at a profit after holding it longer than one year, the long-term capital gain is taxed at a maximum rate of\n28%\n, not the 15% or 20% rate that applies to stocks.\nShort-term gains (held one year or less) are taxed as ordinary income at your marginal rate, just like other assets.\n📊\nThe 28% ceiling, not floor\nThe 28% rate is a maximum. If your ordinary income tax bracket is lower than 28%, your collectibles gain is taxed at your ordinary rate instead. High earners pay 28% plus the 3.8% Net Investment Income Tax where applicable, for an effective top rate around 31.8%.\nCost basis basics\nYour basis includes the purchase price plus any dealer premium, sales tax paid at purchase, and shipping or insurance. Keep invoices. When you sell, gain or loss equals proceeds minus basis. If you bought in tranches over years, you can use specific identification to choose which lots to sell, similar to stocks.\nLosses on bullion are capital losses and can offset other capital gains, with up to $3,000 per year deductible against ordinary income.\nState sales tax\nThis is where the rules fragment. Roughly 40 states fully or partially exempt investment-grade precious metals from sales tax, but the thresholds and definitions differ.\nSome states (Texas, Florida, Pennsylvania) exempt all investment bullion outright.\nOthers (New York, Massachusetts) exempt only purchases above a dollar threshold, commonly $1,000 or $1,500.\nA few states still tax bullion fully, treating it like any retail good.\nNumismatic and semi-numismatic coins are sometimes treated differently than plain bullion.\nRecent years have seen a clear trend toward exemption. Nebraska, Tennessee, Mississippi, and others have removed or narrowed their sales tax on bullion in the past few legislative cycles, while New Jersey’s exemption bill was vetoed despite passing the legislature.\n💡\nVerify before you buy\nSales tax is collected based on the ship-to address, not the dealer’s location. Before placing a large order, check the current rule in your state and verify whether the specific product qualifies. Dealer websites typically display the rate at checkout, but the underlying law changes often.\nIRAs and the home storage trap\nPrecious metals can be held inside a self-directed IRA, but only specific products qualify. The IRS requires bullion in IRAs to meet fineness standards (.995 for gold, .999 for silver, .9995 for platinum and palladium) with narrow exceptions like American Gold Eagles.\nCritically, IRA metals must be held by an approved depository. The “home storage IRA” marketed by some firms is widely considered to be a prohibited transaction by tax attorneys, which would disqualify the entire IRA and trigger immediate tax plus penalties. Use a recognized custodian and depository combination.\nInside an IRA, the 28% collectibles rate does not apply because gains stay tax-deferred (traditional) or tax-free (Roth) until distribution. Distributions from a traditional IRA are taxed as ordinary income regardless of whether the underlying asset was metal or stock.\nDealer reporting: Form 1099-B and Form 8300\nTwo reporting rules surprise investors:\nForm 1099-B (dealer to IRS, on sale to dealer).\nWhen you sell certain quantities of specific products back to a dealer, the dealer must report it. The triggering products and thresholds are set by IRS guidance and trade association schedules. Common triggers include 25 or more ounces of gold Krugerrands, Maple Leafs, or Mexican Onzas in a single transaction, 1,000 ounces of silver, and certain bar sizes. American Eagles and most fractional coins do not trigger 1099-B reporting at any quantity.\nForm 8300 (dealer to IRS, on cash payments).\nIf you pay a dealer more than $10,000 in cash or cash equivalents (including multiple related transactions within 24 hours), the dealer must file Form 8300. Bank wires, personal checks, and credit cards are not considered cash for this purpose. Cashier’s checks and money orders under $10,000 each can be.\nNeither form creates a new tax. They simply ensure the IRS sees the transaction. You owe the same capital gains tax whether or not a 1099-B is filed.\n⚠️\nYou owe tax even without a 1099\nA common misconception is that sales not reported on a 1099-B are invisible to the IRS and therefore tax-free. They are not. You are legally required to report all capital gains on Schedule D regardless of whether a third party reports them. The 1099 thresholds are administrative, not the boundary of taxable income.\nGifts, inheritance, and estate planning\nGifts of bullion fall under standard gift tax rules. You can give up to the annual exclusion (currently $18,000 per recipient per year, indexed to inflation) without filing a gift tax return. Larger gifts use lifetime exemption.\nInherited bullion receives a\nstep-up in basis\nto fair market value on the date of death. This is one of the most powerful tax features of physical metals: decades of unrealized gains can be wiped clean when an heir inherits.\nPractical recordkeeping\nWhatever your strategy, three habits make tax time manageable:\nKeep every purchase invoice with date, product, quantity, price, premium, and any tax paid.\nLog sales the same way, noting which lots you sold if using specific identification.\nPhotograph or scan inventory periodically for insurance and estate purposes.\nTax law changes. State exemptions expand and occasionally contract. The rates and thresholds in this guide reflect federal rules in effect at the time of writing; verify current numbers with a tax professional before any significant transaction.\nTest your understanding\nTax Implications Quiz\n8 questions →\nRelated on bulliontradingllc.com\nNebraska Starts Exempting Precious Metals From Sales Tax ↗\n· blog\nNew Jerseys Vetoed Bill On Tax Exemption ↗\n· blog\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Guides",
+              "item": "https://learn.bulliontradingllc.com/guides/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Investment Strategies",
+              "item": "https://learn.bulliontradingllc.com/guides/investment-strategies/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Tax Implications"
+            }
+          ]
+        },
+        {
+          "@type": "Article",
+          "headline": "Tax Implications",
+          "description": "How the IRS treats physical precious metals, why bullion is taxed as a collectible, and the state sales tax and reporting rules that affect investors.",
+          "url": "https://learn.bulliontradingllc.com/guides/investment-strategies/05-tax-implications/",
+          "author": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/blog/nebraska-starts-exempting-precious-metals-from-sales-tax/",
+    "https://bulliontradingllc.com/blog/new-jerseys-vetoed-bill-on-tax-exemption/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

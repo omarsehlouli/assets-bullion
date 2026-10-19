@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "id": "028eaf0243d0af55",
+    "url": "https://bulliontradingllc.com/blog/trade-war-is-a-wild-card-thats-good-for-gold-says-mickey-fulp/",
+    "title": "Trade War Is A ‘Wild Card’ That’s Good For Gold, Says Mickey Fulp - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:13.831635+00:00",
+    "status": "fetched",
+    "bytes": 95171,
+    "text_characters": 3349,
+    "sha256_html": "445150549c7983b26597f022e022a2c877e64e95fca8738002b3110d363d3252",
+    "file": "sources/028eaf0243d0af55.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Gold rates were edged down in Asian trading on Tuesday after surging near to $1,345 an ounce from just below $1,330 an ounce during the previous North",
+  "canonical": "https://bulliontradingllc.com/blog/trade-war-is-a-wild-card-thats-good-for-gold-says-mickey-fulp/",
+  "text": "Gold rates were edged down in Asian trading on Tuesday after surging near to $1,345 an ounce from just below $1,330 an ounce during the previous North American session.\nRegardless of the rush into the gold market, this might not be the best time to purchase the yellow metal, according to the mining analyst.\nThe business that Fulp is thoroughly watching are largely American innovative gold explorers: “Allegiant Gold, Integra Resources and Ely Gold Royalties, and I cover one Canadian gold explorer, Eagle Plains Resources.”\n” Certainly trade tariffs, a trade war particularly … would be excellent for gold, because it will present a wild card into the economic formula, and individuals will go to gold as a safe sanctuary or insurance plan, and perhaps were seeing that today,” Fulp informed Proven and Probable in an interview last week. “So geopolitical threat, geopolitical chaos, the danger or the idea of such is constantly great for gold.”\n.\nHere is a great article why trade war in between United States and China great for gold. , if you desire to check out the initial article you can discover a link at the bottom of this post.\nWe discovered this short article at http://www.kitco.com/news/2018-04-02/Trade-War-Is-A-Wild-Card-That-s-Good-For-Gold-Says-Mickey-Fulp.html By: Anna Golubova and thought it would useful to our gold investor subscribers.\nWorries of trade war intensifying additional triggered a selloff in equities and pushed gold prices higher on Monday.\n” Im not purchasing any today, since I only buy when the prices dip or go lower. When gold was at $1,312 or 13 over the last number of days, it didnt reach my mark of the price I wished to buy it at, so only buy on dips,” he stated.\nWhether the trade spat in between the U.S. and China is just bark without any bite is unclear at this point, Fulp explained. “I think at some time both countries will realize in some method, shape or kind that they require each other, and theyll come down to service,” he said.\nTrade war rhetoric is a wild card that can benefit gold prices in the near-term, as more investors rush to purchase the yellow metal as a safe haven, stated Mickey Fulp, creator of the Mercenary Geologist newsletter.\n” Its about intellectual property theft, where anybody that wants to produce or put plants in China, United States needs to quit its copyright, whichs truly unfair. And so Trumps started by drawing a line in the sand, and well see where it goes from there. We had a record trade deficit, $375 billion, with China in 2015, and thats bad for American or American customers.”\nEarlier in the day, China reacted to U.S. trade tariff talk by slapping responsibilities of its own on 128 U.S. products, consisting of frozen pork, red wine, nuts and fruits.\nComex June gold futures were last at $1,342.00 an ounce, down 0.36% on the day, while area gold on Kitco.com was trading at $1,337.40, down 0.26% on the day.\nU.S. President Donald Trumps administration is also planning to unveil a list of advanced innovation Chinese imports that will be affected by U.S. tariffs.\nAt the core of the trade issue is the U.S. combating for equivalent access to Chinese markets, Fulp pointed out.\nbulliontrading\nView all posts\nPrevious Post\nThis New Blockchain Platform Aims to Give Gold a Digital Edge\nNext Post\nAre Gold And Silver Investments Still Good Value?",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/trade-war-is-a-wild-card-thats-good-for-gold-says-mickey-fulp/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/trade-war-is-a-wild-card-thats-good-for-gold-says-mickey-fulp/",
+                "name": "Trade War Is A ‘Wild Card’ That’s Good For Gold, Says Mickey Fulp"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/trade-war-is-a-wild-card-thats-good-for-gold-says-mickey-fulp/#webpage",
+          "url": "https://bulliontradingllc.com/blog/trade-war-is-a-wild-card-thats-good-for-gold-says-mickey-fulp/",
+          "name": "Trade War Is A ‘Wild Card’ That’s Good For Gold, Says Mickey Fulp - Bullion Trading LLC",
+          "datePublished": "2018-04-03T11:26:40+00:00",
+          "dateModified": "2018-04-03T11:26:40+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/trade-war-is-a-wild-card-thats-good-for-gold-says-mickey-fulp/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Trade War Is A ‘Wild Card’ That’s Good For Gold, Says Mickey Fulp - Bullion Trading LLC",
+          "datePublished": "2018-04-03T11:26:40+00:00",
+          "dateModified": "2018-04-03T11:26:40+00:00",
+          "articleSection": "Gold, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Gold rates were edged down in Asian trading on Tuesday after surging near to $1,345 an ounce from just below $1,330 an ounce during the previous North",
+          "name": "Trade War Is A ‘Wild Card’ That’s Good For Gold, Says Mickey Fulp - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/trade-war-is-a-wild-card-thats-good-for-gold-says-mickey-fulp/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/trade-war-is-a-wild-card-thats-good-for-gold-says-mickey-fulp/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/trade-war-is-a-wild-card-thats-good-for-gold-says-mickey-fulp/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/are-gold-and-silver-investments-still-good-value/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/this-new-blockchain-platform-aims-to-give-gold-a-digital-edge/",
+    "https://bulliontradingllc.com/blog/trade-war-is-a-wild-card-thats-good-for-gold-says-mickey-fulp/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

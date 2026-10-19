@@ -1,0 +1,386 @@
+{
+  "metadata": {
+    "id": "2eac5ff7075fb0c9",
+    "url": "https://learn.bulliontradingllc.com/quiz/indirect-gold-investment-methods-quiz/",
+    "title": "Indirect Gold Investment Methods Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:41.811369+00:00",
+    "status": "fetched",
+    "bytes": 28595,
+    "text_characters": 387,
+    "sha256_html": "6c4fa499304ac184b05a58355106ccada568770e157f548094763afa4722c817",
+    "file": "sources/2eac5ff7075fb0c9.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of gold ETFs, mining stocks, and other indirect ways to invest in gold without physical ownership.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/indirect-gold-investment-methods-quiz/",
+  "text": "Indirect Gold Investment Methods Quiz\nTest your knowledge of gold ETFs, mining stocks, and other indirect ways to invest in gold without physical ownership.\nWhat is the primary benefit of indirect gold investment over physical gold?\nA\nHigher returns\nB\nConvenience and no storage requirements\nC\nBetter inflation protection\nD\nNo counterparty risk\n←\nBack to Indirect Gold Investment Methods",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold Investing Fundamentals",
+              "item": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Indirect Gold Investment Methods",
+              "item": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/04-indirect-gold-investment-methods/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Indirect Gold Investment Methods Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Indirect Gold Investment Methods Quiz",
+          "description": "Test your knowledge of gold ETFs, mining stocks, and other indirect ways to invest in gold without physical ownership.",
+          "url": "https://learn.bulliontradingllc.com/quiz/indirect-gold-investment-methods-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Indirect Gold Investment Methods"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the primary benefit of indirect gold investment over physical gold?",
+              "text": "What is the primary benefit of indirect gold investment over physical gold?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Convenience and no storage requirements",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Indirect gold investments provide convenience and eliminate storage requirements while maintaining exposure to gold price movements."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Higher returns"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Better inflation protection"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "No counterparty risk"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the expense ratio of the iShares Gold Trust (IAU)?",
+              "text": "What is the expense ratio of the iShares Gold Trust (IAU)?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "0.25%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The iShares Gold Trust (IAU) has a 0.25% annual expense ratio, making it one of the lower-cost gold ETF options."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "0.18%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "0.39%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "0.40%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which is the world's largest gold ETF by assets?",
+              "text": "Which is the world's largest gold ETF by assets?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "SPDR Gold Shares (GLD)",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "SPDR Gold Shares (GLD) is the world's largest gold ETF by assets under management."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "iShares Gold Trust (IAU)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Aberdeen Standard Physical Gold Shares (SGOL)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Perth Mint Physical Gold ETF (AAAU)"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How much gold does each share of GLD represent approximately?",
+              "text": "How much gold does each share of GLD represent approximately?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1/10 ounce",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Each share of SPDR Gold Shares (GLD) represents approximately 1/10 ounce of gold."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "1/100 ounce"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "1/4 ounce"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "1 ounce"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which gold ETF has the lowest expense ratio mentioned in the content?",
+              "text": "Which gold ETF has the lowest expense ratio mentioned in the content?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "AAAU at 0.18%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Perth Mint Physical Gold ETF (AAAU) has the lowest expense ratio at 0.18% among the ETFs mentioned."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "GLD at 0.40%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "IAU at 0.25%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "SGOL at 0.39%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Gold ETFs can be held in IRA retirement accounts.",
+              "text": "True or False: Gold ETFs can be held in IRA retirement accounts.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold ETFs are IRA eligible and can be held in retirement accounts, providing tax-advantaged gold exposure."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Where is the gold for Aberdeen Standard Physical Gold Shares (SGOL) stored?",
+              "text": "Where is the gold for Aberdeen Standard Physical Gold Shares (SGOL) stored?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Switzerland",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Aberdeen Standard Physical Gold Shares (SGOL) stores its gold in Switzerland, providing geographic diversification."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "London vaults"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "New York vaults"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Australia"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is a key limitation of gold ETFs compared to physical gold?",
+              "text": "What is a key limitation of gold ETFs compared to physical gold?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cannot take physical delivery",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "A key limitation of gold ETFs is that investors cannot take physical delivery of the underlying gold."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Lower liquidity"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Higher transaction costs"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Poor price tracking"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which entity backs the Perth Mint Physical Gold ETF (AAAU)?",
+              "text": "Which entity backs the Perth Mint Physical Gold ETF (AAAU)?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Western Australian government",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Perth Mint Physical Gold ETF (AAAU) is backed by the Western Australian government, providing government backing."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Australian federal government"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Private mining companies"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "International gold consortium"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Gold ETFs are limited to trading only during market hours.",
+              "text": "True or False: Gold ETFs are limited to trading only during market hours.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold ETFs can only be traded during market hours, unlike physical gold which can be bought or sold at any time."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

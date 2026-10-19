@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "id": "2063ab8445419874",
+    "url": "https://bulliontradingllc.com/blog/kentucky-joins-majority-in-exempting-precious-metals-from-sales-tax/",
+    "title": "Kentucky Ends Sales Tax on Precious Metals Bullion",
+    "retrieved_at": "2026-10-12T22:10:57.493169+00:00",
+    "status": "fetched",
+    "bytes": 99510,
+    "text_characters": 4296,
+    "sha256_html": "c8cd6d21ec9ea3aa5dc85e25608fff53c071cd24d277121e407a16608f9e28a1",
+    "file": "sources/2063ab8445419874.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Kentucky becomes the 45th state to end sales tax on precious metals after overriding a veto, signaling momentum for sound-money policy.",
+  "canonical": "https://bulliontradingllc.com/blog/kentucky-joins-majority-in-exempting-precious-metals-from-sales-tax/",
+  "text": "Kentucky’s legislature has successfully countered\nGovernor Andy Beshear\n‘s veto attempt on a key financial measure, marking a pivotal moment for the state’s economic policy. This legislative victory has established Kentucky as the 45th state to eliminate sales taxes on precious metals, aligning it with a broader national trend toward what many advocates call “sound money” policies.\nHouse Bill 101\n, championed by Representative\nSteven Doan\nand co-sponsored by an array of legislators, has been enacted into law despite opposition from\nGovernor Beshear\n. The bill strategically amends KRS 139.480 to exempt specific transactions involving gold, silver, platinum, and palladium in forms like coins and bars from sales and use taxes, effective August 1, 2024.\nThe governor’s attempt to veto this provision was ruled out of order by legislative leaders, asserting that under the state constitution, the veto power does not extend to revenue-related measures like HB 101. This interpretation was bolstered by an advisory from the state\nAttorney General\n, which clarified the limits of executive veto powers.\nThe exemption, as detailed in the legislation, applies not only to bullion but also to paper currency and coins made of precious metals that are primarily sold as collectibles rather than as regular currency. This adjustment is expected to invigorate local businesses by leveling the playing field with neighboring states that have already removed such taxes, encouraging investors and savers to keep their transactions within Kentucky.\nProponents of the bill, including the Sound Money Defense League, argue that the tax exemption is vital for protecting citizens from inflationary pressures and for promoting savings and investments in the state. They point to the intrinsic value of precious metals as stable assets that historically safeguard wealth.\nKentucky’s move aligns it with other states that have recently adopted similar measures, reflecting a growing recognition of the role of precious metals in ensuring economic stability. States like Wisconsin and Mississippi have passed comparable laws in the past year, while older exemptions in states like Tennessee, Alabama, and Virginia have already shown positive economic impacts.\nThis legislative success in Kentucky not only boosts its standing in national economic rankings but also sets a precedent for the remaining states without such exemptions to reconsider their stances. Advocates are optimistic that this victory will catalyze further support for sound money policies across the country.\nAs the dust settles on this legislative session, the focus now turns to potential judicial challenges from the governor’s office. However, with strong legal backing and popular support, the future of Kentucky’s new financial landscape looks promising.\nDelving deep into the world of gold bars, the iconic Lady Fortuna gold bars stand out. If you’ve ever considered investing in gold or simply appreciate the artistry of precious metals, then Lady Fortuna is a name you should be familiar with. Let’s embark on this golden journey together.\nTrusted Bullion Trading in New York City Since 1997\nMade by Credit Suisse, one of the world’s leading precious metals refiners, this gold bar is made of .9999 fine gold, which means it is of the highest purity.\nBuy Now\nThe 5 oz Pamp Gold Bar comes complete with an assay card which allows for authenticity verification as well as detailing all of the bar’s specifications including its weight, purity, and serial number.\nBuy Now\nThese 100 Grams Gold Bar Secondary Market are an easy way for new and old investors to add gold bullion to their portfolios or collections without having to pay ‘dealer premiums’ or ‘numismatic premiums.\nBuy Now\nEach of this 50 g PAMP Suisse Gold Bars contains 50 grams (1.6075 troy oz) of .9999+ fine gold and are individually wrapped in PAMPs sealed Veriscan Technology, which includes an assay card\nBuy Now\nNot sure what works for you?\nOur gold & silver bullion trading experts will guide you towards the best products to protect your wealth and reach your goals.\nCall us Today.\nbulliontrading\nView all posts\nPrevious Post\nSilver's Slow Rise: Navigating the Nuances of Precious Metals in 2024\nNext Post\nNebraska Starts Exempting Precious Metals from Sales Tax",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2024/04/kentuky.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2024/04/kentuky.webp",
+          "width": "940",
+          "height": "788",
+          "caption": "Kentucky Sales Tax",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/kentucky-joins-majority-in-exempting-precious-metals-from-sales-tax/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/news/",
+                "name": "news"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/kentucky-joins-majority-in-exempting-precious-metals-from-sales-tax/",
+                "name": "Kentucky Joins Majority in Exempting Precious Metals from Sales Tax"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/kentucky-joins-majority-in-exempting-precious-metals-from-sales-tax/#webpage",
+          "url": "https://bulliontradingllc.com/blog/kentucky-joins-majority-in-exempting-precious-metals-from-sales-tax/",
+          "name": "Kentucky Ends Sales Tax on Precious Metals Bullion",
+          "datePublished": "2024-04-16T14:04:31+00:00",
+          "dateModified": "2024-04-16T14:04:31+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2024/04/kentuky.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/kentucky-joins-majority-in-exempting-precious-metals-from-sales-tax/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Kentucky Ends Sales Tax on Precious Metals Bullion",
+          "keywords": "Kentucky Sales Tax,Precious Metals Sales Tax,Sales Tax,Precious Metals",
+          "datePublished": "2024-04-16T14:04:31+00:00",
+          "dateModified": "2024-04-16T14:04:31+00:00",
+          "articleSection": "news",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Kentucky becomes the 45th state to end sales tax on precious metals after overriding a veto, signaling momentum for sound-money policy.",
+          "name": "Kentucky Ends Sales Tax on Precious Metals Bullion",
+          "@id": "https://bulliontradingllc.com/blog/kentucky-joins-majority-in-exempting-precious-metals-from-sales-tax/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/kentucky-joins-majority-in-exempting-precious-metals-from-sales-tax/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2024/04/kentuky.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/kentucky-joins-majority-in-exempting-precious-metals-from-sales-tax/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/news/",
+    "https://bulliontradingllc.com/blog/kentucky-joins-majority-in-exempting-precious-metals-from-sales-tax/",
+    "https://bulliontradingllc.com/blog/nebraska-starts-exempting-precious-metals-from-sales-tax/",
+    "https://bulliontradingllc.com/blog/silvers-slow-rise-navigating-the-nuances-of-precious-metals-in-2024/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/product/10-oz-credit-suisse-gold-bar-w-assay/",
+    "https://bulliontradingllc.com/product/100-gram-gold-bar-secondary-market/",
+    "https://bulliontradingllc.com/product/5-oz-pamp-lady-fortuna-gold-bar/",
+    "https://bulliontradingllc.com/product/50-gram-pamp-suisse-gold-bar-lady-fortunain-assay/",
+    "https://bulliontradingllc.com/shop/",
+    "https://bulliontradingllc.com/wp-content/uploads/2024/04/Attorney-General.aspx",
+    "https://bulliontradingllc.com/wp-content/uploads/2024/04/Governor-Andy-Beshear.aspx",
+    "https://bulliontradingllc.com/wp-content/uploads/2024/04/Legislator-Profile.aspx?DistrictNumber=69",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2024/04/kentuky.webp",
+      "alt": "Kentucky Sales Tax"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2023/01/Gold-1.png",
+      "alt": "Gold-1"
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2023/01/Gold-2.png",
+      "alt": "Gold-2"
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2023/01/Gold-33.png",
+      "alt": "Gold-33"
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2023/01/Gold-4.png",
+      "alt": "Gold-4"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

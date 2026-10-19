@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "id": "5104180e48776c31",
+    "url": "https://bulliontradingllc.com/blog/gold-scales-over-3-week-peak-as-dollar-slips/",
+    "title": "Gold scales over 3-week peak as dollar slips - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:45.368738+00:00",
+    "status": "fetched",
+    "bytes": 95292,
+    "text_characters": 3426,
+    "sha256_html": "0b950e780c7184ce9bd6efb1a27e3a66180c1c3ad97ba4a1567d41d0934a99c4",
+    "file": "sources/5104180e48776c31.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Gold tends to get when rate walking expectations decline since lower rates decrease the chance cost of holding non-yielding bullion. Lower rates of interest",
+  "canonical": "https://bulliontradingllc.com/blog/gold-scales-over-3-week-peak-as-dollar-slips/",
+  "text": "Gold tends to get when rate walking expectations decline since lower rates decrease the chance cost of holding non-yielding bullion. Lower rates of interest likewise tend to weigh on U.S. yields and the dollar, in which gold is priced.\nGold prices hit a more than three-week high up on Monday on a weaker dollar, as a trade ceasefire in between the United States and China revived investor need for riskier assets.\nHere is a short article about Gold continue to shine in the middle of a weak dollar. , if you desire to read the initial short article you can find the link at the end of this post.\nWe discovered this great post at https://www.cnbc.com/2018/12/03/gold-markets-us-china-trade-dollar-in-focus.html.\nIf the Fed is fretted about growth and makes it understood more plainly, then the marketplace could perhaps see a more increase to gold, stated John Sharma, an economic expert with National Australia Bank (NAB).\nAmong other valuable metals, palladium acquired nearly 1 percent to $1,188.49 per ounce, after having actually crossed the $1,200 mark for the very first time on Friday.\n” The over pessimism in bullion space on account of interest rate going up is overdone and this is the right time to build up gold,” said Kunal Shah, head of research study at Nirmal Bang Commodities in Mumbai, India, adding, “by December 31 we can see COMEX gold at $1,250.”.\nThe dollar index, which determines the greenback against a basket of 6 major currencies, was down about 0.5 percent.\nPowell is scheduled to testify prior to a congressional Joint Economic Committee later on today.\nU.S. gold futures were up 0.8 percent at $1,235.2 per ounce.\nThe U.S. currency has actually been the preferred safe house this year as the U.S.-China trade war unfolded versus a background of higher U.S. rates of interest, denting the bullions appeal.\nSpot gold climbed up about 0.7 percent to $1,230.78 per ounce at 0725 GMT, having actually touched its highest level given that Nov. 7 at $1,231.34 earlier in the session.\nSpeculators increased their net brief position in gold by 8,464 agreements to 51,828 contracts in the week to Nov. 27, the U.S. Commodity Futures Trading Commission (CFTC) stated on Friday.\nArea silver climbed 1.6 percent to $14.40 per ounce, while platinum increased nearly 2 percent to $812.10 per ounce.\nNevertheless, the greenback came under pressure last week after Federal Reserve Chairman Jerome Powell stated interest rates are just listed below neutral, raising expectations that the U.S. central bank is closer to the end of its rate hike cycle.\n” Dollar has actually edged down from its high, supporting gold,” stated Hareesh V, head of commodity research at Geojit Financial Services, including that the market would keep a close watch on what the U.S. and China mean to do during and after the 90-day ceasefire period.\nExperts see the yellow metal supported in the near-term on economic and political dangers such as unpredictabilities over Brexit and Italys budget plan, and the recent unrest in Paris.\nWashington and Beijing agreed to halt additional tariffs in a deal that keeps their trade war from intensifying as the 2 sides attempt once again to bridge their differences with fresh talks targeted at reaching a contract within 90 days.\n.\nbulliontrading\nView all posts\nPrevious Post\nGold Is Setting Up For A Nice First-Half Rally\nNext Post\nGold finds footing as dollar softens ahead of Fed decision",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-scales-over-3-week-peak-as-dollar-slips/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-scales-over-3-week-peak-as-dollar-slips/",
+                "name": "Gold scales over 3-week peak as dollar slips"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-scales-over-3-week-peak-as-dollar-slips/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-scales-over-3-week-peak-as-dollar-slips/",
+          "name": "Gold scales over 3-week peak as dollar slips - Bullion Trading LLC",
+          "datePublished": "2018-12-03T09:29:15+00:00",
+          "dateModified": "2018-12-03T09:29:15+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-scales-over-3-week-peak-as-dollar-slips/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold scales over 3-week peak as dollar slips - Bullion Trading LLC",
+          "datePublished": "2018-12-03T09:29:15+00:00",
+          "dateModified": "2018-12-03T09:29:15+00:00",
+          "articleSection": "Gold, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Gold tends to get when rate walking expectations decline since lower rates decrease the chance cost of holding non-yielding bullion. Lower rates of interest",
+          "name": "Gold scales over 3-week peak as dollar slips - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-scales-over-3-week-peak-as-dollar-slips/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-scales-over-3-week-peak-as-dollar-slips/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-scales-over-3-week-peak-as-dollar-slips/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/gold-finds-footing-as-dollar-softens-ahead-of-fed-decision/",
+    "https://bulliontradingllc.com/blog/gold-is-setting-up-for-a-nice-first-half-rally/",
+    "https://bulliontradingllc.com/blog/gold-scales-over-3-week-peak-as-dollar-slips/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

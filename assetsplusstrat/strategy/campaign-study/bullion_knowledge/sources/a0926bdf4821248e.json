@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "a0926bdf4821248e",
+    "url": "https://bulliontradingllc.com/blog/were-gearing-up-for-diwali-2016/",
+    "title": "We’re Gearing Up for Diwali 2016! - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:15.550190+00:00",
+    "status": "fetched",
+    "bytes": 94973,
+    "text_characters": 3583,
+    "sha256_html": "f3fa33aa164a1976fb907c62b9dcf539b994b0e22d510d02d501b0433592ebe9",
+    "file": "sources/a0926bdf4821248e.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": ".",
+  "canonical": "https://bulliontradingllc.com/blog/were-gearing-up-for-diwali-2016/",
+  "text": ".\nOf course, we have more pieces available for your choice. Take a look at more of our Diwali-themed pieces [here] If you do not, and dont forget to purchase in time– your spouse might get mad!\nThe design on the back is engraved with accuracy and contains all the info you need to understand about the piece. Notice in the middle– theres branding info that reveals the pieces weight, its pureness, and so on\nOur Indian buddies and clients presented us to the beauty of the Diwali festival years earlier. We carried out a terrific fascination with Indian culture, history, and the vacation itself.\n.\nWe see (actually) millions of coins. To this day, were still impressed with how elaborate and accurate the etching on these coins are. See for yourself– the style is flawless.\n.\nDue to the fact that it plainly resonates with our customers, this Laxmi style is one of our favorite pieces. The images is outstanding, and the shape of the piece itself is something that gets a great deal of appreciation from our customers. This item is even popular among folks who dont commemorate Diwali.\nThanks to this, we deal with our Indian buddies and in equipping the most popular items of the season. Consumers commemorating Diwali have actually revealed us which pieces make them feel lucky. Its a talent we wish we had!\nConsumers commemorating Diwali have actually shown us which pieces make them feel lucky. Were happy to show off some of the new pieces we got our hands on and prepared for the vacations. The imagery is excellent, and the shape of the piece itself is something that gets a lot of adoration from our customers. Notification in the middle– theres branding information that shows the pieces weight, its purity, and so on\nWhat youre seeing above is the back of 10g great silver coin, though youre not restricted to that specific weight of coin. We begin with a 5g and move all the method approximately a 250g piece. The bigger pieces are truly remarkable to keep in ones hand.\nWe take additional care to make sure our products are as real to the celebration of Diwali as possible. Were happy to reveal off some of the new pieces we got our hands on and prepared for the holidays.\n.\n. A Laxmi piece, this coin is offered in numerous different weights.\nIt steps up to the scale at 50g per bar, and dimensions-wise, its around [insert product dimensions] What you see pictured above is the obverse (front) of the piece. Its by far the side youre going to desire to flaunt! The coloration is extremely excellent. Heres the reverse side incase youre questioning what it looks like:.\n.\nA Laxmi piece, this coin is readily available in a number of various weights. To offer you a full sense of what were dealing with here, lets take a look at the reverse side of the coin.\nWith Diwali right around the corner, we here at Bullion are doing and switching gears what we do every year for our Indian friends. Anything that matches the Diwali celebration of light– we nab it right up!\nWe even purchase our gold as near the date of the celebration as we can. No matter where the market is at. One of our preferred consumers ever revealed us the significance of this a few years back. Having waited and waited till his better half insisted he purchase, our pal can be found in and took excellent interest in the most recently ordered product. We totally comprehend the functions luck and tradition play, and weve been impressing our clients with our Diwali selections since.\nbulliontrading\nView all posts\nPrevious Post\nFacts About Krugerrands Gold Coins\nNext Post\nFacts About Diwali Festival",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2016/10/Happy-Diwali-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2016/10/Happy-Diwali-jpg.webp",
+          "width": "624",
+          "height": "257",
+          "caption": "Happy-Diwali",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/were-gearing-up-for-diwali-2016/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/were-gearing-up-for-diwali-2016/",
+                "name": "We’re Gearing Up for Diwali 2016!"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/were-gearing-up-for-diwali-2016/#webpage",
+          "url": "https://bulliontradingllc.com/blog/were-gearing-up-for-diwali-2016/",
+          "name": "We’re Gearing Up for Diwali 2016! - Bullion Trading LLC",
+          "datePublished": "2016-10-06T16:26:15+00:00",
+          "dateModified": "2016-10-06T16:26:15+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2016/10/Happy-Diwali-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/were-gearing-up-for-diwali-2016/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "We’re Gearing Up for Diwali 2016! - Bullion Trading LLC",
+          "datePublished": "2016-10-06T16:26:15+00:00",
+          "dateModified": "2016-10-06T16:26:15+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": ".",
+          "name": "We’re Gearing Up for Diwali 2016! - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/were-gearing-up-for-diwali-2016/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/were-gearing-up-for-diwali-2016/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2016/10/Happy-Diwali-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/were-gearing-up-for-diwali-2016/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/facts-about-diwali-festival/",
+    "https://bulliontradingllc.com/blog/facts-about-krugerrands-gold-coins/",
+    "https://bulliontradingllc.com/blog/were-gearing-up-for-diwali-2016/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2016/10/Happy-Diwali-jpg.webp",
+      "alt": "Happy-Diwali"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

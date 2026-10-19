@@ -1,0 +1,16 @@
+CLAIMS TO USE CAREFULLY
+
+1. Same-day pickup: owner transcript says it can sometimes happen with a verified bank check. Site terms allow payment holds and disallow card/PayPal collection. Use: "arrange eligible pickup; confirm payment and timing." Do not promise a day.
+2. Same-day nationwide shipping: makers-edge script says this, while product badges say 1–3 business days and terms include clearance delays. No same-day shipping claim in the campaign set.
+3. Tax: the old transcript gives broad exemptions and a New York threshold. This research is not a current legal determination. No tax-free claim in ads; retain the source and refer to current checkout/state guidance if later used.
+4. Authentication: magnets, ice, ring and visual checks are not conclusive on their own. The site’s longer guide acknowledges limitations. Do not present a visual or any one test as proof of authenticity.
+5. Premiums: examples in owner narration and guide tables are not permanent quotes. Do not claim "lowest price," a fixed premium, or competitor savings without current evidence.
+6. Investment outcomes: no guaranteed appreciation, safety, recession protection or return. A gift’s emotional meaning is not a financial-performance claim.
+7. Store depiction: the generated counter, hands, bag, tray, gift box and ribbon are illustrative. They are not photographs of the actual premises, staff, customer transaction or guaranteed included packaging.
+8. Catalog accuracy: the Clover product URL has a mismatched browser title referring to a Snake Goddess product. Its body describes the Clover bar. The current gifting campaign uses the 5 g Fortuna product instead.
+9. Payment tables: current product pages list options that are not fully reconciled with older terms. Send users to current checkout and the team; do not advertise a universal discount or unsupported payment method.
+10. Returns/cancellation: the terms contain all-sales-final language as well as a qualified return policy, and more than one fee description. Do not advertise easy/free returns or quote a single universal penalty.
+11. Trust figures: first-party statements about sales volume, user counts, longevity, uniqueness or industry leadership are not independently verified proof. No invented star rating or testimonial appears in the ads.
+12. Product images: AI can alter inscriptions, relief, scale and serial numbers. Retain original references. Generated creatives are concept assets and must not be used as exact evidence of the item shipped.
+
+Evidence: BUSINESS_BRIEF.txt, source_index.json, transcripts/, and source_assets/ provenance manifests.

@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "9d05d883afa3e2bd",
+    "url": "https://learn.bulliontradingllc.com/charts/gold-price-1980s/",
+    "title": "Gold Price in the 1980s — LBMA Decade Chart & Data | BTLLC",
+    "retrieved_at": "2026-10-12T22:12:53.617569+00:00",
+    "status": "fetched",
+    "bytes": 17543,
+    "text_characters": 638,
+    "sha256_html": "90a52eca1b418fac8c701fe4f875c325311a92d8927ff1a275dc81f85c74dcd1",
+    "file": "sources/9d05d883afa3e2bd.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Gold price through the 1980s: from $653 to $399, monthly-sample high $667, monthly-sample low $288. Monthly LBMA chart for the decade.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/gold-price-1980s/",
+  "text": "Gold Price in the 1980s\nBetween the first (1980-01-31) and last (1989-12-28) monthly observations available for the 1980s, the LBMA gold price went from $653 to $399 — a decline of 39% — with a sampled high of $667 (Sep 1980) and a sampled low of $288 (Feb 1985).\nYears in the 1980s\n1980\n1981\n1982\n1983\n1984\n1985\n1986\n1987\n1988\n1989\nSee today's live gold price on the\nspot dashboard\n, or\nshop gold bullion\nat Bullion Trading LLC.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold price history",
+              "item": "https://learn.bulliontradingllc.com/charts/gold-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1980s"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Gold price in the 1980s — LBMA monthly fix",
+          "description": "Gold price through the 1980s: from $653 to $399, monthly-sample high $667, monthly-sample low $288. Monthly LBMA chart for the decade.",
+          "url": "https://learn.bulliontradingllc.com/charts/gold-price-1980s/",
+          "temporalCoverage": "1980-01-31/1989-12-28",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

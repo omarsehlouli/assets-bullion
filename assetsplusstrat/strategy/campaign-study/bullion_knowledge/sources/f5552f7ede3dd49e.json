@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "id": "f5552f7ede3dd49e",
+    "url": "https://bulliontradingllc.com/blog/us-mint-2018-pricing-revisions-for-gold-and-platinum-collector-coins/",
+    "title": "US Mint 2018 Pricing Revisions for Gold and Platinum Collector Coins - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:14.887189+00:00",
+    "status": "fetched",
+    "bytes": 95647,
+    "text_characters": 1392,
+    "sha256_html": "998736a75b5654d907da6603391957c8404acc736e10cd1c00696c430324d42d",
+    "file": "sources/f5552f7ede3dd49e.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The companys collections of gold and platinum coins have costs that can change weekly depending upon the trending worth of precious metals. Coin prices is",
+  "canonical": "https://bulliontradingllc.com/blog/us-mint-2018-pricing-revisions-for-gold-and-platinum-collector-coins/",
+  "text": "The companys collections of gold and platinum coins have costs that can change weekly depending upon the trending worth of precious metals. Coin prices is assessed every Wednesday and customized as necessary.\nThe United States Mint recently rolled out 2018 pricing modifications for its match of high-end numismatic coins.\nUsing the present weekly averages of LBMA gold and platinum as baselines, the following table reveals the rates distinctions for popular collector coins from 2017 to 2018.\nWe discovered this excellent post at http://www.coinnews.net/2018/01/29/us-mint-2018-pricing-revisions-for-gold-and-platinum-collector-coins/ By: Mike Unser and believed it was something our followers would discover beneficial.\n< map wp-tag-caption id=”attachment_1242″ align=”alignright” width=”300″/ wp-end-tag > A CoinNews picture showing a 2017-W $50 Proof American Gold Eagle.\nThe Mints treatments remain the same with prices criteria and under-the-hood estimations essentially unchanged. It is coin premiums that are various. A coin under the new rates tables will cost more than in the last couple of years. All else being equivalent, rate boosts vary from about $2.50 to $20 for American Eagle and Buffalo coins.\nbulliontrading\nView all posts\nPrevious Post\nThese Factors Will Support Silver Prices In 2018 - Silver Institute\nNext Post\nCanada’s silver Maple Leaf celebrates 30 years in 2018",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/01/2017-W-50-Proof-American-Gold-Eagle-Encapsulated-950x500-1-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2018/01/2017-W-50-Proof-American-Gold-Eagle-Encapsulated-950x500-1-jpg.webp",
+          "width": "950",
+          "height": "500",
+          "caption": "2017-W-50-Proof-American-Gold-Eagle-Encapsulated-950&#215;500",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/us-mint-2018-pricing-revisions-for-gold-and-platinum-collector-coins/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/us-mint-2018-pricing-revisions-for-gold-and-platinum-collector-coins/",
+                "name": "US Mint 2018 Pricing Revisions for Gold and Platinum Collector Coins"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/us-mint-2018-pricing-revisions-for-gold-and-platinum-collector-coins/#webpage",
+          "url": "https://bulliontradingllc.com/blog/us-mint-2018-pricing-revisions-for-gold-and-platinum-collector-coins/",
+          "name": "US Mint 2018 Pricing Revisions for Gold and Platinum Collector Coins - Bullion Trading LLC",
+          "datePublished": "2018-01-30T16:21:36+00:00",
+          "dateModified": "2018-01-30T16:21:36+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/01/2017-W-50-Proof-American-Gold-Eagle-Encapsulated-950x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/us-mint-2018-pricing-revisions-for-gold-and-platinum-collector-coins/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "US Mint 2018 Pricing Revisions for Gold and Platinum Collector Coins - Bullion Trading LLC",
+          "datePublished": "2018-01-30T16:21:36+00:00",
+          "dateModified": "2018-01-30T16:21:36+00:00",
+          "articleSection": "Gold, gold coins",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "The companys collections of gold and platinum coins have costs that can change weekly depending upon the trending worth of precious metals. Coin prices is",
+          "name": "US Mint 2018 Pricing Revisions for Gold and Platinum Collector Coins - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/us-mint-2018-pricing-revisions-for-gold-and-platinum-collector-coins/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/us-mint-2018-pricing-revisions-for-gold-and-platinum-collector-coins/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/01/2017-W-50-Proof-American-Gold-Eagle-Encapsulated-950x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/us-mint-2018-pricing-revisions-for-gold-and-platinum-collector-coins/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/canadas-silver-maple-leaf-celebrates-30-years-in-2018/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/these-factors-will-support-silver-prices-in-2018-silver-institute/",
+    "https://bulliontradingllc.com/blog/us-mint-2018-pricing-revisions-for-gold-and-platinum-collector-coins/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2018/01/2017-W-50-Proof-American-Gold-Eagle-Encapsulated-950x500-1-jpg.webp",
+      "alt": "2017-W-50-Proof-American-Gold-Eagle-Encapsulated-950×500"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

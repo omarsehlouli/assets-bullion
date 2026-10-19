@@ -1,0 +1,386 @@
+{
+  "metadata": {
+    "id": "f59a23772bbabbf3",
+    "url": "https://learn.bulliontradingllc.com/quiz/gold-market-fundamentals-quiz/",
+    "title": "Gold Market Fundamentals Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:40.739968+00:00",
+    "status": "fetched",
+    "bytes": 28696,
+    "text_characters": 277,
+    "sha256_html": "8dd12c42f75c59f75ef72b6431c7818303bbb506138a2a14f10a4f63d1105009",
+    "file": "sources/f59a23772bbabbf3.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of gold price dynamics, market forces, and fundamental characteristics that drive gold's value.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/gold-market-fundamentals-quiz/",
+  "text": "Gold Market Fundamentals Quiz\nTest your knowledge of gold price dynamics, market forces, and fundamental characteristics that drive gold's value.\nHow much does mining typically add to the existing gold supply annually?\nA\n1.5%\nB\n5%\nC\n10%\nD\n15%\n←\nBack to Gold Market Fundamentals",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold Investing Fundamentals",
+              "item": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Gold Market Fundamentals",
+              "item": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/02-gold-market-fundamentals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Gold Market Fundamentals Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Gold Market Fundamentals Quiz",
+          "description": "Test your knowledge of gold price dynamics, market forces, and fundamental characteristics that drive gold's value.",
+          "url": "https://learn.bulliontradingllc.com/quiz/gold-market-fundamentals-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Gold Market Fundamentals"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How much does mining typically add to the existing gold supply annually?",
+              "text": "How much does mining typically add to the existing gold supply annually?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1.5%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Mining adds only approximately 1.5% to existing gold supply yearly, contributing to gold's scarcity and price sensitivity to demand changes."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "5%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "10%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "15%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What percentage of global gold production is typically used for jewelry?",
+              "text": "What percentage of global gold production is typically used for jewelry?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "49%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Approximately 49% of global gold production is used for jewelry, making it the largest single source of gold demand."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "28%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "35%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "65%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which exchange primarily drives gold price discovery?",
+              "text": "Which exchange primarily drives gold price discovery?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "COMEX (New York Mercantile Exchange)",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "COMEX (New York Mercantile Exchange) primarily drives gold price discovery, setting the global benchmark for gold pricing."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "London Stock Exchange"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Tokyo Commodity Exchange"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Shanghai Gold Exchange"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Gold has counterparty risk like stocks and bonds.",
+              "text": "True or False: Gold has counterparty risk like stocks and bonds.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "False",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Physical gold has no counterparty risk - its value is not dependent on any bank, government, or institution's solvency or performance."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "True"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the approximate breakdown of global gold demand by investment purposes?",
+              "text": "What is the approximate breakdown of global gold demand by investment purposes?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "28%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Investment demand accounts for approximately 28% of global gold demand, making it the second-largest demand category after jewelry."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "15%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "35%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "49%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which characteristic makes gold unique compared to other commodities?",
+              "text": "Which characteristic makes gold unique compared to other commodities?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Most gold ever mined still exists today",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Unlike consumable commodities, most gold ever mined still exists today due to its indestructible nature and permanent value."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "It can be consumed like oil or wheat"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "It requires regular maintenance"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "It has a short shelf life"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What percentage of global gold demand comes from central banks?",
+              "text": "What percentage of global gold demand comes from central banks?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "15%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Central banks account for approximately 15% of global gold demand, representing institutional recognition of gold's monetary value."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "8%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "28%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "35%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Gold trading occurs 24 hours a day across global markets.",
+              "text": "True or False: Gold trading occurs 24 hours a day across global markets.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold trading occurs continuously across global markets 24 hours a day, providing constant price discovery and liquidity."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What makes gold mining increasingly challenging over time?",
+              "text": "What makes gold mining increasingly challenging over time?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Easily accessible deposits have already been mined",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold mining becomes increasingly challenging because easily accessible deposits have already been mined, making extraction more difficult and expensive."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Gold becomes less valuable over time"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Technology is becoming less advanced"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Demand for gold is decreasing"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What percentage of global gold demand comes from technology and industrial applications?",
+              "text": "What percentage of global gold demand comes from technology and industrial applications?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "8%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Technology and industrial applications account for approximately 8% of global gold demand, providing fundamental demand support beyond monetary uses."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "15%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "28%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "35%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

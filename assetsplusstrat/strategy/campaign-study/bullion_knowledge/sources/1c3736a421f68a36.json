@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "1c3736a421f68a36",
+    "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2011/",
+    "title": "Silver Price in 2011 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:20.293456+00:00",
+    "status": "fetched",
+    "bytes": 19748,
+    "text_characters": 1373,
+    "sha256_html": "8f8e612cd2c02e1f65a705a024c5b900801238e4ffc864e879bd968e3b5116d7",
+    "file": "sources/1c3736a421f68a36.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Silver in 2011: 12 monthly observations, 2011-01-31 to 2011-12-30. Sampled high $48.70, low $27.75; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/silver-price-in-2011/",
+  "text": "Silver Price in 2011\nAmong 12 monthly observations available for 2011, the LBMA silver price rose 1.5% between 2011-01-31 ($27.75) and 2011-12-30 ($28.18). The highest sampled price was $48.70 in April and the lowest was $27.75 in January. The mean of these observations was $35.56. This is a first-to-last observation change, not a calendar-year return.\nWhat happened in 2011:\nGold set what was then an all-time high near $1,900 amid the European debt crisis and the first-ever downgrade of the US credit rating.\n2011 silver price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$27.75\n(2011-01-31)\n$48.70\n(April)\n$27.75\n(January)\n$28.18\n(2011-12-30)\n$35.56\nGBP\n£17.46\n(2011-01-31)\n£29.26\n(April)\n£17.46\n(January)\n£18.24\n(2011-12-30)\n£22.09\nEUR\n€20.29\n(2011-01-31)\n€32.88\n(April)\n€20.29\n(January)\n€21.79\n(2011-12-30)\n€25.32\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live silver price on the\nBullion Trading LLC spot dashboard\n, or\nshop silver bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Silver price history",
+              "item": "https://learn.bulliontradingllc.com/charts/silver-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "2011"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Silver price in 2011 — LBMA monthly fix",
+          "description": "Silver in 2011: 12 monthly observations, 2011-01-31 to 2011-12-30. Sampled high $48.70, low $27.75; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2011/",
+          "temporalCoverage": "2011-01-31/2011-12-30",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

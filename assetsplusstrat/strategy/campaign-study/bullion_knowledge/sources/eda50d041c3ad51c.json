@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "id": "eda50d041c3ad51c",
+    "url": "https://learn.bulliontradingllc.com/tools/weight-converter/",
+    "title": "Weight converter | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:46.888651+00:00",
+    "status": "fetched",
+    "bytes": 23387,
+    "text_characters": 2478,
+    "sha256_html": "5d637914e2b7317b5594c22f6b3a0b59135a9bfe50d8c8517fd0ec4f43e78d4b",
+    "file": "sources/eda50d041c3ad51c.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Convert between troy ounces, grams, kilograms, pennyweight, standard ounces, and pounds — with a quick reference for how many troy ounces are in a kilo or a pound.",
+  "canonical": "https://learn.bulliontradingllc.com/tools/weight-converter/",
+  "text": "Weight converter\nConvert between troy ounces, grams, kilograms, pennyweight, standard ounces, and pounds — with a quick reference for how many troy ounces are in a kilo or a pound.\nAmount\nFrom unit\nTroy ounces\nGrams\nKilograms\nPennyweight\nStandard ounces\nPounds\nUnit\nValue\nNotes\nGrams\ng\n31.103\nUsed internationally for small bars.\nKilograms\nkg\n0.0311\n1 kg ≈ 32.15 troy ounces.\nPennyweight\ndwt\n20.000\nUsed in jewelry. 1/20 of a troy oz.\nStandard ounces\noz\n1.097\nThe \"kitchen scale\" ounce — lighter than troy.\nPounds\nlb\n0.0686\nStandard US pound. 1 lb ≈ 14.58 troy oz.\nCommon precious-metal conversions\nThe quick answers people look up most — every value is for pure metal weight.\nFrom\nEquals\n1 troy ounce (ozt)\n31.1035 g · 1.0971 standard oz · 20 pennyweight (dwt)\n1 kilogram\n32.1507 troy ounces\n1 troy ounce → pounds\n0.06857 lb\n(standard/avoirdupois)\n1 standard pound (lb)\n14.5833 troy ounces\n1 troy pound\n12 troy ounces (373.24 g) — not the same as a standard pound\n1 gram\n0.032151 troy ounces\n1 pennyweight (dwt)\n0.05 troy oz · 1.5552 g\n1 tola\n0.375 troy oz · 11.664 g\nWhy troy ounces vs standard ounces matter\nA \"troy ounce\" is the standard weight in precious metals —\n31.10 grams\n.\nA standard (avoirdupois) ounce — the one on your kitchen scale — is\n28.35 grams\n. Treating them as equal gives a ~10% error.\nIf you buy \"an ounce of silver\" you're buying a troy ounce. If a coin's\ncatalog says\n\"weighs 1 oz\"\n, in this context it means 1 troy ounce.\nAlways double-check when the seller is unfamiliar with bullion terminology.\nFrequently asked\nHow many troy ounces are in a kilo?\nA kilogram holds 32.1507 troy ounces (1,000 g ÷ 31.1035 g per troy ounce). A standard 1 kg gold or silver bar therefore contains about 32.15 troy oz of metal.\nHow do you convert troy ounces to pounds?\nOne troy ounce equals 0.06857 of a standard (avoirdupois) pound, so a standard pound contains 14.583 troy ounces. Note a troy pound is different — it is only 12 troy ounces (373.24 g).\nHow many grams are in a troy ounce?\nOne troy ounce is exactly 31.1034768 grams — about 10% heavier than the 28.35 g standard ounce on a kitchen scale.\nIs a troy ounce the same as a regular ounce?\nNo. A troy ounce (31.10 g) is roughly 10% heavier than a standard/avoirdupois ounce (28.35 g). Precious metals are always priced per troy ounce.\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Tools",
+              "item": "https://learn.bulliontradingllc.com/tools/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Weight converter"
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://learn.bulliontradingllc.com/tools/weight-converter/#webpage",
+          "url": "https://learn.bulliontradingllc.com/tools/weight-converter/",
+          "name": "Weight converter",
+          "description": "Convert between troy ounces, grams, kilograms, pennyweight, standard ounces, and pounds — with a quick reference for how many troy ounces are in a kilo or a pound.",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "isAccessibleForFree": true,
+          "about": {
+            "@type": "Thing",
+            "name": "Precious metals weight units"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How many troy ounces are in a kilo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A kilogram holds 32.1507 troy ounces (1,000 g ÷ 31.1035 g per troy ounce). A standard 1 kg gold or silver bar therefore contains about 32.15 troy oz of metal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do you convert troy ounces to pounds?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "One troy ounce equals 0.06857 of a standard (avoirdupois) pound, so a standard pound contains 14.583 troy ounces. Note a troy pound is different — it is only 12 troy ounces (373.24 g)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many grams are in a troy ounce?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "One troy ounce is exactly 31.1034768 grams — about 10% heavier than the 28.35 g standard ounce on a kitchen scale."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a troy ounce the same as a regular ounce?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. A troy ounce (31.10 g) is roughly 10% heavier than a standard/avoirdupois ounce (28.35 g). Precious metals are always priced per troy ounce."
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

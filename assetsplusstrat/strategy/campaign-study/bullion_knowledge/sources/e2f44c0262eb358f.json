@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "id": "e2f44c0262eb358f",
+    "url": "https://learn.bulliontradingllc.com/quiz/why-physical-gold/",
+    "title": "Quick check: Why physical gold? | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:45.944003+00:00",
+    "status": "fetched",
+    "bytes": 23947,
+    "text_characters": 315,
+    "sha256_html": "4f12e4b20bf04be537add0d5f1f0a2836ca79a8fdfff9b04f11e19239f9acfd3",
+    "file": "sources/e2f44c0262eb358f.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Five questions covering the three parts of Topic 1.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/why-physical-gold/",
+  "text": "Quick check: Why physical gold?\nFive questions covering the three parts of Topic 1.\nWhich property below is unique to physical gold compared to stocks, bonds, or bank deposits?\nA\nIt pays a yield\nB\nIt is no one else's liability\nC\nIt is FDIC-insured\nD\nIt can be redeemed at face value\n←\nBack to Why Buy Physical Gold?",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "New to Precious Metals",
+              "item": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Why Buy Physical Gold?",
+              "item": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/01-why-physical-gold/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Quick check: Why physical gold?"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Quick check: Why physical gold?",
+          "description": "Five questions covering the three parts of Topic 1.",
+          "url": "https://learn.bulliontradingllc.com/quiz/why-physical-gold/",
+          "about": {
+            "@type": "Thing",
+            "name": "Why Buy Physical Gold?"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which property below is unique to physical gold compared to stocks, bonds, or bank deposits?",
+              "text": "Which property below is unique to physical gold compared to stocks, bonds, or bank deposits?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is no one else's liability",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Stocks rely on the issuing company, bonds on the issuer's solvency, and bank deposits on the bank. Physical gold doesn't depend on any counterparty."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "It pays a yield"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "It is FDIC-insured"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "It can be redeemed at face value"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Roughly how much of its purchasing power has the U.S. dollar lost since the Federal Reserve was founded in 1913?",
+              "text": "Roughly how much of its purchasing power has the U.S. dollar lost since the Federal Reserve was founded in 1913?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "About 96%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Most measures put the cumulative loss in dollar purchasing power since 1913 at roughly 96%. Gold's purchasing power over the same period has held up far better."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "About 30%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "About 60%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "It has gained purchasing power"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "During the 2008 financial crisis, gold moved from roughly $830/oz in late 2008 to a 2011 peak. What was that 2011 peak (approximately)?",
+              "text": "During the 2008 financial crisis, gold moved from roughly $830/oz in late 2008 to a 2011 peak. What was that 2011 peak (approximately)?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "$1,900/oz",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold reached approximately $1,900/oz at its 2011 high — about a 158% gain from the late-2008 low."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "$1,200/oz"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$1,500/oz"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$2,400/oz"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "In 2022, with inflation peaking at 9.1%, what happened to gold?",
+              "text": "In 2022, with inflation peaking at 9.1%, what happened to gold?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gold returned roughly 0% in nominal terms",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "2022 was the year stocks (-19.4%) and bonds (-13%) both lost double digits to inflation. Gold returned ~0% nominal — the boring outcome that proved its diversification value."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Gold dropped sharply (≈ -30%)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold doubled"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold and stocks both rallied together"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "A typical \"balanced\" advisor allocation to precious metals is closest to:",
+              "text": "A typical \"balanced\" advisor allocation to precious metals is closest to:",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "10–20%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "5–10% is the \"conservative\" band, 10–20% is \"balanced\" (the most commonly recommended), and 20–30% is \"protection-focused.\" Above 30% starts trading off too much equity upside for most investors."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "0–2%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "5–10%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "40–50%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

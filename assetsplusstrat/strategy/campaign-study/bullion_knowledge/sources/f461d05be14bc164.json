@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "id": "f461d05be14bc164",
+    "url": "https://bulliontradingllc.com/blog/new-jerseys-vetoed-bill-on-tax-exemption/",
+    "title": "New Jersey Vetoes Bullion and Coin Tax Exemption Bill",
+    "retrieved_at": "2026-10-12T22:11:00.138849+00:00",
+    "status": "fetched",
+    "bytes": 97049,
+    "text_characters": 4033,
+    "sha256_html": "bb3c6cf34b2d524b99cd80a61fcf838cdb723ad8a9e934021cc960bb6f75db59",
+    "file": "sources/f461d05be14bc164.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Explains New Jersey bill A5294 to exempt bullion and investment coins, its legislative path, fiscal concerns, and reasons behind the veto.",
+  "canonical": "https://bulliontradingllc.com/blog/new-jerseys-vetoed-bill-on-tax-exemption/",
+  "text": "New Jersey, United States\n– The State of New Jersey recently witnessed a significant legislative development that could have transformed the taxation landscape for precious metals. However, this initiative met with a veto, leaving the bullion market in its existing state of taxation. The bill, introduced by Assembly members Louis D. Greenwald, Lisa Swain, and Kevin J. Rooney, aimed to exempt sales of investment metal bullion and investment coins from the state’s sales and use tax.\nBackground: New Jersey’s Sales Tax on Precious Metals:\nIn a bid to revolutionize the taxation of precious metals, New Jersey legislators recently put forth\nBill A5294\n, a proposal that promised to exempt investment metal bullion and coins from state sales and use tax. However, this ambitious bill, despite its promising journey through the legislature, ultimately faced a pocket veto, leaving the state’s tax landscape unchanged. Traditionally, New Jersey has imposed a 6.625% sales tax on all precious metals, including bullion, numismatic coins, medallions, and other collectibles. This rate is notably high, especially considering there are no additional local taxes applied.\nTimeline of Bill A5294:\nMarch 16, 2023\n: Bill A5294 is introduced by Assemblyman Louis D. Greenwald, Assemblywoman Lisa Swain, and Assemblyman Kevin J. Rooney, alongside co-sponsors Assemblymen Giblin and Sauickie. This marks the beginning of a legislative effort to alter the taxation of precious metals in New Jersey\nJune 20, 2023\n: The bill is transferred to the Assembly Appropriations Committee.\nJune 22, 2023\n: Reported out of the Assembly Committee, it proceeds to the second reading.\nJune 30, 2023\n: The Assembly passes the bill with a unanimous vote (74-0-0).\nNovember 27, 2023\n: The bill is received in the Senate and referred to the Senate Budget and Appropriations Committee.\nDecember 21, 2023\n: The Senate Committee reports the bill with amendments, moving it to the second reading.\nJanuary 8, 2024\n: The bill is substituted for S1825 (1R) and passes the Senate unanimously (36-0).\nJanuary 8, 2024\n: The Assembly concurs with the Senate’s amendments, passing the bill (71-0-0).\nJanuary 16, 2024\n: The bill faces a pocket veto from the Governor, marking its end.\nOffice of Legislative Services’ Fiscal Analysis:\nDespite\nthe strong legislative support indicated\nby unanimous or near-unanimous votes in favor of the bill, it was ultimately vetoed. The Office of Legislative Services\nestimated an annual revenue loss\nfor the state between $4.8 million and $7 million due to the proposed tax exemption. This estimation was based on New Jersey’s proportional share of the United States’ total personal income, standing at 3.3% in 2022. Despite the potential to attract more bullion and coin sales to New Jersey, the uncertainty surrounding its impact on state revenues played a crucial role in the bill’s fate.\nThe Implications of the Veto:\nThe pocket veto of Bill A5294 by the Governor signifies a halt to what could have been a significant shift in New Jersey’s tax policy. Investors and collectors in the state, anticipating a more favorable tax environment, must now continue to navigate the existing 6.625% sales tax on precious metals. This decision underscores the complexity involved in balancing state revenue needs with the desire to create an investment-friendly environment.\nConclusion:\nBill A5294’s journey from its introduction to its ultimate veto represents a pivotal moment in New Jersey’s legislative history concerning the taxation of precious metals. While it promised to align the state with others that have fostered more investment-friendly policies, fiscal concerns ultimately steered the outcome. As the market and legislators continue to grapple with these complex issues, the future of precious metal taxation in New Jersey remains a topic of keen interest and debate.\nbulliontrading\nView all posts\nPrevious Post\nGold Investment Guide 2024: Choosing the Right Gold Bar for Your Budget\nNext Post\nTop 10 Silver Bars to Invest Into 2024",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2024/01/newjersey-sales-tax-compress.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2024/01/newjersey-sales-tax-compress.webp",
+          "width": "1200",
+          "height": "900",
+          "caption": "New Jersey Sales Tax",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/new-jerseys-vetoed-bill-on-tax-exemption/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/news/",
+                "name": "news"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/new-jerseys-vetoed-bill-on-tax-exemption/",
+                "name": "New Jersey&#8217;s Vetoed Bill on Tax Exemption for Bullion and Investment Coins"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/new-jerseys-vetoed-bill-on-tax-exemption/#webpage",
+          "url": "https://bulliontradingllc.com/blog/new-jerseys-vetoed-bill-on-tax-exemption/",
+          "name": "New Jersey Vetoes Bullion and Coin Tax Exemption Bill",
+          "datePublished": "2024-01-22T11:57:07+00:00",
+          "dateModified": "2024-01-22T11:57:07+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2024/01/newjersey-sales-tax-compress.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/new-jerseys-vetoed-bill-on-tax-exemption/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "New Jersey Vetoes Bullion and Coin Tax Exemption Bill",
+          "keywords": "new jersey tax exemption, tax exemption, new jersey sales tax",
+          "datePublished": "2024-01-22T11:57:07+00:00",
+          "dateModified": "2024-01-22T11:57:07+00:00",
+          "articleSection": "news",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Explains New Jersey bill A5294 to exempt bullion and investment coins, its legislative path, fiscal concerns, and reasons behind the veto.",
+          "name": "New Jersey Vetoes Bullion and Coin Tax Exemption Bill",
+          "@id": "https://bulliontradingllc.com/blog/new-jerseys-vetoed-bill-on-tax-exemption/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/new-jerseys-vetoed-bill-on-tax-exemption/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2024/01/newjersey-sales-tax-compress.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/new-jerseys-vetoed-bill-on-tax-exemption/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/news/",
+    "https://bulliontradingllc.com/blog/gold-investment-guide-2024/",
+    "https://bulliontradingllc.com/blog/new-jerseys-vetoed-bill-on-tax-exemption/",
+    "https://bulliontradingllc.com/blog/top-10-silver-bars-to-invest-into-2024/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://bulliontradingllc.com/wp-content/uploads/2024/01/5294_E1.HTM",
+    "https://bulliontradingllc.com/wp-content/uploads/2024/01/A5294",
+    "https://bulliontradingllc.com/wp-content/uploads/2024/01/bill-text?f=A5500&n=5294_I1",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2024/01/newjersey-sales-tax-compress.webp",
+      "alt": "New Jersey Sales Tax"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

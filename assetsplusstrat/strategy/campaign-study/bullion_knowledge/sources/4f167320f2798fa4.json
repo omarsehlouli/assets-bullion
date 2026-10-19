@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "id": "4f167320f2798fa4",
+    "url": "https://learn.bulliontradingllc.com/guides/questions/22-what-is-a-troy-ounce/",
+    "title": "What is a Troy Ounce? | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:35.493575+00:00",
+    "status": "fetched",
+    "bytes": 21217,
+    "text_characters": 4494,
+    "sha256_html": "d4506356c4157a32bdc6bbd62965e312c87de2f7f47b9152f9ba1b182a4a1689",
+    "file": "sources/4f167320f2798fa4.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The standard weight unit for gold, silver, platinum, and palladium, equal to 31.1034768 grams and about 10% heavier than a regular ounce.",
+  "canonical": "https://learn.bulliontradingllc.com/guides/questions/22-what-is-a-troy-ounce/",
+  "text": "beginner\nBy the\nBullion Trading LLC editorial team\nWhat is a Troy Ounce?\nThe standard weight unit for gold, silver, platinum, and palladium, equal to 31.1034768 grams and about 10% heavier than a regular ounce.\nA troy ounce is the standard unit of measurement used for weighing precious metals like gold, silver, platinum, and palladium. It differs from the standard avoirdupois ounce used in everyday measurements in the United States, and confusing the two can lead to meaningful errors in valuation.\nTroy Ounce vs. Standard Ounce\nA troy ounce equals\n31.1034768 grams\n, which is approximately 10% heavier than a standard (avoirdupois) ounce of\n28.3495 grams\n. This distinction is crucial when dealing with precious metals: a “one-ounce” gold coin weighs noticeably more than a one-ounce package of food, and using the wrong figure in a calculation will misprice the metal by roughly 10%.\nUnit\nGrams\nUse\nTroy ounce\n31.1034768\nPrecious metals\nAvoirdupois ounce\n28.3495\nEveryday goods, food\nHistory of the Troy Ounce\nThe troy weight system originated in Troyes, France, during the Middle Ages and has been used to weigh precious metals since at least the 1400s. England adopted troy weight for coinage in the 1500s, and the U.S. Mint officially adopted it in 1828. Its persistence reflects how international bullion markets value continuity: changing the unit would require re-pricing centuries of contracts, coinage, and reserves.\nTroy Ounce in Modern Markets\nToday, the troy ounce remains the standard unit for precious metals trading worldwide. When you see gold quoted at a “per ounce” spot price on financial markets, that always refers to troy ounces, not standard ounces. The London Bullion Market Association (LBMA), COMEX futures, and every major refiner and mint quote and stamp their products in troy ounces or fractions thereof (1/10, 1/4, 1/2 oz).\n📊\nSee Current Prices\nOur\nmetal price chart\nshows current precious metal prices per troy ounce so you can see live quotes in the same unit dealers use.\nOther Units in the Troy System\nTroy weight has its own internal hierarchy, which differs from the familiar avoirdupois system:\n1 troy pound = 12 troy ounces\n(unlike the standard pound, which contains 16 ounces)\n1 troy ounce = 20 pennyweights\n(abbreviated “dwt”)\n1 pennyweight = 24 grains\nBecause the troy pound has only 12 ounces, it is actually\nlighter\nthan a standard pound (about 373 grams vs. 454 grams), even though each troy ounce is heavier than each standard ounce. This counterintuitive result is a frequent source of confusion for new investors.\nCommon Conversions\nA few conversions worth memorizing if you buy or sell physical metal regularly:\n1 troy ounce = 31.1034768 grams\n1 kilogram = 32.1507 troy ounces\n1 troy ounce = 1.09714 standard (avoirdupois) ounces\n1 standard ounce = 0.91146 troy ounces\nThese ratios matter when comparing scrap-gold offers (often quoted in pennyweights or grams), kilo bars (quoted in kilograms but sometimes stamped with troy-ounce equivalents), and imported coins that may list weights in grams on packaging.\nWhy the Difference Matters in Practice\nThe 10% gap between troy and avoirdupois ounces shows up in three common scenarios:\nComparing dealer quotes.\nA price “per gram” and a price “per ounce” must both be converted to the same unit before comparison. Dealers usually quote in troy ounces; jewelers sometimes quote in pennyweights or grams.\nVerifying coin weights.\nA genuine American Gold Eagle contains exactly one troy ounce of gold (plus alloy bringing total weight to 1.0909 troy ounces). A counterfeit weighing 28.35 grams instead of 31.10 grams is short by a full standard ounce of metal.\nCalculating returns.\nSpot-price calculators and tax basis records assume troy ounces. Entering a standard-ounce figure inflates the apparent gain or loss by roughly 10%.\nTakeaway\nThe troy ounce is the universal language of the bullion market: every spot price, dealer quote, and coin specification you encounter is denominated in it. Internalizing the 31.1-gram figure, and remembering that a troy pound has 12 ounces rather than 16, removes most of the unit-conversion friction new investors run into. For a broader primer on putting those numbers to work, see\nInvesting In Precious Metals\n.\nRelated on bulliontradingllc.com\nInvesting In Precious Metals ↗\n· blog\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Guides",
+              "item": "https://learn.bulliontradingllc.com/guides/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Questions & Answers",
+              "item": "https://learn.bulliontradingllc.com/guides/questions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "What is a Troy Ounce?"
+            }
+          ]
+        },
+        {
+          "@type": "Article",
+          "headline": "What is a Troy Ounce?",
+          "description": "The standard weight unit for gold, silver, platinum, and palladium, equal to 31.1034768 grams and about 10% heavier than a regular ounce.",
+          "url": "https://learn.bulliontradingllc.com/guides/questions/22-what-is-a-troy-ounce/",
+          "author": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/blog/investing-in-precious-metals/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

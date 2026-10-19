@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "id": "08317c32f2248cbd",
+    "url": "https://learn.bulliontradingllc.com/coin-values/dollar-coins/",
+    "title": "Dollar Coins Worth Money — Silver Content & Key Dates",
+    "retrieved_at": "2026-10-12T22:13:25.634348+00:00",
+    "status": "fetched",
+    "bytes": 14460,
+    "text_characters": 1155,
+    "sha256_html": "3356d1841cc8f7c6e6c0ce5850cc15aec67e1160051122744a3acd48acb4ec01",
+    "file": "sources/08317c32f2248cbd.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Modern dollar coins — Eisenhower, Susan B. Anthony, Sacagawea and Presidential dollars — are generally worth their face value, with no precious-metal conte…",
+  "canonical": "https://learn.bulliontradingllc.com/coin-values/dollar-coins/",
+  "text": "Dollar Coins Worth Money\nModern dollar coins — Eisenhower, Susan B. Anthony, Sacagawea and Presidential dollars — are generally worth their face value, with no precious-metal content. The exceptions are the 40% silver collector Eisenhower dollars and a few notable errors.\nDollar Coin composition by year\nYears\nComposition\nSilver content\n1971–1978 (Eisenhower, circ.)\nCopper-nickel clad\n—\n1971–1976 (Eisenhower, collector)\n40% silver clad\n0.3162 oz\n1979–1999 (Susan B. Anthony)\nCopper-nickel clad\n—\n2000–present (Sacagawea/Presidential)\nManganese-brass clad\n—\nWhich dollar coins are worth money\nCirculating modern dollar coins are worth $1 (face).\n40% silver collector Eisenhower dollars (1971–1976) carry a silver melt value.\nErrors are the prize: the 2000 Sacagawea \"Cheerios\" dollar and Sacagawea/Quarter \"mule\" are major rarities.\nSusan B. Anthony \"wide rim\" (near date) 1979-P trades at a premium.\nHave dollar coins to sell?\nWe buy gold, silver and coins in person at our NYC Diamond District counter, or by insured mail.\nGet a free quote →\nLooking to buy?\nShop gold & silver bullion →\nMore:\nall coin values\n·\nsilver price history\n·\ngold/silver ratio",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Coin Values",
+              "item": "https://learn.bulliontradingllc.com/coin-values/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Dollar Coins"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Dollar Coins — melt value, silver content & key dates",
+          "description": "Modern dollar coins — Eisenhower, Susan B. Anthony, Sacagawea and Presidential dollars — are generally worth their face value, with no precious-metal conte…",
+          "url": "https://learn.bulliontradingllc.com/coin-values/dollar-coins/",
+          "creator": {
+            "@type": "Organization",
+            "name": "United States Mint"
+          },
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

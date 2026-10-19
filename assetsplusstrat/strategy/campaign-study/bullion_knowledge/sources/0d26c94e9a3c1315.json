@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "id": "0d26c94e9a3c1315",
+    "url": "https://bulliontradingllc.com/blog/precious-metals-drop-1-5-billion-in-value/",
+    "title": "Precious Metals Drop $1.5 Billion In Value - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:03.198134+00:00",
+    "status": "fetched",
+    "bytes": 95343,
+    "text_characters": 3494,
+    "sha256_html": "1bc35f48948d9c9f6a2fed852d76393c93a3c1ef1b96271f71331daab9e047a6",
+    "file": "sources/0d26c94e9a3c1315.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Still, the Federal Reserve appears to be closer than ever before to raising interest rates in an attempt to keep the market moving upwards. Given that the",
+  "canonical": "https://bulliontradingllc.com/blog/precious-metals-drop-1-5-billion-in-value/",
+  "text": "Still, the Federal Reserve appears to be closer than ever before to raising interest rates in an attempt to keep the market moving upwards. Given that the increasing rates attached to gold have actually cut the general desire to acquire gold. Combined with the truth that most investors are just going to make money on cost gains, the gold market is facing back to back slumps for the very first time because 1998.\nAll of the major valuable metals, platinum, gold, and silver, have fallen in value. This has actually prompted a five-year-high cut in the overall need, which has actually secured 1.7 billion dollars in worth.\nBoth gold and silver have actually taken extreme hits, even as the Bloomberg Dollar Spot Index climbed up as a result of the most current midterm elections in the U.S. and Japanese company regulators continue to think that the government will take serious actions to avoid deflation.\nGold: Rising And Falling\nWith the current round of elections leaving the Republicans in control of both your house and Senate, numerous investors believe that the marketplaces will agree with for the U.S. dollar in coming months, but will not agree with for gold.\nTrade Volume\nBecause the rising rates attached to gold have actually cut the overall desire to purchase gold. Combined with the reality that many financiers are only going to make cash on cost gains, the gold market is dealing with back to back downturns for the very first time because 1998.\nWith oil rates dropping and the strength of the dollar ending up being more obvious, and a recovering job market, gold is being seen as less than a necessary hedge.\nMounting Pressure\nAccording to the information that Bloomberg has actually shown, the past 100 days has revealed that trading has struck rates that are practically double of the previous hundred days. All of this furious trading has led to intriguing 30-week connection coefficients for gold at 0.87, platinum at 0.63, and palladium at 0.28.\nThe holdings huge drops in recent days have sent out properties to their least expensive rate because the fantastic market collapse in 2008. Overall, the holdings have slipped to $76 Billion dollars from $97.4 Billion from March.\nIn addition, silver futures are down as well, by 3.2 percent, to $15.439, with volume suffering. Platinum and palladium have also fallen by 1.2 percent and 4.1 percent, respectively.\nFive out of the nineteen mining companies that are tracked by Bloomberg have actually sunk underneath production expenses, while numerous others are within fifty dollars. This was due to unattended gold production costs being permitted to spiral out of control while the gold market was doing well.\nWith a recuperating and extremely mobile economy, precious metals are being put under a lot of pressure. The current cost drop has taken numerous companies by surprise, and has had them sink listed below production costs for the very first time in almost twelve years. 5 out of the nineteen mining business that are tracked by Bloomberg have actually sunk underneath production costs, while lots of others are within fifty dollars. This was due to uncontrolled gold production costs being permitted to spiral out of control while the gold market was succeeding. Now, the high costs have overtaken the list prices, leaving small revenues and high costs in their wake.\nbulliontrading\nView all posts\nPrevious Post\nAustrian 100 Coronas In New York\nNext Post\nGold Mines Losing Money After Latest Gold Price Stumble",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/precious-metals-drop-1-5-billion-in-value/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+                "name": "Gold Market &amp; Economics"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/precious-metals-drop-1-5-billion-in-value/",
+                "name": "Precious Metals Drop $1.5 Billion In Value"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/precious-metals-drop-1-5-billion-in-value/#webpage",
+          "url": "https://bulliontradingllc.com/blog/precious-metals-drop-1-5-billion-in-value/",
+          "name": "Precious Metals Drop $1.5 Billion In Value - Bullion Trading LLC",
+          "datePublished": "2014-11-18T15:09:53+00:00",
+          "dateModified": "2014-11-18T15:09:53+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/precious-metals-drop-1-5-billion-in-value/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Precious Metals Drop $1.5 Billion In Value - Bullion Trading LLC",
+          "datePublished": "2014-11-18T15:09:53+00:00",
+          "dateModified": "2014-11-18T15:09:53+00:00",
+          "articleSection": "Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Still, the Federal Reserve appears to be closer than ever before to raising interest rates in an attempt to keep the market moving upwards. Given that the",
+          "name": "Precious Metals Drop $1.5 Billion In Value - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/precious-metals-drop-1-5-billion-in-value/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/precious-metals-drop-1-5-billion-in-value/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/precious-metals-drop-1-5-billion-in-value/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/austrian-100-coronas-in-new-york/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/gold-mines-losing-money-after-latest-gold-price-stumble/",
+    "https://bulliontradingllc.com/blog/precious-metals-drop-1-5-billion-in-value/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

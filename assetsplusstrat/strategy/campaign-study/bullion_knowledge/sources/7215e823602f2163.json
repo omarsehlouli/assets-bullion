@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "id": "7215e823602f2163",
+    "url": "https://learn.bulliontradingllc.com/guides/questions/02-how-gold-prices-determined/",
+    "title": "How are Gold Prices Determined? | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:33.102426+00:00",
+    "status": "fetched",
+    "bytes": 23812,
+    "text_characters": 5982,
+    "sha256_html": "57dad81cd704f40b5b934811551e0f07c270c8d18e7eacf962ff2ac67423d650",
+    "file": "sources/7215e823602f2163.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "A look at the benchmarks, market participants, and macro factors that set the global price of gold each trading day.",
+  "canonical": "https://learn.bulliontradingllc.com/guides/questions/02-how-gold-prices-determined/",
+  "text": "beginner\nBy the\nBullion Trading LLC editorial team\nHow are Gold Prices Determined?\nA look at the benchmarks, market participants, and macro factors that set the global price of gold each trading day.\nGold prices are set by a continuous interplay of supply and demand, market sentiment, macroeconomic conditions, and trading activity across overlapping global markets. Understanding the mechanisms helps you read price moves rather than react to them.\nPrimary Price Discovery Mechanisms\nLondon Bullion Market Association (LBMA)\nThe LBMA administers the global benchmark for gold through the London Gold Price auction, which runs twice each business day:\nMorning auction:\n10:30 AM London time\nAfternoon auction:\n3:00 PM London time\nPrices are derived from actual buy and sell orders submitted by direct participants\nThe resulting fix is the reference price used to settle most physical and OTC gold transactions worldwide\nCOMEX Gold Futures\nThe COMEX division of CME Group in New York is the dominant venue for gold futures trading and a major driver of intraday price discovery:\nContinuous electronic trading provides near round-the-clock price updates\nHigh volume and tight bid-ask spreads make futures prices closely track spot\nProducers, refiners, and funds use futures to hedge or take directional positions\n📊\nVisualize Price Trends\nLong-running price charts are useful context. Tools like the\nreturn calculator\nlet you see how gold has moved across different holding periods.\nKey Factors Affecting Gold Prices\nEconomic Indicators\nInflation:\nPersistent inflation tends to support gold, which is widely held as a hedge against currency debasement.\nReal interest rates:\nGold does not pay a coupon, so it is most attractive when real yields (nominal rates minus inflation) are low or negative.\nEconomic uncertainty:\nRecessions, banking stress, and credit shocks generally increase safe-haven demand.\nCurrency strength:\nGold is priced in U.S. dollars, so a weaker dollar typically means a higher gold price, and vice versa.\n💡\nAnalyze Inflation Impact\nInflation does not move gold one-for-one. The\ninflation vs gold tool\nlets you compare gold’s performance across different inflation regimes, including the 1970s, the 2008 cycle, and the post-2020 period.\nSupply and Demand\nMine production:\nAnnual mined supply changes slowly, so production surprises are rare but cumulative depletion matters over decades.\nRecycling:\nScrap and recycled gold flows respond quickly to price, dampening rallies and softening declines.\nCentral bank activity:\nNet buying by central banks, especially in emerging markets, has been a significant driver of demand in recent years.\nJewelry demand:\nIndia and China together account for a large share of physical consumption and are price-sensitive.\nInvestment demand:\nETFs, allocated accounts, bars, and coins move with sentiment and can swing meaningfully from year to year.\nGeopolitical Events\nPolitical instability and conflict raise safe-haven bids.\nSanctions and reserve-currency concerns push some central banks to diversify into gold.\nTrade tensions and capital controls feed cross-border physical flows.\nMarket Participants\nCommercial and Bullion Banks\nMajor banks act as market makers and clearers, providing liquidity through customer transactions, OTC trading, and inventory financing. Their activity in the loco London market underpins much of the global price.\nInvestment Funds\nGold-backed ETFs that hold allocated bullion against shares\nHedge funds and CTAs that trade futures and options\nPension funds and institutional allocators using gold for portfolio diversification\nCentral Banks\nCentral banks hold gold as part of their foreign reserves and have been net buyers in aggregate for over a decade. Reserve policy decisions, repatriation moves, and large purchases all influence sentiment as well as physical flow.\nTrading Sessions and Price Movements\nGold trades effectively around the clock as activity rolls from one region to the next:\nAsian session:\nStrong influence from Chinese and Indian physical markets, plus the Shanghai Gold Exchange benchmark.\nEuropean session:\nThe London open brings the deepest OTC liquidity and the twice-daily LBMA auctions.\nAmerican session:\nCOMEX futures volume peaks alongside U.S. economic releases and Fed communications.\nTechnology and Modern Trading\nModern price discovery is overwhelmingly electronic:\nElectronic trading platforms and central limit order books\nAlgorithmic and high-frequency trading that arbitrages between futures, spot, and ETFs\nReal-time data feeds distributed to dealers, refiners, and retail platforms\nMobile and API access that lets non-institutional participants react in seconds\nUnderstanding Price Volatility\nShort-term gold price volatility is driven by:\nShifts in macro expectations, especially around inflation and rate policy\nScheduled data releases such as CPI, payrolls, and FOMC decisions\nCentral bank statements and currency interventions\nGeopolitical shocks\nLarge institutional rebalancing and futures positioning\nThese factors interact, which is why two seemingly similar setups can produce very different price reactions. Watching positioning data (such as the CFTC Commitments of Traders report) alongside ETF flows often gives a clearer picture than any single indicator.\nUnderstanding how the benchmark is set, who trades it, and what moves it makes gold’s behavior far easier to interpret. For a sense of how these forces have played out across real market cycles, the linked pieces on silver demand in 2018 and during periods of low prices offer useful parallels in the broader precious metals complex.\nRelated on bulliontradingllc.com\nLow Silver Prices Sends Global Market Into Coin And Bar Purchases ↗\n· blog\nThese Factors Will Support Silver Prices In 2018 Silver Institute ↗\n· blog\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Guides",
+              "item": "https://learn.bulliontradingllc.com/guides/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Questions & Answers",
+              "item": "https://learn.bulliontradingllc.com/guides/questions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "How are Gold Prices Determined?"
+            }
+          ]
+        },
+        {
+          "@type": "Article",
+          "headline": "How are Gold Prices Determined?",
+          "description": "A look at the benchmarks, market participants, and macro factors that set the global price of gold each trading day.",
+          "url": "https://learn.bulliontradingllc.com/guides/questions/02-how-gold-prices-determined/",
+          "author": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/blog/low-silver-prices-sends-global-market-into-coin-and-bar-purchases/",
+    "https://bulliontradingllc.com/blog/these-factors-will-support-silver-prices-in-2018-silver-institute/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

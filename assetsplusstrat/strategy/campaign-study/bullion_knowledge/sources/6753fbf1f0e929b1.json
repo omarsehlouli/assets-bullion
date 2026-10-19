@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "id": "6753fbf1f0e929b1",
+    "url": "https://learn.bulliontradingllc.com/coin-values/1964-nickel/",
+    "title": "1964 Nickel Value — Rarity, Mintage & Key Dates | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:24.666325+00:00",
+    "status": "fetched",
+    "bytes": 13420,
+    "text_characters": 763,
+    "sha256_html": "ecc3d1e08dce329a404842e280db36d3f0dba88f2372e0cb663bbc145bfac147",
+    "file": "sources/6753fbf1f0e929b1.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The 1964 Jefferson nickel was struck in enormous quantities (over 2.8 billion across Philadelphia and Denver) and contains no silver — so a typical 1964 ni…",
+  "canonical": "https://learn.bulliontradingllc.com/coin-values/1964-nickel/",
+  "text": "Common but collected\n1964 Nickel Value\nThe 1964 Jefferson nickel was struck in enormous quantities (over 2.8 billion across Philadelphia and Denver) and contains no silver — so a typical 1964 nickel is worth five cents. Value comes only from high grade or special varieties.\nKey facts\nComposition: 75% copper, 25% nickel — no silver (unlike 1942–1945 war nickels).\nExtremely common; premiums apply to gem full-step (5FS/6FS) examples and proofs.\nSome 1964 nickels were actually struck into 1965–1966 during the coin shortage.\nThinking of selling?\nWe buy coins and bullion in person at our NYC Diamond District counter.\nGet a free quote →\nSee the full\nnickels value guide\n, or\nShop US silver coins →\nMore:\nall coin values\n·\nsilver price history\n·\ngold/silver ratio",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Coin Values",
+              "item": "https://learn.bulliontradingllc.com/coin-values/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Nickels",
+              "item": "https://learn.bulliontradingllc.com/coin-values/nickels/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1964 Nickel"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "1964 Nickel Value",
+          "description": "The 1964 Jefferson nickel was struck in enormous quantities (over 2.8 billion across Philadelphia and Denver) and contains no silver — so a typical 1964 ni…",
+          "url": "https://learn.bulliontradingllc.com/coin-values/1964-nickel/",
+          "creator": {
+            "@type": "Organization",
+            "name": "United States Mint"
+          },
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/",
+    "https://bulliontradingllc.com/silver/silver-coins-for-sale/us-silver-coins/"
+  ],
+  "images": []
+}

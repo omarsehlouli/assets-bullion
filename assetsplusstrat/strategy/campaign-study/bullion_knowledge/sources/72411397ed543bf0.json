@@ -1,0 +1,246 @@
+{
+  "metadata": {
+    "id": "72411397ed543bf0",
+    "url": "https://bulliontradingllc.com/product/sterling-silver-necklace-with-interchangeable-locket/",
+    "title": "Sterling Silver Necklace With interchangeable locket - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:12:47.127361+00:00",
+    "status": "fetched",
+    "bytes": 154902,
+    "text_characters": 1935,
+    "sha256_html": "b9348b9d3b8d2538c514f2742e7769c6e5b4d698b8688758f4f8f2f8c7375def",
+    "file": "sources/72411397ed543bf0.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Elegant sterling silver necklace (91.67%) with interchangeable locket for everyday wear. A gift-ready jewelry piece with secure shipping and fast fulfillment.",
+  "canonical": "https://bulliontradingllc.com/product/sterling-silver-necklace-with-interchangeable-locket/",
+  "text": "Skip to content\nFully insured shipping\nAuthenticity guaranteed\nWe buy it back\nNYC Diamond District counter\nSecure checkout\nSterling Silver Necklace With interchangeable locket\n$\n384.17\nPriced live off the spot market.\nSee price history ↓\nPurity\n91.67\nOut of stock\nAdd to wishlist\nGo to compare\nAdd to compare\nFully insured shipping\nShips in 1–3 business days\nWe buy it back —\nsell to us\nSecure checkout · NYC Diamond District counter\nCategory:\nGifts\nPrice history\nSterling Silver Necklace With interchangeable locket was last recorded at $382.81 on October 8, 2026. Over the past 12 months it is up 0.9% and has ranged between $375.68 and $428.03.\nLast recorded\nLoading…\n1Y\n7D\n1M\n3M\n6M\n1Y\nAll\nAdditional information\nAdditional information\nProduct Type\njewelry\nIs Legal Tender\nNo\nIs Monetized Bullion\nNo\nPurity %\n91.67\nRelated products\nQty\nAdd to cart\n1 Oz Silver Bars\n,\nGifts\n,\nSilver\n,\nSilver Bars\n,\nSilver Coins\nPAMP Suisse Burton Morris Gorilla Shaped 1 oz Colorized Silver Coin\n$\n129.63\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nExclusive!\nQty\nAdd to cart\nGifts\n,\nGovernment Mint Silver Coins\n,\nGovernment Minted Silver Coins\n,\nReligious Collection\n,\nSilver\n,\nSilver Coins\n2024 Australia 1 oz Silver Lunar Colorized Yellow Dragon Capsulated\n$\n89.61\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\nGifts\n,\nSilver\n,\nSilver Coins\n1 oz I Love Barbie Superstar Barbie™ Silver Coin\n$\n127.63\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\n1 Oz Silver Bars\n,\nGifts\n,\nSilver\n,\nSilver Bars\nPAMP 1 oz Silver $2 Burton Morris – Popcorn Coin Pop!\n$\n129.57\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nLogin/Register\nDon't have an account\nRegister\nCustomer Login\nIf you have an account, sign in with your email address.\nContinue with Google\nLoading\nYour Cart\nCart is Empty\nUpdating Cart!\nHowdy,                             Guest\nSign in\nDepartments\nShop\nMints\nCart\nMy Account",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/product/sterling-silver-necklace-with-interchangeable-locket/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/gifts/",
+                "name": "Gifts"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/product/sterling-silver-necklace-with-interchangeable-locket/",
+                "name": "Sterling Silver Necklace With interchangeable locket"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "@id": "https://bulliontradingllc.com/product/sterling-silver-necklace-with-interchangeable-locket/#product",
+      "name": "Sterling Silver Necklace With interchangeable locket",
+      "url": "https://bulliontradingllc.com/product/sterling-silver-necklace-with-interchangeable-locket/",
+      "description": "",
+      "image": [
+        "https://bulliontradingllc.com/wp-content/uploads/2024/09/p-jpg-webp.webp"
+      ],
+      "sku": "18902",
+      "offers": [
+        {
+          "@type": "Offer",
+          "priceValidUntil": "2026-10-15",
+          "availability": "https://schema.org/OutOfStock",
+          "url": "https://bulliontradingllc.com/product/sterling-silver-necklace-with-interchangeable-locket/",
+          "seller": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC",
+            "url": "https://bulliontradingllc.com/"
+          },
+          "price": "384.17",
+          "priceCurrency": "USD",
+          "itemCondition": "https://schema.org/NewCondition",
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "applicableCountry": "US",
+            "returnPolicyCategory": "https://schema.org/MerchantReturnNotPermitted"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "10",
+              "currency": "USD"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 1,
+                "maxValue": 3,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 1,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              }
+            }
+          }
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Product Type",
+          "value": "jewelry"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Is Legal Tender",
+          "value": "No"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Is Monetized Bullion",
+          "value": "No"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Purity %",
+          "value": "91.67"
+        }
+      ],
+      "category": "Gifts"
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/compare/",
+    "https://bulliontradingllc.com/gifts/",
+    "https://bulliontradingllc.com/gifts/religious-collection/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/?redirect=https%3A%2F%2Fbulliontradingllc.com%2Fproduct%2Fsterling-silver-necklace-with-interchangeable-locket",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/product/1-oz-i-love-barbie-superstar-barbie-silver-coin/",
+    "https://bulliontradingllc.com/product/2024-australia-1-oz-silver-yellow-dragon/",
+    "https://bulliontradingllc.com/product/pamp-1-oz-silver-2-burton-morris-popcorn-coin-pop/",
+    "https://bulliontradingllc.com/product/pamp-suisse-burton-morris-gorilla-shaped-1-oz-colorized-silver-coin/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/shop/",
+    "https://bulliontradingllc.com/silver/",
+    "https://bulliontradingllc.com/silver/bars/",
+    "https://bulliontradingllc.com/silver/bars/1-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/coins/",
+    "https://bulliontradingllc.com/silver/coins/government-mint-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/government-minted-silver-coins/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/p-jpg-webp.webp",
+      "alt": "Sterling silver necklace with interchangeable locket pendant"
+    },
+    {
+      "url": "/wp-content/uploads/2025/11/gorilla_burton-morris_rev-front-300x300.webp",
+      "alt": "PAMP Suisse Burton Morris 1 oz silver Gorilla shaped colorized coin"
+    },
+    {
+      "url": "/wp-content/uploads/2025/11/gorilla_burton-morris_packaging-open-300x300.webp",
+      "alt": "PAMP Suisse Burton Morris Gorilla 1 oz silver coin in open packaging"
+    },
+    {
+      "url": "/wp-content/uploads/2025/11/gorilla_burton-morris_packaging-front-300x300.webp",
+      "alt": "PAMP Suisse 1 oz silver Burton Morris Gorilla shaped coin packaging front"
+    },
+    {
+      "url": "/wp-content/uploads/2025/11/gorilla_burton-morris_obv-front-300x300.webp",
+      "alt": "PAMP Suisse 1 oz colorized silver Gorilla shaped coin by Burton Morris"
+    },
+    {
+      "url": "/wp-content/uploads/2024/11/Yellow-2024-Lunor-Dragon-Front-300x300.webp",
+      "alt": "1 oz silver Perth Mint Lunar Series III Yellow Dragon coin"
+    },
+    {
+      "url": "/wp-content/uploads/2024/11/Front-alll-2024-Lunor-Dragon-300x300.webp",
+      "alt": "1 oz silver 2024 Australia Lunar Series III purple dragon coin in capsule"
+    },
+    {
+      "url": "/wp-content/uploads/2024/11/Yellow-2024-Lunor-Dragon-Side-300x300.webp",
+      "alt": "1 oz silver Perth Mint Lunar Series III Yellow Dragon coin in capsule"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/barbie_packaging-front_0-300x300.webp",
+      "alt": "1 oz silver I Love Barbie Superstar Barbie coin in pink packaging"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/barbie_front-obv-300x300.webp",
+      "alt": "1 oz silver I Love Barbie Superstar Barbie coin with colorful obverse design"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/barbie_front-rev-300x300.webp",
+      "alt": "1 oz silver I Love Barbie Superstar Barbie coin with pink design"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/barbie_capsule-with-stand-and-box-300x300.webp",
+      "alt": "1 oz silver I Love Barbie Superstar Barbie coin in capsule with stand and box"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/2023-pamp-1-oz-silver-2-burton-morris-popcorn2-300x300.webp",
+      "alt": "PAMP 1 oz silver Burton Morris Popcorn coin with colorful packaging"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/2023-pamp-1-oz-silver-2-burton-morris-popcorn-300x300.webp",
+      "alt": "1 oz silver PAMP Burton Morris Popcorn coin in protective packaging"
+    },
+    {
+      "url": "/wp-content/uploads/2024/12/2023-pamp-1-oz-silver-2-burton-morris-pop-300x300.webp",
+      "alt": "PAMP 1 oz silver Burton Morris Popcorn Pop! coin in display packaging"
+    }
+  ]
+}

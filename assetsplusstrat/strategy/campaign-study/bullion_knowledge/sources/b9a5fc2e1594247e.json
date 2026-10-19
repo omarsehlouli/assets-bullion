@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "id": "b9a5fc2e1594247e",
+    "url": "https://bulliontradingllc.com/charts/gold-price/",
+    "title": "Gold Price Today — Live Gold Spot Price Chart | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:29.549897+00:00",
+    "status": "fetched",
+    "bytes": 101005,
+    "text_characters": 3490,
+    "sha256_html": "df2d521708bcc95e30b9506d473fc6b71b89c14ce985724d6b7c1f816e688939",
+    "file": "sources/b9a5fc2e1594247e.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Live gold price per ounce, gram and kilo, updated every minute. Interactive chart with 58 years of LBMA history, bid/ask spread, and a gold value calculator.",
+  "canonical": "https://bulliontradingllc.com/charts/gold-price/",
+  "text": "The gold spot price is the market rate for one troy ounce of .999 fine gold for immediate delivery. It moves nearly 24 hours a day, five days a week, driven by central-bank policy, the U.S. dollar, inflation expectations, and physical demand. The chart and tables below are powered by our own live feed — the same prices that drive our product pricing.\n—\nper troy ounce\n—\nBid\n—\nAsk\n—\nLast updated:\n—\nET\n24h High\n—\n24h Low\n—\nDay Change\n—\n52-Week High\n—\n52-Week Low\n—\n1D\n1W\n1M\n1Y\n5Y\nALL\n⬇ Save chart\nIntraday: BullionTradingLLC.com live feed · History: LBMA auction prices · Charts by\nTradingView\n· Chart images free to share with attribution\nGold Price Converter\nCurrency\nUSD ($)\nEUR (€)\nGBP (£)\nJPY (¥)\nCHF (Fr)\nAUD (A$)\nCAD (C$)\nWeight\nTroy ounce\nGram\nKilogram\nPound\nTola\nPurity\n24K (99.9%)\n22K (91.6%)\n18K (75.0%)\n14K (58.5%)\n10K (41.7%)\n—\nGold Price per Ounce, Gram & Kilo\nUnit\nGold Price\n(USD)\nDay Change\nTroy ounce\n—\n—\nGram\n—\n—\nKilogram\n—\n—\nWhy Invest in Gold?\nGold has preserved purchasing power for centuries and tends to perform well when currencies weaken or markets turn volatile. Physical gold carries no counterparty risk: a coin or bar in your possession is nobody else's liability, which is why it remains the core holding of most precious-metals portfolios.\nWhat Moves the Gold Price?\nReal interest rates, the strength of the U.S. dollar, central-bank buying, geopolitical risk, and jewelry and investment demand all move gold. Because gold is quoted in dollars worldwide, a weaker dollar usually lifts the price even when nothing else changes.\nSpot Price vs. What You Pay\nDealers buy and sell at a premium or discount to spot that covers minting, distribution, and liquidity. Widely traded bullion — Eagles, Maples, kilo bars — carries the tightest premiums over the spot price shown here. Compare premiums, not just spot.\nGold Price FAQ\nWhat is the spot price of gold?\nThe spot price is the current market rate for one troy ounce of .999 fine gold for immediate settlement, derived from continuous interbank and futures trading. It is the global reference from which dealer buy and sell prices are set.\nHow often does the gold price on this page update?\nOur feed refreshes about once a minute during market hours, and the page updates itself automatically while you have it open. The long-history chart uses the official LBMA auction prices published each trading day.\nWhat is a troy ounce?\nA troy ounce is 31.1035 grams — about 10% heavier than the regular (avoirdupois) ounce used for food and mail. All precious-metals prices are quoted per troy ounce; a kilogram is 32.151 troy ounces.\nWhy is the price I pay higher than spot?\nPhysical bullion sells at a premium over spot that covers fabrication, distribution, insurance, and the dealer's spread. Premiums are smallest on large, widely traded items and rise for small or collectible pieces.\nWhat was the highest gold price ever?\nGold has set repeated all-time highs in recent years. Select the ALL range on the chart above to see every official daily close back to 1968 — including each record high and exactly when it was set.\nIs gold traded 24 hours a day?\nVery nearly: gold trades continuously from Sunday evening to Friday afternoon (New York time) across Asian, European, and U.S. sessions, closing only on weekends. That is why the price you see can change at any hour.\nPrices are indicative market rates for informational purposes and are not an offer to buy or sell. Product prices include a premium over spot.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/charts/gold-price/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/charts/",
+                "name": "Live Gold &amp; Silver Prices — All Metals Dashboard | Bullion Trading LLC"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/charts/gold-price/",
+                "name": "Gold Price Today — Live Gold Spot Price Chart | Bullion Trading LLC"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/charts/gold-price/#webpage",
+          "url": "https://bulliontradingllc.com/charts/gold-price/",
+          "name": "Gold Price Today — Live Gold Spot Price Chart | Bullion Trading LLC",
+          "datePublished": "2025-03-07T07:47:57+00:00",
+          "dateModified": "2026-10-12T22:11:19+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/charts/gold-price/#breadcrumb"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the spot price of gold?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The spot price is the current market rate for one troy ounce of .999 fine gold for immediate settlement, derived from continuous interbank and futures trading. It is the global reference from which dealer buy and sell prices are set."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often does the gold price on this page update?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our feed refreshes about once a minute during market hours, and the page updates itself automatically while you have it open. The long-history chart uses the official LBMA auction prices published each trading day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is a troy ounce?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A troy ounce is 31.1035 grams — about 10% heavier than the regular (avoirdupois) ounce used for food and mail. All precious-metals prices are quoted per troy ounce; a kilogram is 32.151 troy ounces."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why is the price I pay higher than spot?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Physical bullion sells at a premium over spot that covers fabrication, distribution, insurance, and the dealer's spread. Premiums are smallest on large, widely traded items and rise for small or collectible pieces."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What was the highest gold price ever?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gold has set repeated all-time highs in recent years. Select the ALL range on the chart above to see every official daily close back to 1968 — including each record high and exactly when it was set."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is gold traded 24 hours a day?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Very nearly: gold trades continuously from Sunday evening to Friday afternoon (New York time) across Asian, European, and U.S. sessions, closing only on weekends. That is why the price you see can change at any hour."
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/",
+    "https://www.tradingview.com/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    }
+  ]
+}

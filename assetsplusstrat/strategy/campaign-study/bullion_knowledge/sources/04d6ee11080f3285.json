@@ -1,0 +1,344 @@
+{
+  "metadata": {
+    "id": "04d6ee11080f3285",
+    "url": "https://learn.bulliontradingllc.com/quiz/indirect-platinum-investment-methods-quiz/",
+    "title": "Indirect Platinum Investment Methods Quiz | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:42.198775+00:00",
+    "status": "fetched",
+    "bytes": 28362,
+    "text_characters": 376,
+    "sha256_html": "3481f7f4185cf1e1156cba5aaa33c5ab63e749ed9ddacf3b592e46840a25a161",
+    "file": "sources/04d6ee11080f3285.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your understanding of ETFs, mining stocks, futures, options, and other indirect platinum investment approaches.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/indirect-platinum-investment-methods-quiz/",
+  "text": "Indirect Platinum Investment Methods Quiz\nTest your understanding of ETFs, mining stocks, futures, options, and other indirect platinum investment approaches.\nWhat is the main advantage of platinum ETFs over physical platinum ownership?\nA\nHigher returns\nB\nHigh liquidity and convenience\nC\nNo price volatility\nD\nGuaranteed profits\n←\nBack to Indirect Platinum Investment Methods",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Platinum Investing",
+              "item": "https://learn.bulliontradingllc.com/guides/platinum-investing/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Indirect Platinum Investment Methods",
+              "item": "https://learn.bulliontradingllc.com/guides/platinum-investing/04-indirect-platinum-investment-methods/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Indirect Platinum Investment Methods Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Indirect Platinum Investment Methods Quiz",
+          "description": "Test your understanding of ETFs, mining stocks, futures, options, and other indirect platinum investment approaches.",
+          "url": "https://learn.bulliontradingllc.com/quiz/indirect-platinum-investment-methods-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Indirect Platinum Investment Methods"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the main advantage of platinum ETFs over physical platinum ownership?",
+              "text": "What is the main advantage of platinum ETFs over physical platinum ownership?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "High liquidity and convenience",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Platinum ETFs offer high liquidity with easy buying and selling during market hours, plus convenience through standard brokerage account access, eliminating storage and insurance challenges."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Higher returns"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "No price volatility"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Guaranteed profits"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which company is the world's largest platinum producer?",
+              "text": "Which company is the world's largest platinum producer?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Anglo American Platinum (Amplats)",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Anglo American Platinum Limited (Amplats) is the world's largest platinum producer, operating integrated mining and refining operations in South Africa's Bushveld Complex."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Impala Platinum Holdings"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Sibanye-Stillwater"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Norilsk Nickel"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the standard NYMEX platinum futures contract size?",
+              "text": "What is the standard NYMEX platinum futures contract size?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "50 troy ounces",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "NYMEX platinum futures contracts are standardized at 50 troy ounces per contract, with minimum price movements of $0.10 per ounce ($5.00 per contract)."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "25 troy ounces"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "100 troy ounces"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "1,000 troy ounces"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the main risk associated with platinum futures trading?",
+              "text": "What is the main risk associated with platinum futures trading?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "High volatility and leverage amplification",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Platinum futures carry high volatility risk with leverage amplification, meaning significant losses are possible from adverse price movements, plus margin calls and rolling costs."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "No risk involved"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Limited profit potential"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Guaranteed losses"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What advantage does online vaulted platinum offer over retail physical purchases?",
+              "text": "What advantage does online vaulted platinum offer over retail physical purchases?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Reduced premiums and VAT avoidance",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Online vaulted platinum services offer reduced premiums compared to retail purchases and potential VAT avoidance in many jurisdictions when metal remains vaulted, plus professional storage."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Higher premiums"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "No storage required"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Immediate physical delivery"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which options strategy would you use to profit from platinum price increases with limited risk?",
+              "text": "Which options strategy would you use to profit from platinum price increases with limited risk?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Buy call options",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Buying call options is a bullish strategy that profits from platinum price increases with limited risk (maximum loss is the premium paid) and unlimited upside potential."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Buy put options"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Sell call options"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Sell put options"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is a key risk factor for platinum mining stocks?",
+              "text": "What is a key risk factor for platinum mining stocks?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Geopolitical risk from South African concentration",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Platinum mining stocks face significant geopolitical risk due to over 70% of supply coming from South Africa and Russia, creating exposure to political instability, labor disputes, and regulatory changes."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "No risks involved"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Guaranteed profits"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Stable prices always"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which platinum investment method is generally suitable only for sophisticated investors?",
+              "text": "Which platinum investment method is generally suitable only for sophisticated investors?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Futures and options",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Futures and options are complex derivatives generally suitable only for sophisticated investors and institutional users due to their inherent risks, leverage characteristics, and complexity."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Platinum ETFs"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Major mining stocks"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Vaulted platinum"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

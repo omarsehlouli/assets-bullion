@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "id": "e60363e0c9356826",
+    "url": "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars/",
+    "title": "5 oz Silver Bars - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:12:49.462218+00:00",
+    "status": "fetched",
+    "bytes": 228277,
+    "text_characters": 1664,
+    "sha256_html": "f4b48f27a50f6b65333c93b5098780d66d97e7c789fcdeff5895c2e513d3ae6f",
+    "file": "sources/e60363e0c9356826.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Shop 5 oz silver bars at Bullion Trading for flexible stacking between 1 oz and 10 oz sizes, with competitive pricing and secure shipping with tracking.",
+  "canonical": "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars/",
+  "text": "Filters\nShowing all 5 results\nList\nGrid\nFilter by Weight\n0.1106 oz\n0.2304 oz\n0.7734 oz\n0.9675 oz\n1 gram\n1 kilo\n1 oz\n1.205 oz\n1.25 oz\n1.5 oz\n1/10 oz\n1/2 gram\n1/2 oz\n1/20 oz\n1/4 oz\n10 gram\n10 oz\n10.725 oz\n100 gram\n100 oz\n1000.9 oz\n178.75 oz\n2 gram\n2 oz\n2.5 gram\n20 gram\n20 oz\n25 gram\n25 oz\n250 gram\n3 oz\n3.575 oz\n30 gram\n36 oz\n4 oz\n5 gram\n5 oz\n50 gram\n50 oz\n500 gram\n500 oz\n7.15 oz\n71.5 oz\n715 oz\nFilter by Brands\nA-Mark Precious Metals\nAGA KULCHE\nArgor Heraeus\nAsahi Refining\nAustrian Mint\nBavarian Mint\nBuenos Aires Mint\nChina Mint\nCredit Suisse\nDC Comics\nElemetal\nEngelhard\nGolden State Mint\nHandy & Harman\nHighland Mint\nHungarian Mint\nImperial Russia Mint\nIstanbul Gold Refinery\nItalpreziosi\nJohnson Matthey\nLiberty Trade\nMetalor\nMexican Mint\nOhio Precious Metals\nPAMP\nPan American Silver Corp\nPerth Mint\nPhiloro\nPREMEX\nRand Refinery\nRANDOM\nRoyal Canadian Mint\nScottsdale Mint\nSilverTowne\nSouth African Mint\nSunshine Mint\nThe East India Company\nThe Royal Mint\nUmicore\nUnited States Mint\nUS Assay Office\nValcambi\nQty\nAdd to cart\n5 oz Silver Bars\n5 oz Silver Bullet\n$\n386.55\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\n5 oz Silver Bars\n5 oz Random Brand 999 Silver Bar\n$\n388.94\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nNew!\nQty\nAdd to cart\nSilver\n5 oz Silver Bar – Buffalo\n$\n349.95\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\n5 oz Silver Bars\n5 oz Italpreziosi Silver Cast Bar\n$\n334.10\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\n5 oz Silver Bars\n5 oz Secondary Market Silver Bars(Random Brand)\n$\n328.95\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nof 1 Pages",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "Store",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/silver/",
+                "name": "Silver"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/silver/bars/",
+                "name": "Silver Bars"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "4",
+              "item": {
+                "@id": "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars/",
+                "name": "5 oz Silver Bars"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars/#webpage",
+          "url": "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars/",
+          "name": "5 oz Silver Bars - Bullion Trading LLC",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars/#breadcrumb"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/casting-grain/",
+    "https://bulliontradingllc.com/casting-grain/gold-casting-grain/",
+    "https://bulliontradingllc.com/casting-grain/platinum-casting-grain/",
+    "https://bulliontradingllc.com/casting-grain/silver-casting-grain/",
+    "https://bulliontradingllc.com/compare/",
+    "https://bulliontradingllc.com/gifts/",
+    "https://bulliontradingllc.com/gifts/collectibles/",
+    "https://bulliontradingllc.com/gifts/golf-tees/",
+    "https://bulliontradingllc.com/gifts/religious-collection/",
+    "https://bulliontradingllc.com/gifts/secondary-market-gold-silver/",
+    "https://bulliontradingllc.com/gifts/silver-bullets-for-sale/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/gold/bars/",
+    "https://bulliontradingllc.com/gold/bars/1-2-oz-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/1-kilo-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/1-oz-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/10-oz-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/5-oz-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/10-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/100-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/2-5-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/2-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/20-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/250-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/5-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/50-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/500-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/coins/",
+    "https://bulliontradingllc.com/gold/coins/1-10-oz-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/1-2-oz-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/1-4-oz-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/1-oz-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/australian-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/austrian-gold-philharmonics-coins/",
+    "https://bulliontradingllc.com/gold/coins/british-royal-mint-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/canadian-maple-leaf-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/chinese-gold-coin/",
+    "https://bulliontradingllc.com/gold/coins/krugerrand-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/us-mint-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/us-mint-gold-coins/american-buffalo-gold-coin/",
+    "https://bulliontradingllc.com/gold/coins/us-mint-gold-coins/american-eagle-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/us-mint-gold-coins/pre-1933-us-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/world-gold-coin/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/mints/a-mark-precious-metals/",
+    "https://bulliontradingllc.com/mints/aga-kulche/",
+    "https://bulliontradingllc.com/mints/argor-heraeus/",
+    "https://bulliontradingllc.com/mints/asahi/",
+    "https://bulliontradingllc.com/mints/austrian-mint/",
+    "https://bulliontradingllc.com/mints/bavarian-mint/",
+    "https://bulliontradingllc.com/mints/buenos-aires-mint/",
+    "https://bulliontradingllc.com/mints/china-mint/",
+    "https://bulliontradingllc.com/mints/credit-suisse/",
+    "https://bulliontradingllc.com/mints/dc-comics/",
+    "https://bulliontradingllc.com/mints/elemetal/",
+    "https://bulliontradingllc.com/mints/engelhard/",
+    "https://bulliontradingllc.com/mints/golden-state-mint/",
+    "https://bulliontradingllc.com/mints/handy-harman/",
+    "https://bulliontradingllc.com/mints/highland-mint/",
+    "https://bulliontradingllc.com/mints/hungarian-mint/",
+    "https://bulliontradingllc.com/mints/imperial-russia-mint/",
+    "https://bulliontradingllc.com/mints/istanbul-gold-refinery/",
+    "https://bulliontradingllc.com/mints/italpreziosi/",
+    "https://bulliontradingllc.com/mints/johnson-matthey/",
+    "https://bulliontradingllc.com/mints/liberty-trade/",
+    "https://bulliontradingllc.com/mints/metalor/",
+    "https://bulliontradingllc.com/mints/mexican-mint/",
+    "https://bulliontradingllc.com/mints/ohio-precious-metals/",
+    "https://bulliontradingllc.com/mints/pamp/",
+    "https://bulliontradingllc.com/mints/pan-american-silver-corp/",
+    "https://bulliontradingllc.com/mints/perth-mint/",
+    "https://bulliontradingllc.com/mints/philoro/",
+    "https://bulliontradingllc.com/mints/premex/",
+    "https://bulliontradingllc.com/mints/rand-refinery/",
+    "https://bulliontradingllc.com/mints/random/",
+    "https://bulliontradingllc.com/mints/royal-canadian-mint/",
+    "https://bulliontradingllc.com/mints/scottsdale-mint/",
+    "https://bulliontradingllc.com/mints/silvertowne/",
+    "https://bulliontradingllc.com/mints/south-african-mint/",
+    "https://bulliontradingllc.com/mints/sunshine-mint/",
+    "https://bulliontradingllc.com/mints/the-east-india-company/",
+    "https://bulliontradingllc.com/mints/the-royal-mint/",
+    "https://bulliontradingllc.com/mints/umicore/",
+    "https://bulliontradingllc.com/mints/us-assay-office/",
+    "https://bulliontradingllc.com/mints/us-mint/",
+    "https://bulliontradingllc.com/mints/valcambi/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/platinum-and-palladium/",
+    "https://bulliontradingllc.com/platinum-and-palladium/palladium/",
+    "https://bulliontradingllc.com/platinum-and-palladium/palladium/palladium-bars/",
+    "https://bulliontradingllc.com/platinum-and-palladium/palladium/palladium-coins/",
+    "https://bulliontradingllc.com/platinum-and-palladium/platinum/",
+    "https://bulliontradingllc.com/platinum-and-palladium/platinum/platinum-bars/",
+    "https://bulliontradingllc.com/platinum-and-palladium/platinum/platinum-coins/",
+    "https://bulliontradingllc.com/product/5-oz-italpreziosi-silver-cast-bar/",
+    "https://bulliontradingllc.com/product/5-oz-random-brand-999-silver-bar/",
+    "https://bulliontradingllc.com/product/5-oz-secondary-market-silver-barsrandom-brand/",
+    "https://bulliontradingllc.com/product/5-oz-silver-bar-buffalo/",
+    "https://bulliontradingllc.com/product/5-oz-silver-bullet/",
+    "https://bulliontradingllc.com/shop/",
+    "https://bulliontradingllc.com/silver/",
+    "https://bulliontradingllc.com/silver/bars/",
+    "https://bulliontradingllc.com/silver/bars/1-kilo-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/1-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/10-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/100-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_type-of-bullion=bar",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_type-of-bullion=coin",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_type-of-bullion=round",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=0-1106-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=0-2304-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=0-7734-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=0-9675-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=1-10-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=1-2-gram",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=1-2-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=1-20-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=1-205-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=1-25-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=1-4-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=1-5-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=1-gram",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=1-kilo",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=1-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=10-725-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=10-gram",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=10-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=100-gram",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=100-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=1000-9-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=178-75-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=2-5-gram",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=2-gram",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=2-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=20-gram",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=20-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=25-gram",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=25-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=250-gram",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=3-575-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=3-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=30-gram",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=36-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=4-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=5-gram",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=5-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=50-gram",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=50-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=500-gram",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=500-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=7-15-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=71-5-oz",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars?filter_weight=715-oz",
+    "https://bulliontradingllc.com/silver/bars/50-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/gram-silver-bars/",
+    "https://bulliontradingllc.com/silver/coins/",
+    "https://bulliontradingllc.com/silver/coins/african-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/canadian-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/government-mint-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/government-mint-silver-coins/austrian-silver-philharmonics/",
+    "https://bulliontradingllc.com/silver/coins/government-mint-silver-coins/chinese-silver-pandas/",
+    "https://bulliontradingllc.com/silver/coins/government-minted-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/silver-rounds/",
+    "https://bulliontradingllc.com/silver/coins/us-silver-coins/",
+    "https://bulliontradingllc.com/social-media-deals/",
+    "https://bulliontradingllc.com/social-media-deals/5-10-oz-platinum-and-palladium-bars/",
+    "https://bulliontradingllc.com/social-media-deals/platinum-and-palladium-gram-bars/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/5-oz-silver-bullet-bulliontradingllc-jpg-webp-300x300.webp",
+      "alt": "5 oz silver Bullet bullion from Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/5oz-secondary-market-silver-bars-1-300x300.webp",
+      "alt": "5 oz secondary market silver bars from assorted brands"
+    },
+    {
+      "url": "/wp-content/uploads/2024/10/Liberty-5-oz-silver-bar-front-jpg-300x300.webp",
+      "alt": "5 oz silver Buffalo bar front with Black Diamond branding"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/Liberty-10-buffalo-bar-300x300.jpg",
+      "alt": "10 oz silver Liberty Trade Buffalo bar with buffalo design"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/Liberty-buffalo-silver-10-oz-bar-300x300.jpg",
+      "alt": "10 oz silver Liberty Trade Buffalo bar with buffalo design"
+    },
+    {
+      "url": "/wp-content/uploads/2024/10/Liberty-5-oz-silver-bar-front-jpg-300x300.webp",
+      "alt": "5 oz silver Buffalo bar front with Black Diamond branding"
+    },
+    {
+      "url": "/wp-content/uploads/2024/10/Liberty-5-oz-silver-bar-back-jpg-300x300.webp",
+      "alt": "5 oz silver Buffalo bar back with Black Diamond branding"
+    },
+    {
+      "url": "/wp-content/uploads/2024/11/s-l1600-300x300.webp",
+      "alt": "5 oz Italpreziosi silver cast bar with stamped logo and markings"
+    },
+    {
+      "url": "/wp-content/uploads/2024/11/s-l960-2-1-300x300.webp",
+      "alt": "5 oz silver Italpreziosi cast bar with stamped logo and weight"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/5oz-secondary-market-silver-bars-1-300x300.webp",
+      "alt": "5 oz secondary market silver bars from assorted brands"
+    }
+  ]
+}

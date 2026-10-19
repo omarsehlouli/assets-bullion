@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "id": "adf228ada91cf130",
+    "url": "https://bulliontradingllc.com/blog/gold-prices-soar-to-record-highs-how-trumps-tariffs-are-fueling-a-historic-rally/",
+    "title": "Gold Prices Soar on Trump Tariffs | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:43.687689+00:00",
+    "status": "fetched",
+    "bytes": 100798,
+    "text_characters": 4346,
+    "sha256_html": "ced3d425975fdd14e9a648faaa05f29af9728b4d34fb5c29b755adf046b92772",
+    "file": "sources/adf228ada91cf130.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Tariff uncertainty and inflation fears help push gold above $2,940, as investors seek safety amid geopolitics and tighter trade policy.",
+  "canonical": "https://bulliontradingllc.com/blog/gold-prices-soar-to-record-highs-how-trumps-tariffs-are-fueling-a-historic-rally/",
+  "text": "Gold prices has once again shattered expectations, surging to unprecedented heights as investors brace for the economic ripple effects of President Donald Trump’s latest tariff policies. With prices breaching 2,940 per ounce this week and analysts eyeing the 3,000 milestone, the precious metal’s rally reflects a perfect storm of geopolitical uncertainty, inflation fears, and a scramble for safe-haven assets. Below, we dissect the forces driving this historic surge and what it means for investors.\n1. Trump’s Tariffs: A Catalyst for Chaos\nOn February 10, President Trump announced a\n25% universal tariff\non steel and aluminum imports, escalating fears of a multi-front\ntrade war\nand prolonged inflation. This policy, aimed at bolstering U.S. industries, has instead injected volatility into global markets, pushing investors toward gold as a hedge against currency devaluation and economic instability\nInflation Concerns\n: Tariffs act as a “tax” on imports, raising costs for businesses and consumers. Analysts warn this could exacerbate U.S. inflation, with upcoming\nCPI and PPI data\npoised to influence Federal Reserve policy and gold’s trajectory\nTrade War Risks\n: Retaliatory measures from China and the EU loom large, threatening to disrupt global supply chains. Capital.com’s Kyle Rodda notes that gold’s rally aligns with a broader\n“de-dollarization” trend\n, as nations and investors seek alternatives to the U.S. dollar\n2. Central Banks and the Physical Gold Rush\nCentral banks are accelerating\ngold purchases\nat a record pace, with the\nPeople’s Bank of China\nleading the charge (43% of global central bank purchases in November 2024). This trend underscores gold’s role as a\nreserve asset\namid geopolitical tensions and currency risks.\nMeanwhile, logistical bottlenecks are emerging. The\nBank of England\nreported weeks-long delays for gold withdrawals as traders rush to ship bullion to the U.S., where COMEX futures trade at a\n$26 premium\nover London prices. This scramble highlights fears that Trump’s tariffs could extend to precious metals, fragmenting global markets and straining supply\n3. The $3,000 Question: Will Gold Keep Rising?\nWall Street giants like\nJPMorgan Chase\nand\nGoldman Sachs\nproject gold could hit\n$3,000 by late 2025\n, driven by sustained demand and macroeconomic uncertainty. Key factors to watch:\nFed Policy\n: Chair Jerome Powell’s congressional testimony this week may signal how the Fed plans to balance inflation and growth\nMarket Psychology\n: Phillip Streible of Blue Line Futures suggests gold’s momentum could create a\n“self-fulfilling prophecy”\n, with technical charts pointing to\n3,250-3,500\nif bullish sentiment holds.\n4. A Contrarian View: Tariffs Aren’t Always Bullish for Gold\nWhile the current narrative ties tariffs to gold’s rally,\nMorningstar’s Mark Hulbert\ncautions against oversimplification. Historical data shows gold has often underperformed during high-tariff periods, though this cycle defies tradition due to unprecedented central bank buying and\nfiat currency skepticism\n.\n5. Silver, Platinum, and the Industrial Metals Dilemma\nWhile gold dominates headlines,\nsilver\nand platinum face mixed fortunes. Silver (+0.8% this week) benefits from safe-haven demand but risks weaker industrial use under tariffs. Platinum and palladium, critical for automotive catalysts, remain volatile amid shifting trade dynamics\nInvestor Takeaways\nDiversify with Physical Gold\n: Consider allocating to\nbullion or ETFs\nto hedge against inflation and market turbulence.\nMonitor COMEX Premiums\n: U.S. import tariffs could widen the gap between physical and paper gold, favoring direct holdings\nStay Agile\n: Geopolitical shifts and Fed policy changes will dictate short-term swings.\nConclusion\nGold’s meteoric rise is more than a reaction to tariffs—it’s a barometer of global anxiety. As Trump’s policies reshape trade norms and central banks stockpile bullion, the metal’s role as a\nsafe haven\nand\ninflation hedge\ngrows ever more critical. For investors, the message is clear: In a world of uncertainty, gold remains a cornerstone of resilience.\nExplore our curated selection of gold and silver products at\nBullionTradingLLC.com\nto secure your portfolio today.\nbulliontrading\nView all posts\nPrevious Post\nGold Bullion Market Trends and Investment Insights 2025\nNext Post\nIs Trump About to Audit Fort Knox?",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2025/02/Gold-Prices-Soar-to-Record-Highs-How-Trumps-Tariffs-Are-Fueling-a-Historic-Rall.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2025/02/Gold-Prices-Soar-to-Record-Highs-How-Trumps-Tariffs-Are-Fueling-a-Historic-Rall.webp",
+          "width": "2048",
+          "height": "2048",
+          "caption": "Gold bars beside an upward chart illustrating record-high gold prices",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-soar-to-record-highs-how-trumps-tariffs-are-fueling-a-historic-rally/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+                "name": "Gold Market &amp; Economics"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-prices-soar-to-record-highs-how-trumps-tariffs-are-fueling-a-historic-rally/",
+                "name": "Gold Prices Soar to Record Highs: How Trump’s Tariffs Are Fueling a Historic Rally"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-soar-to-record-highs-how-trumps-tariffs-are-fueling-a-historic-rally/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-prices-soar-to-record-highs-how-trumps-tariffs-are-fueling-a-historic-rally/",
+          "name": "Gold Prices Soar on Trump Tariffs | Bullion Trading LLC",
+          "datePublished": "2025-02-12T01:06:17+00:00",
+          "dateModified": "2025-02-12T01:10:47+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2025/02/Gold-Prices-Soar-to-Record-Highs-How-Trumps-Tariffs-Are-Fueling-a-Historic-Rall.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-soar-to-record-highs-how-trumps-tariffs-are-fueling-a-historic-rally/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold Prices Soar on Trump Tariffs | Bullion Trading LLC",
+          "keywords": "Gold prices,Trump Tariffs,inflation hedge,safe-haven demand",
+          "datePublished": "2025-02-12T01:06:17+00:00",
+          "dateModified": "2025-02-12T01:10:47+00:00",
+          "articleSection": "Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Tariff uncertainty and inflation fears help push gold above $2,940, as investors seek safety amid geopolitics and tighter trade policy.",
+          "name": "Gold Prices Soar on Trump Tariffs | Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-soar-to-record-highs-how-trumps-tariffs-are-fueling-a-historic-rally/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-soar-to-record-highs-how-trumps-tariffs-are-fueling-a-historic-rally/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2025/02/Gold-Prices-Soar-to-Record-Highs-How-Trumps-Tariffs-Are-Fueling-a-Historic-Rall.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-soar-to-record-highs-how-trumps-tariffs-are-fueling-a-historic-rally/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/gold-bullion-market-trends-and-investment-insights-2025/",
+    "https://bulliontradingllc.com/blog/gold-prices-soar-to-record-highs-how-trumps-tariffs-are-fueling-a-historic-rally/",
+    "https://bulliontradingllc.com/blog/is-trump-about-to-audit-fort-knox/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2025/02/Gold-Prices-Soar-to-Record-Highs-How-Trumps-Tariffs-Are-Fueling-a-Historic-Rall.webp",
+      "alt": "Gold bars beside an upward chart illustrating record-high gold prices"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

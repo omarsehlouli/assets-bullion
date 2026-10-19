@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "id": "6cf8bfed12325305",
+    "url": "https://bulliontradingllc.com/blog/australian-kangaroo-coins/",
+    "title": "Australian Kangaroo Coins - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:19.764298+00:00",
+    "status": "fetched",
+    "bytes": 94257,
+    "text_characters": 3804,
+    "sha256_html": "153c5d6130f1f376a68f04da072893a54d26050b07d61a0d64bde258f30d1664",
+    "file": "sources/6cf8bfed12325305.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "This was lastly discontinued in 2008, and now the coins are mostly understood as Australian Kangaroo Gold Coins.",
+  "canonical": "https://bulliontradingllc.com/blog/australian-kangaroo-coins/",
+  "text": "This was lastly discontinued in 2008, and now the coins are mostly understood as Australian Kangaroo Gold Coins.\nNow lets talk about Australias contribution to the world of gold coins.\nIn addition to standard denominations of other coins for 1-ounce, 1/2-ounce, 1/4-1/10-ounce, ounce, and 1/20-ounce, Australia is the very first market to introduce 2-ounce, 10-ounce, 1-kg sized coins. And those whole love huge coins will be interested to understand that simply in the last week, Australia revealed the worlds largest coin at a size of 80 cm, a density of 13 cm, and took 18 months to make. Each coin comes in unique presentation case with certificate of authenticity and custom style shipper.\nWith the kangaroo images changing every year, the coins have an uniqueness not found on any other bullion coins aside fromChinese Pandas. This makes Kangaroos all the more interesting to a collector, who will be inclined to add a brand-new coin to his collection every year and own every possible image. Kangaroos are likewise twenty-four karat with.9999 purity, however they come separately capsulated in protective plastic covers rather than Maple Leafs which are notorious for scratching quickly. Nevertheless, Kangaroos do require greater storage space. In addition to standard denominations of other coins for 1-ounce, 1/2-ounce, 1/4-1/20-ounce, ounce, and 1/10-ounce, Australia is the first market to present 2-ounce, 10-ounce, 1-kg sized coins. These larger sizes have actually been imported into the U.S.from time to time because their initial production. And those whole love huge coins will be interested to know that simply in the last week, Australia revealed the worlds biggest coin at a size of 80 cm, a thickness of 13 cm, and took 18 months to make. The 1,000 kg coin is 99.99% pure gold, and would deserve approximately $57.34 million if it was melted down and separated into gold bars.\nIn 1987, the Australian Perth Mint presented its own 1-ounce gold bullion coin, referred to as Gold Nuggets, due to the reverse side bearing a picture of the biggest gold nugget ever found, the 2,284-oz Welcome Stranger nugget, which was discovered in Western Australia in 1869. For some odd reason, investors did not appear brought in to the nugget image, and the coin took a while to remove. In 1990 the Welcome Stranger image was changed with a kangaroo image, which the Perth Mint alters every year, and resulting in a much more powerful turnout of investors. Possibly the indigenous nature of the animal seemed more exotic to non-Australians. Still, the word “Nugget” was marked on the obverse of the coins, along with an image of Queen Elizabeth II, as prevails in all commonwealth coinage, therefore the coins were described as “Kangaroo-Nuggets.” This was lastly discontinued in 2008, and now the coins are mostly understood as Australian Kangaroo Gold Coins.\nFor collectors, the Australian Koala Gold Proof Coin is among the popular coins worldwide. It likewise is.9999 pure and has a design that alters each year. Each coin can be found in unique presentation case with certificate of authenticity and customized style carrier.\nIf youre new to investing, the Australian Kangaroos is thought about an excellent place to begin and is definitely amongst one of the very best gold coins to buy due to its appeal and worth. The mintage of the Australian Kangaroos is actually rather low annual, compared to other bullion gold coins, and the altering designs makes each years “new crop” appear all the more uncommon. The more important the financial investment, the greater probability of the return. Increasingly more investors are being attracted by the exotic nature of that native kangaroo.\nbulliontrading\nView all posts\nPrevious Post\nAmerican Buffalo Coins\nNext Post\nSilver Austrian Philharmonics",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/australian-kangaroo-coins/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-coins/",
+                "name": "gold coins"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/australian-kangaroo-coins/",
+                "name": "Australian Kangaroo Coins"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/australian-kangaroo-coins/#webpage",
+          "url": "https://bulliontradingllc.com/blog/australian-kangaroo-coins/",
+          "name": "Australian Kangaroo Coins - Bullion Trading LLC",
+          "datePublished": "2011-12-02T08:47:35+00:00",
+          "dateModified": "2011-12-02T08:47:35+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/australian-kangaroo-coins/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Australian Kangaroo Coins - Bullion Trading LLC",
+          "datePublished": "2011-12-02T08:47:35+00:00",
+          "dateModified": "2011-12-02T08:47:35+00:00",
+          "articleSection": "gold coins",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "This was lastly discontinued in 2008, and now the coins are mostly understood as Australian Kangaroo Gold Coins.",
+          "name": "Australian Kangaroo Coins - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/australian-kangaroo-coins/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/australian-kangaroo-coins/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/australian-kangaroo-coins/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/american-buffalo-coins/",
+    "https://bulliontradingllc.com/blog/australian-kangaroo-coins/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/silver-austrian-philharmonics/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "metadata": {
+    "id": "fa699f6f5dc9fe03",
+    "url": "https://learn.bulliontradingllc.com/quiz/gold-tax-planning-considerations-quiz/",
+    "title": "Gold Tax Planning Considerations Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:41.244522+00:00",
+    "status": "fetched",
+    "bytes": 29104,
+    "text_characters": 299,
+    "sha256_html": "9e94407884258432d32dbec65dd91cab5036c679bab25550290e41731437324a",
+    "file": "sources/fa699f6f5dc9fe03.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of gold tax implications, IRA eligibility, retirement planning, and tax-efficient strategies.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/gold-tax-planning-considerations-quiz/",
+  "text": "Gold Tax Planning Considerations Quiz\nTest your knowledge of gold tax implications, IRA eligibility, retirement planning, and tax-efficient strategies.\nAt what maximum rate is physical gold typically taxed for long-term capital gains?\nA\n15%\nB\n20%\nC\n28%\nD\n37%\n←\nBack to Gold Tax & Retirement Planning",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold Investing Fundamentals",
+              "item": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Gold Tax & Retirement Planning",
+              "item": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/07-gold-tax-planning-considerations/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Gold Tax Planning Considerations Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Gold Tax Planning Considerations Quiz",
+          "description": "Test your knowledge of gold tax implications, IRA eligibility, retirement planning, and tax-efficient strategies.",
+          "url": "https://learn.bulliontradingllc.com/quiz/gold-tax-planning-considerations-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Gold Tax & Retirement Planning"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "At what maximum rate is physical gold typically taxed for long-term capital gains?",
+              "text": "At what maximum rate is physical gold typically taxed for long-term capital gains?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "28%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Physical gold is typically taxed at collectible rates with a maximum of 28% for long-term capital gains, higher than standard capital gains rates."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "15%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "20%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "37%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the minimum purity requirement for gold to be eligible for an IRA?",
+              "text": "What is the minimum purity requirement for gold to be eligible for an IRA?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "99.5%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold must be 99.5% pure (24 karat) minimum to be eligible for IRA investment, with American Gold Eagles being an exception."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "90%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "95%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "99.9%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which gold coin is an exception to the IRA purity rule?",
+              "text": "Which gold coin is an exception to the IRA purity rule?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "American Gold Eagle",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "American Gold Eagle coins are an exception to the purity rule and are acceptable for IRAs despite being 22 karat (91.67% pure)."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Canadian Gold Maple Leaf"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Austrian Gold Philharmonic"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "American Gold Buffalo"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Gold held in an IRA must be stored by an IRS-approved custodian.",
+              "text": "True or False: Gold held in an IRA must be stored by an IRS-approved custodian.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold in an IRA must be held by an IRS-approved custodian and stored in an approved depository - personal possession is not allowed."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How are gold futures typically taxed?",
+              "text": "How are gold futures typically taxed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "60/40 tax treatment (60% long-term, 40% short-term)",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold futures receive 60/40 tax treatment, meaning 60% is treated as long-term capital gains and 40% as short-term, regardless of holding period."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "As collectibles at 28%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "As ordinary income"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Tax-free"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the typical recommended allocation range for gold in retirement portfolios?",
+              "text": "What is the typical recommended allocation range for gold in retirement portfolios?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "5-20%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Typical recommendations for gold allocation in retirement portfolios range from 5-20%, providing diversification without over-concentration."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "1-3%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "25-40%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "50-75%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: 1031 like-kind exchanges are still available for precious metals as of 2018.",
+              "text": "True or False: 1031 like-kind exchanges are still available for precious metals as of 2018.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "False",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "1031 like-kind exchanges are no longer available for precious metals as of 2018, eliminating this tax deferral strategy."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "True"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How are gold mining stocks typically taxed compared to physical gold?",
+              "text": "How are gold mining stocks typically taxed compared to physical gold?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Standard equity taxation at capital gains rates",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold mining stocks receive standard equity taxation at capital gains rates, which are typically lower than the collectible rates applied to physical gold."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Same as physical gold (collectible rates)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Higher rates than physical gold"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Tax-free"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What advantage do states with no income tax provide for gold investors?",
+              "text": "What advantage do states with no income tax provide for gold investors?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No state capital gains tax on gold sales",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "States with no income tax (like Florida, Texas, Nevada) provide significant advantages by not imposing state capital gains tax on gold sales."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Lower federal taxes"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Exemption from federal collectibles tax"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Free gold storage"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: You can take physical possession of gold held in an IRA during the IRA period.",
+              "text": "True or False: You can take physical possession of gold held in an IRA during the IRA period.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "False",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "You cannot take physical possession of gold held in an IRA during the IRA period - it must remain with the approved custodian and depository."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "True"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

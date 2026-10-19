@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "id": "4357273e9cdf7cb5",
+    "url": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/",
+    "title": "New to Precious Metals | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:29.671320+00:00",
+    "status": "fetched",
+    "bytes": 18355,
+    "text_characters": 1815,
+    "sha256_html": "9e34779c19ebcb10029af5258e4f8125caea233d0695be3573637c36d546c11d",
+    "file": "sources/4357273e9cdf7cb5.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Start here. Four topics walk you through why people buy physical gold and silver, how much to allocate, which metals to pick, and when to enter the market.",
+  "canonical": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/",
+  "text": "beginner\nUpdated May 30, 2026\nBy the\nBullion Trading LLC editorial team\nNew to Precious Metals\nStart here. Four topics walk you through why people buy physical gold and silver, how much to allocate, which metals to pick, and when to enter the market.\nIf you’ve never bought physical precious metals before, the choices look overwhelming: which metal, what form, how much, where to store it, when to enter the market. This four-topic path strips it down to the questions you actually need to answer in roughly the order they matter.\nMost readers finish all four topics in about 25 minutes. None of them assume any prior background.\n📊\nWhat you'll be able to do after this path\nExplain in plain English why physical bullion plays a different role than stocks or ETFs\nPick a starting allocation that fits your existing financial picture\nChoose between gold and silver (and know when platinum or palladium matter)\nAvoid the three timing mistakes that cost first-time buyers the most\nWhat’s in this path\nWhy Buy Physical Gold?\nThree parts: the historical role of gold as money, how it behaves during economic stress, and where it sits in a modern portfolio.\nHow Much Gold and Silver to Buy\nA practical framework for sizing your precious metals allocation based on time horizon, financial foundation, and risk tolerance.\nWhich Precious Metals to Buy\nA practical guide to choosing among gold, silver, platinum, and palladium, with allocation strategies and form options for new investors.\nWhen to Buy Gold & Silver\nHow to think about timing gold and silver purchases, why dollar-cost averaging beats market timing, and the indicators worth watching.\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Guides",
+              "item": "https://learn.bulliontradingllc.com/guides/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "New to Precious Metals"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "New to Precious Metals",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "url": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/01-why-physical-gold/",
+              "name": "Why Buy Physical Gold?"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "url": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/02-how-much-to-buy/",
+              "name": "How Much Gold and Silver to Buy"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "url": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/03-which-metals/",
+              "name": "Which Precious Metals to Buy"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "url": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/04-when-to-buy/",
+              "name": "When to Buy Gold & Silver"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "id": "2b7af45cbcc05aba",
+    "url": "https://bulliontradingllc.com/blog/gold-price-nears-a-fresh-10-month-high-as-us-dollar-dips/",
+    "title": "Gold Price Nears a Fresh 10-Month High as US Dollar Dips - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:42.070696+00:00",
+    "status": "fetched",
+    "bytes": 96451,
+    "text_characters": 2862,
+    "sha256_html": "d05add3f07a263a556f8d4ffaa50e535601b0fe1edccfe363d40d5116596ddc1",
+    "file": "sources/2b7af45cbcc05aba.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "We found this excellent post at https://www.dailyfx.com/forex/market_alert/2019/02/18/Gold-Price-Nears-a-Fresh-10-Month-High-as-US-Dollar-Dips.html By: Nick",
+  "canonical": "https://bulliontradingllc.com/blog/gold-price-nears-a-fresh-10-month-high-as-us-dollar-dips/",
+  "text": "We found this excellent post at https://www.dailyfx.com/forex/market_alert/2019/02/18/Gold-Price-Nears-a-Fresh-10-Month-High-as-US-Dollar-Dips.html By: Nick Cawley and though it would be beneficial to our followers.\nHere is an article about gold rates nears 10 month high. , if you desire to read the original post you can find a link at the end of this post.\nWhile United States dollar weakness is assisting fuel golds run higher, political risk remains – consisting of EU growth, Brexit and now Spanish elections – and might underpin the most current relocation. Retail belief reveals that traders remain long of gold– usually a contrarian bearish indication– while on the day-to-day chart the RSI sign is beginning to flash an overbought caution and ought to be enjoyed.\nGold may target $1,365/ oz. high as the US dollar takes a breather.Retail stay long however RSI cautions that the precious metal is ending up being overbought.\nAfter a couple of attempts this month to break below the strong support around $1,303/ oz. gold bulls have reasserted themselves and pressed the precious metal sharply higher and to a brand-new monthly high. A weaker United States dollar has actually let gold run greater as US-China trade talks continue with talk that if the 2 are close to agreement, then the March 1 US tariff walkings on Chinese imports may be pushed down the line to help settlements.\n.\nA weaker US dollar has actually let gold run higher as US-China trade talks continue with talk that if the 2 are close to arrangement, then the March 1 United States tariff walkings on Chinese imports may be pressed down the line to assist negotiations.\nWhile US dollar weakness is assisting fuel golds run greater, political risk remains – including EU development, Brexit and now Spanish elections – and might underpin the most current relocation. One negative may be that any sell-off in the Euro will see flows going back into the USD, weighing on the gold. Retail belief shows that traders remain long of gold– typically a contrarian bearish indication– while on the everyday chart the RSI indication is beginning to flash an overbought caution and ought to be enjoyed. On the disadvantage, the $1,303/ oz. area has held company since it was broken on January 25 and is followed by moving average support at $1,295/ oz. and 61.8% Fibonacci retracement at $1,287/ oz.\nRetail traders are 70.3% net-long Gold according to the newest IC Client Sentiment Data, a bearish contrarian indication. Current modifications in weekly and everyday sentiment recommend that the price of gold might move greater in spite of traders long-positions.\nbulliontrading\nView all posts\nPrevious Post\nCentral banks are buying the most gold since the end of World War II — here's why\nNext Post\nPrice of Gold Fundamental Weekly Forecast – If Treasury Yields Plunge then Look for Gold to Soar",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/02/Gold-Price-Nears-a-Fresh-10-Month-High-as-US-Dollar-Dips.png",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2019/02/Gold-Price-Nears-a-Fresh-10-Month-High-as-US-Dollar-Dips.png",
+          "width": "680",
+          "height": "360",
+          "caption": "Gold-Price-Nears-a-Fresh-10-Month-High-as-US-Dollar-Dips",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-price-nears-a-fresh-10-month-high-as-us-dollar-dips/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-price-nears-a-fresh-10-month-high-as-us-dollar-dips/",
+                "name": "Gold Price Nears a Fresh 10-Month High as US Dollar Dips"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-price-nears-a-fresh-10-month-high-as-us-dollar-dips/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-price-nears-a-fresh-10-month-high-as-us-dollar-dips/",
+          "name": "Gold Price Nears a Fresh 10-Month High as US Dollar Dips - Bullion Trading LLC",
+          "datePublished": "2019-02-18T09:59:56+00:00",
+          "dateModified": "2019-02-18T09:59:56+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/02/Gold-Price-Nears-a-Fresh-10-Month-High-as-US-Dollar-Dips.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-price-nears-a-fresh-10-month-high-as-us-dollar-dips/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold Price Nears a Fresh 10-Month High as US Dollar Dips - Bullion Trading LLC",
+          "datePublished": "2019-02-18T09:59:56+00:00",
+          "dateModified": "2019-02-18T09:59:56+00:00",
+          "articleSection": "Gold, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "We found this excellent post at https://www.dailyfx.com/forex/market_alert/2019/02/18/Gold-Price-Nears-a-Fresh-10-Month-High-as-US-Dollar-Dips.html By: Nick",
+          "name": "Gold Price Nears a Fresh 10-Month High as US Dollar Dips - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-price-nears-a-fresh-10-month-high-as-us-dollar-dips/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-price-nears-a-fresh-10-month-high-as-us-dollar-dips/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/02/Gold-Price-Nears-a-Fresh-10-Month-High-as-US-Dollar-Dips.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-price-nears-a-fresh-10-month-high-as-us-dollar-dips/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/central-banks-are-buying-the-most-gold-since-the-end-of-world-war-ii-heres-why/",
+    "https://bulliontradingllc.com/blog/gold-price-nears-a-fresh-10-month-high-as-us-dollar-dips/",
+    "https://bulliontradingllc.com/blog/price-of-gold-fundamental-weekly-forecast-if-treasury-yields-plunge-then-look-for-gold-to-soar/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2019/02/Gold-Price-Nears-a-Fresh-10-Month-High-as-US-Dollar-Dips.png",
+      "alt": "Gold-Price-Nears-a-Fresh-10-Month-High-as-US-Dollar-Dips"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

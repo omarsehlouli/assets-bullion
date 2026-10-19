@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "id": "fa927a144f77e6b1",
+    "url": "https://learn.bulliontradingllc.com/guides/questions/05-what-is-precious-metals-ira/",
+    "title": "What is a Precious Metals IRA? | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:33.304611+00:00",
+    "status": "fetched",
+    "bytes": 23201,
+    "text_characters": 5714,
+    "sha256_html": "1352f7744f618d516240f033c4035ba3a11450838d2828036a49b8ead21dff2a",
+    "file": "sources/fa927a144f77e6b1.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Learn how to invest in physical gold, silver, platinum, and palladium through a tax-advantaged self-directed retirement account.",
+  "canonical": "https://learn.bulliontradingllc.com/guides/questions/05-what-is-precious-metals-ira/",
+  "text": "beginner\nBy the\nBullion Trading LLC editorial team\nWhat is a Precious Metals IRA?\nLearn how to invest in physical gold, silver, platinum, and palladium through a tax-advantaged self-directed retirement account.\nA Precious Metals IRA, also known as a Gold IRA or Silver IRA, is a self-directed Individual Retirement Account that holds physical precious metals instead of (or alongside) paper assets. It combines the tax advantages of a traditional retirement account with the inflation protection and tangibility of bullion.\nHow Precious Metals IRAs Work\nUnlike traditional IRAs that hold stocks, bonds, and mutual funds, a Precious Metals IRA holds physical gold, silver, platinum, and palladium. The metals must meet specific IRS purity requirements and be stored at an approved depository — you cannot keep IRA-owned metals at home.\nIRS-Approved Precious Metals\nGold:\nmust be 99.5% pure (examples: American Gold Eagles, Canadian Gold Maple Leafs)\nSilver:\nmust be 99.9% pure (examples: American Silver Eagles, Canadian Silver Maple Leafs)\nPlatinum:\nmust be 99.95% pure (examples: American Platinum Eagles)\nPalladium:\nmust be 99.95% pure (examples: Canadian Palladium Maple Leafs)\nAmerican Eagle coins are explicitly allowed by statute even though Silver Eagles fall slightly below the 99.9% threshold for other silver products.\nTypes of Precious Metals IRAs\nTraditional Precious Metals IRA\nContributions may be tax-deductible\nTaxes are deferred until withdrawal\nRequired minimum distributions (RMDs) begin at age 73\nWithdrawals before age 59½ may incur a 10% penalty\nRoth Precious Metals IRA\nContributions are made with after-tax dollars\nQualified withdrawals in retirement are tax-free\nNo required minimum distributions during your lifetime\nMore flexible withdrawal rules for contributions\nSetting Up a Precious Metals IRA\nThe process involves four parties: you, a self-directed IRA custodian, a precious metals dealer, and an approved depository.\nStep 1: Choose a Custodian\nYou need a custodian that specializes in self-directed IRAs and precious metals. The custodian handles paperwork, tax reporting, and IRS compliance. A standard brokerage account cannot hold physical bullion.\nStep 2: Fund Your Account\nYou can fund the account three ways:\nDirect contributions:\nannual limits apply (for the 2024 tax year, $7,000, or $8,000 if age 50+; check current-year IRS limits)\nRollover:\nmove funds from an existing 401(k), 403(b), or other qualified plan\nTransfer:\nmove funds directly between IRAs (custodian-to-custodian, no tax event)\nStep 3: Select Your Metals\nWork with an approved bullion dealer to choose IRS-compliant products that fit your goals. Good IRA-eligible products typically include sovereign coins (Eagles, Maple Leafs, Britannias) and branded bars from LBMA-recognized refiners.\nStep 4: Arrange Storage\nMetals must be held at an IRS-approved depository. You can usually choose between segregated storage (your specific bars and coins held separately) or commingled storage (your holdings pooled with others’ of the same type). Segregated storage costs more.\nBenefits\nDiversification:\nphysical assets that don’t move in lockstep with equities or bonds\nInflation hedge:\nmetals have historically held purchasing power during inflationary decades\nTax advantages:\nthe same deferral or tax-free growth as any other IRA\nPortfolio protection:\nmetals often perform well during equity drawdowns and currency stress\nTangible assets:\nyou own actual metal, not a counterparty’s promise\nCosts and Limitations\n⚠️\nFees to budget for\nPrecious Metals IRAs carry costs that a brokerage IRA does not:\nStorage and insurance:\nroughly $100-$300 per year, depending on holdings and storage type\nCustodian fees:\nroughly $200-$400 per year for administration\nSetup fees:\none-time account-opening charges, typically $50-$100\nDealer spreads:\nthe bid-ask spread you pay buying and selling metal\nOver a long holding period these fees are manageable, but they make small balances inefficient.\nOther considerations:\nLiquidity:\nconverting metals to cash takes longer than selling a stock — typically a few business days\nNo income:\nmetals don’t pay dividends or interest\nShort-term volatility:\nspot prices can swing meaningfully in any given quarter\nHome storage is not allowed:\nschemes marketing “home storage IRAs” carry serious IRS risk\nDistribution Options at Retirement\nOnce you reach distribution age, you have three choices:\nTake physical delivery:\nthe depository ships your metal to you (taxed as a distribution at fair market value)\nSell and take cash:\nthe dealer liquidates the metal and the custodian distributes cash\nIn-kind transfer:\nmove specific coins or bars into a taxable account without selling\nIs a Precious Metals IRA Right for You?\nA Precious Metals IRA tends to make sense if you:\nWant to diversify a retirement portfolio that is currently all paper assets\nAre concerned about inflation, currency debasement, or systemic risk\nPrefer tangible assets and have a long holding horizon\nHave a balance large enough that flat custodian and storage fees aren’t a drag\nMost allocators suggest precious metals make up 5-20% of a total retirement portfolio — enough to matter as a hedge, not so much that you give up the long-term return of productive assets. Talk to a fee-only financial planner and a tax professional before moving funds.\nFor a deeper walk-through of custodians, depositories, and the rollover paperwork, see the\nPrecious Metals IRA Complete Guide\n.\nRelated on bulliontradingllc.com\nPrecious Metals Ira Complete Guide ↗\n· blog\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Guides",
+              "item": "https://learn.bulliontradingllc.com/guides/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Questions & Answers",
+              "item": "https://learn.bulliontradingllc.com/guides/questions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "What is a Precious Metals IRA?"
+            }
+          ]
+        },
+        {
+          "@type": "Article",
+          "headline": "What is a Precious Metals IRA?",
+          "description": "Learn how to invest in physical gold, silver, platinum, and palladium through a tax-advantaged self-directed retirement account.",
+          "url": "https://learn.bulliontradingllc.com/guides/questions/05-what-is-precious-metals-ira/",
+          "author": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/blog/precious-metals-ira-complete-guide/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

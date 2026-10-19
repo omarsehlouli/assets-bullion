@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "id": "24249165034a51dc",
+    "url": "https://learn.bulliontradingllc.com/",
+    "title": "Bullion Trading LLC Knowledge Center",
+    "retrieved_at": "2026-10-12T22:12:52.845236+00:00",
+    "status": "fetched",
+    "bytes": 17818,
+    "text_characters": 2092,
+    "sha256_html": "12a5b42a962295866e6d845011d7e94616e84f6fe42b7d3dbc99f0d1d029d6bd",
+    "file": "sources/24249165034a51dc.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Guides, tools, and answers for precious-metals investors. Built and maintained by Bullion Trading LLC.",
+  "canonical": "https://learn.bulliontradingllc.com/",
+  "text": "The investor's reference for physical precious metals.\nStructured learning paths, calculators that don't oversimplify, and a question-and-answer library\nfor everything in between. Designed for first-time buyers and people who already own bullion but\nwant to invest more deliberately.\nBrowse the guides\nShop bullion ↗\nLearning paths\nEach path is broken into short topics; each topic into 3–5 chunked parts you can read in 4–6 minutes.\nNew to Precious Metals\nStart here. Four topics walk you through why people buy physical gold and silver, how much to allocate, which metals to pick, and when to enter the market.\n4 topics\nbeginner\nGold Investing Fundamentals\nFrom market mechanics to advanced approaches and tax planning — the complete framework for gold investors.\n7 topics\nintermediate\nSilver Investing Fundamentals\nSilver is more volatile than gold but with bigger upside in industrial demand. A complete framework for silver investors.\n7 topics\nintermediate\nPlatinum Investing\nRarer than gold, with strong industrial demand from auto catalysts. Platinum trades on a different rhythm — here is the framework.\n7 topics\nintermediate\nPalladium Investing Fundamentals\nThe smallest and most volatile of the four precious metals. Where palladium fits, and where it does not.\n7 topics\nadvanced\nInvestment Strategies\nFive proven strategies for precious-metals investors: safe-haven, dollar-cost averaging, diversification, time-horizon, and tax-aware investing.\n5 topics\nintermediate\nMarket Analysis\nRead the precious-metals market the way professionals do — fundamental drivers, technical patterns, and global event triggers.\n5 topics\nadvanced\nStorage & Security\nWhere you keep your metal matters as much as what you buy. Home safe, vault, insurance, authenticity — covered.\n4 topics\nbeginner\nUnderstanding Gold & Silver\nThe foundational vocabulary: how to compare gold vs silver, what bullion forms exist, and what purity numbers actually mean.\n4 topics\nbeginner\nQuestions & Answers\nQuick answers to the 34 questions new and returning precious-metals investors ask most often.\n34 topics\nbeginner",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ItemList",
+          "name": "Learning paths",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 10,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "url": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/",
+              "name": "New to Precious Metals"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "url": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/",
+              "name": "Gold Investing Fundamentals"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "url": "https://learn.bulliontradingllc.com/guides/silver-investing-fundamentals/",
+              "name": "Silver Investing Fundamentals"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "url": "https://learn.bulliontradingllc.com/guides/platinum-investing/",
+              "name": "Platinum Investing"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "url": "https://learn.bulliontradingllc.com/guides/palladium-investing-fundamentals/",
+              "name": "Palladium Investing Fundamentals"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "url": "https://learn.bulliontradingllc.com/guides/investment-strategies/",
+              "name": "Investment Strategies"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "url": "https://learn.bulliontradingllc.com/guides/market-analysis/",
+              "name": "Market Analysis"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "url": "https://learn.bulliontradingllc.com/guides/storage-security/",
+              "name": "Storage & Security"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "url": "https://learn.bulliontradingllc.com/guides/understanding-gold-silver/",
+              "name": "Understanding Gold & Silver"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "url": "https://learn.bulliontradingllc.com/guides/questions/",
+              "name": "Questions & Answers"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

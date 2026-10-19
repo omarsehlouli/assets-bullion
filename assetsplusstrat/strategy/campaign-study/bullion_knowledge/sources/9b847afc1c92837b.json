@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "id": "9b847afc1c92837b",
+    "url": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-silver/",
+    "title": "What Impacts the Price of Silver? - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:16.613849+00:00",
+    "status": "fetched",
+    "bytes": 95554,
+    "text_characters": 3232,
+    "sha256_html": "1f900fe442502eb49c63521752873e5a258ec598dc922d5e8451801fd6c9bd5d",
+    "file": "sources/9b847afc1c92837b.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Much better economic times drive individuals to spend more money on precious jewelry that includes valuable metals. Silver is seen as keeping its value and",
+  "canonical": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-silver/",
+  "text": "Much better economic times drive individuals to spend more money on precious jewelry that includes valuable metals. Silver is seen as keeping its value and buying power versus a possible failure of paper currency. In times of economic uncertainty, valuable metal hoarding will increase the rate of silver.\nIt would be easy to state that “supply and demand” impacts the rate of silver. Yet this is just informing a little part of the story. Silver is a rare-earth element, putting it along with others such as gold, platinum, and palladium in markets of investment. To comprehend what drives the price of silver, we require to take a look at all the mechanics that drive the silver market. It is likewise important to comprehend that each of these elements act in concert with each other, regardless of one potentially getting more of the headlines from time to time.\nOne of the factors for the turn to ditch has also been newly found uses for silver in innovation. Silver rates are directly affected by the discovery (and replacement) of brand-new innovations. Many of the new uses for silver depend upon the metal, making it exceptionally important.\nThe worth of the American dollar (one of the worlds biggest reserve currencies) heavily plays an effect on the price of valuable metals. The more the dollar deserves in understanding to other financial investments, the less rare-earth elements are and vice versa. National mints as well drive the cost of silver, as the rare-earth element is utilized as a hedge versus natural inflation of paper currency.\nIts essential to understand the difference between speculation and investment. Speculation is benefiting from microeconomic trends, while financial investment is benefiting from macroeconomic patterns. The essential benefit of silver is that it is an incredibly safe macro-investment, much better valued over a long period of time frame.\nSilver scrap is becoming a larger gamer on market forces. Silver at one time was not recycled in the same method that gold was. Now, as the price and worth of silver is becoming more understood, products including silver are being recycled (or scrapped) for the rare-earth element inside of them.\nSupply of silver is limited, implying there will always be a higher demand for the restricted amount. When comprehending supply and need, nevertheless, it is crucial to pay attention to both macro and micro economic impacts.\nDo you comprehend the forces that drive the cost of silver? Share the article, and let us know in the comments!\nIt would be simple to state that “supply and demand” affects the rate of silver. To comprehend what drives the cost of silver, we need to look at all the mechanics that drive the silver market. In times of economic unpredictability, precious metal hoarding will increase the cost of silver.\nNational mints as well drive the rate of silver, as the valuable metal is used as a hedge versus natural inflation of paper currency.\nNow, as the cost and worth of silver is ending up being more understood, items including silver are being recycled (or scrapped) for the precious metal inside of them.\nbulliontrading\nView all posts\nPrevious Post\nHow Much Silver Exists?\nNext Post\nHow Much Gold Is There on Earth?",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/sunshine_silver_bars_silver_rounds3.jpg",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2021/04/sunshine_silver_bars_silver_rounds3.jpg",
+          "width": "525",
+          "height": "358",
+          "caption": "Untitled",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-silver/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/silver/",
+                "name": "silver"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-silver/",
+                "name": "What Impacts the Price of Silver?"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-silver/#webpage",
+          "url": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-silver/",
+          "name": "What Impacts the Price of Silver? - Bullion Trading LLC",
+          "datePublished": "2017-07-07T10:20:01+00:00",
+          "dateModified": "2017-07-07T10:20:01+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/sunshine_silver_bars_silver_rounds3.jpg"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-silver/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "What Impacts the Price of Silver? - Bullion Trading LLC",
+          "datePublished": "2017-07-07T10:20:01+00:00",
+          "dateModified": "2017-07-07T10:20:01+00:00",
+          "articleSection": "silver, silver bars, Silver Coins",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Much better economic times drive individuals to spend more money on precious jewelry that includes valuable metals. Silver is seen as keeping its value and",
+          "name": "What Impacts the Price of Silver? - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-silver/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-silver/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/sunshine_silver_bars_silver_rounds3.jpg"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-silver/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/silver-bars/",
+    "https://bulliontradingllc.com/blog/category/silver-coins/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/how-much-gold-is-there-on-earth/",
+    "https://bulliontradingllc.com/blog/how-much-silver-exists/",
+    "https://bulliontradingllc.com/blog/what-impacts-the-price-of-silver/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/sunshine_silver_bars_silver_rounds3.jpg",
+      "alt": "Untitled"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

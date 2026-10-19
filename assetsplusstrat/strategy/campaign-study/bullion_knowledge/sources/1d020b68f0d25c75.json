@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "id": "1d020b68f0d25c75",
+    "url": "https://learn.bulliontradingllc.com/quiz/portfolio-diversification-quiz/",
+    "title": "Portfolio Diversification with Precious Metals Quiz | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:44.433114+00:00",
+    "status": "fetched",
+    "bytes": 30719,
+    "text_characters": 483,
+    "sha256_html": "f060a195198f2e7a81fdfb976eea49e927a130b3c421eae1db78478137646aeb",
+    "file": "sources/1d020b68f0d25c75.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of using precious metals for portfolio diversification and risk management.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/portfolio-diversification-quiz/",
+  "text": "Portfolio Diversification with Precious Metals Quiz\nTest your knowledge of using precious metals for portfolio diversification and risk management.\nWhat is the key principle behind effective portfolio diversification?\nA\nBuying as many different stocks as possible\nB\nCombining assets with different risk and return characteristics that don't move in lockstep\nC\nOnly investing in precious metals\nD\nAvoiding all risky investments\n←\nBack to Portfolio Diversification with Precious Metals",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Investment Strategies",
+              "item": "https://learn.bulliontradingllc.com/guides/investment-strategies/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Portfolio Diversification with Precious Metals",
+              "item": "https://learn.bulliontradingllc.com/guides/investment-strategies/03-portfolio-diversification/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Portfolio Diversification with Precious Metals Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Portfolio Diversification with Precious Metals Quiz",
+          "description": "Test your knowledge of using precious metals for portfolio diversification and risk management.",
+          "url": "https://learn.bulliontradingllc.com/quiz/portfolio-diversification-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Portfolio Diversification with Precious Metals"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the key principle behind effective portfolio diversification?",
+              "text": "What is the key principle behind effective portfolio diversification?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Combining assets with different risk and return characteristics that don't move in lockstep",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Effective diversification relies on combining assets with different risk and return characteristics that have low or negative correlation, so losses in one investment can be offset by gains in another."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Buying as many different stocks as possible"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Only investing in precious metals"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Avoiding all risky investments"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "During the 2008 financial crisis, how did portfolios with precious metals allocation perform compared to traditional portfolios?",
+              "text": "During the 2008 financial crisis, how did portfolios with precious metals allocation perform compared to traditional portfolios?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Diversified portfolios (with 15% precious metals) lost only 10-15% vs 25-30% for traditional portfolios",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "During the 2008 financial crisis, diversified portfolios with 15% precious metals allocation lost only 10-15% compared to 25-30% losses for traditional 60/40 stock/bond portfolios."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "They performed the same"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "They performed worse"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "There was no difference"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What precious metals allocation do most experts recommend for conservative investors?",
+              "text": "What precious metals allocation do most experts recommend for conservative investors?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "10-20%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Conservative investors with low risk tolerance are typically recommended to allocate 10-20% to precious metals for capital preservation and stability."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "5-10%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "25-30%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "40-50%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How do precious metals typically correlate with stocks during normal market conditions vs. crisis periods?",
+              "text": "How do precious metals typically correlate with stocks during normal market conditions vs. crisis periods?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Low correlation during normal times, negative correlation during crises",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold typically has low correlation with equity markets during normal times, but often shows negative correlation during crises when stocks fall and gold rises as a safe haven."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Always positively correlated"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Always negatively correlated"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Perfect correlation at all times"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the recommended metal type diversification within a precious metals allocation?",
+              "text": "What is the recommended metal type diversification within a precious metals allocation?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "60-70% gold, 20-30% silver, 5-10% platinum, 5-10% palladium",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Advanced diversification suggests 60-70% gold for stability, 20-30% silver for industrial demand, and 5-10% each of platinum and palladium for additional diversification benefits."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "100% gold only"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "50% gold, 50% silver"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Equal amounts of all four metals"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "During which economic environment do precious metals provide the most diversification benefit?",
+              "text": "During which economic environment do precious metals provide the most diversification benefit?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Stagflation (slow growth + high inflation)",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Precious metals provide exceptional diversification benefits during stagflation, when most other assets struggle with the combination of slow growth and high inflation, as demonstrated in the 1970s."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Economic growth periods"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Low inflation periods"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Bull markets in stocks"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is a common diversification mistake mentioned in the content?",
+              "text": "What is a common diversification mistake mentioned in the content?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "False diversification - holding multiple assets that all move together",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "False diversification is a common mistake where investors hold multiple funds or assets that are highly correlated and move together, providing no real diversification benefit."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Having too much precious metals allocation"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Rebalancing too frequently"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Using physical metals instead of ETFs"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Portfolios with 5-15% precious metals allocation have historically shown better risk-adjusted returns.",
+              "text": "True or False: Portfolios with 5-15% precious metals allocation have historically shown better risk-adjusted returns.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "True. Portfolios with 5-15% precious metals allocation have historically shown better risk-adjusted returns and lower maximum drawdowns during market crises."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How often should investors review and rebalance their precious metals allocation?",
+              "text": "How often should investors review and rebalance their precious metals allocation?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Quarterly or when allocation deviates more than 5% from target",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Investors should review and rebalance their precious metals allocation quarterly or when it deviates more than 5% from target percentages to maintain optimal diversification."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Daily"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Weekly"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Only during major market crashes"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

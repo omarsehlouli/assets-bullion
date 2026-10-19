@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "id": "cdbbb69eddab4c05",
+    "url": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/01-why-physical-gold/02-economic-protection/",
+    "title": "Economic Protection: How Gold Behaves When Things Break",
+    "retrieved_at": "2026-10-12T22:13:30.055636+00:00",
+    "status": "fetched",
+    "bytes": 27148,
+    "text_characters": 3086,
+    "sha256_html": "dc1ff4825fdcc8d836124e9cfeef442d9fbb36f72015e14247e194493fc63a07",
+    "file": "sources/cdbbb69eddab4c05.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Real numbers from the four recent U.S. crises — 2000 dot-com, 2008 financial, 2020 COVID, 2022 inflation shock.",
+  "canonical": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/01-why-physical-gold/02-economic-protection/",
+  "text": "beginner\nBy the\nBullion Trading LLC editorial team\nEconomic Protection: How Gold Behaves When Things Break\nReal numbers from the four recent U.S. crises — 2000 dot-com, 2008 financial, 2020 COVID, 2022 inflation shock.\nPart 1 made the theoretical case. This one looks at the receipts.\nThe U.S. has had four major economic stress events in living memory: the\n2000–2002 dot-com bust\n, the\n2008 financial crisis\n, the\n2020 COVID shock\n, and the\n2022 inflation surge\n. Here’s how gold actually behaved during each, alongside the S&P 500.\nMonthly close from Yahoo Finance futures · synced\n2026-09-26\n. Current point upgraded to live spot when available.\n2000–2002 — Dot-com bust\nThe Nasdaq dropped about\n78%\nfrom peak to trough. The S&P 500 dropped roughly\n49%\n.\nGold went from about\n$280/oz\nin early 2000 to\n$380/oz\nby late 2003 — a 35% gain while tech stocks evaporated. Investors who held a 10% gold allocation had a measurably softer ride.\n2008 — Global financial crisis\nThis is the textbook stress test. The S&P 500 dropped\n38%\nin 2008. The financial system itself was in question for months.\nGold spent most of 2008 between\n$830 and $920/oz\n, then exploded upward through 2011, reaching\n$1,900/oz\nas central banks worldwide printed money to backstop the system.\n+158%\nGold's price change, late-2008 lows to 2011 peak\nSource: LBMA price history\n2020 — COVID shock\nThis one was unusual: the crash was sudden (a month from S&P peak to trough, -34%) and the recovery was faster (back to all-time-highs by August).\nGold tracked beautifully. It briefly dropped with everything else in March’s liquidity panic, then crossed\n$2,000/oz\nfor the first time in history by August 2020. That all-time-high held the title until 2024.\n2022 — Inflation shock\nThe S&P 500 dropped\n19.4%\nin 2022. The Bloomberg Aggregate Bond Index — supposedly the “safe” diversifier — dropped\n13%\n. Both lost real purchasing power even faster because inflation hit\n9.1%\nat peak.\nGold returned\nroughly 0%\nin 2022 in nominal dollar terms. Boring? Yes — and that’s the point. While stocks AND bonds both lost double digits, the gold allocation held the line.\nThe takeaway\n📊\nThe pattern across four crises\nStocks lose 20-50%\nof nominal value during severe equity bear markets.\nBonds protect\nduring equity-only crises but fail when inflation is the driver.\nGold preserves purchasing power\nin nominal terms during all four scenarios — sometimes with major upside (2008-2011, 2020), sometimes flat (2022).\nGold’s job isn’t to outperform stocks. Its job is to\nnot behave like stocks\nduring the worst quarters.\nThe next part takes that observation and turns it into a portfolio allocation question: given gold’s role, how much should you hold?\nTest your understanding\nQuick check: Why physical gold?\n5 questions →\nWhy Buy Physical Gold Quiz\n8 questions →\nRelated on bulliontradingllc.com\nHow precious metals perform during recessions (BTLLC blog) ↗\n· blog\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Guides",
+              "item": "https://learn.bulliontradingllc.com/guides/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "New to Precious Metals",
+              "item": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Why Buy Physical Gold?",
+              "item": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/01-why-physical-gold/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Economic Protection: How Gold Behaves When Things Break"
+            }
+          ]
+        },
+        {
+          "@type": "Article",
+          "headline": "Economic Protection: How Gold Behaves When Things Break",
+          "description": "Real numbers from the four recent U.S. crises — 2000 dot-com, 2008 financial, 2020 COVID, 2022 inflation shock.",
+          "url": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/01-why-physical-gold/02-economic-protection/",
+          "author": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/blog/three-reasons-to-invest-in-gold-according-to-research/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

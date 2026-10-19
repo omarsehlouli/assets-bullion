@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "1e074d7969dc3c0b",
+    "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1980/",
+    "title": "Silver Price in 1980 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:16.296695+00:00",
+    "status": "fetched",
+    "bytes": 19240,
+    "text_characters": 1320,
+    "sha256_html": "40c754c01712450b71d30005fd8e462c6f2c5ff1e5d410537fad758be540941c",
+    "file": "sources/1e074d7969dc3c0b.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Silver in 1980: 12 monthly observations, 1980-01-31 to 1980-12-31. Sampled high $35.52, low $13.49; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/silver-price-in-1980/",
+  "text": "Silver Price in 1980\nAmong 12 monthly observations available for 1980, the LBMA silver price fell 56.1% between 1980-01-31 ($35.28) and 1980-12-31 ($15.50). The highest sampled price was $35.52 in February and the lowest was $13.49 in March. The mean of these observations was $19.48. This is a first-to-last observation change, not a calendar-year return.\nWhat happened in 1980:\nGold and silver spiked to record highs in January 1980 amid double-digit inflation and the Hunt brothers' attempt to corner the silver market, then fell back sharply.\n1980 silver price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$35.28\n(1980-01-31)\n$35.52\n(February)\n$13.49\n(March)\n$15.50\n(1980-12-31)\n$19.48\nGBP\n£15.54\n(1980-01-31)\n£15.59\n(February)\n£5.88\n(May)\n£6.50\n(1980-12-31)\n£8.37\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live silver price on the\nBullion Trading LLC spot dashboard\n, or\nshop silver bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Silver price history",
+              "item": "https://learn.bulliontradingllc.com/charts/silver-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1980"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Silver price in 1980 — LBMA monthly fix",
+          "description": "Silver in 1980: 12 monthly observations, 1980-01-31 to 1980-12-31. Sampled high $35.52, low $13.49; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1980/",
+          "temporalCoverage": "1980-01-31/1980-12-31",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

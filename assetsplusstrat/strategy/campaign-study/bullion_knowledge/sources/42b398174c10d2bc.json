@@ -1,0 +1,344 @@
+{
+  "metadata": {
+    "id": "42b398174c10d2bc",
+    "url": "https://learn.bulliontradingllc.com/quiz/platinum-tax-retirement-planning-quiz/",
+    "title": "Platinum Tax and Retirement Planning Quiz | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:44.336855+00:00",
+    "status": "fetched",
+    "bytes": 27938,
+    "text_characters": 316,
+    "sha256_html": "b22d1cbc3a5fd35878978bcb3f2f86b8f70f870a96628209f31d03c39509f6bf",
+    "file": "sources/42b398174c10d2bc.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of platinum tax implications, IRA eligibility, and retirement planning strategies.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/platinum-tax-retirement-planning-quiz/",
+  "text": "Platinum Tax and Retirement Planning Quiz\nTest your knowledge of platinum tax implications, IRA eligibility, and retirement planning strategies.\nWhat is the maximum federal tax rate on long-term capital gains for platinum \"collectibles\" in the US?\nA\n15%\nB\n20%\nC\n28%\nD\n37%\n←\nBack to Platinum Tax & Retirement Planning",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Platinum Investing",
+              "item": "https://learn.bulliontradingllc.com/guides/platinum-investing/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Platinum Tax & Retirement Planning",
+              "item": "https://learn.bulliontradingllc.com/guides/platinum-investing/07-platinum-tax-retirement-planning/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Platinum Tax and Retirement Planning Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Platinum Tax and Retirement Planning Quiz",
+          "description": "Test your knowledge of platinum tax implications, IRA eligibility, and retirement planning strategies.",
+          "url": "https://learn.bulliontradingllc.com/quiz/platinum-tax-retirement-planning-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Platinum Tax & Retirement Planning"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the maximum federal tax rate on long-term capital gains for platinum \"collectibles\" in the US?",
+              "text": "What is the maximum federal tax rate on long-term capital gains for platinum \"collectibles\" in the US?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "28%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Physical platinum is classified as a \"collectible\" under IRS rules, subject to a maximum 28% federal tax rate on long-term capital gains, higher than standard 15%/20% rates."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "15%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "20%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "37%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the minimum purity requirement for platinum to be eligible for IRA ownership?",
+              "text": "What is the minimum purity requirement for platinum to be eligible for IRA ownership?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "99.95% (.9995 fineness)",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Platinum must be 99.95% pure (.9995 fineness) to be eligible for IRA ownership, meeting IRS requirements for investment-grade precious metals."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "99.9% (.999 fineness)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "99.99% (.9999 fineness)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "100% pure platinum"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the key tax advantage of holding platinum in a Roth IRA?",
+              "text": "What is the key tax advantage of holding platinum in a Roth IRA?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tax-free growth and withdrawals",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Roth IRAs provide tax-free growth and qualified withdrawals for platinum investments, plus no required distributions during lifetime and tax-free inheritance benefits."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Current year tax deduction"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Reduced capital gains rates"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Immediate tax benefits"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Who must be the legal owner of platinum held in an IRA?",
+              "text": "Who must be the legal owner of platinum held in an IRA?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The IRA itself",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The IRA itself must be the legal owner of the platinum, not the individual. The account holder cannot take personal possession while maintaining IRA status."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "The individual account holder"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "The custodian bank"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "The storage facility"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What VAT rate do German investors face on physical platinum purchases?",
+              "text": "What VAT rate do German investors face on physical platinum purchases?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "19%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "German investors face 19% VAT on physical platinum purchases, which is generally non-recoverable for investment purposes, significantly impacting total investment costs."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "16%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "21%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "No VAT"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How does platinum held in retirement accounts avoid \"collectibles\" tax treatment?",
+              "text": "How does platinum held in retirement accounts avoid \"collectibles\" tax treatment?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Special IRA exemption from collectibles classification",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Retirement account platinum receives special treatment avoiding \"collectibles\" classification, with distributions taxed as ordinary income rather than the 28% collectibles rate."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "It doesn't avoid the treatment"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Lower purity requirements"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Different storage rules"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is typically the annual cost of specialized precious metals insurance?",
+              "text": "What is typically the annual cost of specialized precious metals insurance?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1-2% of value",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Specialized precious metals insurance typically costs 1-2% of value annually, providing full replacement value coverage with no deductible and worldwide protection."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "0.5-1% of value"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "3-4% of value"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "5-6% of value"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the maximum potential tax impact difference between platinum and stock investments on a $5,000 gain?",
+              "text": "What is the maximum potential tax impact difference between platinum and stock investments on a $5,000 gain?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "$650",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "On a $5,000 gain, platinum faces up to $1,400 in federal taxes (28% collectibles rate) versus $750 on equivalent stock gains (15% capital gains rate) - a $650 difference."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "$400"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$800"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$1,000"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

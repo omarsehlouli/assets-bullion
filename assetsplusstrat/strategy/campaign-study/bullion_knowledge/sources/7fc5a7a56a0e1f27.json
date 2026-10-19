@@ -1,0 +1,386 @@
+{
+  "metadata": {
+    "id": "7fc5a7a56a0e1f27",
+    "url": "https://learn.bulliontradingllc.com/quiz/advanced-gold-investment-approaches-quiz/",
+    "title": "Advanced Gold Investment Approaches Quiz | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:39.249238+00:00",
+    "status": "fetched",
+    "bytes": 29600,
+    "text_characters": 346,
+    "sha256_html": "fea62240819e924d5be8c806f5798cc7ea8bf49a4b05de1efdc3189539390faa",
+    "file": "sources/7fc5a7a56a0e1f27.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of sophisticated gold investment strategies, derivatives, market timing, and institutional-level approaches.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/advanced-gold-investment-approaches-quiz/",
+  "text": "Advanced Gold Investment Approaches Quiz\nTest your knowledge of sophisticated gold investment strategies, derivatives, market timing, and institutional-level approaches.\nWhat is the standard size of a COMEX gold futures contract?\nA\n50 troy ounces\nB\n100 troy ounces\nC\n200 troy ounces\nD\n400 troy ounces\n←\nBack to Advanced Gold Investment Approaches",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold Investing Fundamentals",
+              "item": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Advanced Gold Investment Approaches",
+              "item": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/06-advanced-gold-investment-approaches/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Advanced Gold Investment Approaches Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Advanced Gold Investment Approaches Quiz",
+          "description": "Test your knowledge of sophisticated gold investment strategies, derivatives, market timing, and institutional-level approaches.",
+          "url": "https://learn.bulliontradingllc.com/quiz/advanced-gold-investment-approaches-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Advanced Gold Investment Approaches"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the standard size of a COMEX gold futures contract?",
+              "text": "What is the standard size of a COMEX gold futures contract?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "100 troy ounces",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Standard COMEX gold futures contracts are 100 troy ounces with delivery options, providing leveraged exposure to gold price movements."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "50 troy ounces"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "200 troy ounces"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "400 troy ounces"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What right does a gold call option provide to the holder?",
+              "text": "What right does a gold call option provide to the holder?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Right to buy gold at a specific price",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "A gold call option gives the holder the right (not obligation) to buy gold at a specific price within a defined timeframe."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Right to sell gold at a specific price"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Obligation to buy gold"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Obligation to sell gold"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is basis trading in gold futures?",
+              "text": "What is basis trading in gold futures?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Exploiting price differences between spot and futures prices",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Basis trading involves exploiting price differences between spot gold prices and futures prices to generate profits."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Trading only physical gold"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Trading gold mining stocks"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Currency hedging strategies"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Gold put options can be used for portfolio protection.",
+              "text": "True or False: Gold put options can be used for portfolio protection.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold put options provide the right to sell gold at a specific price, making them useful for hedging existing gold positions against downside risk."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is covered call writing on gold ETF positions used for?",
+              "text": "What is covered call writing on gold ETF positions used for?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Income generation",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Covered call writing on gold ETF positions is used for income generation by collecting option premiums while holding the underlying ETF."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Increasing leverage"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Reducing taxes"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Eliminating all risk"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which analysis examines the inverse relationship between gold and the dollar?",
+              "text": "Which analysis examines the inverse relationship between gold and the dollar?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gold-Dollar Correlation",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold-Dollar Correlation analysis examines the inverse relationship between gold prices and dollar strength, including breakdown points."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Gold-Bond Correlation"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold-Equity Correlation"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Inter-Metal Analysis"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What does the Commitment of Traders report analyze?",
+              "text": "What does the Commitment of Traders report analyze?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Commercial vs. speculative positioning",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The Commitment of Traders report analyzes commercial vs. speculative positioning in futures markets, providing insight into market sentiment."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Gold production statistics"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Central bank reserves"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Mining company earnings"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Derivatives and structured products involve significant risks including total loss of investment.",
+              "text": "True or False: Derivatives and structured products involve significant risks including total loss of investment.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Derivatives and structured products involve significant risks including total loss of investment and should only be used by experienced investors."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is real yield analysis used for in gold investing?",
+              "text": "What is real yield analysis used for in gold investing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Assessing TIPS yield impact on gold prices",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Real yield analysis assesses the impact of TIPS (Treasury Inflation-Protected Securities) yields on gold prices, as negative real yields often support gold."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Calculating mining costs"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Determining storage costs"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Evaluating coin premiums"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What are gold-linked notes?",
+              "text": "What are gold-linked notes?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Principal-protected notes tied to gold performance",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold-linked notes are structured products that are principal-protected notes tied to gold performance, offering exposure with some downside protection."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Physical gold certificates"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Mining company bonds"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold storage receipts"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

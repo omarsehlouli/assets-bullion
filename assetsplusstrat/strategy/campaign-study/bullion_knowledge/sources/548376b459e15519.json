@@ -1,0 +1,290 @@
+{
+  "metadata": {
+    "id": "548376b459e15519",
+    "url": "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "title": "Gold Market & Economics - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:26.997026+00:00",
+    "status": "fetched",
+    "bytes": 123808,
+    "text_characters": 2465,
+    "sha256_html": "c96b9a63b591c608f51eca79ecea9b4b84b6fead5792d4d4dec5a3a89e66ce1b",
+    "file": "sources/548376b459e15519.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Track gold market moves and macro economics with insights from BTLLC, plus competitive pricing on gold bars and coins and secure shipping for investors.",
+  "canonical": "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+  "text": "Gold Market & Economics\nEducation\nThe gold brick scam: the con that gave English the word “goldbricking”\nIn October 1879, five miners in Leadville, Colorado, ran the gold brick scam on N. D. Clark.\nBy\nbulliontrading\nOctober 2, 2026\nOctober 2, 2026\nGold Market & Economics\nEducation\nE-gold: the gold-backed digital money the feds prosecuted before Bitcoin\nE-gold was one of the internet’s first digital currencies, and the company said every\nBy\nbulliontrading\nSeptember 30, 2026\nSeptember 30, 2026\nEducation\nGold Market & Economics\nThe Bre-X scandal: the $6 billion gold mine that never existed\nOn May 4, 1997, Bre-X Minerals of Calgary released a letter from its own auditor that turned\nBy\nbulliontrading\nSeptember 27, 2026\nSeptember 27, 2026\nEducation\nGold Market & Economics\nBlack Friday 1869: the day Jay Gould cornered New York’s gold market\nA few minutes before noon on Friday, September 24, 1869, a broker by the little fountain in the\nBy\nbulliontrading\nSeptember 24, 2026\nSeptember 24, 2026\nEducation\nGold\nGold Market & Economics\nBorrow Against Gold Instead of Selling It: How Gold Loans Really Work\nYes, you can borrow against gold you already own, and in a year when an ounce trades near\nBy\nbulliontrading\nSeptember 21, 2026\nSeptember 21, 2026\nGold Market & Economics\nGold\nBRICS gold-backed currency: a fact check across four summits\nThere is no BRICS gold-backed currency. Nobody can spend one, no member government has signed\nBy\nbulliontrading\nSeptember 17, 2026\nSeptember 17, 2026\nnews\nGold\nGold Market & Economics\nGold rally August 2026: from $4,000 to $4,600, explained\nGold started August 2026 near $4,000 an ounce, a level it had been grinding around since the\nBy\nbulliontrading\nAugust 24, 2026\nAugust 24, 2026\nEducation\nGold Market & Economics\nThe London Gold Pool: the last time governments tried to pin the price of gold\nFor seven years, the price of gold was not really a price. From November 1961 to March 1968,\nBy\nbulliontrading\nAugust 20, 2026\nAugust 20, 2026\nEducation\nGold Market & Economics\nCOMEX gold delivery: what actually happens when you take it\nSomewhere in every gold conversation, someone says it: why pay a dealer’s premium when\nBy\nbulliontrading\nAugust 11, 2026\nAugust 11, 2026\nEducation\nGold Market & Economics\nThe Shanghai gold premium: why gold costs more in China\nPull up a live gold price and you are really looking at two prices. There is the one everybody\nBy\nbulliontrading\nJuly 30, 2026\nJuly 30, 2026\n1\n2\n…\n17\nOlder Posts",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/category/gold-market-economics/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+                "name": "Gold Market &amp; Economics"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://bulliontradingllc.com/blog/category/gold-market-economics/#webpage",
+          "url": "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+          "name": "Gold Market &amp; Economics - Bullion Trading LLC",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/category/gold-market-economics/#breadcrumb"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/black-friday-1869-jay-gould-gold-corner/",
+    "https://bulliontradingllc.com/blog/borrow-against-gold-instead-of-selling/",
+    "https://bulliontradingllc.com/blog/bre-x-scandal/",
+    "https://bulliontradingllc.com/blog/brics-gold-backed-currency-fact-check/",
+    "https://bulliontradingllc.com/blog/category/education/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/page/17/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/page/2/",
+    "https://bulliontradingllc.com/blog/category/news/",
+    "https://bulliontradingllc.com/blog/comex-gold-delivery-explained/",
+    "https://bulliontradingllc.com/blog/e-gold-digital-gold-currency/",
+    "https://bulliontradingllc.com/blog/gold-brick-scam/",
+    "https://bulliontradingllc.com/blog/gold-rally-august-2026/",
+    "https://bulliontradingllc.com/blog/london-gold-pool-collapse/",
+    "https://bulliontradingllc.com/blog/shanghai-gold-premium/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2026/10/gold-brick-scam.webp",
+      "alt": "gold brick scam"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/e-gold-digital-gold-currency.webp",
+      "alt": "e-gold"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/bre-x-scandal.webp",
+      "alt": "bre-x scandal"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/black-friday-1869-jay-gould-gold-corner.webp",
+      "alt": "black friday 1869"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/borrow-against-gold-instead-of-selling.webp",
+      "alt": "borrow against gold"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/brics-gold-backed-currency-fact-check.webp",
+      "alt": "BRICS gold-backed currency"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/08/gold-rally-august-2026.webp",
+      "alt": "gold rally August 2026"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/08/london-gold-pool-collapse.webp",
+      "alt": "London Gold Pool"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/08/comex-gold-delivery-explained.webp",
+      "alt": "COMEX gold delivery"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/07/shanghai-gold-premium.webp",
+      "alt": "shanghai-gold-premium"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

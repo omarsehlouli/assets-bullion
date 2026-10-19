@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "id": "4483a406c2730ce0",
+    "url": "https://bulliontradingllc.com/blog/should-you-invest-in-gold-during-covid-19/",
+    "title": "Should You Invest in Gold During COVID-19? - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:06.314672+00:00",
+    "status": "fetched",
+    "bytes": 103592,
+    "text_characters": 2775,
+    "sha256_html": "7452971cb10463b78f0757f6aa991fd39f897596dc17b3a6003fd4dc5321adaf",
+    "file": "sources/4483a406c2730ce0.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Considering gold during COVID-19? Explore how bullion behaves in uncertainty, its link to the dollar, volatility, and factors to weigh before buying.",
+  "canonical": "https://bulliontradingllc.com/blog/should-you-invest-in-gold-during-covid-19/",
+  "text": "Gold has always been the go-to investment that people turn to during times of uncertainty. It doesn’t move with market prices and it’s unaffected by inflation. When stock prices are down, the value of gold is typically\nsoaring\n. If you’re thinking about purchasing gold or other precious metals during this pandemic, here are a couple of things to consider:\nGold is Less Volatile\nPrecious metals like gold seem to be inversely related to the value of the US dollar. So when the dollar is down (like it is now), the value of gold is up. Because of this, during times of recession and uncertainty, gold and silver have typically been looked to as “safe havens”. It’s the currency that we fall back on when everything else seems to fail and it’s always been this way.\nIt Holds Its Value and Stands the Test of Time\nEven since ancient times, gold has proved that it can hold its value. Part of this reason is because of its limited supply. Mining new gold has actually been gradually slowing since 2000. Between there being less gold available and the demand for it growing, it’s no surprise that the value and price steadily increase.\nConsidering the crazy year we’ve had (to put it lightly), it’s important to point out that, unlike paper currency, the government can’t print trillions of gold bars and coins. Precious metals aren’t affected by inflation in the same way that paper currency is. That’s why you see people flock back to gold when things aren’t going well. Think about it: if there was ever an event that led to monetary collapse of the U.S. dollar, what would we fall back on? Gold bullions and silver primarily.\nGold is also much more stable than stocks and bonds historically. During the 2007–2009 recession, the S&P 500 Index was down 37%, but the price of gold rose by\n24%\n. It seems that throughout history, as the stock market plummets,\ngold\nheads in the opposite direction.\nTakeaway\nWhat has always worked before may no longer work in this “new normal”. For that reason, it’s important to cut out what isn’t working or yielding returns and diversify your portfolio.\nThe takeaway here is that gold and precious metals have proven themselves time and time again as a stable, long-term investment since centuries ago. Gold and silver are more valuable and resilient than paper currency and many investors’ go-to choice during times of uncertainty.\nWork With One of The\nBest Online Gold Dealers\nIf you want to get started in investing in gold, our experts can help. We have been one of NYC’s premier gold bullion dealers for the past 50+ years and will be able to give you the guidance you need.\nbulliontrading\nView all posts\nPrevious Post\nNew Jersey Residents and The 7% Sales Tax on Precious Metals\nNext Post\nSilver and Gold Coins Vs Bars: Which One to Buy?",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/price-of-gold-bar.jpg",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2021/04/price-of-gold-bar.jpg",
+          "width": "880",
+          "height": "400",
+          "caption": "Untitled",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/should-you-invest-in-gold-during-covid-19/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/should-you-invest-in-gold-during-covid-19/",
+                "name": "Should You Invest in Gold During COVID-19?"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/should-you-invest-in-gold-during-covid-19/#webpage",
+          "url": "https://bulliontradingllc.com/blog/should-you-invest-in-gold-during-covid-19/",
+          "name": "Should You Invest in Gold During COVID-19? - Bullion Trading LLC",
+          "datePublished": "2020-11-09T10:00:19+00:00",
+          "dateModified": "2020-11-09T10:00:19+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/price-of-gold-bar.jpg"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/should-you-invest-in-gold-during-covid-19/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Should You Invest in Gold During COVID-19? - Bullion Trading LLC",
+          "datePublished": "2020-11-09T10:00:19+00:00",
+          "dateModified": "2020-11-09T10:00:19+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Considering gold during COVID-19? Explore how bullion behaves in uncertainty, its link to the dollar, volatility, and factors to weigh before buying.",
+          "name": "Should You Invest in Gold During COVID-19? - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/should-you-invest-in-gold-during-covid-19/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/should-you-invest-in-gold-during-covid-19/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/price-of-gold-bar.jpg"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/should-you-invest-in-gold-during-covid-19/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/gold-coins-vs-bars/",
+    "https://bulliontradingllc.com/blog/new-jersey-residents-and-the-7-sales-tax-on-precious-metals/",
+    "https://bulliontradingllc.com/blog/should-you-invest-in-gold-during-covid-19/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://bulliontradingllc.com/wp-content/uploads/2020/11/does-gold-increase-in-value",
+    "https://bulliontradingllc.com/wp-content/uploads/2020/11/stocks-vs-gold-comparison",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/price-of-gold-bar.jpg",
+      "alt": "Untitled"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://bulliontradingllc.com/blog/wp-content/uploads/2020/11/gold-bullions.jpg",
+      "alt": "gold bullions "
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

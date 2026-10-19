@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "547d492f46edf01f",
+    "url": "https://learn.bulliontradingllc.com/charts/gold-price-in-1988/",
+    "title": "Gold Price in 1988 — Monthly LBMA Fix, Highs & Lows | BTLLC",
+    "retrieved_at": "2026-10-12T22:12:56.674290+00:00",
+    "status": "fetched",
+    "bytes": 18890,
+    "text_characters": 1103,
+    "sha256_html": "decc045ffe9999acd2a69d9ac4e2bf632e8d954a162459ade0497c013e7ccb3b",
+    "file": "sources/547d492f46edf01f.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Gold in 1988: 12 monthly observations, 1988-01-29 to 1988-12-29. Sampled high $458, low $397; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/gold-price-in-1988/",
+  "text": "Gold Price in 1988\nAmong 12 monthly observations available for 1988, the LBMA gold price fell 10.4% between 1988-01-29 ($458) and 1988-12-29 ($410). The highest sampled price was $458 in January and the lowest was $397 in September. The mean of these observations was $432. This is a first-to-last observation change, not a calendar-year return.\n1988 gold price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$458\n(1988-01-29)\n$458\n(January)\n$397\n(September)\n$410\n(1988-12-29)\n$432\nGBP\n£259\n(1988-01-29)\n£259\n(January)\n£228\n(November)\n£229\n(1988-12-29)\n£243\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live gold price on the\nBullion Trading LLC spot dashboard\n, or\nshop gold bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold price history",
+              "item": "https://learn.bulliontradingllc.com/charts/gold-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1988"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Gold price in 1988 — LBMA monthly fix",
+          "description": "Gold in 1988: 12 monthly observations, 1988-01-29 to 1988-12-29. Sampled high $458, low $397; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/gold-price-in-1988/",
+          "temporalCoverage": "1988-01-29/1988-12-29",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

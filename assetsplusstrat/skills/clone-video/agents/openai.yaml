@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clone Video (Hypit)"
+  short_description: "Clone a reference video into a new one with Hypit"
+  default_prompt: "Use $clone-video to recreate my reference video with my changes."

@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "59fc6aee9e29d7f3",
+    "url": "https://bulliontradingllc.com/blog/goldman-sachs-pushes-gold-based-in-part-on-growing-popularity-of-deficit-spending-theory/",
+    "title": "Goldman Sachs pushes gold, based in part on growing popularity of deficit-spending theory - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:48.756288+00:00",
+    "status": "fetched",
+    "bytes": 97627,
+    "text_characters": 4453,
+    "sha256_html": "95ed28549108030882b37ba7f2cd8eecc4cf71e79f27b5918ca956ecf4b0fbe4",
+    "file": "sources/59fc6aee9e29d7f3.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Here is a post about Goldman Sachs is anticipating gold rates to increase. This is not our initial short article so we consisted of a link to the original",
+  "canonical": "https://bulliontradingllc.com/blog/goldman-sachs-pushes-gold-based-in-part-on-growing-popularity-of-deficit-spending-theory/",
+  "text": "Here is a post about Goldman Sachs is anticipating gold rates to increase. This is not our initial short article so we consisted of a link to the original author. , if you want to check out the initial article you can discover a link at the end of this post.. We hope you delight in reading these short article.\npurchase a gold bar\nAs part of a bullish forecast for the yellow metal, Goldman said one reason is the growing discussion over Modern Monetary Theory, which says financial obligation and deficits do not matter so long as inflation remains low. MMT advocates, mainly on the political left, state governments need to utilize low rates to invest on facilities and social programs to boost development and lower inequality.\nWhile Goldman strategists say they do not anticipate MMT to be executed on a large level, they think just the talk of it can cause stress over currency debasement and rampant inflation, both traditionally strong backgrounds for gold.\nGoldman Sachs is forecasting gold to increase to $1,600 an once, an 8.5% gain from existing levels.A primary part of the bull case is the increasing talk of Modern Monetary Theory, which states deficits do not matter in low-inflation environments.Political unpredictability and golds status as a noncorrelated possession likewise are part of the bull case.\nGoldmans 12-month target for gold is $1,600 an ounce, representing an 8.5% gain from Mondays opening price. The metal has put in a strong performance over the past 12 months, increasing nearly 14% amidst lower interest rates and a moderating U.S. dollar.\nThe products best times often come throughout times of unpredictability, as a safe sanctuary, in addition to a store of wealth to hedge versus inflation.\nGoldman Sachs is a big follower in gold for the year ahead, and among the main factors is the introduction of a significantly popular economic approach that motivates federal government deficit costs.\n” In the next economic crisis, our United States financial experts do not expect governments to embrace direct monetary financing and anticipate inflation to stay firmly anchored,” Mikhail Sprogis, valuable metals analyst at Goldman, stated in a research note. “But this doesnt always prevent a boost in debasement concerns if conversations around MMT become more widespread– a possible increase to demand for gold as a debasement hedge.”\nElection unpredictability also a boost\nHere is a post about Goldman Sachs is forecasting gold prices to increase. If you desire to check out the initial post you can discover a link at the end of this post. Sprogis pointed out that even the hazard that MMT could discover more friendly quarters in the halls of Congress and even the White House might cause a run to gold. Previous debasement frightens, like the beginning of quantitative reducing in 2008, activated inflation fears that turned out to be unproven however were helpful for gold.\nIn addition to the influence of MMT talk, Goldmans bull case likewise cites golds use as a possession not associated to other asset classes like stocks, and as a place that could supply more trustworthy returns than bonds..\n” High political unpredictability due to ongoing trade tensions and the approaching US elections should also be helpful gold in 2020,” Sprogis wrote. “This uncertainty may be among the reasons that we see evidence of a non-ETF vaulted gold develop, as high net worth individuals may want to save gold outside the monetary system.”.\nThe MMT impact adds a new wrinkle.\nSprogis mentioned that even the danger that MMT could find more friendly quarters in the halls of Congress and even the White House could cause a run to gold. Presidential prospect Sen. Bernie Sanders is a MMT acolyte as are several other high-profile progressives including Rep. Alexandria Ocasio-Cortez of New York. Previous debasement scares, like the start of quantitative relieving in 2008, set off inflation worries that turned out to be unproven however were useful for gold.\nTheres also the matter of the 2020 election, which might see substantial market turbulence as Americans weigh President Donald Trump against his Democratic rival.\nWe found this excellent post at https://www.cnbc.com/2019/12/09/goldman-sachs-pushes-gold-on-popularity-of-modern-monetary-theory.html By: Jeff Cox.\nbulliontrading\nView all posts\nPrevious Post\nGold is looking more and more attractive\nNext Post\nGold prices near steady amid better global risk appetite",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/12/buy-a-gold-bar-1-768x518-1-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2019/12/buy-a-gold-bar-1-768x518-1-jpg.webp",
+          "width": "768",
+          "height": "518",
+          "caption": "buy-a-gold-bar-1-768&#215;518",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/goldman-sachs-pushes-gold-based-in-part-on-growing-popularity-of-deficit-spending-theory/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/goldman-sachs-pushes-gold-based-in-part-on-growing-popularity-of-deficit-spending-theory/",
+                "name": "Goldman Sachs pushes gold, based in part on growing popularity of deficit-spending theory"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/goldman-sachs-pushes-gold-based-in-part-on-growing-popularity-of-deficit-spending-theory/#webpage",
+          "url": "https://bulliontradingllc.com/blog/goldman-sachs-pushes-gold-based-in-part-on-growing-popularity-of-deficit-spending-theory/",
+          "name": "Goldman Sachs pushes gold, based in part on growing popularity of deficit-spending theory - Bullion Trading LLC",
+          "datePublished": "2019-12-10T10:06:22+00:00",
+          "dateModified": "2019-12-10T10:06:22+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/12/buy-a-gold-bar-1-768x518-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/goldman-sachs-pushes-gold-based-in-part-on-growing-popularity-of-deficit-spending-theory/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Goldman Sachs pushes gold, based in part on growing popularity of deficit-spending theory - Bullion Trading",
+          "datePublished": "2019-12-10T10:06:22+00:00",
+          "dateModified": "2019-12-10T10:06:22+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Here is a post about Goldman Sachs is anticipating gold rates to increase. This is not our initial short article so we consisted of a link to the original",
+          "name": "Goldman Sachs pushes gold, based in part on growing popularity of deficit-spending theory - Bullion Trading",
+          "@id": "https://bulliontradingllc.com/blog/goldman-sachs-pushes-gold-based-in-part-on-growing-popularity-of-deficit-spending-theory/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/goldman-sachs-pushes-gold-based-in-part-on-growing-popularity-of-deficit-spending-theory/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/12/buy-a-gold-bar-1-768x518-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/goldman-sachs-pushes-gold-based-in-part-on-growing-popularity-of-deficit-spending-theory/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/gold-is-looking-more-and-more-attractive/",
+    "https://bulliontradingllc.com/blog/gold-prices-near-steady-amid-better-global-risk-appetite/",
+    "https://bulliontradingllc.com/blog/goldman-sachs-pushes-gold-based-in-part-on-growing-popularity-of-deficit-spending-theory/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2019/12/buy-a-gold-bar-1-768x518-1-jpg.webp",
+      "alt": "buy-a-gold-bar-1-768×518"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

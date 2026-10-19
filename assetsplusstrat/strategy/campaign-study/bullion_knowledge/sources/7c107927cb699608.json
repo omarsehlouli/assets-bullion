@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "id": "7c107927cb699608",
+    "url": "https://learn.bulliontradingllc.com/guides/storage-security/",
+    "title": "Storage & Security | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:37.905528+00:00",
+    "status": "fetched",
+    "bytes": 19477,
+    "text_characters": 2812,
+    "sha256_html": "588f76ba95e09484000e1a61eb2cafca76be7411f4ba511d8801ebdb097a23bb",
+    "file": "sources/7c107927cb699608.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Where you keep your metal matters as much as what you buy. Home safe, vault, insurance, authenticity — covered.",
+  "canonical": "https://learn.bulliontradingllc.com/guides/storage-security/",
+  "text": "beginner\nUpdated June 1, 2026\nBy the\nBullion Trading LLC editorial team\nStorage & Security\nWhere you keep your metal matters as much as what you buy. Home safe, vault, insurance, authenticity — covered.\nBuying gold and silver is the easy part. The harder question — and the one most new stackers underthink — is where the metal lives once it arrives. A coin in a sock drawer, a tube of rounds in a closet safe, and an allocated bar at a Brink’s vault all carry very different risk profiles, insurance implications, and liquidity trade-offs. Getting this wrong can quietly cost more than any premium you negotiated on the buy side.\nThis path walks through the four decisions every physical metals owner has to make: home versus professional storage, what insurance actually covers, how to harden your setup against theft and disaster, and how to handle and verify pieces so you do not damage value or get fooled by a fake. By the end, you will be able to match a storage strategy to the size of your gold and silver position, price the real cost of each option, and spot the authenticity red flags that matter on resale.\n📊\nWhat you'll learn\nWhen a home safe makes sense and when professional vaulting is worth the fee\nWhat homeowners, rider, and specie insurance policies actually pay out on precious metals\nPractical security layers — beyond the safe itself — that deter and delay theft\nHow to handle, store, and authenticate coins and bars without destroying their premium\nWhat’s in this path\nHome vs. Vault Storage\n— the trade-offs between holding metal yourself and paying a depository to hold it for you.\nInsurance Options\n— what standard policies exclude, when a scheduled rider is enough, and when you need specie coverage.\nSecurity Considerations\n— safe ratings, placement, anchoring, and the operational habits that keep your stack quiet.\nHandling & Authenticity\n— gloves, capsules, tubes, and the field tests that confirm a piece is what the seller claims.\nHome vs. Vault Storage\nCompare home safes, bank safety deposit boxes, and professional vault storage to choose the right precious metals storage strategy for your holdings.\nInsurance Options\nStandard homeowner policies barely cover precious metals — learn how scheduled riders, specialty insurers, and vault coverage actually protect bullion.\nSecurity Considerations\nA layered approach to protecting precious metals, covering physical security, operational discretion, digital records, transport, and emergency planning.\nHandling & Authenticity\nHow to handle precious metals to preserve their value and verify authenticity using visual, physical, and professional methods.\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Guides",
+              "item": "https://learn.bulliontradingllc.com/guides/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Storage & Security"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Storage & Security",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "url": "https://learn.bulliontradingllc.com/guides/storage-security/01-home-vs-vault-storage/",
+              "name": "Home vs. Vault Storage"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "url": "https://learn.bulliontradingllc.com/guides/storage-security/02-insurance-options/",
+              "name": "Insurance Options"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "url": "https://learn.bulliontradingllc.com/guides/storage-security/03-security-considerations/",
+              "name": "Security Considerations"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "url": "https://learn.bulliontradingllc.com/guides/storage-security/04-handling-authenticity/",
+              "name": "Handling & Authenticity"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

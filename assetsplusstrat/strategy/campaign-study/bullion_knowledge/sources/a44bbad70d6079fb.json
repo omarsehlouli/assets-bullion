@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "id": "a44bbad70d6079fb",
+    "url": "https://bulliontradingllc.com/blog/year-opens-on-optimistic-note-for-coin-prices/",
+    "title": "Year opens on optimistic note for coin prices - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:20.733953+00:00",
+    "status": "fetched",
+    "bytes": 94847,
+    "text_characters": 2060,
+    "sha256_html": "5ac9669a2abe1798596c52d826f2fa848a682671f25aa8d6820061ed42a93d64",
+    "file": "sources/a44bbad70d6079fb.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The spot rate of gold appears to be holding at better than $1,300 per ounce as this commentary is being written. This is excellent news for the prices of",
+  "canonical": "https://bulliontradingllc.com/blog/year-opens-on-optimistic-note-for-coin-prices/",
+  "text": "The spot rate of gold appears to be holding at better than $1,300 per ounce as this commentary is being written. This is excellent news for the prices of generic flow strike and modern-day celebratory gold coins. Ironically, it has actually had little effect on First Spouse gold coins, although bidding has actually been more powerful for non-certified examples in their original product packaging. A major issue for all these markets continues to be the spread between quote, which is near spot prices, and much higher ask prices. The market for product packaging that should accompany such things as General Service Administration silver dollars, First Spouse coins, modern-day commemoratives, and for evidence and mint sets is noticeably active, indicating an increasing collector need for these coins in their original packaging.\nWe discovered this terrific post at http://www.numismaticnews.net/article/year-opens-optimistic-note-coin-prices By: Richard Giedroyc\n.\nHere is a post about gold and silver coin rates. , if you have any concern relating to the short article or desired to read the original post you can discover the link at the bottom of this post.\nAt the beginning of 2018, total market gratitude looks confident. If youve been sitting on the sidelines, you may wish to consider getting back in the swimming pool before the water gets any much deeper. There is a genuine chance 2018 might be a better year than its predecessor. This might be just Florida United Numismatist convention-induced optimism, however it is real.\nThe area rate of silver has actually broken the $17 an ounce barrier but does not appear yet to have impacted the rate of generic coinage. Scarce to unusual coins are in a different world, impacted more by outdoors investment markets and the economy. The worth of these coins is holding consistent, however there are yet to be notable price increases.\nbulliontrading\nView all posts\nPrevious Post\nGold and Silver 2018 Outlook - The Fundamental Technician\nNext Post\nSilver shaping up to outshine gold in the months ahead",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/01/coin-prices.png",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2018/01/coin-prices.png",
+          "width": "615",
+          "height": "310",
+          "caption": "coin-prices",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/year-opens-on-optimistic-note-for-coin-prices/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-coins/",
+                "name": "gold coins"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/year-opens-on-optimistic-note-for-coin-prices/",
+                "name": "Year opens on optimistic note for coin prices"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/year-opens-on-optimistic-note-for-coin-prices/#webpage",
+          "url": "https://bulliontradingllc.com/blog/year-opens-on-optimistic-note-for-coin-prices/",
+          "name": "Year opens on optimistic note for coin prices - Bullion Trading LLC",
+          "datePublished": "2018-01-18T12:22:33+00:00",
+          "dateModified": "2018-01-18T12:22:33+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/01/coin-prices.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/year-opens-on-optimistic-note-for-coin-prices/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Year opens on optimistic note for coin prices - Bullion Trading LLC",
+          "datePublished": "2018-01-18T12:22:33+00:00",
+          "dateModified": "2018-01-18T12:22:33+00:00",
+          "articleSection": "gold coins, Silver Coins",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "The spot rate of gold appears to be holding at better than $1,300 per ounce as this commentary is being written. This is excellent news for the prices of",
+          "name": "Year opens on optimistic note for coin prices - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/year-opens-on-optimistic-note-for-coin-prices/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/year-opens-on-optimistic-note-for-coin-prices/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/01/coin-prices.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/year-opens-on-optimistic-note-for-coin-prices/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/category/silver-coins/",
+    "https://bulliontradingllc.com/blog/gold-and-silver-2018-outlook-the-fundamental-technician/",
+    "https://bulliontradingllc.com/blog/silver-shaping-up-to-outshine-gold-in-the-months-ahead/",
+    "https://bulliontradingllc.com/blog/year-opens-on-optimistic-note-for-coin-prices/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2018/01/coin-prices.png",
+      "alt": "coin-prices"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

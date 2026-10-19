@@ -1,0 +1,65 @@
+{
+  "checked_at": "2026-10-12T22:59:20.075795+00:00",
+  "campaign_checks": [
+    {
+      "campaign": "campaign1",
+      "required_files": "pass",
+      "ad_copy_lengths": "pass",
+      "destination_source_evidence": "pass",
+      "image_dimensions": [
+        1254,
+        1254
+      ],
+      "image_served": true,
+      "image_sha256": "0b3c7cb643c65601677d9a83bdb6ca39561d787ad564043f16d0905b7d3fa5cb"
+    },
+    {
+      "campaign": "campaign2",
+      "required_files": "pass",
+      "ad_copy_lengths": "pass",
+      "destination_source_evidence": "pass",
+      "image_dimensions": [
+        1254,
+        1254
+      ],
+      "image_served": true,
+      "image_sha256": "569494a45b1c98e11db135c30c34839c38cdf76787ea22f21f23764430a07ae9"
+    },
+    {
+      "campaign": "campaign3",
+      "required_files": "pass",
+      "ad_copy_lengths": "pass",
+      "destination_source_evidence": "pass",
+      "image_dimensions": [
+        1254,
+        1254
+      ],
+      "image_served": true,
+      "image_sha256": "1fe738a7f6e51b1bacdf8eb60a285e03abda93d8cc67c1217a53e64398d19be9"
+    },
+    {
+      "campaign": "campaign4",
+      "required_files": "pass",
+      "ad_copy_lengths": "pass",
+      "destination_source_evidence": "pass",
+      "image_dimensions": [
+        1254,
+        1254
+      ],
+      "image_served": true,
+      "image_sha256": "fa58f6b8e9150f75059d08ab3c4b081241fb11ba0e7f7c9a1e655722f20ec722"
+    },
+    {
+      "campaign": "campaign5",
+      "required_files": "pass",
+      "ad_copy_lengths": "pass",
+      "destination_source_evidence": "pass",
+      "image_dimensions": [
+        1254,
+        1254
+      ],
+      "image_served": true,
+      "image_sha256": "9bb86564526371dd99e6d0a35a293d68c26861c80e8ede17d2d36d1c5ce8d066"
+    }
+  ]
+}

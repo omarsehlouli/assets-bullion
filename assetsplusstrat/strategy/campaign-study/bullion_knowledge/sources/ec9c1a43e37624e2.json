@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "id": "ec9c1a43e37624e2",
+    "url": "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "title": "Inflation-Adjusted Gold — 2026-08 Dollars | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:02.059492+00:00",
+    "status": "fetched",
+    "bytes": 15218,
+    "text_characters": 1013,
+    "sha256_html": "77469f1bce8330d7cfce9cad39566a299e0771a465bfd41901a1c9979bd545ed",
+    "file": "sources/ec9c1a43e37624e2.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The highest inflation-adjusted monthly gold observation was $5,353 in 2026-08 dollars, set Feb 2026. See the LBMA gold price in constant dollars vs nominal, monthly observations since 1968.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+  "text": "Inflation-Adjusted Gold Price\nCompare monthly gold observations in nominal and constant dollars.\nThe highest inflation-adjusted observation is\n$5,353\nin 2026-08 dollars (Feb 2026). The highest nominal observation in the matched sample is $5,222 (Feb 2026). The latest matched month is Aug 2026: $4,563 nominal and $4,563 inflation-adjusted.\nSources and methodology\n. These are monthly samples, not daily or intraday records.\nShow nominal price too\nReal = monthly nominal fixing × CPI-U for\n2026-08\n÷ CPI-U for the observation month. Months without matching CPI data are omitted.\nWhy adjust for inflation?\nA price in 1980 dollars and a price in 2026 dollars aren't comparable — the dollar buys far less today.\nConverting each available month to\n2026-08\ndollars (using the BLS CPI-U index) puts six decades on one\nhonest scale, and shows gold's real purchasing power rather than just its headline number.\nExplore more: the\nfull nominal gold history\n, the\nall-time-high tracker\n, or\nshop gold bullion\nat live prices.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Inflation-adjusted gold price"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Inflation-adjusted (real) gold price (LBMA × CPI-U, monthly observations since 1968)",
+          "description": "The highest inflation-adjusted monthly gold observation was $5,353 in 2026-08 dollars, set Feb 2026. See the LBMA gold price in constant dollars vs nominal, monthly observations since 1968.",
+          "url": "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+          "temporalCoverage": "1968/2026",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

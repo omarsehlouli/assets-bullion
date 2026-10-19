@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "id": "ac9b7fe099685b3e",
+    "url": "https://learn.bulliontradingllc.com/quiz/technical-analysis-quiz/",
+    "title": "Technical Analysis Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:44.964155+00:00",
+    "status": "fetched",
+    "bytes": 27742,
+    "text_characters": 393,
+    "sha256_html": "3086d5b677248999ea7199090b53ed29833835731f76673b601b0e774f9dc004",
+    "file": "sources/ac9b7fe099685b3e.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of chart patterns, technical indicators, and professional trading strategies for precious metals.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/technical-analysis-quiz/",
+  "text": "Technical Analysis Quiz\nTest your knowledge of chart patterns, technical indicators, and professional trading strategies for precious metals.\nAccording to the content, what moving average is gold consolidating near during current market conditions?\nA\n10-day simple moving average\nB\n20-day exponential moving average\nC\n50-day moving average\nD\n200-day moving average\n←\nBack to Technical Analysis",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Market Analysis",
+              "item": "https://learn.bulliontradingllc.com/guides/market-analysis/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Technical Analysis",
+              "item": "https://learn.bulliontradingllc.com/guides/market-analysis/03-technical-analysis/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Technical Analysis Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Technical Analysis Quiz",
+          "description": "Test your knowledge of chart patterns, technical indicators, and professional trading strategies for precious metals.",
+          "url": "https://learn.bulliontradingllc.com/quiz/technical-analysis-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Technical Analysis"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "According to the content, what moving average is gold consolidating near during current market conditions?",
+              "text": "According to the content, what moving average is gold consolidating near during current market conditions?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "20-day exponential moving average",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold's consolidation near its 20-day exponential moving average demonstrates how dynamic support levels function in trending markets."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "10-day simple moving average"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "50-day moving average"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "200-day moving average"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the key advantage of candlestick charts over line charts in precious metals analysis?",
+              "text": "What is the key advantage of candlestick charts over line charts in precious metals analysis?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They reveal the internal battle between buyers and sellers during each time period",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Candlestick charts reveal the internal battle between buyers and sellers during each time period through OHLC data that line charts cannot capture."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "They show only closing prices"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "They are easier to read"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "They eliminate market noise"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What does a \"Golden Cross\" signal in technical analysis?",
+              "text": "What does a \"Golden Cross\" signal in technical analysis?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The 50-day crossing above the 200-day moving average",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Golden Cross signals occur when the 50-day crosses above the 200-day moving average, historically signaling major bull market beginnings."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "The 50-day crossing below the 200-day moving average"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold reaching a new high"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Volume reaching extreme levels"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "According to the volume-price relationship principle, what indicates strong, sustainable trends?",
+              "text": "According to the volume-price relationship principle, what indicates strong, sustainable trends?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rising prices with increasing volume",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Rising prices with increasing volume indicate strong, sustainable uptrends, providing crucial validation of price movements."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Rising prices with decreasing volume"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Falling prices with increasing volume"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Volume doesn't matter for trend analysis"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What type of chart pattern do flags and pennants represent?",
+              "text": "What type of chart pattern do flags and pennants represent?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Continuation patterns",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Flags and pennants are continuation patterns representing brief consolidations within strong trends, often leading to trend continuation."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Reversal patterns"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Neutral patterns"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Distribution patterns"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the primary purpose of using multiple timeframes in technical analysis?",
+              "text": "What is the primary purpose of using multiple timeframes in technical analysis?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "To get complete market perspective",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Analyzing multiple timeframes simultaneously provides complete market perspective, from long-term trends to precise entry timing."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "To confuse the analysis"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "To increase trading frequency"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "To eliminate all risk"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What does RSI measure in technical analysis?",
+              "text": "What does RSI measure in technical analysis?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Overbought/oversold conditions",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "RSI (Relative Strength Index) measures overbought/oversold conditions, particularly useful during precious metals corrections."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Volume patterns"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Price direction only"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Market sentiment surveys"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Technical analysis works best when aligned with fundamental drivers.",
+              "text": "True or False: Technical analysis works best when aligned with fundamental drivers.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Technical patterns are more reliable when aligned with strong fundamental drivers, combining both analysis methods for optimal results."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

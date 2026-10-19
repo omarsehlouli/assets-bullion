@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "id": "1ddc99dd8cef21d6",
+    "url": "https://bulliontradingllc.com/blog/why-gold-bars-should-be-9999-pure/",
+    "title": "Why Gold Bars Should Be .9999% Pure - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:19.177252+00:00",
+    "status": "fetched",
+    "bytes": 100959,
+    "text_characters": 2459,
+    "sha256_html": "67f9f814cdbfd73d62471103a3466da661116d3a127ab0046cd8758ce11ccd2a",
+    "file": "sources/1ddc99dd8cef21d6.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "In major markets, .9999 fine gold bars help preserve resale value. Learn why purity matters, how standards differ, and what to avoid when buying.",
+  "canonical": "https://bulliontradingllc.com/blog/why-gold-bars-should-be-9999-pure/",
+  "text": "Gold purity is of particular concern when you’re buying and selling gold in the United States, Canada or Australia.\nRemember Why You’re Buying In The First Place\nIt’s important to stay focused on your purpose for buying gold. You’re building an investment portfolio, which means you ultimately want to be able to exchange the gold for its value.\nDon’t Get Less For Your Investment\nIf you buy gold bars that are 99.5% pure in a country that requires their gold to be purified up to .9999%, you risk being charged more when you go to exchange them for their value. The reason for this is, there aren’t enough investors coming in to buy 99.5% gold bars, so\nyou’ll be charged for the fact that it will be sitting in their inventory as dead stock\n, receiving less value than what you paid for.\nThe standard for quality and purity varies from country to country. In some places, such as in some Middle Eastern and European countries, 99.5% gold is acceptable as pure. The .9999% purity is not taken into account when buying and selling gold bars, so you don’t have to worry about being charged more for adding to dead stock. There are several reasons why some gold bars are made with 99.5% purity. Some bars are old and were not able to be purified to this higher standard at the time of their manufacturing. Before 1965, the gold was simply poured and stamped with whatever its purity was, even here in the United States. The technology to purify gold is expensive and not all gold manufacturers invest in it. They can only purify their gold on-site up to 99.5%, so they may outsource the purification process or skip it altogether.\nAt Bullion Trading LLC,\nwe pay better for 99.5% gold bars than our competitors\n.\nHowever, as a general standard when buying,\nit is wise to prioritize gold bars with .9999% purity to avoid any issues when trading them in for their value\n. If you’re buying government-minted coins, such as the\nKrugerrand\nor\nAmerican Eagle\n, you don’t have to be as concerned with purity because government-minted coins warrant a premium due to their historical value.\nYou might think you’re getting a good deal when you’re buying 99.5% gold bars but it will cost you in the long run. Pay attention to purity when purchasing gold bars. You will thank yourself in the end.\nbulliontrading\nView all posts\nPrevious Post\nBuying and Selling Online Vs. Buying and Selling In Person\nNext Post\nManaging Expectations When Buying Gold\nLeave a Reply\nCancel reply",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/enu-5-oz-Gold-Bar-9999-1011-20000-2-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2021/04/enu-5-oz-Gold-Bar-9999-1011-20000-2-jpg.webp",
+          "width": "1016",
+          "height": "660",
+          "caption": "Untitled",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/why-gold-bars-should-be-9999-pure/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/why-gold-bars-should-be-9999-pure/",
+                "name": "Why Gold Bars Should Be .9999% Pure"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/why-gold-bars-should-be-9999-pure/#webpage",
+          "url": "https://bulliontradingllc.com/blog/why-gold-bars-should-be-9999-pure/",
+          "name": "Why Gold Bars Should Be .9999% Pure - Bullion Trading LLC",
+          "datePublished": "2020-12-23T13:56:17+00:00",
+          "dateModified": "2020-12-23T13:56:17+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/enu-5-oz-Gold-Bar-9999-1011-20000-2-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/why-gold-bars-should-be-9999-pure/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Why Gold Bars Should Be .9999% Pure - Bullion Trading LLC",
+          "datePublished": "2020-12-23T13:56:17+00:00",
+          "dateModified": "2020-12-23T13:56:17+00:00",
+          "articleSection": "Gold, Gold Bars, gold bullion, gold coins",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "In major markets, .9999 fine gold bars help preserve resale value. Learn why purity matters, how standards differ, and what to avoid when buying.",
+          "name": "Why Gold Bars Should Be .9999% Pure - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/why-gold-bars-should-be-9999-pure/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/why-gold-bars-should-be-9999-pure/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/enu-5-oz-Gold-Bar-9999-1011-20000-2-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/why-gold-bars-should-be-9999-pure/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/2020/01/06/south-african-gold-krugerrand/",
+    "https://bulliontradingllc.com/blog/2020/01/20/american-eagle-gold-coins/",
+    "https://bulliontradingllc.com/blog/buying-and-selling-online-vs-buying-and-selling-in-person/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-bars/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/managing-expectations-when-buying-gold/",
+    "https://bulliontradingllc.com/blog/why-gold-bars-should-be-9999-pure/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/enu-5-oz-Gold-Bar-9999-1011-20000-2-jpg.webp",
+      "alt": "Untitled"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

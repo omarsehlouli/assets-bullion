@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "id": "b95f66c432090e5f",
+    "url": "https://learn.bulliontradingllc.com/charts/platinum-price-in-2008/",
+    "title": "Platinum Price in 2008 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:11.307944+00:00",
+    "status": "fetched",
+    "bytes": 19757,
+    "text_characters": 1324,
+    "sha256_html": "c2d957a0dca23973d150518823f4fb3da8cc3464e37359ddf2f21e4c6f7f2622",
+    "file": "sources/b95f66c432090e5f.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Platinum in 2008: 12 monthly observations, 2008-01-31 to 2008-12-30. Sampled high $2,150, low $814; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/platinum-price-in-2008/",
+  "text": "Platinum Price in 2008\nAmong 12 monthly observations available for 2008, the LBMA platinum price fell 48.1% between 2008-01-31 ($1,731) and 2008-12-30 ($898). The highest sampled price was $2,150 in February and the lowest was $814 in October. The mean of these observations was $1,563. This is a first-to-last observation change, not a calendar-year return.\nWhat happened in 2008:\nThe global financial crisis drove waves of safe-haven demand into precious metals.\n2008 platinum price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$1,731\n(2008-01-31)\n$2,150\n(February)\n$814\n(October)\n$898\n(2008-12-30)\n$1,563\nGBP\n£871\n(2008-01-31)\n£1,084\n(February)\n£505\n(October)\n£621\n(2008-12-30)\n£830\nEUR\n€1,166\n(2008-01-31)\n€1,415\n(February)\n€634\n(December)\n€634\n(2008-12-30)\n€1,042\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live platinum price on the\nBullion Trading LLC spot dashboard\n, or\nshop platinum bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Platinum price history",
+              "item": "https://learn.bulliontradingllc.com/charts/platinum-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "2008"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Platinum price in 2008 — LBMA monthly fix",
+          "description": "Platinum in 2008: 12 monthly observations, 2008-01-31 to 2008-12-30. Sampled high $2,150, low $814; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/platinum-price-in-2008/",
+          "temporalCoverage": "2008-01-31/2008-12-30",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/platinum-and-palladium/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

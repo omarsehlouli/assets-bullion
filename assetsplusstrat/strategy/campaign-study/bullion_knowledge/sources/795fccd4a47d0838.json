@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "795fccd4a47d0838",
+    "url": "https://bulliontradingllc.com/blog/category/precious-metals/",
+    "title": "Precious Metals - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:27.829658+00:00",
+    "status": "fetched",
+    "bytes": 118118,
+    "text_characters": 1951,
+    "sha256_html": "5e5c9cbe2edacc08e78df59153e7631a22a4983c6af91a12a9cad9b873e99f32",
+    "file": "sources/795fccd4a47d0838.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Shop precious metals like gold, silver, platinum and palladium bullion at BTLLC with competitive pricing and secure shipping from checkout to door nationwide.",
+  "canonical": "https://bulliontradingllc.com/blog/category/precious-metals/",
+  "text": "Silver Coins\nEducation\nPrecious Metals\nsilver\nThe Pittman Act: when America melted 270 million silver dollars\nIn the spring of 1918, the melting rooms at the Philadelphia Mint ran overtime. An electric\nBy\nbulliontrading\nOctober 5, 2026\nOctober 5, 2026\nEducation\nGold\nPrecious Metals\nsilver\nWhy Is Silver So Cheap Compared to Gold?\nOn September 15, 2026, an ounce of gold cost about $4,310 and an ounce of silver about $63.50.\nBy\nbulliontrading\nSeptember 15, 2026\nSeptember 15, 2026\nnews\nGold Market & Economics\nPrecious Metals\nThe Rosland Capital Collapse: What Went Wrong and What Gold Buyers Should Learn\nOn July 2, 2026, one of the most heavily advertised names in retail gold filed for\nBy\nbulliontrading\nJuly 8, 2026\nJuly 8, 2026\nGold\nGold Market & Economics\nInvestment Strategy\nplatinum\nPrecious Metals\nPlatinum vs gold investment: is platinum finally having its moment in 2026?\nIf you stack gold and haven’t looked at platinum in a while, the numbers deserve ten\nBy\nbulliontrading\nJuly 2, 2026\nJuly 2, 2026\nEducation\nGold\nPrecious Metals\nsilver\nFlying With Gold and Silver: TSA Rules and Customs Limits\nYou packed a few gold coins and a couple of silver bars, zipped them into your carry-on, and\nBy\nbulliontrading\nJune 24, 2026\nJune 24, 2026\nGold\nguide\nPrecious Metals\nGold Vermeil vs Gold-Filled vs Gold-Plated vs Solid Gold: A Buyer’s Guide\nWalk into any jewelry store and the labels start to blur. Gold plated. Gold filled. Gold\nBy\nbulliontrading\nJune 1, 2026\nJune 1, 2026\nGold Market & Economics\nGold\nPrecious Metals\nsilver\nWhat Happens to Gold and Silver When Oil Prices Spike?\nJust over two weeks into the 2026 Iran war, Brent crude is trading near $100 a barrel. The\nBy\nbulliontrading\nMarch 17, 2026\nMarch 17, 2026\nPrecious Metals\nEducation\nGold\nThe 10 Biggest Precious Metals Robberies in History\nGold has been a symbol of wealth and power for thousands of years, and wherever there is gold,\nBy\nbulliontrading\nMarch 9, 2026\nMarch 9, 2026",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/category/precious-metals/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/precious-metals/",
+                "name": "Precious Metals"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://bulliontradingllc.com/blog/category/precious-metals/#webpage",
+          "url": "https://bulliontradingllc.com/blog/category/precious-metals/",
+          "name": "Precious Metals - Bullion Trading LLC",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/category/precious-metals/#breadcrumb"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/biggest-precious-metals-robberies-in-history/",
+    "https://bulliontradingllc.com/blog/category/education/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/category/guide/",
+    "https://bulliontradingllc.com/blog/category/guide/investment-strategy/",
+    "https://bulliontradingllc.com/blog/category/news/",
+    "https://bulliontradingllc.com/blog/category/platinum/",
+    "https://bulliontradingllc.com/blog/category/precious-metals/",
+    "https://bulliontradingllc.com/blog/category/silver-coins/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/flying-with-gold-and-silver/",
+    "https://bulliontradingllc.com/blog/gold-vermeil-vs-gold-filled-vs-gold-plated-vs-solid-gold/",
+    "https://bulliontradingllc.com/blog/oil-price-spike-gold-silver/",
+    "https://bulliontradingllc.com/blog/pittman-act/",
+    "https://bulliontradingllc.com/blog/platinum-vs-gold-investment-2026/",
+    "https://bulliontradingllc.com/blog/rosland-capital-bankruptcy-what-went-wrong/",
+    "https://bulliontradingllc.com/blog/why-is-silver-so-cheap-compared-to-gold/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2026/10/pittman-act.webp",
+      "alt": "Pittman Act"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/why-is-silver-so-cheap-compared-to-gold.webp",
+      "alt": "why is silver so cheap"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/07/rosland-capital-bankruptcy-what-went-wrong-1.webp",
+      "alt": "Rosland Capital bankruptcy"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/07/platinum-vs-gold-investment-2026-1.webp",
+      "alt": "platinum vs gold investment"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/06/flying-with-gold-and-silver-1.webp",
+      "alt": "flying with gold and silver"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/06/gold-vermeil-vs-gold-filled-vs-gold-plated-vs-solid-gold.webp",
+      "alt": "Assorted gold jewelry pieces arranged on a light background"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/03/What-Happens-to-Gold-and-Silver-When-Oil-Prices-Spike.webp",
+      "alt": "Gold and silver coins beside an oil pump and price chart"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/03/The-10-Biggest-Precious-Metals-Robberies-in-History.webp",
+      "alt": "Stacked gold bars beside a black ski mask"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

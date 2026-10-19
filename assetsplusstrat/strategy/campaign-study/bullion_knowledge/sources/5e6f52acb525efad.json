@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "id": "5e6f52acb525efad",
+    "url": "https://bulliontradingllc.com/blog/federal-reserve-will-guide-gold-in-the-coming-weeks/",
+    "title": "Federal Reserve Will Guide Gold In The Coming Weeks - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:33.816705+00:00",
+    "status": "fetched",
+    "bytes": 97292,
+    "text_characters": 4859,
+    "sha256_html": "e165869de45e6c69535aacfc3edd1e5e95302e95faac78d1cde7416765ad2145",
+    "file": "sources/5e6f52acb525efad.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Even the World Gold Council has actually released its trends report and has concerned a comparable conclusion. They have stated that people along with company",
+  "canonical": "https://bulliontradingllc.com/blog/federal-reserve-will-guide-gold-in-the-coming-weeks/",
+  "text": "Even the World Gold Council has actually released its trends report and has concerned a comparable conclusion. They have stated that people along with company entities have actually taken a more well balanced method to gold for the time being. This appears when one takes a look at the present gold-trading volume on the Comex market, which has decrease approximately 18% over the last 100 service days.\nThe head of metals research study at Societe Generale, Robin Bhar, has actually stated that the boost in gold costs in just momentary due to it being a safe choice to make with the ongoing disputes. He kept in mind that gold has trouble broadening beyond its existing variety, with $1,320 as the leading edge. According to him the gold rates are just safe because it is experiencing movement in between quotes, and is not impacted by a wide-spread rally.\nThis conference is anticipated to enable the fed to establish its future beliefs on the labor markets. Many expect some of the typical worries to be announced, such as incomes and work conditions. This labor market statement could supply valuable details about the current advancements of the Feds influence and their possible future participation.\nOn the Kitco News Gold Survey, they found that the specific participants were divided on their predictions, with 8 of them seeing higher costs while 8 of them saw lower rates. While gold prices were at first set low for the week, after the current discontent between Russia and Ukraine, the rate has increased and settled at a soft $1,300.\nOn the Kitco News Gold Survey, they found that the individual participants were split on their forecasts, with 8 of them seeing higher costs while 8 of them saw lower costs. The last 4 participants were neutral, or saw that the costs would trade sideways. These participants are futures traders, investment banks, and bullion dealerships for the most part.\nDespite the fact that gold did not end the week on a high note, it was still viewed as being within a trade variety of $1,280 and $1,320, which is a greater variety than previously. While lots of people think that it will stay in that range for the time being, the chances are that it will be set on the lower side of that variety.\nGold futures for December tumbled on Friday, reaching a last price of $1,306.20 per ounce on the Comex department of the New York-based Mercantile Exchange. This has culminated in a loss amounting to 0.37% for the week. Silver for the September futures likewise settled and fell at $19.94 an ounce, indicating that it has actually now fallen 2.08% on the week.\nNews from the Federal Reserve together with problems in geopolitics will guide the gold market over the next few weeks. Various watchers on the marketplace have stated that the gold volumes may be especially light entering into the last weeks of August due to individuals attempting to squeeze in some last summer trips.\nOne of the issues that are holding gold back is the apparent lack of interest in the product due to the top-heavy market. Because the marketplace is currently that is full of individuals with a position in gold, it has actually remained stable. However, the aggressive maneuvers that were shown in 2015 have all but died out, causing a disinterest in gold in the existing economy.\nNext week will be vital in regards to gold futures because of the release of the Federal Open Market Committee conference minutes as well as numerous Fed presidents speaking at the yearly Jackson Hole event.\n.\nAll of this is based on the expected news from the geopolitical world. The Israel-Hamas dispute has just recently cooled down, just to be replaced by escalations in the Iraqi conflict that is now bolstered by U.S. assistance. A popular market watcher has stated that he expects the gold market to evaluate lower for this factor. While the geopolitical world has actually been seriously shaken, the economic data was great.\nA prominent market watcher has actually said that he expects the gold market to test lower for this factor. One of the issues that are holding gold back is the obvious absence of interest in the product due to the top-heavy market. Since the market is presently that is full of individuals with a position in gold, it has stayed consistent.\nWhile gold was holding at a rather tight plan, they fell Friday after the release of U.S. economy data, and U.S. inflation rose about 0.1%. Production data collected throughout the United States likewise revealed that the marketplace was experiencing growth. While gold rates were initially set low for the week, after the recent discontent between Russia and Ukraine, the rate has increased and settled at a soft $1,300.\nbulliontrading\nView all posts\nPrevious Post\nThree Wise Investments To Protect Against Inflation with Bullion\nNext Post\nSilver Prices Become More Detached From Gold",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/federal-reserve-will-guide-gold-in-the-coming-weeks/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+                "name": "Gold Market &amp; Economics"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/federal-reserve-will-guide-gold-in-the-coming-weeks/",
+                "name": "Federal Reserve Will Guide Gold In The Coming Weeks"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/federal-reserve-will-guide-gold-in-the-coming-weeks/#webpage",
+          "url": "https://bulliontradingllc.com/blog/federal-reserve-will-guide-gold-in-the-coming-weeks/",
+          "name": "Federal Reserve Will Guide Gold In The Coming Weeks - Bullion Trading LLC",
+          "datePublished": "2014-08-20T21:36:21+00:00",
+          "dateModified": "2014-08-20T21:36:21+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/federal-reserve-will-guide-gold-in-the-coming-weeks/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Federal Reserve Will Guide Gold In The Coming Weeks - Bullion Trading LLC",
+          "datePublished": "2014-08-20T21:36:21+00:00",
+          "dateModified": "2014-08-20T21:36:21+00:00",
+          "articleSection": "Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Even the World Gold Council has actually released its trends report and has concerned a comparable conclusion. They have stated that people along with company",
+          "name": "Federal Reserve Will Guide Gold In The Coming Weeks - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/federal-reserve-will-guide-gold-in-the-coming-weeks/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/federal-reserve-will-guide-gold-in-the-coming-weeks/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/federal-reserve-will-guide-gold-in-the-coming-weeks/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/federal-reserve-will-guide-gold-in-the-coming-weeks/",
+    "https://bulliontradingllc.com/blog/silver-prices-become-more-detached-from-gold/",
+    "https://bulliontradingllc.com/blog/three-wise-investments-to-protect-against-inflation-with-bullion/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

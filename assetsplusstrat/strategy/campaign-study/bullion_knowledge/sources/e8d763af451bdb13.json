@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "id": "e8d763af451bdb13",
+    "url": "https://learn.bulliontradingllc.com/quiz/silver-market-fundamentals-quiz/",
+    "title": "Silver Market Fundamentals Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:44.858270+00:00",
+    "status": "fetched",
+    "bytes": 26405,
+    "text_characters": 262,
+    "sha256_html": "bbb011ee66edd5730c21b64e0b5d4ae6c2176d3fe542a0e72a8a6671f4391539",
+    "file": "sources/e8d763af451bdb13.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your understanding of silver market dynamics, supply-demand factors, and price drivers.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/silver-market-fundamentals-quiz/",
+  "text": "Silver Market Fundamentals Quiz\nTest your understanding of silver market dynamics, supply-demand factors, and price drivers.\nDuring the 1971-1980 bull market, how much did silver increase?\nA\n500%\nB\n800%\nC\nOver 1,000%\nD\n1,500%\n←\nBack to Silver Market Fundamentals",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Silver Investing Fundamentals",
+              "item": "https://learn.bulliontradingllc.com/guides/silver-investing-fundamentals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Silver Market Fundamentals",
+              "item": "https://learn.bulliontradingllc.com/guides/silver-investing-fundamentals/02-silver-market-fundamentals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Silver Market Fundamentals Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Silver Market Fundamentals Quiz",
+          "description": "Test your understanding of silver market dynamics, supply-demand factors, and price drivers.",
+          "url": "https://learn.bulliontradingllc.com/quiz/silver-market-fundamentals-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Silver Market Fundamentals"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "During the 1971-1980 bull market, how much did silver increase?",
+              "text": "During the 1971-1980 bull market, how much did silver increase?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Over 1,000%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Silver soared over 1,000%, hitting $50 per ounce by January 1980 from a range of $1.30 to $1.80 in 1971."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "500%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "800%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "1,500%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What percentage of silver comes from mines primarily focused on silver production?",
+              "text": "What percentage of silver comes from mines primarily focused on silver production?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "28%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Only about 28% of silver comes from mines primarily focused on obtaining silver; it is more often a byproduct of mining other metals."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "45%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "60%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "75%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which country is the largest silver producing country?",
+              "text": "Which country is the largest silver producing country?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mexico",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Mexico is the largest silver producing country, followed by Peru and China."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Peru"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "China"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "United States"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Silver is consumed in use, meaning it is gone once utilized for products.",
+              "text": "True or False: Silver is consumed in use, meaning it is gone once utilized for products.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Unlike gold, which is primarily held as an investment, silver is consumed in use for industrial applications, meaning it is gone once utilized."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What happened to silver during the 2009-2011 bull market?",
+              "text": "What happened to silver during the 2009-2011 bull market?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It peaked near $50",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Silver peaked near $50 ($45.83) by May 2011 during the 2009-2011 bull market period."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "It peaked near $30"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "It peaked near $70"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "It remained flat"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the current status of global government stockpiles of silver?",
+              "text": "What is the current status of global government stockpiles of silver?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They have drastically diminished",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Current global government stockpiles of silver have drastically diminished after decades of selling, which artificially depressed prices."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "They are increasing"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "They remain stable"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "They are at historic highs"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How did silver perform compared to gold in the three years following the Global Financial Crisis?",
+              "text": "How did silver perform compared to gold in the three years following the Global Financial Crisis?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Silver outperformed gold four-fold",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Silver outperformed gold four-fold in the three years following the Global Financial Crisis (2008-2009 onwards)."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Silver underperformed gold"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Silver performed equally to gold"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Silver outperformed gold two-fold"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the recommended maximum allocation of silver in an average portfolio?",
+              "text": "What is the recommended maximum allocation of silver in an average portfolio?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "10%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Silver should make up only a small portion of a well-diversified portfolio, with a recommendation of no more than 10 percent of the average portfolio."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "5%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "20%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "30%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

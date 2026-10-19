@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "id": "4ef9c0ee517f8359",
+    "url": "https://bulliontradingllc.com/blog/how-donald-trump-changed-my-mind-about-gold/",
+    "title": "How Donald Trump Changed My Mind About Gold - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:50.187335+00:00",
+    "status": "fetched",
+    "bytes": 95922,
+    "text_characters": 4227,
+    "sha256_html": "102bed58e282762160c376ea2f5b937ddf3c7979b7db2af792003e24833431c6",
+    "file": "sources/4ef9c0ee517f8359.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Here are 2 different pieces that took me just a couple of seconds to discover. There are a lot of tweets out there saying the very same thing.",
+  "canonical": "https://bulliontradingllc.com/blog/how-donald-trump-changed-my-mind-about-gold/",
+  "text": "Here are 2 different pieces that took me just a couple of seconds to discover. There are a lot of tweets out there saying the very same thing.\nThese people have actually been basically. Over the years, Ive said a lot of bad things about gold– how its a poor currency, how its simply a rock that should not have any value, how love of it is primitive and irrational, how it has no reasonable basis in the economy.\nGold Investing\nHowever Im altering my mind, and its all due to Donald Trump.\nThe other day, Timothy OBrien published a fantastic picture gallery here on Bloomberg View revealing Trumps love of all things gold. Trump events typically feature pretend miniature gold bars.\nInvestment in a precious metal like gold is among the absolute best financial investment choices that you might ever make, particularly throughout these turbulent monetary times. Buying gold can secure your profile versus dangers of inflation, wars and natural disasters along with variations in stock expenses. Like with other investment option, gold investing does come with its share of threats; and you have to understand and likewise reduce such risks in order to comprehend the preferred returns on your investment.\nWhat does all this state about Trump?\nWhat does this all have to do with Trump? Well, if theres one thing that Trump clearly comprehends, its power. The projection of unchecked power is essential to his message.\nOBriens post got me thinking about “The Power of Gold: The History of an Obsession” by Peter L. Bernstein. Its tough to get gold out of the ground (you dont see gold gushers like you do with oil). To get and hold gold, empires and kings had to construct complicated international supply chains and wield military might.\nIve altered my mind about gold. I understand as never before how gold ownership can be a proxy for power and how, given that power is an essential ingredient in offering currency worth, it makes sense that gold has played such a significant role in the monetary system. Perhaps a clearer version would be, “He who has the ability to acquire gold and mint coins out of it makes the guidelines.”\nPurchase Gold Now\nThroughout the years Ive entered into great deals of arguments with gold fans. Some of them make arguments about the Fed. Others say stuff about inflation and currency debasement and all that. None of those arguments are interesting or really compelling. It took Donald Trump to come along for me to lastly value what gold is everything about.\nIn other words, gold is a visual and physical symptom of raw power. It follows, then, that gold would make for an excellent basis for currency.\nThis was intriguing and excellent material we discovered it over at (http://www.bloomberg.com/view/articles/2016-07-28/how-donald-trump-changed-my-mind-about-gold by: Joe Weisenthal) and believed it was something that our subscribers would discover beneficial\nInvestment in a precious metal like gold is among the very finest investment decisions that you might ever make, particularly throughout these troubled monetary times. Like with other investment option, gold investing does come with its share of risks; and you have to comprehend and likewise minimize such risks in order to understand the favored returns on your investment.\nGold is the best-known along with most preferred rare-earth element, along with its easy to see why. Past being a key item for precious jewelry, capitalists all over the world usage gold as a shop of wealth, and several think that it transcends to any and all paper currencies.\nAnd so Trumps connection with gold makes total sense. Trump doesnt utilize gold to signify his wealth. He utilizes it to indicate power.\nIts hard to get gold out of the ground (you dont see gold gushers like you do with oil). And so Trumps connection with gold makes total sense. I understand as never before how gold ownership can be a proxy for power and how, since power is an essential active ingredient in giving currency value, it makes sense that gold has actually played such a significant function in the monetary system.\nbulliontrading\nView all posts\nPrevious Post\nWhat Are Karats and Carats? The Buyer’s Guide\nNext Post\nHow to Protect Yourself From Buying Fake Gold",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/how-donald-trump-changed-my-mind-about-gold/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/how-donald-trump-changed-my-mind-about-gold/",
+                "name": "How Donald Trump Changed My Mind About Gold"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/how-donald-trump-changed-my-mind-about-gold/#webpage",
+          "url": "https://bulliontradingllc.com/blog/how-donald-trump-changed-my-mind-about-gold/",
+          "name": "How Donald Trump Changed My Mind About Gold - Bullion Trading LLC",
+          "datePublished": "2016-07-28T19:00:21+00:00",
+          "dateModified": "2016-07-28T19:00:21+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/how-donald-trump-changed-my-mind-about-gold/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "How Donald Trump Changed My Mind About Gold - Bullion Trading LLC",
+          "datePublished": "2016-07-28T19:00:21+00:00",
+          "dateModified": "2016-07-28T19:00:21+00:00",
+          "articleSection": "Gold, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Here are 2 different pieces that took me just a couple of seconds to discover. There are a lot of tweets out there saying the very same thing.",
+          "name": "How Donald Trump Changed My Mind About Gold - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/how-donald-trump-changed-my-mind-about-gold/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/how-donald-trump-changed-my-mind-about-gold/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/how-donald-trump-changed-my-mind-about-gold/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/how-donald-trump-changed-my-mind-about-gold/",
+    "https://bulliontradingllc.com/blog/how-to-protect-yourself-from-buying-fake-gold/",
+    "https://bulliontradingllc.com/blog/what-are-karats-and-carats-the-buyers-guide/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

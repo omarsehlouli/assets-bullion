@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "id": "a3fa1a981d6f0d52",
+    "url": "https://bulliontradingllc.com/blog/7-reasons-to-hate-gold-as-an-investment-debunked/",
+    "title": "7 Reasons To Hate Gold As an Investment – Debunked – - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:16.801559+00:00",
+    "status": "fetched",
+    "bytes": 96328,
+    "text_characters": 4562,
+    "sha256_html": "214e03f58cf370a3245b5022fbb84b95a50f6bdd1c588bc8fd7d67823db4006f",
+    "file": "sources/a3fa1a981d6f0d52.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "I just recently discovered a blog article entitled \"7 Reasons To Hate Gold As an Investment.\" I was actually surprised to be checking out some of the",
+  "canonical": "https://bulliontradingllc.com/blog/7-reasons-to-hate-gold-as-an-investment-debunked/",
+  "text": "I just recently discovered a blog article entitled “7 Reasons To Hate Gold As an Investment.” I was actually surprised to be checking out some of the problematic arguments presented and felt this was yet another unfortunate case of false information being spread about the gold market. I can quickly retort to each of the 7 reasons that existed:\n1. Gold Is Useless. The very first argument asserts that gold has little commercial usage and therefore is “worthless.” The entire reasoning here is misdirected because its looking for an application for gold and judging all worth on that. Gold is not valuable in how it is “used” however in its strong demand. People are buying gold due to the fact that they want it, and that is a “use” for it. This holds true of all the rare-earth elements, no matter whether they have more industrial use. How much of coppers market motion is caused since of its industrial use? Does copper move a few points a day due to the fact that all of an unexpected industries require it more? Or, to paraphrase what somebody replied in among the blog site remarks: “I guess the Mona Lisa need to also be worthless since it has no commercial worth.”\nIts simply a matter of being intelligent and notified in how you purchase, which is how it must be with any purchase.\n3. Inflation Is Low. This is also a misguided statement. Inflation is low just if one uses the Consumer Price Index as their outright recommendation, which is government-produced information. However, if you enter into an actual shop and take a look at the progressive boost in prices, you will see that inflation is not presently low at all.\n4. Gold Still Ends Up Being Tied To the Fiat. Okay, this one is technically ideal. Its true that the value of gold has an extremely strong connection to the present worth of currency, so the government choices concerning one will influence the other. Its been discussed in several previous short articles that whenever the value of the fiat goes down, gold goes up. So I suppose this may be viewed as a legitimate disadvantage, but compared to what? This is definitely likewise real of any rare-earth element and of any financial investment that is dependent on the stock market. Honestly, what exists to invest in that isnt tied to any fiat?\n5. If pony reveal had been a stock, it would be the only financial investment with a stable a performance as gold!\n6. Maybe those stocks are “much easier to value” due to their dividends, but this is having zero impact on whether or not they are excellent investments, and it would appear that gold is currently the financial investment with the greater pay-off.\n7. Euro Turmoil. Finally, the short article makes reference of Europes debt crisis, and plays this up as if it is a sign of impending catastrophe, since Europes situation will have a great affect on the dollar. This final point doesnt so much anger me as just leaves me indifferent. The worth of gold was going up long before this Euro chaos occurred, and moments of financial crises, while regrettable, are nothing brand-new in this market. Were back to the exact same principle discussed previously: gold increases when the dollar goes down, and vice versa, yet this does not hurt golds capacity as a financial investment. Whether scenarios in Europe are triggering these modifications in the dollar is a non-issue in the matter.\nI enjoy to see that the general action to this article has been negative, with much of the remarks revealing that they are educated consumers when it concerns buying gold. As weve been stating from the start, buying gold has its drawbacks, similar to anything else, but its been a proven success with a longevity that no other investment can touch.\nI can quickly retort to each of the seven factors that were presented:\nIf you go into a real store and examine the progressive increase in costs, you will see that inflation is not currently low at all.\nOr, to paraphrase what somebody replied in one of the blog site comments: “I think the Mona Lisa must likewise be ineffective because it has no commercial worth.”\nIf pony reveal had been a stock, it would be the only investment with a constant an efficiency as gold!\nPossibly those stocks are “much easier to worth” due to their dividends, however this is having no impact on whether or not they are excellent financial investments, and it would appear that gold is currently the investment with the higher pay-off.\nbulliontrading\nView all posts\nPrevious Post\nLocal Coin Shops\nNext Post\nMF Global & Why You Should Hold Some Gold Bullion",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/7-reasons-to-hate-gold-as-an-investment-debunked/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/7-reasons-to-hate-gold-as-an-investment-debunked/",
+                "name": "7 Reasons To Hate Gold As an Investment – Debunked –"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/7-reasons-to-hate-gold-as-an-investment-debunked/#webpage",
+          "url": "https://bulliontradingllc.com/blog/7-reasons-to-hate-gold-as-an-investment-debunked/",
+          "name": "7 Reasons To Hate Gold As an Investment – Debunked – - Bullion Trading LLC",
+          "datePublished": "2011-10-31T09:04:11+00:00",
+          "dateModified": "2011-10-31T09:04:11+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/7-reasons-to-hate-gold-as-an-investment-debunked/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "7 Reasons To Hate Gold As an Investment – Debunked – - Bullion Trading LLC",
+          "datePublished": "2011-10-31T09:04:11+00:00",
+          "dateModified": "2011-10-31T09:04:11+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "I just recently discovered a blog article entitled &quot;7 Reasons To Hate Gold As an Investment.&quot; I was actually surprised to be checking out some of the",
+          "name": "7 Reasons To Hate Gold As an Investment – Debunked – - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/7-reasons-to-hate-gold-as-an-investment-debunked/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/7-reasons-to-hate-gold-as-an-investment-debunked/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/7-reasons-to-hate-gold-as-an-investment-debunked/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/7-reasons-to-hate-gold-as-an-investment-debunked/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/local-coin-shops/",
+    "https://bulliontradingllc.com/blog/mf-global-why-you-should-hold-some-gold-bullion/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

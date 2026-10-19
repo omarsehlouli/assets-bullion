@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "id": "7ef075c54ee80324",
+    "url": "https://bulliontradingllc.com/blog/1-oz-australian-gold-kangaroo/",
+    "title": "1 oz Australian Gold Kangaroo - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:15.407621+00:00",
+    "status": "fetched",
+    "bytes": 105636,
+    "text_characters": 3613,
+    "sha256_html": "68ab19d3a3d5d3aff51aecf3ed2dd9b2cb9877eb82b7e9cb43e4f63b42ce4f50",
+    "file": "sources/7ef075c54ee80324.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Overview of the 1 oz Australian Gold Kangaroo coin: 1987 debut, legal-tender status, Queen Elizabeth II obverse, and changing reverse designs.",
+  "canonical": "https://bulliontradingllc.com/blog/1-oz-australian-gold-kangaroo/",
+  "text": "The Australian Gold Kangaroo series of bullion coins was introduced in 1987 by Gold Corp., an entity entirely owned by the Western Australian Federal Government. Provided as Australian legal tender, the Gold Kangaroo is a preferred product amongst collectors and investors worldwide.\nThe obverse of the Australian Gold Kangaroo bears a portrait of Queen Elizabeth II. Nevertheless, the reverse has actually undergone changes because the coin’s release. At first, the reverse of these coins depicted an Australian Gold nugget. In 1989, the style changed and instead featured a more widely acknowledged symbol of Australia: the kangaroo. A renowned representation of the fascinating wildlife populating Australia, the Australian kangaroo brings the Gold Kangaroo bullion coin series to life. The Australian Kangaroos differ in style and are diligently made. Struck from.9999-fine Gold, the Gold Australian Kangaroo is amongst a few major pure Gold bullion coins that change their reverse style yearly. Much of the Gold Kangaroos come individually packaged.\nEnhancing the front of each gold coin is a stunning rendition of the cherished animal. Their designs have been struck utilizing a special two-tone frosted technique, giving the art work a richer sense of depth. Because the front artwork of the kangaroo coin has actually altered on a yearly basis, collectors have a big selection to pick from. Previous styles have actually consisted of single kangaroos in their natural environment; mother kangaroos with their joeys; and even a pair of boxing kangaroos. The wide array of designs gives collectors the chance to produce their own individual menagerie of marsupials.\nIn addition to their creative merit, these golden kangaroo coins provide financiers with a unique and rewarding method to diversify their portfolio. Every kangaroo coin have been minted from 1 troy oz. of the finest 99.99% gold, which makes them suitable for Individual Retirement Account contributions and in case they need to be invested, they are legal tender with a face value of $100 AUD. All Golden Kangaroo Coins are guaranteed to arrive in brilliant uncirculated condition in addition to a protective plastic case.\nWith their stunning illustrations and their exceptional composition, these golden kangaroo coins are specific to include artistic and monetary worth to any collection. To guarantee the safe arrival of your purchase, bundles will get insurance to cover any events of theft, loss or damage that might take place during the shipping procedure. Insurance coverage is offered totally free on all shipments.\nCoin Highlights:\nEach coin ships in an individual plastic pill.\nContains 1 troy oz of.9999 pure gold.\nSafeguard your financial investment with a 32mm Air-Tite Coin Holders.\nBears a stated value of $100 (AUD) backed by the Australian federal government.\nFeatures an all-new Kangaroo design.\nBuy\n1 oz Australian Gold Kangaroo\nThese coins are a few of the more elaborately developed, making them also popular with collectors. The obverse side of the coin features a kangaroo with another in its pouch, in addition to several stars for the provinces of Australia. On the reverse side of the coin is Queen Elizabeth in spectacular detail, along with the 100 denomination and the year that the coin was minted in Perth. This gold coin makes a fine addition to any coin collection, as the design on this specific coin tends to change year to year.\nInterested in Kangaroo coins? Check out\nAustralian Gold Coins\n!\nbulliontrading\nView all posts\nPrevious Post\nBritish Sovereign Gold Coin\nNext Post\nGold prices hit all-time high",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2020/04/1-Oz-Gold-Coin-–-Australian-Kangaroo-1170x500-1-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2020/04/1-Oz-Gold-Coin-–-Australian-Kangaroo-1170x500-1-jpg.webp",
+          "width": "1170",
+          "height": "500",
+          "caption": "1-Oz-Gold-Coin-–-Australian-Kangaroo-1170&#215;500",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/1-oz-australian-gold-kangaroo/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-coins/",
+                "name": "gold coins"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/1-oz-australian-gold-kangaroo/",
+                "name": "1 oz Australian Gold Kangaroo"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/1-oz-australian-gold-kangaroo/#webpage",
+          "url": "https://bulliontradingllc.com/blog/1-oz-australian-gold-kangaroo/",
+          "name": "1 oz Australian Gold Kangaroo - Bullion Trading LLC",
+          "datePublished": "2020-04-27T13:10:59+00:00",
+          "dateModified": "2020-04-27T13:10:59+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2020/04/1-Oz-Gold-Coin-–-Australian-Kangaroo-1170x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/1-oz-australian-gold-kangaroo/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "1 oz Australian Gold Kangaroo - Bullion Trading LLC",
+          "datePublished": "2020-04-27T13:10:59+00:00",
+          "dateModified": "2020-04-27T13:10:59+00:00",
+          "articleSection": "gold coins",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Overview of the 1 oz Australian Gold Kangaroo coin: 1987 debut, legal-tender status, Queen Elizabeth II obverse, and changing reverse designs.",
+          "name": "1 oz Australian Gold Kangaroo - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/1-oz-australian-gold-kangaroo/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/1-oz-australian-gold-kangaroo/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2020/04/1-Oz-Gold-Coin-–-Australian-Kangaroo-1170x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/1-oz-australian-gold-kangaroo/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/1-oz-australian-gold-kangaroo/",
+    "https://bulliontradingllc.com/blog/british-sovereign-gold-coin/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/gold-prices-hit-all-time-high/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/gold/coins/australian-gold-coins/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/product/1-oz-australian-nugget-1997-gold-coin/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2020/04/1-Oz-Gold-Coin-–-Australian-Kangaroo-1170x500-1-jpg.webp",
+      "alt": "1-Oz-Gold-Coin-–-Australian-Kangaroo-1170×500"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://bulliontradingllc.com/blog/wp-content/uploads/2020/04/1-oz-Australian-Gold-Kangaroo-1024x576.jpg",
+      "alt": "buying gold coin "
+    },
+    {
+      "url": "https://bulliontradingllc.com/blog/wp-content/uploads/2020/04/1-Oz-Gold-Coin-–-Australian-Kangaroo-1024x640.jpg",
+      "alt": "gold dealers online "
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

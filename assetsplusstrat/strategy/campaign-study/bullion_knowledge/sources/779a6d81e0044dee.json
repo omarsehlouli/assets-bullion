@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "id": "779a6d81e0044dee",
+    "url": "https://learn.bulliontradingllc.com/coin-values/1944-wheat-penny/",
+    "title": "1944 Wheat Penny Value — Rarity, Mintage & Key Dates | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:24.136043+00:00",
+    "status": "fetched",
+    "bytes": 13584,
+    "text_characters": 879,
+    "sha256_html": "c4018ec561c3c4f0ec41bf44070275451bbbaea396b52e1a20bcc7cb596593d1",
+    "file": "sources/779a6d81e0044dee.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "What your 1944 wheat penny is worth by mintmark (P, D, S) and condition — plus the one-minute magnet test that spots the rare 1944 steel-cent error worth a fortune.",
+  "canonical": "https://learn.bulliontradingllc.com/coin-values/1944-wheat-penny/",
+  "text": "Common but collected\n1944 Wheat Penny Value\nThe Mint returned to copper (from salvaged shell casings) in 1944, striking billions of cents. A typical 1944 wheat penny is worth a few cents. The prize is the error: a 1944 cent struck on a leftover steel planchet.\nKey facts\nComposition: 95% copper (“shell case” bronze). Common in all circulated grades.\nThe 1944 STEEL cent (struck on a leftover 1943 planchet) is a rare error worth tens of thousands — and it is magnetic, unlike the normal copper coin.\nMintmarks: 1944 (Philadelphia), 1944-D (Denver), 1944-S (San Francisco) are all common; high-grade red examples bring modest premiums.\nThinking of selling?\nWe buy coins and bullion in person at our NYC Diamond District counter.\nGet a free quote →\nSee the full\npennies value guide\n, or\nShop gold & silver bullion →\nMore:\nall coin values\n·\nsilver price history\n·\ngold/silver ratio",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Coin Values",
+              "item": "https://learn.bulliontradingllc.com/coin-values/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Pennies",
+              "item": "https://learn.bulliontradingllc.com/coin-values/pennies/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1944 Wheat Penny"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "1944 Wheat Penny Value",
+          "description": "What your 1944 wheat penny is worth by mintmark (P, D, S) and condition — plus the one-minute magnet test that spots the rare 1944 steel-cent error worth a fortune.",
+          "url": "https://learn.bulliontradingllc.com/coin-values/1944-wheat-penny/",
+          "creator": {
+            "@type": "Organization",
+            "name": "United States Mint"
+          },
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

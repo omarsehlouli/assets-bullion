@@ -1,0 +1,308 @@
+{
+  "metadata": {
+    "id": "0b7e1fb01acc2ef9",
+    "url": "https://bulliontradingllc.com/blog/how-gold-refining-works/",
+    "title": "How Gold Refining Works: Fire Assay, XRF, Accountability, and Fees - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:50.302037+00:00",
+    "status": "fetched",
+    "bytes": 124276,
+    "text_characters": 13558,
+    "sha256_html": "e05cff38a9cad539cb76104382777c380f7c6b730a205c0565b03546526318a6",
+    "file": "sources/0b7e1fb01acc2ef9.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "How gold refining works, from the melt to the fire assay to the check: what accountability, treatment charges and settlement weight do to your payout.",
+  "canonical": "https://bulliontradingllc.com/blog/how-gold-refining-works/",
+  "text": "Ask two buyers what a bag of broken 14 karat chains is worth and you will get two numbers, sometimes hundreds of dollars apart, for the same gold. That gap is not usually dishonesty. It is the refining process showing through. Once you understand how gold refining works, the quotes stop looking arbitrary: every one of them is spot price, times the gold that survives the melt, times the share of that gold the refiner agrees to pay for, minus a handful of fees. This article walks through each step, explains why an XRF gun and a fire assay can disagree about the same piece, and works the math on a real lot. Gold was trading near\n$4,400 an ounce\non September 10, 2026, and I have used that figure throughout.\nThe same 100 grams of 14 karat scrap, followed from the stamped melt value to the check. Roughly six percent disappears between the two, and none of it is a mystery once you know the four steps.\nHow gold refining works, step by step\nWhen a lot arrives at a refinery it is weighed as received, logged, and stripped of anything that is obviously not gold: stones, steel watch parts, spring bars, magnetic clasps. Then the whole lot goes into an induction furnace and is melted into a single bar. People underestimate this step. A pile of chains, rings and dental crowns is not one alloy, it is fifty, and no test on the pile can tell you its average purity. Melting and stirring turns those fifty alloys into one homogeneous bar that can be sampled honestly.\nThat bar is weighed again, and this second number, often called the settlement weight or processed weight, is the one your payment is built on. It is always lower than the weight you shipped. Stones and steel are gone, solder and base-metal plating have partly burned off, and a little metal has stuck to the crucible or oxidized into the slag. Then the bar is sampled. Refiners either drill it or take a dip sample from the molten metal and roll it into a pin, and the LBMA’s own guidance on\nsampling precious metals\nis blunt about why: a sample only tells the truth if the metal it came from is uniform. Good refiners cut the pin into three pieces, one for their lab, one for you, and one sealed for an independent umpire in case of a dispute.\nValcambi\n, one of the largest refiners in the world, describes exactly this routine: the melt is drilled to prove it is homogeneous, three sealed samples of about 5 grams are prepared, and the client’s representative seals them before one goes to the client, one to the refinery lab, and one into reserve for an umpire.\nOnly then does the assay happen, and only after the assay does anyone talk about money. Payment is the settlement weight, times the assayed fineness, times the metal price on an agreed date, times the accountability percentage, minus fees. Each of those terms is a place where your payout can move, so each gets its own section.\nWhy the number on the scale is only the beginning\nSellers think in weight and karat stamp. Refiners think in settlement weight and assay, and the two rarely match. Start with the stamp. In the United States the National Gold and Silver Stamping Act, codified at\n15 U.S.C. 295\n, allows a piece of jewelry stamped 14 karat to be up to three parts per thousand under that fineness before solder is counted, and up to seven parts per thousand under once the solder is included. In practice, a lot of older and imported jewelry assays well below its stamp, and a whole lot of it carries solder joints at roughly 12 karat or lower. Melt a hundred grams of assorted 14 karat pieces and it is entirely normal for the bar to assay at 57 percent gold rather than the 58.5 percent the stamps promised. The\nguide to karats and purity marks\ncovers what those stamps do and do not guarantee.\nThen there is the weight itself. Scrap buyers and refiners weigh in grams or pennyweights, and the unit on the scale changes how a quote reads even when the value is identical, which is why the piece on\npennyweight versus gram payouts\nis worth ten minutes before you sell anything. The bigger issue is what gets weighed. A gold buyer at a counter pays on the gross weight of the piece, sometimes with a deduction for stones. A refiner pays on the metal that came out of the furnace. Hollow rope chains, watch cases with steel movements, and class rings with big synthetic stones can lose a startling share of their gross weight in the melt, and none of that loss is the refiner’s fault. It just was never gold.\nXRF versus fire assay: what each one sees\nAlmost every buyer you meet will test your gold with a handheld X-ray fluorescence analyzer, the grey pistol-shaped device that beeps and prints a purity in about ten seconds. XRF works by exciting the atoms at the surface of the metal and reading the energy they give back, and on a flat, clean, homogeneous sample it is very good. Thermo Fisher, which makes the instruments, puts the agreement with fire assay at roughly\n0.1 to 0.2 percent\non large flat items. The catch is in the word surface. In a metal as dense as gold the X-rays only reach somewhere between\n5 and 50 microns\ninto the piece, and often only 10 to 20 in pure gold, a small fraction of a millimeter. Whatever sits below that depth is invisible. A heavy gold-filled bracelet reads as high karat gold. A tungsten slug under a thick gold shell reads as gold. A ring whose surface was enriched by years of acid cleaning reads a little richer than its core. XRF is a screening tool, and honest buyers use it as one.\nFire assay is the opposite in almost every respect. It is slow, it destroys the sample, and it has been the reference method for gold for centuries. The Birmingham Assay Office\nwalks through the steps\n: a small piece of the sample is alloyed with a measured amount of silver and wrapped in lead, then heated in a porous cupel at 1,100 degrees Celsius until the lead and every base metal oxidize and soak into the cupel, leaving a bead of gold and silver. The bead is rolled flat, the silver is dissolved out in nitric acid, and the gold that remains is weighed. The gold content is simply that final weight divided by the starting weight. Done well, the method resolves purity to a fraction of a part per thousand, which is why the international standard for gold in jewelry alloys,\nISO 11426:2021\n, is a cupellation method, and why the LBMA requires every refiner on its Good Delivery list to be able to fire assay across the full\n995.0 to 999.9 fineness range\n.\nXRF reads the skin of the metal in ten seconds. Fire assay reads the whole bar in a few hours and is what settlements are actually paid on.\nHere is the practical consequence. A counter buyer with an XRF gun is quoting you on a surface reading of individual pieces before the melt. A refiner is paying you on a fire assay of a homogeneous bar after the melt. The refiner’s number is more accurate and, for a mixed lot with solder and plating, almost always lower. When someone on a forum complains that the refinery “came back light” against their XRF readings, this is nearly always what happened. The gun was not lying. It just was not measuring the same thing.\nAccountability, treatment charges, and the rest of the small print\nRefiners do not buy your gold at 100 percent of its assayed value, and the word for the share they do pay on is accountability. If the terms say 98 percent accountability on gold, you are paid for 98 percent of the fine gold the assay found, and the refiner keeps two percent to cover the metal that is unavoidably lost in processing and, frankly, to make a margin. The number varies enormously with lot size and with who you are. Trade refiners working with jewelers and pawnbrokers commonly quote in the high 90s for karat gold; refiner Elemetal’s explainer on\ncomparing refining charges\nuses 98 percent as its example headline rate, then warns that two refiners quoting the same 98 percent can pay very different amounts once melt, assay and minimum-lot fees are deducted. Mail-in schedules aimed at the public are far lower. Arch Enterprises publishes a\npayout schedule\nthat pays 80 percent of the fine gold value on a one-ounce lot, 85 percent at two ounces, and 90 percent above that, and only 70 percent of the silver in sterling flatware. Silver, platinum and palladium generally carry lower accountability than gold wherever you go, because they are harder to recover cleanly from mixed material.\nAccountability is only one line. A treatment charge, usually quoted per gross ounce or per lot, covers the melting and the sampling. An assay fee, sometimes flat and sometimes per metal, covers the lab. Many refiners waive one or both above a certain lot size and enforce a minimum below it; dental refiner Argen’s published\nterms and conditions\n, for example, reserve a $75 minimum processing fee per lot, and a lot whose metal value is under that amount simply nets to zero. Then there is the price date. Some refiners settle at the spot price on the day they receive your material, some on the day of the assay, and some let you lock a price when you ship. In a market that moved more than a thousand dollars an ounce this year, the choice of date can matter more than the accountability percentage.\nFinally, read the dispute clause. Serious refining contracts define a splitting limit, the maximum difference between your assay and theirs that will simply be averaged, and an umpire procedure for anything larger, where the sealed third sample goes to an independent lab whose result binds both sides. Sabin Metal’s description of\nsettlement\nand a typical\numpire clause\nshow how this works in commercial practice. Individuals rarely invoke it, but a refiner that offers a split sample is telling you how confident they are in their lab.\nSix terms cover nearly every line on a refining settlement sheet. If a quote does not state all six, you are not looking at a complete offer.\nA worked example: 100 grams of 14 karat scrap\nPut the pieces together on a lot most people can picture: 100 grams of assorted 14 karat jewelry with the stones already removed, sold with gold at $4,400. Take the stamps at face value and the lot holds 58.5 grams of pure gold, which is 1.881 troy ounces, worth $8,276. That is the figure most sellers have in their head when they walk in, and it is the figure that leaves them disappointed by every quote they hear.\nNow run it through the refinery. After the melt the bar assays at 57.0 percent, a perfectly ordinary result for mixed 14 karat with solder joints. Fine gold content drops to 57.0 grams, or 1.833 ounces, worth $8,063. Apply 98 percent accountability and the payable value becomes $7,902. Subtract a $100 combined treatment and assay fee and the check is about $7,800, which works out to 94.3 percent of the number you walked in with. Change the accountability to 95 percent and the same lot pays about $7,560. Drop to 90 percent, which is the top tier of the mail-in schedule quoted earlier, and you are at $7,160, or 86.5 percent of stamped melt.\nCompare that to a counter buyer who tests the pieces with XRF, pays 90 percent of melt on the stamped karat, and hands you cash on the spot. That is $7,448, about $350 less than the good refinery outcome and roughly $300 more than the weak one, with no shipping, no insurance and no two-week wait. Which is the better deal depends on the accountability schedule and the fees, which is why the guide to the\nbest place to sell gold\nspends so much time on lot size. Shrink the example to 10 grams and the answer flips completely: the stamped melt is $828, the assayed value about $806, and after 98 percent accountability and a $75 minimum fee you are left with roughly $715. A direct buyer paying 80 percent of melt beats that without trying.\nHow to read a refining quote like someone who has done this before\nI have watched people spend an hour comparing headline percentages and never ask the questions that decide the payout. Before you ship or sell anything, get five things in writing. First, whether the percentage is applied to gross weight or to settlement weight after the melt. Second, whether the purity is from an XRF reading of the pieces or a fire assay of the melted bar. Third, the accountability for each metal, because the gold figure on the brochure often does not apply to the silver and platinum in the same lot. Fourth, every fee, including the minimum lot charge and whether it is waived at your size. Fifth, the date and the price basis used for settlement. A quote that answers all five can be compared with any other that does the same. One that answers only one of them is a marketing number, and the slogan on the window is usually the loudest example, as the piece on what\n“we pay top dollar” really means\nlays out.\nThe refining process is not designed to shortchange you. It is designed to find out what your gold actually is, which is a different and more useful thing than what it says it is. The melt strips out the steel and the stones, the fire assay strips out the optimism in the karat stamp, and what is left is the truth about your lot, priced against the same spot market everyone else uses. Once you can follow that chain from the scale to the check, a low quote stops being an insult and becomes a piece of information, and you can tell the difference between a buyer who is honest about the arithmetic and one who is hoping you never learn it.\nbulliontrading\nView all posts\nPrevious Post\nGold Dealer Bankruptcy: What Actually Happens to Your Metal When the Vault Fails\nNext Post\nWhy Is Silver So Cheap Compared to Gold?\nLeave a Reply\nCancel reply",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2026/09/how-gold-refining-works.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2026/09/how-gold-refining-works.webp",
+          "width": "1254",
+          "height": "1254",
+          "caption": "how gold refining works",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/how-gold-refining-works/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/education/",
+                "name": "Education"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/how-gold-refining-works/",
+                "name": "How Gold Refining Works: Fire Assay, XRF, Accountability, and Fees"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/how-gold-refining-works/#webpage",
+          "url": "https://bulliontradingllc.com/blog/how-gold-refining-works/",
+          "name": "How Gold Refining Works: Fire Assay, XRF, Accountability, and Fees - Bullion Trading LLC",
+          "datePublished": "2026-09-11T15:47:45+00:00",
+          "dateModified": "2026-09-11T15:47:47+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2026/09/how-gold-refining-works.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/how-gold-refining-works/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "How Gold Refining Works: Fire Assay, XRF, Accountability, and Fees - Bullion Trading LLC",
+          "keywords": "how gold refining works,gold refining process,fire assay,XRF gold testing,refining accountability",
+          "datePublished": "2026-09-11T15:47:45+00:00",
+          "dateModified": "2026-09-11T15:47:47+00:00",
+          "articleSection": "Education, Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "How gold refining works, from the melt to the fire assay to the check: what accountability, treatment charges and settlement weight do to your payout.",
+          "name": "How Gold Refining Works: Fire Assay, XRF, Accountability, and Fees - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/how-gold-refining-works/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/how-gold-refining-works/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2026/09/how-gold-refining-works.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/how-gold-refining-works/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://argen.com/refining-conditions",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/best-place-to-sell-gold/",
+    "https://bulliontradingllc.com/blog/category/education/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/gold-dealer-bankruptcy-what-happens-to-your-metal/",
+    "https://bulliontradingllc.com/blog/gold-fineness-explained-karats-purity-marks-hallmarks/",
+    "https://bulliontradingllc.com/blog/how-gold-refining-works/",
+    "https://bulliontradingllc.com/blog/pennyweight-vs-gram-gold-payout/",
+    "https://bulliontradingllc.com/blog/we-pay-top-dollar-gold-buyers/",
+    "https://bulliontradingllc.com/blog/why-is-silver-so-cheap-compared-to-gold/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://cdn.lbma.org.uk/downloads/GDL-Assets/Good-Delivery-List-Rules-December-2021.pdf",
+    "https://cdn.lbma.org.uk/downloads/Session-4-Mooiman.pdf",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.archenterprises.com/precious-metal-payout-schedule.html",
+    "https://www.elemetal.com/knowledge-center/common-refining-charges-and-how-to-compare-precious-metal-refiners",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/",
+    "https://www.iso.org/standard/75771.html",
+    "https://www.jmbullion.com/charts/gold-price/",
+    "https://www.law.cornell.edu/uscode/text/15/295",
+    "https://www.lawinsider.com/clause/assays-splitting-limits-and-umpire",
+    "https://www.sabinmetal.com/knowledge-center/settlement",
+    "https://www.theassayoffice.co.uk/understanding-fire-assay/",
+    "https://www.thermofisher.com/blog/metals/how-accurate-is-portable-xrf-compared-to-fire-assay-for-gold-analysis/",
+    "https://www.valcambi.com/services/assaying/analysis-process/",
+    "https://www.vrxrf.com/blog/penetration-depth-xrf-measurement-accurate-analysis-layers/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/how-gold-refining-works.webp",
+      "alt": "how gold refining works"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/gold-refining-payout-math-100g-14k-2026_web-1024x571.webp",
+      "alt": "Step-down chart showing how 100 grams of 14 karat scrap gold worth $8,276 at stamped purity becomes a $7,802 refinery payout after assay, accountability and fees"
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/xrf-vs-fire-assay-gold-testing-comparison-2026_web-1024x571.webp",
+      "alt": "Comparison table of XRF gold testing versus fire assay covering what each measures, depth, accuracy, time, cost, whether it destroys the sample and where it is used"
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/gold-refining-terms-decoder-2026_web-1024x571.webp",
+      "alt": "Reference table decoding six gold refining terms: settlement weight, assay, accountability, treatment charge, assay fee and minimum lot, with what each one does to the seller's payout"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

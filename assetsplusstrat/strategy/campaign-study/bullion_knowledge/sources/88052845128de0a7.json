@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "88052845128de0a7",
+    "url": "https://bulliontradingllc.com/blog/the-united-states-an-untapped-gold-mine/",
+    "title": "The United States, an untapped gold mine? - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:12.469260+00:00",
+    "status": "fetched",
+    "bytes": 94689,
+    "text_characters": 1754,
+    "sha256_html": "cbf44514272a1a9427f1e3ee61cb61bb85c50ab437620e5a6381ef8add266757",
+    "file": "sources/88052845128de0a7.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": ".",
+  "canonical": "https://bulliontradingllc.com/blog/the-united-states-an-untapped-gold-mine/",
+  "text": ".\nHow does this impact the future market of mining gold in the United States. Based upon todays current political and economical issues, gold mining forecasts could be made that the United States will continue to develop more mines throughout the country, as demand increases and imported supplies decrease, due to the political environment all over the world. The demand in gold will likewise create more tasks to mine and process the raw gold material. By mining in America, tasks are developed, therefore promoting the economy.\nDid you understand that current revenues reports have revealed mining gold all over the world expenses are higher than the present rate of the precious metal? What does this mean for United States mining?\nWhat do you think of domestic mining? Share your ideas below:-RRB-.\nThis pattern will end up being the next gold boom, as with the black gold boom presently taken location. Technology will trigger demand for gold to rise because many innovation is made with gold product. Other usages of gold bullion will be found, besides what we see today with jewelery, computers, and electronics.\nOne of the worlds largest gold manufacturers, AngloGold Ashantis (NYSE: AU) (JSE: ANG) situated in South America, reported their second quarter net loss diminished to $80 million from $2.17 billion a year previously partially because of greater gold output. Nevertheless, the expenses of mining in the Americas was $100 an ounce less than AngloGold. Cripple Creek and Victor mine are one of the most significant producers in the United States.\nbulliontrading\nView all posts\nPrevious Post\nAmerican Eagle Gold Coins – How your loose change can be a big pay day\nNext Post\nThree Wise Investments To Protect Against Inflation with Bullion",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/08/gold-mine-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2014/08/gold-mine-jpg.webp",
+          "width": "600",
+          "height": "380",
+          "caption": "Gold bars and granules are pictured at the Austrian Gold and Silver Separating Plant &#8216;Oegussa&#8217; in Vienna",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/the-united-states-an-untapped-gold-mine/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+                "name": "Gold Market &amp; Economics"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/the-united-states-an-untapped-gold-mine/",
+                "name": "The United States, an untapped gold mine?"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/the-united-states-an-untapped-gold-mine/#webpage",
+          "url": "https://bulliontradingllc.com/blog/the-united-states-an-untapped-gold-mine/",
+          "name": "The United States, an untapped gold mine? - Bullion Trading LLC",
+          "datePublished": "2014-08-13T21:46:58+00:00",
+          "dateModified": "2014-08-13T21:46:58+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/08/gold-mine-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/the-united-states-an-untapped-gold-mine/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "The United States, an untapped gold mine? - Bullion Trading LLC",
+          "datePublished": "2014-08-13T21:46:58+00:00",
+          "dateModified": "2014-08-13T21:46:58+00:00",
+          "articleSection": "Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": ".",
+          "name": "The United States, an untapped gold mine? - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/the-united-states-an-untapped-gold-mine/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/the-united-states-an-untapped-gold-mine/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/08/gold-mine-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/the-united-states-an-untapped-gold-mine/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/american-eagle-gold-coins-how-your-loose-change-can-be-a-big-pay-day/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/the-united-states-an-untapped-gold-mine/",
+    "https://bulliontradingllc.com/blog/three-wise-investments-to-protect-against-inflation-with-bullion/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2014/08/gold-mine-jpg.webp",
+      "alt": "Gold bars and granules are pictured at the Austrian Gold and Silver Separating Plant ‘Oegussa’ in Vienna"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

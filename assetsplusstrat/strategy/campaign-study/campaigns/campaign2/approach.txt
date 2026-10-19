@@ -1,0 +1,20 @@
+Know the Price. Choose the Bar.
+
+Audience: Adults actively comparing one-ounce gold bars, brands, payment methods and premiums.
+Market: U.S.
+Objective: Purchases of physical gold and silver bullion
+
+Approach
+Meet existing purchase intent with transparent comparison. A focused gold-bar creative leads straight to the one-ounce-bar category. The ad explains what to compare without claiming the lowest price. On Meta, pair the product image with a short spot-versus-premium explanation.
+
+Hypothesis (not a result)
+Specific product intent plus a clear comparison task may produce the strongest national purchase intent, even if gifting earns more casual attention.
+
+Transcript inspiration
+spot-to-store, faq-premium, icons-of-gold, faq-bar-or-eagle
+
+Execution
+Google Search: separate ad groups by destination and intent. Meta: the same concept, primary text and product image. Purchases are the primary conversion; product views and carts are diagnostic. Validate purchase tracking before any live test.
+
+Product and copy limits
+No lowest-premium or savings claim. Compare equivalent weight, brand, condition and payment method at the same time. Do not reuse archived prices.

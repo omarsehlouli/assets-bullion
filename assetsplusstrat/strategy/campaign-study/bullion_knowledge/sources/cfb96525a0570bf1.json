@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "id": "cfb96525a0570bf1",
+    "url": "https://learn.bulliontradingllc.com/coin-values/1916-d-mercury-dime/",
+    "title": "1916-D Mercury Dime Value — Rarity, Mintage & Key Dates",
+    "retrieved_at": "2026-10-12T22:13:23.597635+00:00",
+    "status": "fetched",
+    "bytes": 13391,
+    "text_characters": 686,
+    "sha256_html": "36b3bc520e2edadd4215f03983e7956889a0d01632def968d42999da9a49b7b5",
+    "file": "sources/cfb96525a0570bf1.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The 1916-D is the key date of the Mercury dime series. With a mintage of just 264,000 from the Denver mint, it is scarce in every grade and one of the most…",
+  "canonical": "https://learn.bulliontradingllc.com/coin-values/1916-d-mercury-dime/",
+  "text": "Key date\n1916-D Mercury Dime Value\nThe 1916-D is the key date of the Mercury dime series. With a mintage of just 264,000 from the Denver mint, it is scarce in every grade and one of the most counterfeited US coins.\nKey facts\nMintage: only 264,000 — by far the lowest of the series.\nComposition: 90% silver (≈0.0723 oz), so it also carries melt value.\nHeavily faked, often by adding a “D” mintmark to a Philadelphia coin — authentication is essential.\nThinking of selling?\nWe buy coins and bullion in person at our NYC Diamond District counter.\nGet a free quote →\nSee the full\ndimes value guide\n, or\nShop US silver coins →\nMore:\nall coin values\n·\nsilver price history\n·\ngold/silver ratio",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Coin Values",
+              "item": "https://learn.bulliontradingllc.com/coin-values/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Dimes",
+              "item": "https://learn.bulliontradingllc.com/coin-values/dimes/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1916-D Mercury Dime"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "1916-D Mercury Dime Value",
+          "description": "The 1916-D is the key date of the Mercury dime series. With a mintage of just 264,000 from the Denver mint, it is scarce in every grade and one of the most…",
+          "url": "https://learn.bulliontradingllc.com/coin-values/1916-d-mercury-dime/",
+          "creator": {
+            "@type": "Organization",
+            "name": "United States Mint"
+          },
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/",
+    "https://bulliontradingllc.com/silver/silver-coins-for-sale/us-silver-coins/"
+  ],
+  "images": []
+}

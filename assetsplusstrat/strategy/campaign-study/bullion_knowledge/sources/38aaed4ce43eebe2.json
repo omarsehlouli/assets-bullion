@@ -1,0 +1,292 @@
+{
+  "metadata": {
+    "id": "38aaed4ce43eebe2",
+    "url": "https://bulliontradingllc.com/bullion-tax/idaho/",
+    "title": "Bullion Sales Tax in Idaho (2026): Rules, Exemptions & Examples",
+    "retrieved_at": "2026-10-12T22:11:23.066610+00:00",
+    "status": "fetched",
+    "bytes": 104907,
+    "text_characters": 2354,
+    "sha256_html": "8593a6ab057babdabeab8002ffa2e0ee2cd75632ec1ac48a06917e8ee7bcbd3f",
+    "file": "sources/38aaed4ce43eebe2.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Idaho has statewide sales tax, but gold and silver bullion is fully exempt. Qualifying coin forms may be exempt; jewelry is taxable. No threshold.",
+  "canonical": "https://bulliontradingllc.com/bullion-tax/idaho/",
+  "text": "←\nAll states\nBullion treatment\nTax-free\nQualifying investment bullion is exempt.\nWhat's taxed?\nGood to know\nCommon questions\nHere's how each kind of item is treated in this state. Tap a row to read the plain-English note.\nWhat you're buying\nSales tax?\nWhat that means\nBullion Bars\nNo sales tax\nYou won't pay sales tax on these in Idaho.\nBullion Coins\nNo sales tax\nYou won't pay sales tax on these in Idaho.\nBullion Rounds\nNo sales tax\nYou won't pay sales tax on these in Idaho.\nLegal-Tender Coins\nNo sales tax\nYou won't pay sales tax on these in Idaho.\nNumismatic Coins\nDepends on the order\nSome items in this category qualify; others are taxed. Depends on the specific product.\nJewelry\nSales tax applies\nStandard Idaho sales tax applies at checkout.\nIndustrial Precious Metal\nAsk before ordering\nTax treatment depends on the item. If you're unsure, contact us before ordering.\nCollectibles (Non-Coin)\nSales tax applies\nStandard Idaho sales tax applies at checkout.\nPaper Currency\nSales tax applies\nStandard Idaho sales tax applies at checkout.\nAccessories\nSales tax applies\nStandard Idaho sales tax applies at checkout.\nWhat's covered by the exemption\nGold and silver bullion; qualifying coin forms\nHow they decide what counts as bullion\nThe state asks whether the item is priced for its metal value (qualifying bullion) or for rarity, design, or collector demand (taxable).\nWhat's NOT covered\nJewelry, rarity-priced collectibles, paper currency held as collectible, fabricated/industrial-use precious metal, and accessories.\nCommon questions about sales tax on gold and silver in Idaho.\nIs bullion sales-tax exempt in Idaho?\n+\nYes. Idaho provides a full sales-tax exemption for qualifying gold and silver bullion.\nAre gold and silver coins exempt in Idaho?\n+\nQualifying coin forms treated as investment metal-content items are exempt, but nonqualifying collectibles may be taxed.\nDo I owe sales tax on numismatic coins in Idaho?\n+\nIt depends. Idaho’s exemption focuses on qualifying bullion/coin items, so collectible pieces that don’t qualify can be taxable.\nIs precious-metal jewelry taxable in Idaho?\n+\nYes. Jewelry is taxable even when bullion and qualifying investment-style coins are exempt.\nIs there a minimum purchase amount required for Idaho’s exemption?\n+\nNo. The bullion exemption is not tied to a dollar threshold in the provided rule set.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Sales Tax in Idaho (2026): Rules, Exemptions &amp; Examples",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "description": "Idaho has statewide sales tax, but gold and silver bullion is fully exempt. Qualifying coin forms may be exempt; jewelry is taxable. No threshold."
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/bullion-tax/idaho/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/bullion-tax/",
+                "name": "Bullion Sales Tax by State"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "name": "Idaho",
+              "item": "https://bulliontradingllc.com/bullion-tax/idaho/"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "WebPage",
+            "FAQPage"
+          ],
+          "@id": "https://bulliontradingllc.com/bullion-tax/idaho/#webpage",
+          "url": "https://bulliontradingllc.com/bullion-tax/idaho/",
+          "name": "Bullion Sales Tax in Idaho (2026): Rules, Exemptions &amp; Examples",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/idaho/#breadcrumb"
+          },
+          "headline": "Idaho Sales Tax on Bullion",
+          "description": "Idaho has statewide sales tax, but gold and silver bullion is fully exempt. Qualifying coin forms may be exempt; jewelry is taxable. No threshold.",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is bullion sales-tax exempt in Idaho?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Idaho provides a full sales-tax exemption for qualifying gold and silver bullion."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are gold and silver coins exempt in Idaho?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Qualifying coin forms treated as investment metal-content items are exempt, but nonqualifying collectibles may be taxed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do I owe sales tax on numismatic coins in Idaho?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends. Idaho’s exemption focuses on qualifying bullion/coin items, so collectible pieces that don’t qualify can be taxable."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is precious-metal jewelry taxable in Idaho?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Jewelry is taxable even when bullion and qualifying investment-style coins are exempt."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is there a minimum purchase amount required for Idaho’s exemption?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. The bullion exemption is not tied to a dollar threshold in the provided rule set."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Bullion Sales Tax in Idaho (2026): Rules, Exemptions &amp; Examples",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Idaho has statewide sales tax, but gold and silver bullion is fully exempt. Qualifying coin forms may be exempt; jewelry is taxable. No threshold.",
+          "name": "Bullion Sales Tax in Idaho (2026): Rules, Exemptions &amp; Examples",
+          "@id": "https://bulliontradingllc.com/bullion-tax/idaho/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/idaho/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/idaho/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/bullion-tax/illinois/",
+    "https://bulliontradingllc.com/bullion-tax/iowa/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    }
+  ]
+}

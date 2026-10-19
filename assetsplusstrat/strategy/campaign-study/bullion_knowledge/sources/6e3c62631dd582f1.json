@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "id": "6e3c62631dd582f1",
+    "url": "https://learn.bulliontradingllc.com/quiz/indirect-silver-investment-methods-quiz/",
+    "title": "Indirect Silver Investment Methods Quiz | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:42.319320+00:00",
+    "status": "fetched",
+    "bytes": 27550,
+    "text_characters": 379,
+    "sha256_html": "4aaa714c5001239e043649622cd05f1104dc659fe8f187fa488db22f07f44124",
+    "file": "sources/6e3c62631dd582f1.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of ETFs, mining stocks, streaming companies, and other indirect silver investments.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/indirect-silver-investment-methods-quiz/",
+  "text": "Indirect Silver Investment Methods Quiz\nTest your knowledge of ETFs, mining stocks, streaming companies, and other indirect silver investments.\nWhich silver ETF is cited as holding physical silver transparently?\nA\niShares Silver Trust (SLV)\nB\nSprott Physical Silver Trust (PSLV)\nC\nAberdeen Standard Physical Silver\nD\nVanEck Silver ETF\n←\nBack to Indirect Silver Investment Methods",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Silver Investing Fundamentals",
+              "item": "https://learn.bulliontradingllc.com/guides/silver-investing-fundamentals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Indirect Silver Investment Methods",
+              "item": "https://learn.bulliontradingllc.com/guides/silver-investing-fundamentals/04-indirect-silver-investment-methods/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Indirect Silver Investment Methods Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Indirect Silver Investment Methods Quiz",
+          "description": "Test your knowledge of ETFs, mining stocks, streaming companies, and other indirect silver investments.",
+          "url": "https://learn.bulliontradingllc.com/quiz/indirect-silver-investment-methods-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Indirect Silver Investment Methods"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which silver ETF is cited as holding physical silver transparently?",
+              "text": "Which silver ETF is cited as holding physical silver transparently?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sprott Physical Silver Trust (PSLV)",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Sprott Physical Silver Trust (PSLV) is cited as holding physical silver transparently with stronger backing practices."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "iShares Silver Trust (SLV)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Aberdeen Standard Physical Silver"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "VanEck Silver ETF"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the main advantage of silver mining stocks during bull markets?",
+              "text": "What is the main advantage of silver mining stocks during bull markets?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Leveraged exposure to silver prices",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Mining stocks can offer significant leverage to silver price movements, with their Net Asset Value increasing dramatically when silver prices rise."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Lower volatility"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Guaranteed dividends"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "No operational risks"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which company is cited as the world's largest silver producer solely focused on silver production?",
+              "text": "Which company is cited as the world's largest silver producer solely focused on silver production?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fresnillo (FRES)",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Fresnillo (FRES) is cited as the world's largest silver producer solely focused on silver production."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Pan American Silver (PAAS)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Coeur D'Alene Mines (CDE)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Apex Mining (SIL)"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How do streaming and royalty companies avoid operational risks?",
+              "text": "How do streaming and royalty companies avoid operational risks?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "By providing upfront payments for future benefits without operating mines",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Streaming companies provide upfront payments to mining companies in exchange for future benefits, avoiding operational risks and unexpected costs."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "By owning multiple mines"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "By focusing only on exploration"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "By investing in ETFs"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What exceptional return did one streaming company achieve during a bull market?",
+              "text": "What exceptional return did one streaming company achieve during a bull market?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1,400% in three years",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "One streaming company achieved a 1,400% return in three years during a bull market, outperforming silver itself."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "500% in two years"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "1,000% in five years"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "2,000% in four years"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How many ounces of physical silver does a standard silver futures contract represent?",
+              "text": "How many ounces of physical silver does a standard silver futures contract represent?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "5,000 ounces",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "A standard silver futures contract often stipulates the delivery of 5,000 ounces of physical silver."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "1,000 ounces"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "2,500 ounces"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "10,000 ounces"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Options trading on precious metals can involve triple-digit percentage gains or losses.",
+              "text": "True or False: Options trading on precious metals can involve triple-digit percentage gains or losses.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Options trading is considered a high-risk approach, often leading to triple-digit percentage gains or losses due to extreme volatility."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the main risk of unallocated pooled accounts compared to allocated accounts?",
+              "text": "What is the main risk of unallocated pooled accounts compared to allocated accounts?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Less clear ownership rights",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Unallocated accounts have less clear ownership rights and potential commingling issues compared to allocated accounts where metal is segregated."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Higher costs"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Lower liquidity"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Higher taxes"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

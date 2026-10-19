@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "id": "83e92ce652b53fd2",
+    "url": "https://bulliontradingllc.com/bullion-tax/nevada/",
+    "title": "Bullion Sales Tax in Nevada (2026): Rules & Examples",
+    "retrieved_at": "2026-10-12T22:11:25.233138+00:00",
+    "status": "fetched",
+    "bytes": 104829,
+    "text_characters": 2182,
+    "sha256_html": "c0ba2e71d5af894e7f0d7d355f94a00c90e8e0e48bf6d68a766564a4e020a483",
+    "file": "sources/83e92ce652b53fd2.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Nevada has statewide sales tax, but gold/silver bullion and qualifying coins are fully exempt. Jewelry is taxable; numismatic pieces may be conditional.",
+  "canonical": "https://bulliontradingllc.com/bullion-tax/nevada/",
+  "text": "←\nAll states\nBullion treatment\nTax-free\nQualifying investment bullion is exempt.\nWhat's taxed?\nGood to know\nCommon questions\nHere's how each kind of item is treated in this state. Tap a row to read the plain-English note.\nWhat you're buying\nSales tax?\nWhat that means\nBullion Bars\nNo sales tax\nYou won't pay sales tax on these in Nevada.\nBullion Coins\nNo sales tax\nYou won't pay sales tax on these in Nevada.\nBullion Rounds\nNo sales tax\nYou won't pay sales tax on these in Nevada.\nLegal-Tender Coins\nNo sales tax\nYou won't pay sales tax on these in Nevada.\nNumismatic Coins\nDepends on the order\nSome items in this category qualify; others are taxed. Depends on the specific product.\nJewelry\nSales tax applies\nStandard Nevada sales tax applies at checkout.\nIndustrial Precious Metal\nAsk before ordering\nTax treatment depends on the item. If you're unsure, contact us before ordering.\nCollectibles (Non-Coin)\nSales tax applies\nStandard Nevada sales tax applies at checkout.\nPaper Currency\nSales tax applies\nStandard Nevada sales tax applies at checkout.\nAccessories\nSales tax applies\nStandard Nevada sales tax applies at checkout.\nWhat's covered by the exemption\nGold and silver bullion and coins priced for their metal value or accepted as a medium of exchange.\nHow they decide what counts as bullion\nThe item has to be priced for its metal content or function as a medium of exchange (like a circulating coin). Rarity-priced collectibles are taxed.\nWhat's NOT covered\nRarity/design-premium items, jewelry, and accessories.\nCommon questions about sales tax on gold and silver in Nevada.\nIs gold bullion taxed in Nevada?\n+\nNo. Nevada fully exempts gold bullion that qualifies as investment metal (value based on metal content).\nAre silver coins exempt from Nevada sales tax?\n+\nOften yes if they qualify as investment or medium-of-exchange items. Coins valued primarily for rarity rather than metal content may be treated differently.\nAre numismatic coins taxable in Nevada?\n+\nIt depends. Nevada treats numismatics as conditional, generally exempting qualifying monetary/investment coins and taxing rarity-driven pieces.\nIs jewelry taxed in Nevada?\n+\nYes. Jewelry is taxable in Nevada.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Sales Tax in Nevada (2026): Rules &amp; Examples",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "description": "Nevada has statewide sales tax, but gold/silver bullion and qualifying coins are fully exempt. Jewelry is taxable; numismatic pieces may be conditional."
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/bullion-tax/nevada/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/bullion-tax/",
+                "name": "Bullion Sales Tax by State"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "name": "Nevada",
+              "item": "https://bulliontradingllc.com/bullion-tax/nevada/"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "WebPage",
+            "FAQPage"
+          ],
+          "@id": "https://bulliontradingllc.com/bullion-tax/nevada/#webpage",
+          "url": "https://bulliontradingllc.com/bullion-tax/nevada/",
+          "name": "Bullion Sales Tax in Nevada (2026): Rules &amp; Examples",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/nevada/#breadcrumb"
+          },
+          "headline": "Nevada Sales Tax on Bullion",
+          "description": "Nevada has statewide sales tax, but gold/silver bullion and qualifying coins are fully exempt. Jewelry is taxable; numismatic pieces may be conditional.",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is gold bullion taxed in Nevada?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. Nevada fully exempts gold bullion that qualifies as investment metal (value based on metal content)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are silver coins exempt from Nevada sales tax?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Often yes if they qualify as investment or medium-of-exchange items. Coins valued primarily for rarity rather than metal content may be treated differently."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are numismatic coins taxable in Nevada?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends. Nevada treats numismatics as conditional, generally exempting qualifying monetary/investment coins and taxing rarity-driven pieces."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is jewelry taxed in Nevada?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Jewelry is taxable in Nevada."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Bullion Sales Tax in Nevada (2026): Rules &amp; Examples",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Nevada has statewide sales tax, but gold/silver bullion and qualifying coins are fully exempt. Jewelry is taxable; numismatic pieces may be conditional.",
+          "name": "Bullion Sales Tax in Nevada (2026): Rules &amp; Examples",
+          "@id": "https://bulliontradingllc.com/bullion-tax/nevada/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/nevada/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/nevada/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/bullion-tax/new-mexico/",
+    "https://bulliontradingllc.com/bullion-tax/new-york/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    }
+  ]
+}

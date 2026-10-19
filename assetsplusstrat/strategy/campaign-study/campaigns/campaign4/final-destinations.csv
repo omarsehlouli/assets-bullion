@@ -1,0 +1,7 @@
+ad_group,channel,final_url,tracked_url,purpose
+gold_local,google,https://bulliontradingllc.com/gold/,https://bulliontradingllc.com/gold/?utm_source=google&utm_medium=cpc&utm_campaign=campaign4&utm_content=gold_local_v1,Primary purchase path
+gold_local,meta,https://bulliontradingllc.com/gold/,https://bulliontradingllc.com/gold/?utm_source=meta&utm_medium=paid_social&utm_campaign=campaign4&utm_content=gold_local_v1,Primary purchase path
+silver_local,google,https://bulliontradingllc.com/silver/,https://bulliontradingllc.com/silver/?utm_source=google&utm_medium=cpc&utm_campaign=campaign4&utm_content=silver_local_v1,Primary purchase path
+silver_local,meta,https://bulliontradingllc.com/silver/,https://bulliontradingllc.com/silver/?utm_source=meta&utm_medium=paid_social&utm_campaign=campaign4&utm_content=silver_local_v1,Primary purchase path
+support_1,sitelink,https://bulliontradingllc.com/location/,https://bulliontradingllc.com/location/,Secondary information or product path
+support_2,sitelink,https://bulliontradingllc.com/contact-us/,https://bulliontradingllc.com/contact-us/,Secondary information or product path

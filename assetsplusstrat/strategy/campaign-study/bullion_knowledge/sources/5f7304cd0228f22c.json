@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "id": "5f7304cd0228f22c",
+    "url": "https://bulliontradingllc.com/charts/platinum-price/",
+    "title": "Platinum Price Today — Live Spot Price Chart | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:29.797348+00:00",
+    "status": "fetched",
+    "bytes": 99622,
+    "text_characters": 2745,
+    "sha256_html": "35b4fea43cf9287542fa0047d331eb17289f1ba153674703c9cee1e1337c4e69",
+    "file": "sources/5f7304cd0228f22c.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Live platinum price per ounce, gram and kilo, updated every minute. Interactive chart with official LBMA history to 1990 and a platinum value calculator.",
+  "canonical": "https://bulliontradingllc.com/charts/platinum-price/",
+  "text": "The platinum spot price is the market rate for one troy ounce of .9995 fine platinum. Platinum is roughly thirty times rarer than gold and is mined mostly in South Africa and Russia; autocatalysts, industry, and jewelry dominate demand, so the price is sensitive to the auto cycle and supply disruptions.\n—\nper troy ounce\n—\nBid\n—\nAsk\n—\nLast updated:\n—\nET\n24h High\n—\n24h Low\n—\nDay Change\n—\n52-Week High\n—\n52-Week Low\n—\n1D\n1W\n1M\n1Y\n5Y\nALL\n⬇ Save chart\nIntraday: BullionTradingLLC.com live feed · History: LBMA auction prices · Charts by\nTradingView\n· Chart images free to share with attribution\nPlatinum Price Converter\nCurrency\nUSD ($)\nEUR (€)\nGBP (£)\nJPY (¥)\nCHF (Fr)\nAUD (A$)\nCAD (C$)\nWeight\nTroy ounce\nGram\nKilogram\nPound\nTola\n—\nPlatinum Price per Ounce, Gram & Kilo\nUnit\nPlatinum Price\n(USD)\nDay Change\nTroy ounce\n—\n—\nGram\n—\n—\nKilogram\n—\n—\nWhy Invest in Platinum?\nPlatinum has historically traded above gold and today often trades below it — a discount some investors treat as long-term value. Supply is concentrated in a handful of mines, so disruptions move the price quickly.\nPlatinum vs. Gold\nGold demand is mostly monetary; platinum demand is mostly industrial. That makes platinum more cyclical: it tends to do best when industry accelerates, while gold shines in uncertainty.\nSupply Concentration\nAround 70% of mined platinum comes from South Africa. Power shortages, labor actions, or mine closures there ripple straight into the spot price.\nPlatinum Price FAQ\nWhat is the spot price of platinum?\nThe spot price is the current market rate for one troy ounce of .9995 fine platinum for immediate settlement. Physical platinum bars and coins are priced at a premium over this rate.\nWhy is platinum cheaper than gold?\nDemand mix. Platinum leans on autocatalysts and industry, which fluctuate with the economy, while gold enjoys steady monetary and central-bank demand. Rarity alone does not set the price.\nWhat purity is platinum bullion?\nInvestment-grade platinum is at least .9995 fine — American Platinum Eagles and most bars meet this standard.\nHow far back does the platinum chart go?\nOur historical series uses the official LBMA platinum PM price, published since April 1990 — every trading day is on the chart above.\nIs platinum a good diversifier?\nIt behaves differently from both gold and equities, which is exactly what diversification needs — at the cost of higher volatility and thinner liquidity than gold.\nWhat drives daily platinum moves?\nAuto-sector news, South African supply, the dollar, and speculative positioning. Thin trading volumes mean moves can be sharper than gold's.\nPrices are indicative market rates for informational purposes and are not an offer to buy or sell. Product prices include a premium over spot.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/charts/platinum-price/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/charts/",
+                "name": "Live Gold &amp; Silver Prices — All Metals Dashboard | Bullion Trading LLC"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/charts/platinum-price/",
+                "name": "Platinum Price Today — Live Spot Price Chart | Bullion Trading LLC"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/charts/platinum-price/#webpage",
+          "url": "https://bulliontradingllc.com/charts/platinum-price/",
+          "name": "Platinum Price Today — Live Spot Price Chart | Bullion Trading LLC",
+          "datePublished": "2025-03-11T05:30:20+00:00",
+          "dateModified": "2026-10-12T22:11:19+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/charts/platinum-price/#breadcrumb"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the spot price of platinum?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The spot price is the current market rate for one troy ounce of .9995 fine platinum for immediate settlement. Physical platinum bars and coins are priced at a premium over this rate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why is platinum cheaper than gold?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Demand mix. Platinum leans on autocatalysts and industry, which fluctuate with the economy, while gold enjoys steady monetary and central-bank demand. Rarity alone does not set the price."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What purity is platinum bullion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Investment-grade platinum is at least .9995 fine — American Platinum Eagles and most bars meet this standard."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far back does the platinum chart go?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our historical series uses the official LBMA platinum PM price, published since April 1990 — every trading day is on the chart above."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is platinum a good diversifier?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It behaves differently from both gold and equities, which is exactly what diversification needs — at the cost of higher volatility and thinner liquidity than gold."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What drives daily platinum moves?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Auto-sector news, South African supply, the dollar, and speculative positioning. Thin trading volumes mean moves can be sharper than gold's."
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/",
+    "https://www.tradingview.com/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    }
+  ]
+}

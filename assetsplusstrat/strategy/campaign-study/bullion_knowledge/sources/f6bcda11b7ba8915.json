@@ -1,0 +1,344 @@
+{
+  "metadata": {
+    "id": "f6bcda11b7ba8915",
+    "url": "https://learn.bulliontradingllc.com/quiz/introduction-platinum-investing-quiz/",
+    "title": "Introduction to Platinum Investing Quiz | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:42.746765+00:00",
+    "status": "fetched",
+    "bytes": 27434,
+    "text_characters": 319,
+    "sha256_html": "d9dc4b9f65fae9a24b24aeb66d028b160fc2cb99e51a4ddbe7060e959c3ebca4",
+    "file": "sources/f6bcda11b7ba8915.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of platinum investing fundamentals and the unique characteristics of the world's most precious metal.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/introduction-platinum-investing-quiz/",
+  "text": "Introduction to Platinum Investing Quiz\nTest your knowledge of platinum investing fundamentals and the unique characteristics of the world's most precious metal.\nHow much rarer is platinum compared to gold?\nA\n10 times rarer\nB\n20 times rarer\nC\n30 times rarer\nD\n50 times rarer\n←\nBack to Introduction to Platinum Investing",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Platinum Investing",
+              "item": "https://learn.bulliontradingllc.com/guides/platinum-investing/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Introduction to Platinum Investing",
+              "item": "https://learn.bulliontradingllc.com/guides/platinum-investing/01-introduction-platinum-investing/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Introduction to Platinum Investing Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Introduction to Platinum Investing Quiz",
+          "description": "Test your knowledge of platinum investing fundamentals and the unique characteristics of the world's most precious metal.",
+          "url": "https://learn.bulliontradingllc.com/quiz/introduction-platinum-investing-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Introduction to Platinum Investing"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How much rarer is platinum compared to gold?",
+              "text": "How much rarer is platinum compared to gold?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "30 times rarer",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Platinum is approximately 30 times rarer than gold. All the platinum ever produced would only cover your ankles in one Olympic-sized swimming pool, whereas all the gold ever produced would fill three such pools."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "10 times rarer"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "20 times rarer"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "50 times rarer"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is platinum's density compared to gold?",
+              "text": "What is platinum's density compared to gold?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Higher than gold at 21.5 g/cm³",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Platinum has a higher density than gold at 21.5 g/cm³ compared to gold's 19.3 g/cm³, making it one of the densest precious metals."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Lower than gold at 18.2 g/cm³"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Same as gold at 19.3 g/cm³"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Much higher than gold at 25.0 g/cm³"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What percentage of total platinum demand comes from industrial applications over the past five years?",
+              "text": "What percentage of total platinum demand comes from industrial applications over the past five years?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "24%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Industrial applications account for approximately 24% of total platinum demand over the past five years, with automotive catalytic converters being the largest source."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "15%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "35%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "45%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which emerging technology represents a major growth opportunity for platinum demand?",
+              "text": "Which emerging technology represents a major growth opportunity for platinum demand?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hydrogen fuel cells",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Hydrogen fuel cell technology represents a major growth opportunity as platinum is a crucial catalyst in fuel cells for \"green hydrogen\" and could significantly increase demand as the world transitions to clean energy."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Solar panels"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Electric vehicle batteries"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Wind turbines"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What percentage of computer hard drives use platinum alloy coating?",
+              "text": "What percentage of computer hard drives use platinum alloy coating?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Over 90%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Over 90% of computer hard drives use platinum alloy coating, making it critical for data storage applications and electronic components."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Over 70%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Over 80%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "100%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which country dominates global platinum supply?",
+              "text": "Which country dominates global platinum supply?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "South Africa",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "South Africa dominates global platinum supply with over 70% of world production coming from the Bushveld Igneous Complex, creating geographic concentration risk."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Russia"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Canada"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Australia"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the projected average annual platinum deficit from 2025-2029?",
+              "text": "What is the projected average annual platinum deficit from 2025-2029?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "727 koz",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The World Platinum Investment Council projects consecutive annual deficits averaging 727 koz (9% of average demand) from 2025-2029, creating strong fundamental support for prices."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "500 koz"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "900 koz"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "1,200 koz"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Since when has platinum been trading at a discount to gold?",
+              "text": "Since when has platinum been trading at a discount to gold?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "2015",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Since 2015, platinum has traded at a discount to gold, breaking from its historical premium. This creates a potential valuation opportunity as platinum is currently \"historically cheap\" relative to gold."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "2010"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "2018"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "2020"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

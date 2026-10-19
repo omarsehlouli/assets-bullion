@@ -1,0 +1,292 @@
+{
+  "metadata": {
+    "id": "86414796f7ded64d",
+    "url": "https://bulliontradingllc.com/bullion-tax/new-york/",
+    "title": "Bullion Sales Tax in New York (2026): Rules & Examples",
+    "retrieved_at": "2026-10-12T22:11:25.778161+00:00",
+    "status": "fetched",
+    "bytes": 115085,
+    "text_characters": 5779,
+    "sha256_html": "d185751563d9f296122b28b7795a0d72f5062c7b5af793e90770486e5bab5a83",
+    "file": "sources/86414796f7ded64d.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "New York has statewide sales tax; bullion/coins can be exempt if the order is $1,000+ and items meet NY premium-over-spot limits. Jewelry is taxable.",
+  "canonical": "https://bulliontradingllc.com/bullion-tax/new-york/",
+  "text": "←\nAll states\nOrder minimum to qualify\n$1,000+\nYour order has to reach this for the exemption to apply.\nWhat's taxed?\nGood to know\nCommon questions\nHow New York Works\nHere's how each kind of item is treated in this state. Tap a row to read the plain-English note.\nWhat you're buying\nSales tax?\nWhat that means\nBullion Bars\nDepends on the order\nTax-free if your order total is at least $1,000 and the items qualify. Smaller orders are taxed.\nBullion Coins\nDepends on the order\nTax-free if your order total is at least $1,000 and the items qualify. Smaller orders are taxed.\nBullion Rounds\nDepends on the order\nTax-free if your order total is at least $1,000 and the items qualify. Smaller orders are taxed.\nLegal-Tender Coins\nDepends on the order\nTax-free if your order total is at least $1,000 and the items qualify. Smaller orders are taxed.\nNumismatic Coins\nDepends on the order\nTax-free if your order total is at least $1,000 and the items qualify. Smaller orders are taxed.\nJewelry\nSales tax applies\nStandard New York sales tax applies at checkout.\nIndustrial Precious Metal\nSales tax applies\nStandard New York sales tax applies at checkout.\nCollectibles (Non-Coin)\nSales tax applies\nStandard New York sales tax applies at checkout.\nPaper Currency\nSales tax applies\nStandard New York sales tax applies at checkout.\nAccessories\nSales tax applies\nStandard New York sales tax applies at checkout.\nWhat's covered by the exemption\nInvestment bullion (gold, silver, platinum, palladium bars, rounds, and coins) plus qualifying legal-tender coins — when priced close to the underlying metal value.\nHow they decide what counts as bullion\nTwo things have to be true at the same time: (1) your single order totals $1,000 or more, AND (2) each item is priced close to its underlying metal value — not marked up for rarity, grading, or collector premium. The exact premium caps are explained in the \"How New York Works\" tab.\nWhat's NOT covered\nRare or graded coins, high-premium collector items, jewelry, paper currency held as a collectible, fabricated/industrial precious metal, and accessories (tubes, capsules, display boxes).\nCommon questions about sales tax on gold and silver in New York.\nIs gold bullion taxable in New York?\n+\nSometimes. New York generally taxes bullion unless the order is at least $1,000 and the bullion item meets the state’s premium-over-spot requirements.\nWhat’s the threshold for tax-free bullion in New York?\n+\nThe order must be at least $1,000, and the items must also satisfy New York’s premium-over-spot limits to qualify for the exemption.\nAre silver coins exempt from sales tax in New York?\n+\nOnly in some cases. Silver coins may be exempt when the order meets the $1,000 minimum and the coin meets New York’s premium tests.\nAre numismatic coins taxable in New York?\n+\nOften yes. New York treats numismatic coins as conditional and they are frequently taxable if they don’t meet the bullion/coin premium requirements.\nIs jewelry taxed in New York?\n+\nYes. Jewelry is taxable in New York.\nNew York is where we're based, so sales tax always applies to NY-destination orders. The questions below cover exactly how it works.\nDo I pay NY sales tax when ordering from Bullion Trading?\n+\nYes — if your order ships to a New York address. We're based in New York City (20 West 47th Street), so by law we collect NY sales tax on every order delivered inside the state.\nIs there a way to skip sales tax in New York?\n+\nYes. If your single order totals $1,000 or more, qualifying investment bullion and certain coins are exempt. Smaller orders, jewelry, and collector items are always taxed.\nHow does NY decide if a coin counts as \"investment bullion\"?\n+\nNY looks at the coin's premium — how much more you're paying compared to the underlying metal's market value (the \"spot price\"). If the premium is small, the coin counts as bullion. If it's high, NY treats it as a collectible and taxes it.\nNew York premium-over-spot caps — when an item still counts as bullion\nProduct\nMaximum price\nWorked example\nSilver coins\nUp to 140% of metal value\nSilver at $30/oz: a 1 oz silver coin contains $30 of silver, so it can sell for up to $42 and still qualify. Priced higher, NY treats it as a collectible.\nGold coins 1/4 oz or smaller\nUp to 120% of metal value\nGold at $2,300/oz: a 1/10 oz gold coin contains $230 of gold, so it can sell for up to $276 and still qualify.\nLarger gold / platinum / palladium coins\nUp to 115% of metal value\nGold at $2,300/oz: a 1 oz gold coin can sell for up to $2,645 and still qualify.\nBars and ingots\nUp to 115% of metal value\nBars are usually priced very close to spot, so they almost always qualify.\nSource: New York State Department of Taxation and Finance, TSB-M-89(20)S. Spot prices fluctuate — your invoice will show the exact tax based on the day's pricing.\nWhy does the premium even matter?\n+\nThe exemption is designed for true investment items — not collector pieces. A silver coin selling for ten times its silver weight isn't really an investment in silver; it's a numismatic purchase. NY taxes those like any other collectible.\nWhat about rare, graded, or antique coins?\n+\nThose almost always sit above the premium caps, so they're taxed. If you're buying a graded coin or rare numismatic piece, expect sales tax on your order.\nWhy does my exact tax rate depend on my delivery address?\n+\nNY sales tax is \"destination-based\" — the rate combines the 4% state rate with your local county/city rate. A package to Brooklyn pays a different total rate than one to Buffalo, even though both ship from our Manhattan office.\nWill I see the tax before I confirm the order?\n+\nYes. At checkout, the exact tax amount is calculated from your delivery address and what's in your cart. That's the number we collect and remit to New York State.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Sales Tax in New York (2026): Rules &amp; Examples",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "description": "New York has statewide sales tax; bullion/coins can be exempt if the order is $1,000+ and items meet NY premium-over-spot limits. Jewelry is taxable."
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/bullion-tax/new-york/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/bullion-tax/",
+                "name": "Bullion Sales Tax by State"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "name": "New York",
+              "item": "https://bulliontradingllc.com/bullion-tax/new-york/"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "WebPage",
+            "FAQPage"
+          ],
+          "@id": "https://bulliontradingllc.com/bullion-tax/new-york/#webpage",
+          "url": "https://bulliontradingllc.com/bullion-tax/new-york/",
+          "name": "Bullion Sales Tax in New York (2026): Rules &amp; Examples",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/new-york/#breadcrumb"
+          },
+          "headline": "New York Sales Tax on Bullion",
+          "description": "New York has statewide sales tax; bullion/coins can be exempt if the order is $1,000+ and items meet NY premium-over-spot limits. Jewelry is taxable.",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is gold bullion taxable in New York?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sometimes. New York generally taxes bullion unless the order is at least $1,000 and the bullion item meets the state’s premium-over-spot requirements."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What’s the threshold for tax-free bullion in New York?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The order must be at least $1,000, and the items must also satisfy New York’s premium-over-spot limits to qualify for the exemption."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are silver coins exempt from sales tax in New York?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Only in some cases. Silver coins may be exempt when the order meets the $1,000 minimum and the coin meets New York’s premium tests."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are numismatic coins taxable in New York?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Often yes. New York treats numismatic coins as conditional and they are frequently taxable if they don’t meet the bullion/coin premium requirements."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is jewelry taxed in New York?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Jewelry is taxable in New York."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Bullion Sales Tax in New York (2026): Rules &amp; Examples",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "New York has statewide sales tax; bullion/coins can be exempt if the order is $1,000+ and items meet NY premium-over-spot limits. Jewelry is taxable.",
+          "name": "Bullion Sales Tax in New York (2026): Rules &amp; Examples",
+          "@id": "https://bulliontradingllc.com/bullion-tax/new-york/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/new-york/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/new-york/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/bullion-tax/nevada/",
+    "https://bulliontradingllc.com/bullion-tax/ohio/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    }
+  ]
+}

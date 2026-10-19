@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "22bc560f2fd65aa1",
+    "url": "https://learn.bulliontradingllc.com/charts/gold-price-in-1968/",
+    "title": "Gold Price in 1968 — Monthly LBMA Fix, Highs & Lows | BTLLC",
+    "retrieved_at": "2026-10-12T22:12:54.280999+00:00",
+    "status": "fetched",
+    "bytes": 18860,
+    "text_characters": 1105,
+    "sha256_html": "b33905f3e7f1f9618b39badebb898f24aa46ed2828fef12c71010e0483a6d4f0",
+    "file": "sources/22bc560f2fd65aa1.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Gold in 1968: 9 monthly observations, 1968-04-30 to 1968-12-31. Sampled high $41.95, low $38.85; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/gold-price-in-1968/",
+  "text": "Gold Price in 1968\nAmong 9 monthly observations available for 1968, the LBMA gold price rose 7.2% between 1968-04-30 ($39.10) and 1968-12-31 ($41.90). The highest sampled price was $41.95 in May and the lowest was $38.85 in July. The mean of these observations was $40.11. This is a first-to-last observation change, not a calendar-year return.\n1968 gold price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$39.10\n(1968-04-30)\n$41.95\n(May)\n$38.85\n(July)\n$41.90\n(1968-12-31)\n$40.11\nGBP\n£16.31\n(1968-04-30)\n£17.60\n(May)\n£16.22\n(July)\n£17.57\n(1968-12-31)\n£16.80\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live gold price on the\nBullion Trading LLC spot dashboard\n, or\nshop gold bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold price history",
+              "item": "https://learn.bulliontradingllc.com/charts/gold-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1968"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Gold price in 1968 — LBMA monthly fix",
+          "description": "Gold in 1968: 9 monthly observations, 1968-04-30 to 1968-12-31. Sampled high $41.95, low $38.85; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/gold-price-in-1968/",
+          "temporalCoverage": "1968-04-30/1968-12-31",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

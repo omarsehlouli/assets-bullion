@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "id": "2b3724749af4d672",
+    "url": "https://learn.bulliontradingllc.com/coin-values/1943-steel-penny/",
+    "title": "1943 Steel Penny Value — Rarity, Mintage & Key Dates | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:23.964496+00:00",
+    "status": "fetched",
+    "bytes": 13772,
+    "text_characters": 1059,
+    "sha256_html": "d0a5c11f18443e830bf64bf30c9a63eb22cd7abcfe93c9955ed92eda24906496",
+    "file": "sources/2b3724749af4d672.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "In 1943 the US Mint struck cents in zinc-coated steel to save copper for the war. Hundreds of millions were made, so a circulated 1943 steel cent is common…",
+  "canonical": "https://learn.bulliontradingllc.com/coin-values/1943-steel-penny/",
+  "text": "Common but collected\n1943 Steel Penny Value\nIn 1943 the US Mint struck cents in zinc-coated steel to save copper for the war. Hundreds of millions were made, so a circulated 1943 steel cent is common — typically worth a few cents to a dollar. The famous rarity is the opposite: a 1943 cent struck in copper by error.\nKey facts\nComposition: zinc-coated steel (magnetic) — the only regular-issue US cent that sticks to a magnet.\nCommon in circulated grades; uncirculated and reprocessed/“reprocessed shiny” examples carry small premiums.\nThe genuine 1943 COPPER cent is a major rarity worth six figures — but the vast majority of “copper-looking” 1943 cents are simply steel cents that were copper-plated. A real one is non-magnetic.\nTip: a magnet instantly separates the common steel cent from the rare copper error.\nThinking of selling?\nWe buy coins and bullion in person at our NYC Diamond District counter.\nGet a free quote →\nSee the full\npennies value guide\n, or\nShop gold & silver bullion →\nMore:\nall coin values\n·\nsilver price history\n·\ngold/silver ratio",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Coin Values",
+              "item": "https://learn.bulliontradingllc.com/coin-values/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Pennies",
+              "item": "https://learn.bulliontradingllc.com/coin-values/pennies/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1943 Steel Penny"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "1943 Steel Penny Value",
+          "description": "In 1943 the US Mint struck cents in zinc-coated steel to save copper for the war. Hundreds of millions were made, so a circulated 1943 steel cent is common…",
+          "url": "https://learn.bulliontradingllc.com/coin-values/1943-steel-penny/",
+          "creator": {
+            "@type": "Organization",
+            "name": "United States Mint"
+          },
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

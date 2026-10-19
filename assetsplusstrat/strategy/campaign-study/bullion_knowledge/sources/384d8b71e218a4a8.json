@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "384d8b71e218a4a8",
+    "url": "https://bulliontradingllc.com/blog/be-aware-of-fake-silver/",
+    "title": "Be aware of: Fake Silver! - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:20.638475+00:00",
+    "status": "fetched",
+    "bytes": 97326,
+    "text_characters": 4451,
+    "sha256_html": "edb9f55f3a1d71bb6750bbc18af82982f1317738657dcc9d4f0bf5d82878cf59",
+    "file": "sources/384d8b71e218a4a8.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "When you acquaint yourself enough to know a real coin from a fake, it might not be a bad idea to carry both coins around with you and use them to check the",
+  "canonical": "https://bulliontradingllc.com/blog/be-aware-of-fake-silver/",
+  "text": "When you acquaint yourself enough to know a real coin from a fake, it might not be a bad idea to carry both coins around with you and use them to check the individuals you do organisation with. On the other hand, if you fulfill a dealer who can spot the fake one just from sight, which is precisely what would take place if you were to come to the workplace of Bullion Trading llc, then youll know youll be dealing with a specialist.\nA man visited a local merchant with a bag of one hundred and sixty Morgan silver coins. I am around coins and bars so much on a daily basis that when I come across a fake one, all I know is it just doesnt “look right” to me. When I intuitively felt something was wrong with one coin, it took me a second to identify what was throwing me off: the coin was apparently from 1911. Other elements that jump out at me are the weight of the coin, whether or not it is properly silver-plated, and if it has any mint mistakes, such as not being reeded with grooved edges when its a coin that needs to be. As soon as you acquaint yourself enough to know a genuine coin from a fake, it may not be a bad idea to bring both coins around with you and use them to evaluate the individuals you do company with.\nA guy went to a regional merchant with a bag of one hundred and sixty Morgan silver coins. Morgans, having actually been terminated considering that 1921, are quite uncommon and, while figuring out the precise value will differ depending on its year and whether or not it has actually been distributed, I can easily say that to be used $7.50 for a single coin is an absolute joke. The merchant later on found the coins to be fakes and reported the male to the authorities.\nThis anecdote does not speak extremely of silver merchants, nor of the marketplace in general. One male tries to trick another, only to be fooled himself. He is so happily surprised that his victim has actually fallen victim to a rookie error that he enables himself to fall for one. It would appear the 2 scammers are so dishonest that they should have one another. Obviously, there are some who speculate that the customer was not being deceitful but truly believed his coins were real. If that is indeed the case, then there is poetic justice behind the story, definitely, however also serious cause for alarm. A market in which a sincere man obliviously frauds a victim who had been preparing to scam him is certainly in serious trouble.\nAnd now, into this big mess, a new danger has actually been found from China. According to the Global Piracy and Counterfeiting Consultants, it is entirely legal in China to produce fake gold and silver coins and bars. Phony variations of the American Silver Eagle are now being produced in mass amounts by the Chinese. Lots of rip-offs have actually stemmed from abroad previously, however this one could have long-term impacts, due to just the sheer magnitude of apparently collectible coins being produced. When these go into the hands of American collectors and traders and start to distribute amongst those who do not instantly understand that they are phony, they will be around for a long time. Even if China were to change its laws and crack down on each and every single fake scheme today, the damage would currently be done. The phony silver is out there, and it is being circulated by naïve collectors and making fools of us all.\nAs mentioned in our previous post about Fake Gold, I have reached a level where I can recognize whether a coin is real or not simply from looking at it from a range. I am around coins and bars so much on an everyday basis that when I experience a fake one, all I understand is it just does not “look right” to me. When I instinctively felt something was incorrect with one coin, it took me a 2nd to spot what was throwing me off: the coin was apparently from 1911.\nOther factors that jump out at me are the weight of the coin, whether or not it is appropriately silver-plated, and if it has any mint mistakes, such as not being reeded with grooved edges when its a coin that must be. Silver coins are subject to something understood as the ring test. A Silver Eagle will have an unique acoustic ring when hung on the idea of a finger and tapped with another coin. Lastly, as a last resort, I will constantly examine the coin under zoom.\nbulliontrading\nView all posts\nPrevious Post\nHow can you find out if the gold is fake or Real?\nNext Post\nAbout Perth Mint Gold Bar",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2011/10/2000-Silver-Panda-Rev-1-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2011/10/2000-Silver-Panda-Rev-1-jpg.webp",
+          "width": "300",
+          "height": "300",
+          "caption": "2000-Silver-Panda-Rev (1)",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/be-aware-of-fake-silver/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/silver/",
+                "name": "silver"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/be-aware-of-fake-silver/",
+                "name": "Be aware of: Fake Silver!"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/be-aware-of-fake-silver/#webpage",
+          "url": "https://bulliontradingllc.com/blog/be-aware-of-fake-silver/",
+          "name": "Be aware of: Fake Silver! - Bullion Trading LLC",
+          "datePublished": "2011-10-10T09:10:07+00:00",
+          "dateModified": "2011-10-10T09:10:07+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2011/10/2000-Silver-Panda-Rev-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/be-aware-of-fake-silver/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Be aware of: Fake Silver! - Bullion Trading LLC",
+          "datePublished": "2011-10-10T09:10:07+00:00",
+          "dateModified": "2011-10-10T09:10:07+00:00",
+          "articleSection": "silver",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "When you acquaint yourself enough to know a real coin from a fake, it might not be a bad idea to carry both coins around with you and use them to check the",
+          "name": "Be aware of: Fake Silver! - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/be-aware-of-fake-silver/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/be-aware-of-fake-silver/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2011/10/2000-Silver-Panda-Rev-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/be-aware-of-fake-silver/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/about-perth-mint-gold-bar/",
+    "https://bulliontradingllc.com/blog/be-aware-of-fake-silver/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/how-can-you-find-out-if-the-gold-is-fake-or-real/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2011/10/2000-Silver-Panda-Rev-1-jpg.webp",
+      "alt": "2000-Silver-Panda-Rev (1)"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

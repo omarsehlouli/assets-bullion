@@ -1,0 +1,292 @@
+{
+  "metadata": {
+    "id": "3b760c63edd0634f",
+    "url": "https://bulliontradingllc.com/bullion-tax/california/",
+    "title": "Bullion Sales Tax in California (2026): Rules, Exemptions & Examples",
+    "retrieved_at": "2026-10-12T22:11:21.941587+00:00",
+    "status": "fetched",
+    "bytes": 107982,
+    "text_characters": 3258,
+    "sha256_html": "6b1691a2fc1873e3ae7ee17ad55f17d3adcb2246c5c19aa047ad69e1e856b904",
+    "file": "sources/3b760c63edd0634f.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "California has statewide sales tax. Bullion and qualifying coins are exempt only when a single invoice is $2,000+; otherwise tax applies. Jewelry is taxable.",
+  "canonical": "https://bulliontradingllc.com/bullion-tax/california/",
+  "text": "←\nAll states\nOrder minimum to qualify\n$2,000+\nYour order has to reach this for the exemption to apply.\nLocal taxes\nMay still apply\nSome cities or counties charge their own rate.\nStatus\n$2,000 rule in force\nWhat's taxed?\nGood to know\nCommon questions\nLocal taxes\nHere's how each kind of item is treated in this state. Tap a row to read the plain-English note.\nWhat you're buying\nSales tax?\nWhat that means\nBullion Bars\nDepends on the order\nTax-free if your order total is at least $2,000 and the items qualify. Smaller orders are taxed.\nBullion Coins\nDepends on the order\nTax-free if your order total is at least $2,000 and the items qualify. Smaller orders are taxed.\nBullion Rounds\nDepends on the order\nTax-free if your order total is at least $2,000 and the items qualify. Smaller orders are taxed.\nLegal-Tender Coins\nDepends on the order\nTax-free if your order total is at least $2,000 and the items qualify. Smaller orders are taxed.\nNumismatic Coins\nDepends on the order\nTax-free if your order total is at least $2,000 and the items qualify. Smaller orders are taxed.\nJewelry\nSales tax applies\nStandard California sales tax applies at checkout.\nIndustrial Precious Metal\nSales tax applies\nStandard California sales tax applies at checkout.\nCollectibles (Non-Coin)\nSales tax applies\nStandard California sales tax applies at checkout.\nPaper Currency\nSales tax applies\nStandard California sales tax applies at checkout.\nAccessories\nSales tax applies\nStandard California sales tax applies at checkout.\nWhat's covered by the exemption\nInvestment bullion and qualifying coins, but only on \"bulk\" orders — a single invoice of $2,000 or more.\nHow they decide what counts as bullion\nThe order has to be a \"bulk\" transaction — a single invoice of $2,000 or more — that resembles a commodity-style purchase. Ordinary retail purchases of coins or bars below that threshold do not qualify.\nWhat's NOT covered\nSales under $2,000, jewelry, fabricated industrial metal, and most everyday retail coin purchases.\nEven when the state-level rule is clear, cities or counties in this state may charge their own tax. Here's what to expect.\nLocal treatment\nLocal district taxes follow CDTFA rule; invoice control matters\nCommon questions about sales tax on gold and silver in California.\nIs gold bullion taxable in California?\n+\nIt depends. California generally taxes bullion unless the sale qualifies for the bullion/coin exemption and the single invoice total is at least $2,000.\nWhat’s the California threshold for tax-free bullion?\n+\nThe key threshold is a single invoice of $2,000 or more. If the invoice is below $2,000, California generally requires sales tax on the bullion/coins.\nAre silver coins exempt from sales tax in California?\n+\nCertain coin sales can qualify as exempt when they meet California’s bullion/coin rules and the invoice is $2,000+. Otherwise, sales tax is typically collected.\nAre numismatic coins taxable in California?\n+\nNumismatic treatment is conditional. California can exempt qualifying numismatic coins sold in a manner that meets the state’s bullion/coin rules and the $2,000 invoice threshold.\nIs precious-metal jewelry taxable in California?\n+\nYes. Jewelry is taxable in California and is not covered by the bullion/coin exemption rules.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Sales Tax in California (2026): Rules, Exemptions &amp; Examples",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "description": "California has statewide sales tax. Bullion and qualifying coins are exempt only when a single invoice is $2,000+; otherwise tax applies. Jewelry is taxable."
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/bullion-tax/california/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/bullion-tax/",
+                "name": "Bullion Sales Tax by State"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "name": "California",
+              "item": "https://bulliontradingllc.com/bullion-tax/california/"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "WebPage",
+            "FAQPage"
+          ],
+          "@id": "https://bulliontradingllc.com/bullion-tax/california/#webpage",
+          "url": "https://bulliontradingllc.com/bullion-tax/california/",
+          "name": "Bullion Sales Tax in California (2026): Rules, Exemptions &amp; Examples",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/california/#breadcrumb"
+          },
+          "headline": "California Sales Tax on Bullion",
+          "description": "California has statewide sales tax. Bullion and qualifying coins are exempt only when a single invoice is $2,000+; otherwise tax applies. Jewelry is taxable.",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is gold bullion taxable in California?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends. California generally taxes bullion unless the sale qualifies for the bullion/coin exemption and the single invoice total is at least $2,000."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What’s the California threshold for tax-free bullion?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The key threshold is a single invoice of $2,000 or more. If the invoice is below $2,000, California generally requires sales tax on the bullion/coins."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are silver coins exempt from sales tax in California?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Certain coin sales can qualify as exempt when they meet California’s bullion/coin rules and the invoice is $2,000+. Otherwise, sales tax is typically collected."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are numismatic coins taxable in California?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Numismatic treatment is conditional. California can exempt qualifying numismatic coins sold in a manner that meets the state’s bullion/coin rules and the $2,000 invoice threshold."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is precious-metal jewelry taxable in California?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Jewelry is taxable in California and is not covered by the bullion/coin exemption rules."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Bullion Sales Tax in California (2026): Rules, Exemptions &amp; Examples",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "California has statewide sales tax. Bullion and qualifying coins are exempt only when a single invoice is $2,000+; otherwise tax applies. Jewelry is taxable.",
+          "name": "Bullion Sales Tax in California (2026): Rules, Exemptions &amp; Examples",
+          "@id": "https://bulliontradingllc.com/bullion-tax/california/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/california/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/california/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/bullion-tax/arizona/",
+    "https://bulliontradingllc.com/bullion-tax/colorado/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    }
+  ]
+}

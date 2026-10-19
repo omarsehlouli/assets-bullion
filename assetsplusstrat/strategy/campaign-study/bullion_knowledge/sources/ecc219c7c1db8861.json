@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "id": "ecc219c7c1db8861",
+    "url": "https://learn.bulliontradingllc.com/guides/questions/16-what-are-proof-coins/",
+    "title": "What are Proof Coins? | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:34.623149+00:00",
+    "status": "fetched",
+    "bytes": 22488,
+    "text_characters": 4996,
+    "sha256_html": "9582ef4f27fc84dad334680c65d5d891e648a0ecb24ba1bbae0fe53f18bcc4e5",
+    "file": "sources/ecc219c7c1db8861.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Proof coins are specially struck collectibles with mirror finishes, frosted details, and limited mintages that often carry premiums above their metal content.",
+  "canonical": "https://learn.bulliontradingllc.com/guides/questions/16-what-are-proof-coins/",
+  "text": "beginner\nBy the\nBullion Trading LLC editorial team\nWhat are Proof Coins?\nProof coins are specially struck collectibles with mirror finishes, frosted details, and limited mintages that often carry premiums above their metal content.\nProof coins represent the highest tier of coin production. They are struck on specially prepared blanks using polished dies, producing mirror-like fields, frosted design elements, and exceptional detail that ordinary bullion or circulating coins cannot match.\nThe Proof Minting Process\nProof coins differ from regular strikes at every stage of production, from die preparation through final inspection.\nDie Preparation\nDies are hand-selected and polished to a mirror finish\nDesign elements are often frosted or sandblasted to contrast with reflective fields\nEach die is inspected for imperfections before use\nBlank Preparation\nCoin blanks are individually polished and cleaned\nEach blank is inspected before striking\nWorkers handle blanks with gloves to prevent fingerprints\nStriking\nCoins are struck two or three times at slower press speeds\nHigher pressure ensures complete detail transfer\nEach coin is inspected individually after striking\nThe result is a finish that ordinary minting cannot replicate, and a unit cost that is meaningfully higher than business-strike production.\nTypes of Proof Finishes\nBrilliant Proof\nThe most common finish. Fields are highly polished and mirror-like, while raised design elements are typically frosted for contrast.\nMatte Proof\nA uniform, non-reflective finish achieved through sandblasting. Less common today, but historically used on some early 20th-century U.S. gold issues.\nReverse Proof\nThe opposite of a brilliant proof: the background is frosted while the raised design elements are mirror-like. Often issued for anniversary sets and limited releases.\nEnhanced Proof\nCombines multiple finishes on a single coin, sometimes mixing polished, frosted, and selectively treated surfaces for a layered visual effect.\nProof vs. Uncirculated Coins\nAspect\nProof Coins\nUncirculated Coins\nProduction method\nMultiple strikes, slow speed\nSingle strike, regular speed\nAppearance\nMirror fields, frosted details\nSatin or business-strike finish\nPremium\nHigher over spot\nLower over spot\nMintage\nTypically limited\nGenerally higher\nPackaging\nSealed mint capsule or set\nTube or loose\nWhy Collectors Buy Proof Coins\nProof coins draw collectors for a few overlapping reasons:\nAesthetic appeal.\nSuperior visual quality and finish that photographs and displays well.\nLimited production.\nMintages are often a fraction of the equivalent business strike.\nPresentation.\nMost arrive in mint-issued capsules, boxes, and certificates of authenticity.\nNumismatic upside.\nPricing can move with collector demand rather than only with spot metal.\nThat last point cuts both ways. A proof premium can grow if a series becomes popular, or compress if demand fades. Treat the premium as an additional variable on top of the underlying metal exposure.\nCaring for Proof Coins\nProof surfaces are easy to damage and almost impossible to restore once marked. A few rules cover most situations:\nHandle by the edges only.\nSkin oils leave permanent residues on mirror fields.\nKeep original packaging.\nMint capsules, boxes, and COAs preserve both condition and resale value.\nStore cool and dry.\nAvoid humidity swings, PVC flips, and direct light.\nNever clean a proof coin.\nEven gentle wiping leaves hairlines that destroy the grade.\nIf a coin needs an opinion on condition, send it to a third-party grading service (PCGS or NGC) rather than handling it repeatedly.\nInvestment Considerations\nProof coins behave differently from plain bullion. A few things to weigh before buying:\nPremium over spot.\nProofs cost more than equivalent-weight bullion. That premium has to be recovered when you sell.\nSeries and mintage.\nLower mintages and well-established series tend to hold premium better.\nLiquidity.\nProofs sell to a smaller buyer pool than generic bullion. Expect wider bid-ask spreads.\nGrade matters.\nA coin in original mint packaging or in a high third-party grade (PR69, PR70) typically commands a meaningful premium over an unprotected example.\n💡\nAnalyze Investment Performance\nUse the\nReturn Calculator\nto model how a proof coin’s combined metal-plus-premium return compares to a plain bullion position over the same period.\nIf your primary goal is precious-metals exposure, generic bullion is usually the more efficient vehicle. If you value craftsmanship, packaging, and the possibility of numismatic appreciation, proofs can be a worthwhile addition. For broader context on how metal pricing itself works, see the cross-referenced piece on\nUnderstanding The Value Of Gold Bullion\n.\nRelated on bulliontradingllc.com\nUnderstanding The Value Of Gold Bullion ↗\n· blog\nValue Of Gold ↗\n· blog\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Guides",
+              "item": "https://learn.bulliontradingllc.com/guides/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Questions & Answers",
+              "item": "https://learn.bulliontradingllc.com/guides/questions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "What are Proof Coins?"
+            }
+          ]
+        },
+        {
+          "@type": "Article",
+          "headline": "What are Proof Coins?",
+          "description": "Proof coins are specially struck collectibles with mirror finishes, frosted details, and limited mintages that often carry premiums above their metal content.",
+          "url": "https://learn.bulliontradingllc.com/guides/questions/16-what-are-proof-coins/",
+          "author": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/blog/understanding-the-value-of-gold-bullion/",
+    "https://bulliontradingllc.com/blog/value-of-gold/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

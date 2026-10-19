@@ -1,0 +1,6 @@
+ad_group,channel,final_url,tracked_url,purpose
+pickup,google,https://bulliontradingllc.com/gold/bars/1-oz-gold-bars/,https://bulliontradingllc.com/gold/bars/1-oz-gold-bars/?utm_source=google&utm_medium=cpc&utm_campaign=campaign5&utm_content=pickup_v1,Primary purchase path
+pickup,meta,https://bulliontradingllc.com/gold/bars/1-oz-gold-bars/,https://bulliontradingllc.com/gold/bars/1-oz-gold-bars/?utm_source=meta&utm_medium=paid_social&utm_campaign=campaign5&utm_content=pickup_v1,Primary purchase path
+support_1,sitelink,https://bulliontradingllc.com/contact-us/,https://bulliontradingllc.com/contact-us/,Secondary information or product path
+support_2,sitelink,https://bulliontradingllc.com/location/,https://bulliontradingllc.com/location/,Secondary information or product path
+support_3,sitelink,https://bulliontradingllc.com/terms-and-conditions/,https://bulliontradingllc.com/terms-and-conditions/,Secondary information or product path

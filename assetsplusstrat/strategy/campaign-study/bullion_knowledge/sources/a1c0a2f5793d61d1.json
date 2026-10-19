@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "id": "a1c0a2f5793d61d1",
+    "url": "https://bulliontradingllc.com/blog/how-much-gold-do-americans-own/",
+    "title": "How Much Gold Do Americans Own? - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:51.306258+00:00",
+    "status": "fetched",
+    "bytes": 96028,
+    "text_characters": 3530,
+    "sha256_html": "a3936c44e1dc7dbf7761d5664cdd035cfd52dae44a854c6a0af265bf9519a281",
+    "file": "sources/a1c0a2f5793d61d1.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "the American federal government offers lots of its gold. In 2015 alone the US Mint sold$1.2 billion worth of gold coins. Americans are likewise understood",
+  "canonical": "https://bulliontradingllc.com/blog/how-much-gold-do-americans-own/",
+  "text": "the American federal government offers lots of its gold. In 2015 alone the US Mint sold$1.2 billion worth of gold coins. Americans are likewise understood from buying coin and bullion on foreign markets. It is the very markets that make it difficult to identify who is buying what, and at how much. The market is deliberately vague at tracking these concerns, and tracking on the pre-owned market is beside non-existent. The closest that any tracking company, or believe tank would come to supplying a response was a tip that perhaps less\nHow much gold do Americans own? For a nation in which we can dependably say that 23% have more than one fridge, can inform to the tenth decimal location just how much Americans of various tax brackets add to their pension, we can not easily answer how much gold Americans own.\nthan 10%of Americans own gold as an investment. Through the 19th century, most\nAmericans simply just could not gold as an investment -making it a useless statistic to track. The government as well never had a dependable technique of approximating the amount of gold in the public hand throughout the illegal gold period-and this impact our ability to track it today. How much gold do you think Americans own as an investment?\nthan 10%of Americans own gold as an investment. More drilling on political ballot stats recommend that in between 1% and 3%own rare-earth elements. This suggests that the range of Americans that own gold might be in between 2.5 million and 25 million. This unknown fact is actually the story of gold in America. Through the 19th century, a lot of\nAmericans just couldnt pay for gold as an investment -making it an useless statistic to track. From 1933 to 1975 it was simply prohibited for Americans to own gold as an investment. The government also never had a reliable method of approximating the quantity of gold in the general public hand during the unlawful gold era-and this effect our ability to track it today. Just how much gold do you think Americans own as an investment? Share this article, and let us understand in the comments!\nthat gold is not a vehicle of financial investment for those at the upper echelons of earnings. The more money in an American family, the less likely that family is to invest greatly in gold. Stocks and shared funds take hold as investment cars, while gold is relegated, almost, to those who might not be able to pay for large amounts. Yet this does not address the quantity of gold owned. We have some measures of signs, as\nWhen gold costs were high in 2011, 34% of Americans deem gold to be the finest long term investment. The closest that any tracking firm, or think tank would come to supplying a response was a hint that possibly less\nWe require to explore why Americans own gold in the very first location, and what we indicate by “owning gold.” What we are focusing on is Americans that own gold for investment functions. From there, we can really make a general observation. When gold costs were high in 2011, 34% of Americans consider gold to be the best long term investment. Yet, with gold costs falling by 2017, it ranked only 3rd behind realty and stocks/mutual funds. This isnt to discount golds reliability as an investment, simply that the general public perception of gold as financial investment varies on its cost.\nthrough http://panamainvest2013.com Another observation that we have the ability to make is\nbulliontrading\nView all posts\nPrevious Post\nIntroduction to Coin Grading\nNext Post\nSafety Week: Avoiding Sketchy Dealers",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-1-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-1-jpg.webp",
+          "width": "887",
+          "height": "552",
+          "caption": "Untitled",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/how-much-gold-do-americans-own/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/coin-collection/",
+                "name": "coin collection"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/how-much-gold-do-americans-own/",
+                "name": "How Much Gold Do Americans Own?"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/how-much-gold-do-americans-own/#webpage",
+          "url": "https://bulliontradingllc.com/blog/how-much-gold-do-americans-own/",
+          "name": "How Much Gold Do Americans Own? - Bullion Trading LLC",
+          "datePublished": "2017-08-11T10:00:48+00:00",
+          "dateModified": "2017-08-11T10:00:48+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/how-much-gold-do-americans-own/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "How Much Gold Do Americans Own? - Bullion Trading LLC",
+          "datePublished": "2017-08-11T10:00:48+00:00",
+          "dateModified": "2017-08-11T10:00:48+00:00",
+          "articleSection": "coin collection, Gold, gold bullion, gold coins, silver",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "the American federal government offers lots of its gold. In 2015 alone the US Mint sold$1.2 billion worth of gold coins. Americans are likewise understood",
+          "name": "How Much Gold Do Americans Own? - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/how-much-gold-do-americans-own/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/how-much-gold-do-americans-own/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/how-much-gold-do-americans-own/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/coin-collection/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/how-much-gold-do-americans-own/",
+    "https://bulliontradingllc.com/blog/introduction-to-coin-grading/",
+    "https://bulliontradingllc.com/blog/safety-week-avoiding-sketchy-dealers/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/gold-1-jpg.webp",
+      "alt": "Untitled"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

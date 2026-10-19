@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "b1bfadfcc0e5092c",
+    "url": "https://bulliontradingllc.com/blog/gold-rebounds-as-trade-deal-hopes-fade/",
+    "title": "Gold rebounds as trade deal hopes fade - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:44.407062+00:00",
+    "status": "fetched",
+    "bytes": 95034,
+    "text_characters": 2776,
+    "sha256_html": "35fc7d325a424cff4a2d9ce73fd3acaa02c5280866dcb9e5348bc4e3a195342c",
+    "file": "sources/b1bfadfcc0e5092c.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Silver rose 0.8% to $17.67 per ounce and platinum edged 0.1% higher to $890.12.",
+  "canonical": "https://bulliontradingllc.com/blog/gold-rebounds-as-trade-deal-hopes-fade/",
+  "text": "Silver rose 0.8% to $17.67 per ounce and platinum edged 0.1% higher to $890.12.\nSpot gold was up 0.3% at $1,493.33 per ounce, after touching almost a two-week low of $1,473.90 in the previous session. U.S. gold futures settled 0.6% higher at $1,497.6 an ounce.\nHere is a post relating to gold rates bounces back this Monday. This is not our original post so we have actually consisted of a link to the initial author you can find the link at the end of this post.\nIn other rare-earth elements, palladium climbed up about 1% to $1,715.49 an ounce. The auto-catalyst metal, which remains in short supply, hit a record high of $1,720.97 earlier in the session.\n” Overall bullish pattern (for gold) is intact. Theres simply been a myriad of reasons why youre seeing demand from all over the world.”\n” The dollar index is up and keeps gold from a major rally, since international investors are purchasing U.S. securities using dollars.”\n” The news that China wants to have more talks prior to the trade deal is something that is sinking the optimism that began Friday after a huge statement from President Trump,” stated Edward Moya, a senior market expert at OANDA.\n” Reassessment – which is why gold is seeing a little fluctuation below 1,500, its a reassessment of the Chinese trade offer, the Brexit and of what the U.S. Federal Reserve may or may not do moving forward,” stated George Gero, handling director at RBC Wealth Management.\nGold acquired on Monday as optimism over a prospective U.S.-China trade deal subsided, while palladium notched an all-time high driven by brief materials of the auto-catalyst metal.\nChina wishes to hold another round of trade talks by the end of October to pin down even more information prior to Chinese President Xi Jinping consents to sign the trade deal laid out by U.S. President Donald Trump, Bloomberg reported.\nMeanwhile, U.S. Treasury Secretary Steven Mnuchin stated an extra round of tariffs on Chinese imports might be imposed if a trade deal with China has not been reached by Dec. 15.\nOn the European front, investors will be focused on a top between the European Union and Britain in Brussels later today, with a deal to smooth Britains departure from the EU hanging in the balance as diplomats indicated the bloc was pressing for more concessions.\nWe found this article at https://www.cnbc.com/2019/10/14/gold-markets-us-china-trade-in-focus.html and thought it would work to our customers.\nThe dollar index versus a basket of 6 significant currencies got 0.2% and international stock markets dipped as trade optimism flagged after the report.\nbulliontrading\nView all posts\nPrevious Post\nDon't go quietly into that good night: Wall Street, Main Street bullish on gold prices\nNext Post\nGold Could Get a Boost From a Weak Dollar",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/10/Gold-price-rebounds.jpg",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2019/10/Gold-price-rebounds.jpg",
+          "width": "740",
+          "height": "416",
+          "caption": "Gold-price-rebounds",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-rebounds-as-trade-deal-hopes-fade/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-rebounds-as-trade-deal-hopes-fade/",
+                "name": "Gold rebounds as trade deal hopes fade"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-rebounds-as-trade-deal-hopes-fade/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-rebounds-as-trade-deal-hopes-fade/",
+          "name": "Gold rebounds as trade deal hopes fade - Bullion Trading LLC",
+          "datePublished": "2019-10-14T17:55:41+00:00",
+          "dateModified": "2019-10-14T17:55:41+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/10/Gold-price-rebounds.jpg"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-rebounds-as-trade-deal-hopes-fade/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold rebounds as trade deal hopes fade - Bullion Trading LLC",
+          "datePublished": "2019-10-14T17:55:41+00:00",
+          "dateModified": "2019-10-14T17:55:41+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Silver rose 0.8% to $17.67 per ounce and platinum edged 0.1% higher to $890.12.",
+          "name": "Gold rebounds as trade deal hopes fade - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-rebounds-as-trade-deal-hopes-fade/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-rebounds-as-trade-deal-hopes-fade/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/10/Gold-price-rebounds.jpg"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-rebounds-as-trade-deal-hopes-fade/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/dont-go-quietly-into-that-good-night-wall-street-main-street-bullish-on-gold-prices/",
+    "https://bulliontradingllc.com/blog/gold-could-get-a-boost-from-a-weak-dollar/",
+    "https://bulliontradingllc.com/blog/gold-rebounds-as-trade-deal-hopes-fade/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2019/10/Gold-price-rebounds.jpg",
+      "alt": "Gold-price-rebounds"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

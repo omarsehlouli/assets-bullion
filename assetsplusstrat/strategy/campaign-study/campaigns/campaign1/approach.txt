@@ -1,0 +1,20 @@
+Your First Piece
+
+Audience: Adults considering their first physical gold or silver purchase.
+Market: U.S.
+Objective: Purchases of physical gold and silver bullion
+
+Approach
+Make the first purchase feel understandable. Show one silver coin and one small gold bar, invite comparison of weights and product details, and send high-intent traffic directly to the appropriate metal category. Lead with choice and clarity rather than financial urgency.
+
+Hypothesis (not a result)
+A tangible, approachable product pair may reduce first-purchase intimidation and earn qualified product exploration.
+
+Transcript inspiration
+first-piece, faq-bar-or-eagle
+
+Execution
+Google Search: separate ad groups by destination and intent. Meta: the same concept, primary text and product image. Purchases are the primary conversion; product views and carts are diagnostic. Validate purchase tracking before any live test.
+
+Product and copy limits
+Keep gold and silver search ad groups on matching destinations. No minimum starting price, returns promise, or claim that every buyer can afford a particular item.

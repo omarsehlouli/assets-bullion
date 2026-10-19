@@ -1,0 +1,292 @@
+{
+  "metadata": {
+    "id": "37ab0788e3a75466",
+    "url": "https://bulliontradingllc.com/bullion-tax/georgia/",
+    "title": "Bullion Sales Tax in Georgia (2026): Rules & Exemptions",
+    "retrieved_at": "2026-10-12T22:11:22.796082+00:00",
+    "status": "fetched",
+    "bytes": 106831,
+    "text_characters": 2721,
+    "sha256_html": "e7204e93b97158e741d0120883c22dcdce8486fa1a421e7ded7ce2a8198680e8",
+    "file": "sources/37ab0788e3a75466.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Georgia exempts gold and silver bullion and many metal-content coins from sales tax. Jewelry is taxable; rarity-driven numismatic items may be taxed.",
+  "canonical": "https://bulliontradingllc.com/bullion-tax/georgia/",
+  "text": "←\nAll states\nBullion treatment\nTax-free\nQualifying investment bullion is exempt.\nLocal taxes\nMay still apply\nSome cities or counties charge their own rate.\nWhat's taxed?\nGood to know\nCommon questions\nLocal taxes\nHere's how each kind of item is treated in this state. Tap a row to read the plain-English note.\nWhat you're buying\nSales tax?\nWhat that means\nBullion Bars\nNo sales tax\nYou won't pay sales tax on these in Georgia.\nBullion Coins\nNo sales tax\nYou won't pay sales tax on these in Georgia.\nBullion Rounds\nNo sales tax\nYou won't pay sales tax on these in Georgia.\nLegal-Tender Coins\nNo sales tax\nYou won't pay sales tax on these in Georgia.\nNumismatic Coins\nDepends on the order\nSome items in this category qualify; others are taxed. Depends on the specific product.\nJewelry\nSales tax applies\nStandard Georgia sales tax applies at checkout.\nIndustrial Precious Metal\nAsk before ordering\nTax treatment depends on the item. If you're unsure, contact us before ordering.\nCollectibles (Non-Coin)\nSales tax applies\nStandard Georgia sales tax applies at checkout.\nPaper Currency\nSales tax applies\nStandard Georgia sales tax applies at checkout.\nAccessories\nSales tax applies\nStandard Georgia sales tax applies at checkout.\nWhat's covered by the exemption\nGold/silver bullion and many coin forms\nHow they decide what counts as bullion\nThe state asks whether the item is priced for its metal value (qualifying bullion) or for rarity, design, or collector demand (taxable).\nWhat's NOT covered\nJewelry, rarity-priced collectibles, paper currency held as collectible, fabricated/industrial-use precious metal, and accessories.\nEven when the state-level rule is clear, cities or counties in this state may charge their own tax. Here's what to expect.\nLocal treatment\nLocal taxes generally follow state exemption\nCommon questions about sales tax on gold and silver in Georgia.\nIs gold and silver bullion exempt from sales tax in Georgia?\n+\nYes. Georgia treats gold and silver bullion as fully exempt under the state’s bullion exemption rules.\nAre bullion coins taxable in Georgia?\n+\nMany coin forms are exempt when their value is primarily from metal content. Coins priced mainly for rarity or collectibles treatment may be taxable.\nDo I pay tax on numismatic coins in Georgia?\n+\nIt depends. Georgia’s numismatic treatment is conditional, and items driven by rarity rather than metal content may not qualify for the exemption.\nIs jewelry taxed in Georgia?\n+\nYes. Jewelry is taxable in Georgia even though bullion and qualifying metal-content coins are exempt.\nDo local Georgia taxes follow the bullion exemption?\n+\nGenerally, yes. Local taxes generally follow the state exemption for qualifying bullion and metal-content coins.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Sales Tax in Georgia (2026): Rules &amp; Exemptions",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "description": "Georgia exempts gold and silver bullion and many metal-content coins from sales tax. Jewelry is taxable; rarity-driven numismatic items may be taxed."
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/bullion-tax/georgia/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/bullion-tax/",
+                "name": "Bullion Sales Tax by State"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "name": "Georgia",
+              "item": "https://bulliontradingllc.com/bullion-tax/georgia/"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "WebPage",
+            "FAQPage"
+          ],
+          "@id": "https://bulliontradingllc.com/bullion-tax/georgia/#webpage",
+          "url": "https://bulliontradingllc.com/bullion-tax/georgia/",
+          "name": "Bullion Sales Tax in Georgia (2026): Rules &amp; Exemptions",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/georgia/#breadcrumb"
+          },
+          "headline": "Georgia Sales Tax on Bullion",
+          "description": "Georgia exempts gold and silver bullion and many metal-content coins from sales tax. Jewelry is taxable; rarity-driven numismatic items may be taxed.",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is gold and silver bullion exempt from sales tax in Georgia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Georgia treats gold and silver bullion as fully exempt under the state’s bullion exemption rules."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are bullion coins taxable in Georgia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Many coin forms are exempt when their value is primarily from metal content. Coins priced mainly for rarity or collectibles treatment may be taxable."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do I pay tax on numismatic coins in Georgia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends. Georgia’s numismatic treatment is conditional, and items driven by rarity rather than metal content may not qualify for the exemption."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is jewelry taxed in Georgia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Jewelry is taxable in Georgia even though bullion and qualifying metal-content coins are exempt."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do local Georgia taxes follow the bullion exemption?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Generally, yes. Local taxes generally follow the state exemption for qualifying bullion and metal-content coins."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Bullion Sales Tax in Georgia (2026): Rules &amp; Exemptions",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Georgia exempts gold and silver bullion and many metal-content coins from sales tax. Jewelry is taxable; rarity-driven numismatic items may be taxed.",
+          "name": "Bullion Sales Tax in Georgia (2026): Rules &amp; Exemptions",
+          "@id": "https://bulliontradingllc.com/bullion-tax/georgia/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/georgia/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/georgia/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/bullion-tax/florida/",
+    "https://bulliontradingllc.com/bullion-tax/hawaii/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "91a1f6340a05cc21",
+    "url": "https://bulliontradingllc.com/blog/places-to-avoid-purchasing-gold-craigslist/",
+    "title": "Places To Avoid Purchasing Gold: Craigslist - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:02.284611+00:00",
+    "status": "fetched",
+    "bytes": 95601,
+    "text_characters": 2977,
+    "sha256_html": "e3fa48c9cad633fde0becbfd17c6c1b3366d3b20a6e80e3ad2aea5eb6a6cb997",
+    "file": "sources/91a1f6340a05cc21.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "A consumer seeking gold can very quickly be ripped off; theres no way to understand if the person is even truly selling gold to you or justsetting you up to",
+  "canonical": "https://bulliontradingllc.com/blog/places-to-avoid-purchasing-gold-craigslist/",
+  "text": "A consumer seeking gold can very quickly be ripped off; theres no way to understand if the person is even truly selling gold to you or justsetting you up to get ripped off. Remarkably, numerous of the parties offering gold on Craigslist regularly appear to be in the bullion trading company. They understand what the proper rates are and precisely how much to offer gold or silver for.\nThere are five primary resources for purchasing gold today: Craigslist, Online Bullion Traders, regional coin shops, Ebay, and Amazon.\n1). They dont know where or how to offer it otherwise. Which pleads the question: is this actually somebody you desire to do company with? And keep in mind: it is not unusual for fraudsters to feign ignorance in order to draw victims in.\n2) They are attempting to hide this exchange from Uncle Sam. Well, that is their problem, and by doing service with them, you will be making it yours. If you buy a gold bar without appropriate paperwork or receipt of purchase, you will never have the ability to sell it the exact same way. And if you sell it to a legitimate gold dealership, you will be selling a product for which you have no charge basis and will be accountable for the taxes of not only the earnings but likewise from the concept as the IRS takes a look at this as if you received a gift & & the entire amount that you sold it for becomes taxable.\n3) They are expecting to get a better rate for gold than they would by selling to a dealership. In other words, they are relying on your ignorance. Craigslist might be terrific for used furnishings and old treadmills, however with precious metals it is much more difficult for the consumer to know the precise price of the product as it changes minute by minute. Its far too easy to get swindled by purchasing a damaged coin that deserves less than what one would believe. The average consumer may not be able to distinguish a Canadian Maple Leaf coin that is.999 pure from one that is.9999 pure, and lets simply say there is a drastic difference in worth. Or they might buy coins with acid marks, uninformed that this also causes a decline in value.\nA consumer seeking gold can very easily be ripped off; theres no way to know if the individual is even actually selling gold to you or justsetting you up to get ripped off. Remarkably, many of the celebrations selling gold on Craigslist regularly appear to be in the bullion trading organisation. They understand what the right prices are and exactly how much to offer gold or silver for. Why would anybody sell gold this way? If you purchase a gold bar without correct documents or receipt of purchase, you will never be able to sell it the same way.\nSo, to sum things up: Craigslist is not the location to acquire gold. The dangers are just too high and there are smarter methods to make a legit transaction.\nbulliontrading\nView all posts\nPrevious Post\nThe Dangers of Buying Gold On Ebay\nNext Post\nHow can you find out if the gold is fake or Real?",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2011/09/Craigslist-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2011/09/Craigslist-jpg.webp",
+          "width": "320",
+          "height": "240",
+          "caption": "Craigslist",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/places-to-avoid-purchasing-gold-craigslist/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/places-to-avoid-purchasing-gold-craigslist/",
+                "name": "Places To Avoid Purchasing Gold: Craigslist"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/places-to-avoid-purchasing-gold-craigslist/#webpage",
+          "url": "https://bulliontradingllc.com/blog/places-to-avoid-purchasing-gold-craigslist/",
+          "name": "Places To Avoid Purchasing Gold: Craigslist - Bullion Trading LLC",
+          "datePublished": "2011-09-22T09:16:56+00:00",
+          "dateModified": "2011-09-22T09:16:56+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2011/09/Craigslist-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/places-to-avoid-purchasing-gold-craigslist/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Places To Avoid Purchasing Gold: Craigslist - Bullion Trading LLC",
+          "datePublished": "2011-09-22T09:16:56+00:00",
+          "dateModified": "2011-09-22T09:16:56+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "A consumer seeking gold can very quickly be ripped off; theres no way to understand if the person is even truly selling gold to you or justsetting you up to",
+          "name": "Places To Avoid Purchasing Gold: Craigslist - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/places-to-avoid-purchasing-gold-craigslist/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/places-to-avoid-purchasing-gold-craigslist/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2011/09/Craigslist-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/places-to-avoid-purchasing-gold-craigslist/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/how-can-you-find-out-if-the-gold-is-fake-or-real/",
+    "https://bulliontradingllc.com/blog/places-to-avoid-purchasing-gold-craigslist/",
+    "https://bulliontradingllc.com/blog/the-dangers-of-buying-gold-on-ebay/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2011/09/Craigslist-jpg.webp",
+      "alt": "Craigslist"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

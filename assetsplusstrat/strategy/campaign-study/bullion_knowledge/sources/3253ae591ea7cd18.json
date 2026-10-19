@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "id": "3253ae591ea7cd18",
+    "url": "https://learn.bulliontradingllc.com/quiz/security-considerations-quiz/",
+    "title": "Security Considerations Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:44.556417+00:00",
+    "status": "fetched",
+    "bytes": 29277,
+    "text_characters": 363,
+    "sha256_html": "01e34012f9ea42a6d7cc74781a72e07b60c23890d47881bce666f9dcd3c387e3",
+    "file": "sources/3253ae591ea7cd18.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of comprehensive security measures for precious metals, including physical security, operational security, and digital protection.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/security-considerations-quiz/",
+  "text": "Security Considerations Quiz\nTest your knowledge of comprehensive security measures for precious metals, including physical security, operational security, and digital protection.\nWhat does OPSEC stand for in the context of precious metals security?\nA\nOptimal Security\nB\nOperational Security\nC\nOnline Security\nD\nOfficial Security\n←\nBack to Security Considerations",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Storage & Security",
+              "item": "https://learn.bulliontradingllc.com/guides/storage-security/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Security Considerations",
+              "item": "https://learn.bulliontradingllc.com/guides/storage-security/03-security-considerations/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Security Considerations Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Security Considerations Quiz",
+          "description": "Test your knowledge of comprehensive security measures for precious metals, including physical security, operational security, and digital protection.",
+          "url": "https://learn.bulliontradingllc.com/quiz/security-considerations-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Security Considerations"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What does OPSEC stand for in the context of precious metals security?",
+              "text": "What does OPSEC stand for in the context of precious metals security?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Operational Security",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "OPSEC stands for Operational Security - how you handle information about your holdings is crucial for maintaining security and preventing targeted crimes."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Optimal Security"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Online Security"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Official Security"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the minimum fire rating recommended for precious metals safes?",
+              "text": "What is the minimum fire rating recommended for precious metals safes?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "UL Class 350-1 hour",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Look for UL Class 350-1 hour minimum fire rating for precious metals safes to protect against fire damage while maintaining reasonable costs."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "UL Class 125-30 minutes"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "UL Class 150-2 hours"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "No fire rating needed"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the recommended minimum weight for a home safe, or alternative requirement?",
+              "text": "What is the recommended minimum weight for a home safe, or alternative requirement?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1,000 pounds or properly anchored",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "A minimum of 1,000 pounds or proper anchoring to the structure is recommended to prevent thieves from simply carrying away the entire safe."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "500 pounds or properly anchored"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "2,000 pounds or properly anchored"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "100 pounds is sufficient"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "According to the layered defense strategy, what are the four main components?",
+              "text": "According to the layered defense strategy, what are the four main components?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Deterrence, Detection, Delay, Response",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The layered defense strategy consists of: Deterrence (visible security), Detection (identifying breaches), Delay (physical barriers), and Response (immediate alerts)."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Prevention, Protection, Pursuit, Prosecution"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Alarm, Camera, Safe, Insurance"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Lock, Hide, Monitor, Report"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: You should never discuss your precious metals holdings on social media.",
+              "text": "True or False: You should never discuss your precious metals holdings on social media.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Never discuss precious metals holdings on social media, in public, or with strangers. The most sophisticated security system is useless if criminals know what you have."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What type of safe lock system is mentioned as preferred for precious metals storage?",
+              "text": "What type of safe lock system is mentioned as preferred for precious metals storage?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Electronic, mechanical, or dual-lock systems",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Electronic, mechanical, or dual-lock systems are preferred as they offer different advantages and can provide redundancy in case one system fails."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Key locks only"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Combination locks only"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Biometric locks only"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "For high-value transfers, what type of transport service is recommended?",
+              "text": "For high-value transfers, what type of transport service is recommended?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Armored car services",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Armored car services are recommended for high-value transfers as they provide professional security, insurance coverage, and specialized handling of valuable items."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Regular courier services"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Personal vehicle transport"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Public transportation"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is a key principle of emergency planning for precious metals storage?",
+              "text": "What is a key principle of emergency planning for precious metals storage?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Multiple storage locations - don't keep all metals in one place",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Multiple storage locations are recommended - don't keep all metals in one place. This protects against localized disasters, theft, or other single-point failures."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Keep all metals in one secure location"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Only store metals at home"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Rely solely on insurance coverage"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How often should you test alarm systems according to the security assessment checklist?",
+              "text": "How often should you test alarm systems according to the security assessment checklist?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Monthly",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Test all alarm systems monthly to ensure they're functioning properly. Regular testing helps identify issues before they become security vulnerabilities."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Weekly"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Quarterly"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Annually"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

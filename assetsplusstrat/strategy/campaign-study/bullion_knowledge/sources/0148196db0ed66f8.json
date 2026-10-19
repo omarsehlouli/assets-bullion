@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "id": "0148196db0ed66f8",
+    "url": "https://bulliontradingllc.com/blog/gold-prices-up-after-u-s-data-releases/",
+    "title": "Gold Prices Up After U.S. Data Releases - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:43.835500+00:00",
+    "status": "fetched",
+    "bytes": 95917,
+    "text_characters": 3306,
+    "sha256_html": "522fcd062f49c0f280fb143a75a9dc34415191490bef811c420f1b188908a7da",
+    "file": "sources/0148196db0ed66f8.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Today the European Central Bank met and left its monetary policy unchanged. The Bank of England likewise held its regular financial policy conference",
+  "canonical": "https://bulliontradingllc.com/blog/gold-prices-up-after-u-s-data-releases/",
+  "text": "Today the European Central Bank met and left its monetary policy unchanged. The Bank of England likewise held its regular financial policy conference Thursday, and also left rates of interest the same.\nGold prices are posting a modest rally after the release of some U.S. economic information, consisting of a really tame inflation report. Some more brief covering in the futures markets (the purchasing back of formerly sold, or short, positions) is featured in gold and silver today.\nRecent sideways rate action prefers the bulls and begins to suggest a market bottom is in location. Gold bulls next benefit near-term rate breakout objective is to produce a close in December futures above solid resistance at $1,220.70. Bears next near-term drawback rate breakout objective is pressing rates below strong technical assistance at the August low of $1,167.10.\nOther U.S. economic data due for release Thursday consists of the weekly unemployed claims report, genuine earnings, and the regular monthly Treasury spending plan declaration.\nThe just-released August consumer cost index was available in at up 0.2% versus expectations of up 0.3% from July. The producer price index on Wednesday likewise can be found in lower than anticipated. The U.S. dollar index was a little pushed by the newest inflation report.\nWe found this short article at http://www.kitco.com/news/2018-09-13/Gold-Silver-Prices-Near-Steady-Risk-Appetite-Still-Upbeat.html By: Jim Wyckoff and thought it would be useful to our followers.\nThe other essential outdoors market today finds Nymex unrefined oil costs lower on some profit taking and trading around $69.50 a barrel.\nHere is a short article about the gold rates up after United States economic data releases. , if you want to examine the initial post you can discover the link at the end of this post.\n.\nGold prices are posting a modest rally after the release of some U.S. financial data, including an extremely tame inflation report. Gold bulls next advantage near-term price breakout goal is to produce a close in December futures above solid resistance at $1,220.70. Bears next near-term drawback rate breakout objective is pressing costs listed below strong technical assistance at the August low of $1,167.10. Silver bulls next advantage cost breakout objective is closing rates above solid technical resistance at $15.00 an ounce. The next drawback rate breakout goal for the bears is closing prices below solid support at $13.50.\nU.S. stock indexes are pointed towards firmer openings when the New York day session starts. Reports Wednesday likewise said the U.S. and Canada are close to reaching a trade offer.\nDecember silver futures bears have the strong general near-term technical advantage. Silver bulls next advantage cost breakout objective is closing costs above solid technical resistance at $15.00 an ounce. The next downside rate breakout goal for the bears is closing rates below solid support at $13.50.\nReports stated the Turkish reserve bank raised its key rates of interest by a tremendous 6.25% today, in an effort to prop up its eroding currency, the lira.\nbulliontrading\nView all posts\nPrevious Post\nInteresting Macro Factors That Could Fuel Long-Term Physical Gold Demand\nNext Post\nImproving Gold Market To Lend A Hand To Underperforming Platinum",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/09/gold-bar-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2018/09/gold-bar-jpg.webp",
+          "width": "750",
+          "height": "375",
+          "caption": "gold-bar",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-up-after-u-s-data-releases/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-prices-up-after-u-s-data-releases/",
+                "name": "Gold Prices Up After U.S. Data Releases"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-up-after-u-s-data-releases/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-prices-up-after-u-s-data-releases/",
+          "name": "Gold Prices Up After U.S. Data Releases - Bullion Trading LLC",
+          "datePublished": "2018-09-17T10:28:36+00:00",
+          "dateModified": "2018-09-17T10:28:36+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/09/gold-bar-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-up-after-u-s-data-releases/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold Prices Up After U.S. Data Releases - Bullion Trading LLC",
+          "datePublished": "2018-09-17T10:28:36+00:00",
+          "dateModified": "2018-09-17T10:28:36+00:00",
+          "articleSection": "Gold, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Today the European Central Bank met and left its monetary policy unchanged. The Bank of England likewise held its regular financial policy conference",
+          "name": "Gold Prices Up After U.S. Data Releases - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-up-after-u-s-data-releases/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-up-after-u-s-data-releases/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/09/gold-bar-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-up-after-u-s-data-releases/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/gold-prices-up-after-u-s-data-releases/",
+    "https://bulliontradingllc.com/blog/improving-gold-market-to-lend-a-hand-to-underperforming-platinum/",
+    "https://bulliontradingllc.com/blog/interesting-macro-factors-that-could-fuel-long-term-physical-gold-demand/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2018/09/gold-bar-jpg.webp",
+      "alt": "gold-bar"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

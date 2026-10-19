@@ -1,0 +1,983 @@
+{
+  "whats-inside": {
+    "id": "whats-inside",
+    "title": "What's inside?",
+    "fps": 60,
+    "durationInFrames": 5270,
+    "duration": 87.82,
+    "voice": "marketing/story/audio/whats-inside-voice.wav",
+    "score": "marketing/story/audio/whats-inside-score.wav",
+    "scenes": [
+      {
+        "id": "spot",
+        "text": "This October, gold is trading above four thousand dollars an ounce. And one cheap metal weighs almost exactly the same. Tungsten.",
+        "audioStart": 0.45,
+        "audioEnd": 10.825,
+        "visualStart": 0,
+        "words": [
+          {
+            "word": "This",
+            "start": 0.45,
+            "end": 0.69
+          },
+          {
+            "word": "October,",
+            "start": 0.69,
+            "end": 1.21
+          },
+          {
+            "word": "gold",
+            "start": 1.85,
+            "end": 2.15
+          },
+          {
+            "word": "is",
+            "start": 2.15,
+            "end": 2.37
+          },
+          {
+            "word": "trading",
+            "start": 2.37,
+            "end": 2.77
+          },
+          {
+            "word": "above",
+            "start": 2.77,
+            "end": 3.15
+          },
+          {
+            "word": "$4,000",
+            "start": 3.15,
+            "end": 4.43
+          },
+          {
+            "word": "an",
+            "start": 4.43,
+            "end": 4.65
+          },
+          {
+            "word": "ounce.",
+            "start": 4.65,
+            "end": 4.99
+          },
+          {
+            "word": "And",
+            "start": 5.59,
+            "end": 5.83
+          },
+          {
+            "word": "one",
+            "start": 5.83,
+            "end": 6.15
+          },
+          {
+            "word": "cheap",
+            "start": 6.15,
+            "end": 6.47
+          },
+          {
+            "word": "metal",
+            "start": 6.47,
+            "end": 6.89
+          },
+          {
+            "word": "weighs",
+            "start": 6.89,
+            "end": 7.33
+          },
+          {
+            "word": "almost",
+            "start": 7.33,
+            "end": 7.89
+          },
+          {
+            "word": "exactly",
+            "start": 7.89,
+            "end": 8.67
+          },
+          {
+            "word": "the",
+            "start": 8.67,
+            "end": 9.03
+          },
+          {
+            "word": "same.",
+            "start": 9.03,
+            "end": 9.37
+          },
+          {
+            "word": "Tungsten.",
+            "start": 10.19,
+            "end": 10.67
+          }
+        ],
+        "visualEnd": 11.075
+      },
+      {
+        "id": "picture",
+        "text": "Now picture this. You find a one-ounce gold bar online, two hundred dollars under spot. Sealed. A serial number. A five-star seller. You tap buy.",
+        "audioStart": 11.525,
+        "audioEnd": 22.62,
+        "visualStart": 11.075,
+        "words": [
+          {
+            "word": "Now",
+            "start": 11.525,
+            "end": 11.765
+          },
+          {
+            "word": "picture",
+            "start": 11.765,
+            "end": 12.005
+          },
+          {
+            "word": "this.",
+            "start": 12.005,
+            "end": 12.405
+          },
+          {
+            "word": "You",
+            "start": 13.025,
+            "end": 13.125
+          },
+          {
+            "word": "find",
+            "start": 13.125,
+            "end": 13.345
+          },
+          {
+            "word": "a",
+            "start": 13.345,
+            "end": 13.485
+          },
+          {
+            "word": "1",
+            "start": 13.485,
+            "end": 13.685
+          },
+          {
+            "word": "oz",
+            "start": 13.685,
+            "end": 13.885
+          },
+          {
+            "word": "gold",
+            "start": 13.885,
+            "end": 14.205
+          },
+          {
+            "word": "bar",
+            "start": 14.205,
+            "end": 14.525
+          },
+          {
+            "word": "online,",
+            "start": 14.525,
+            "end": 15.005
+          },
+          {
+            "word": "$200",
+            "start": 15.645,
+            "end": 16.145
+          },
+          {
+            "word": "under",
+            "start": 16.145,
+            "end": 16.685
+          },
+          {
+            "word": "spot.",
+            "start": 16.685,
+            "end": 17.085
+          },
+          {
+            "word": "Sealed.",
+            "start": 17.805,
+            "end": 18.105
+          },
+          {
+            "word": "A",
+            "start": 18.725,
+            "end": 18.765
+          },
+          {
+            "word": "serial",
+            "start": 18.765,
+            "end": 19.045
+          },
+          {
+            "word": "number.",
+            "start": 19.045,
+            "end": 19.405
+          },
+          {
+            "word": "A",
+            "start": 20.105,
+            "end": 20.265
+          },
+          {
+            "word": "five",
+            "start": 20.265,
+            "end": 20.505
+          },
+          {
+            "word": "star",
+            "start": 20.505,
+            "end": 20.785
+          },
+          {
+            "word": "seller.",
+            "start": 20.785,
+            "end": 21.205
+          },
+          {
+            "word": "You",
+            "start": 21.845,
+            "end": 21.945
+          },
+          {
+            "word": "tap",
+            "start": 21.945,
+            "end": 22.205
+          },
+          {
+            "word": "buy.",
+            "start": 22.205,
+            "end": 22.505
+          }
+        ],
+        "visualEnd": 22.87
+      },
+      {
+        "id": "arrives",
+        "text": "It arrives. The weight checks out. A magnet won't stick. But under a thin skin of gold, it's tungsten.",
+        "audioStart": 23.37,
+        "audioEnd": 31.105,
+        "visualStart": 22.87,
+        "words": [
+          {
+            "word": "It",
+            "start": 23.37,
+            "end": 23.53
+          },
+          {
+            "word": "arrives.",
+            "start": 23.53,
+            "end": 23.93
+          },
+          {
+            "word": "The",
+            "start": 24.79,
+            "end": 24.87
+          },
+          {
+            "word": "weight",
+            "start": 24.87,
+            "end": 25.03
+          },
+          {
+            "word": "checks",
+            "start": 25.03,
+            "end": 25.27
+          },
+          {
+            "word": "out.",
+            "start": 25.27,
+            "end": 25.63
+          },
+          {
+            "word": "A",
+            "start": 26.13,
+            "end": 26.21
+          },
+          {
+            "word": "magnet",
+            "start": 26.21,
+            "end": 26.51
+          },
+          {
+            "word": "won't",
+            "start": 26.51,
+            "end": 26.91
+          },
+          {
+            "word": "stick.",
+            "start": 26.91,
+            "end": 27.21
+          },
+          {
+            "word": "But",
+            "start": 27.95,
+            "end": 28.07
+          },
+          {
+            "word": "under",
+            "start": 28.07,
+            "end": 28.25
+          },
+          {
+            "word": "a",
+            "start": 28.25,
+            "end": 28.43
+          },
+          {
+            "word": "thin",
+            "start": 28.43,
+            "end": 28.67
+          },
+          {
+            "word": "skin",
+            "start": 28.67,
+            "end": 28.99
+          },
+          {
+            "word": "of",
+            "start": 28.99,
+            "end": 29.17
+          },
+          {
+            "word": "gold,",
+            "start": 29.17,
+            "end": 29.51
+          },
+          {
+            "word": "it's",
+            "start": 30.11,
+            "end": 30.43
+          },
+          {
+            "word": "tungsten.",
+            "start": 30.43,
+            "end": 30.83
+          }
+        ],
+        "visualEnd": 31.355
+      },
+      {
+        "id": "who",
+        "text": "So who takes the loss? Not the seller. They're gone. You.",
+        "audioStart": 31.755,
+        "audioEnd": 36.86,
+        "visualStart": 31.355,
+        "words": [
+          {
+            "word": "So",
+            "start": 31.755,
+            "end": 32.115
+          },
+          {
+            "word": "who",
+            "start": 32.615,
+            "end": 32.895
+          },
+          {
+            "word": "takes",
+            "start": 32.895,
+            "end": 33.095
+          },
+          {
+            "word": "the",
+            "start": 33.095,
+            "end": 33.275
+          },
+          {
+            "word": "loss?",
+            "start": 33.275,
+            "end": 33.535
+          },
+          {
+            "word": "Not",
+            "start": 34.235,
+            "end": 34.435
+          },
+          {
+            "word": "the",
+            "start": 34.435,
+            "end": 34.595
+          },
+          {
+            "word": "seller.",
+            "start": 34.595,
+            "end": 34.835
+          },
+          {
+            "word": "They're",
+            "start": 35.555,
+            "end": 35.715
+          },
+          {
+            "word": "gone.",
+            "start": 35.715,
+            "end": 35.955
+          },
+          {
+            "word": "You.",
+            "start": 36.455,
+            "end": 36.655
+          }
+        ],
+        "visualEnd": 37.11
+      },
+      {
+        "id": "bill",
+        "text": "You paid three thousand, nine hundred and sixty-five dollars. What you're holding is worth almost nothing.",
+        "audioStart": 37.76,
+        "audioEnd": 43.655,
+        "visualStart": 37.11,
+        "words": [
+          {
+            "word": "You",
+            "start": 37.76,
+            "end": 37.92
+          },
+          {
+            "word": "paid",
+            "start": 37.92,
+            "end": 38.1
+          },
+          {
+            "word": "$3,965.",
+            "start": 38.1,
+            "end": 40.58
+          },
+          {
+            "word": "What",
+            "start": 41.64,
+            "end": 41.86
+          },
+          {
+            "word": "you're",
+            "start": 41.86,
+            "end": 42.04
+          },
+          {
+            "word": "holding",
+            "start": 42.04,
+            "end": 42.3
+          },
+          {
+            "word": "is",
+            "start": 42.3,
+            "end": 42.52
+          },
+          {
+            "word": "worth",
+            "start": 42.52,
+            "end": 42.72
+          },
+          {
+            "word": "almost",
+            "start": 42.72,
+            "end": 43.04
+          },
+          {
+            "word": "nothing.",
+            "start": 43.04,
+            "end": 43.42
+          }
+        ],
+        "visualEnd": 43.905
+      },
+      {
+        "id": "case",
+        "text": "And it isn't just online. In twenty twelve, a jeweler in Manhattan's Diamond District paid a hundred thousand dollars for four ten-ounce gold bars. Serial numbers. Paperwork. Filled with tungsten.",
+        "audioStart": 44.405,
+        "audioEnd": 58.7,
+        "visualStart": 43.905,
+        "words": [
+          {
+            "word": "And",
+            "start": 44.405,
+            "end": 44.565
+          },
+          {
+            "word": "it",
+            "start": 44.565,
+            "end": 44.685
+          },
+          {
+            "word": "isn't",
+            "start": 44.685,
+            "end": 45.105
+          },
+          {
+            "word": "just",
+            "start": 45.105,
+            "end": 45.405
+          },
+          {
+            "word": "online.",
+            "start": 45.405,
+            "end": 45.945
+          },
+          {
+            "word": "In",
+            "start": 46.625,
+            "end": 46.705
+          },
+          {
+            "word": "2012,",
+            "start": 46.705,
+            "end": 47.265
+          },
+          {
+            "word": "a",
+            "start": 47.765,
+            "end": 47.845
+          },
+          {
+            "word": "jeweler",
+            "start": 47.845,
+            "end": 48.285
+          },
+          {
+            "word": "in",
+            "start": 48.285,
+            "end": 48.405
+          },
+          {
+            "word": "Manhattan's",
+            "start": 48.405,
+            "end": 49.105
+          },
+          {
+            "word": "Diamond",
+            "start": 49.105,
+            "end": 49.345
+          },
+          {
+            "word": "District",
+            "start": 49.345,
+            "end": 49.965
+          },
+          {
+            "word": "paid",
+            "start": 49.965,
+            "end": 50.625
+          },
+          {
+            "word": "$100,000",
+            "start": 50.625,
+            "end": 51.885
+          },
+          {
+            "word": "for",
+            "start": 51.995,
+            "end": 52.445
+          },
+          {
+            "word": "four",
+            "start": 52.445,
+            "end": 52.885
+          },
+          {
+            "word": "10-ounce",
+            "start": 52.885,
+            "end": 53.485
+          },
+          {
+            "word": "gold",
+            "start": 53.485,
+            "end": 53.845
+          },
+          {
+            "word": "bars.",
+            "start": 53.845,
+            "end": 54.445
+          },
+          {
+            "word": "Serial",
+            "start": 55.525,
+            "end": 55.525
+          },
+          {
+            "word": "numbers.",
+            "start": 55.525,
+            "end": 55.985
+          },
+          {
+            "word": "Paperwork.",
+            "start": 56.605,
+            "end": 57.025
+          },
+          {
+            "word": "Filled",
+            "start": 57.025,
+            "end": 57.565
+          },
+          {
+            "word": "with",
+            "start": 57.565,
+            "end": 57.925
+          },
+          {
+            "word": "tungsten.",
+            "start": 57.925,
+            "end": 58.425
+          }
+        ],
+        "visualEnd": 58.95
+      },
+      {
+        "id": "everyday",
+        "text": "Meanwhile, deals that look this good get listed every day. Quietly. With great reviews.",
+        "audioStart": 59.4,
+        "audioEnd": 65.295,
+        "visualStart": 58.95,
+        "words": [
+          {
+            "word": "Meanwhile,",
+            "start": 59.4,
+            "end": 59.82
+          },
+          {
+            "word": "deals",
+            "start": 60.16,
+            "end": 60.3
+          },
+          {
+            "word": "that",
+            "start": 60.3,
+            "end": 60.6
+          },
+          {
+            "word": "look",
+            "start": 60.6,
+            "end": 60.86
+          },
+          {
+            "word": "this",
+            "start": 60.86,
+            "end": 61.12
+          },
+          {
+            "word": "good",
+            "start": 61.12,
+            "end": 61.4
+          },
+          {
+            "word": "get",
+            "start": 61.4,
+            "end": 61.64
+          },
+          {
+            "word": "listed",
+            "start": 61.64,
+            "end": 62.0
+          },
+          {
+            "word": "every",
+            "start": 62.0,
+            "end": 62.26
+          },
+          {
+            "word": "day.",
+            "start": 62.26,
+            "end": 62.66
+          },
+          {
+            "word": "Quietly.",
+            "start": 63.12,
+            "end": 63.72
+          },
+          {
+            "word": "With",
+            "start": 64.22,
+            "end": 64.34
+          },
+          {
+            "word": "great",
+            "start": 64.34,
+            "end": 64.64
+          },
+          {
+            "word": "reviews.",
+            "start": 64.64,
+            "end": 65.04
+          }
+        ],
+        "visualEnd": 65.545
+      },
+      {
+        "id": "question",
+        "text": "So, do you really know what's inside your gold?",
+        "audioStart": 66.045,
+        "audioEnd": 70.03,
+        "visualStart": 65.545,
+        "words": [
+          {
+            "word": "So,",
+            "start": 66.045,
+            "end": 66.425
+          },
+          {
+            "word": "do",
+            "start": 66.825,
+            "end": 67.105
+          },
+          {
+            "word": "you",
+            "start": 67.105,
+            "end": 67.325
+          },
+          {
+            "word": "really",
+            "start": 67.325,
+            "end": 67.705
+          },
+          {
+            "word": "know",
+            "start": 67.705,
+            "end": 68.045
+          },
+          {
+            "word": "what's",
+            "start": 68.045,
+            "end": 68.545
+          },
+          {
+            "word": "inside",
+            "start": 68.545,
+            "end": 69.065
+          },
+          {
+            "word": "your",
+            "start": 69.065,
+            "end": 69.405
+          },
+          {
+            "word": "gold?",
+            "start": 69.405,
+            "end": 69.785
+          }
+        ],
+        "visualEnd": 70.28
+      },
+      {
+        "id": "verify",
+        "text": "Don't worry. At Bullion Trading, we never just assume a bar is genuine. We test it in front of you at our New York counter, and before anything ships.",
+        "audioStart": 71.13,
+        "audioEnd": 80.305,
+        "visualStart": 70.28,
+        "words": [
+          {
+            "word": "Don't",
+            "start": 71.13,
+            "end": 71.67
+          },
+          {
+            "word": "worry.",
+            "start": 71.67,
+            "end": 71.67
+          },
+          {
+            "word": "At",
+            "start": 72.27,
+            "end": 72.37
+          },
+          {
+            "word": "Bullion",
+            "start": 72.37,
+            "end": 72.75
+          },
+          {
+            "word": "Trading,",
+            "start": 72.75,
+            "end": 73.05
+          },
+          {
+            "word": "we",
+            "start": 73.59,
+            "end": 73.71
+          },
+          {
+            "word": "never",
+            "start": 73.71,
+            "end": 73.89
+          },
+          {
+            "word": "just",
+            "start": 73.89,
+            "end": 74.13
+          },
+          {
+            "word": "assume",
+            "start": 74.13,
+            "end": 74.45
+          },
+          {
+            "word": "a",
+            "start": 74.45,
+            "end": 74.63
+          },
+          {
+            "word": "bar",
+            "start": 74.63,
+            "end": 74.81
+          },
+          {
+            "word": "is",
+            "start": 74.81,
+            "end": 75.01
+          },
+          {
+            "word": "genuine.",
+            "start": 75.01,
+            "end": 75.45
+          },
+          {
+            "word": "We",
+            "start": 76.15,
+            "end": 76.25
+          },
+          {
+            "word": "test",
+            "start": 76.25,
+            "end": 76.43
+          },
+          {
+            "word": "it",
+            "start": 76.43,
+            "end": 76.61
+          },
+          {
+            "word": "in",
+            "start": 76.61,
+            "end": 76.73
+          },
+          {
+            "word": "front",
+            "start": 76.73,
+            "end": 76.87
+          },
+          {
+            "word": "of",
+            "start": 76.87,
+            "end": 77.01
+          },
+          {
+            "word": "you",
+            "start": 77.01,
+            "end": 77.15
+          },
+          {
+            "word": "at",
+            "start": 77.15,
+            "end": 77.29
+          },
+          {
+            "word": "our",
+            "start": 77.29,
+            "end": 77.45
+          },
+          {
+            "word": "New",
+            "start": 77.45,
+            "end": 77.61
+          },
+          {
+            "word": "York",
+            "start": 77.61,
+            "end": 77.83
+          },
+          {
+            "word": "counter,",
+            "start": 77.83,
+            "end": 78.21
+          },
+          {
+            "word": "and",
+            "start": 78.79,
+            "end": 78.91
+          },
+          {
+            "word": "before",
+            "start": 78.91,
+            "end": 79.23
+          },
+          {
+            "word": "anything",
+            "start": 79.23,
+            "end": 79.69
+          },
+          {
+            "word": "ships.",
+            "start": 79.69,
+            "end": 80.05
+          }
+        ],
+        "visualEnd": 80.555
+      },
+      {
+        "id": "cta",
+        "text": "From your next bar on, we've got you. Buy from Bullion Trading.",
+        "audioStart": 80.955,
+        "audioEnd": 85.02,
+        "visualStart": 80.555,
+        "words": [
+          {
+            "word": "From",
+            "start": 80.955,
+            "end": 81.135
+          },
+          {
+            "word": "your",
+            "start": 81.135,
+            "end": 81.255
+          },
+          {
+            "word": "next",
+            "start": 81.255,
+            "end": 81.495
+          },
+          {
+            "word": "bar",
+            "start": 81.495,
+            "end": 81.755
+          },
+          {
+            "word": "on,",
+            "start": 81.755,
+            "end": 82.055
+          },
+          {
+            "word": "we've",
+            "start": 82.495,
+            "end": 82.675
+          },
+          {
+            "word": "got",
+            "start": 82.675,
+            "end": 82.835
+          },
+          {
+            "word": "you.",
+            "start": 82.835,
+            "end": 83.135
+          },
+          {
+            "word": "Buy",
+            "start": 83.715,
+            "end": 83.895
+          },
+          {
+            "word": "from",
+            "start": 83.895,
+            "end": 84.135
+          },
+          {
+            "word": "Bullion",
+            "start": 84.135,
+            "end": 84.475
+          },
+          {
+            "word": "Trading.",
+            "start": 84.475,
+            "end": 84.795
+          }
+        ],
+        "visualEnd": 87.82
+      }
+    ]
+  }
+}

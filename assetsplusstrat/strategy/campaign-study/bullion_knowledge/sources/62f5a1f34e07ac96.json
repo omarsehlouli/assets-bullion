@@ -1,0 +1,295 @@
+{
+  "metadata": {
+    "id": "62f5a1f34e07ac96",
+    "url": "https://bulliontradingllc.com/blog/category/guide/",
+    "title": "guide - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:27.123230+00:00",
+    "status": "fetched",
+    "bytes": 124408,
+    "text_characters": 2415,
+    "sha256_html": "b3d9f203d044632ac5ed861a285e0b7231c7db3a7a600e3beaf4d2634cb5cf9d",
+    "file": "sources/62f5a1f34e07ac96.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Use our guide to compare gold, silver, platinum and palladium bullion, with BTLLC competitive pricing and secure shipping on every order with clear charts.",
+  "canonical": "https://bulliontradingllc.com/blog/category/guide/",
+  "text": "guide\nGold\nGoldbacks: Real Money or Expensive Novelty?\nBoth, honestly. Goldbacks are real gold, every note carries a measured layer of 24 karat metal\nBy\nbulliontrading\nSeptember 1, 2026\nSeptember 1, 2026\nguide\nEducation\nsilver\nWhat is a monster box? The 500-coin silver buyer’s guide\nWalk up to a typical dealer counter for one Silver Eagle this week and you will pay about $70.\nBy\nbulliontrading\nJuly 23, 2026\nJuly 23, 2026\nGold\nGold Market & Economics\nInvestment Strategy\nplatinum\nPrecious Metals\nPlatinum vs gold investment: is platinum finally having its moment in 2026?\nIf you stack gold and haven’t looked at platinum in a while, the numbers deserve ten\nBy\nbulliontrading\nJuly 2, 2026\nJuly 2, 2026\nInvestment Strategy\nGold\nGold Market & Economics\nThe 28% Collectibles Tax: What You Really Owe When You Sell Gold\nAsk ten gold owners what they will hand the IRS when they sell, and most give the same answer:\nBy\nbulliontrading\nJune 16, 2026\nJune 16, 2026\nGold Market & Economics\nGold\nInvestment Strategy\nThe K-Shaped Economy: Why a Divided Consumer Could Be Quietly Bullish for Gold\nPick up any newspaper and the headline is the same: the consumer is cracking. That is true, but\nBy\nbulliontrading\nJune 9, 2026\nJune 9, 2026\nGold\nguide\nPrecious Metals\nGold Vermeil vs Gold-Filled vs Gold-Plated vs Solid Gold: A Buyer’s Guide\nWalk into any jewelry store and the labels start to blur. Gold plated. Gold filled. Gold\nBy\nbulliontrading\nJune 1, 2026\nJune 1, 2026\nGold\nGold Market & Economics\nguide\nThe Dow to Gold Ratio: 100 Years of History and What It Says Right Now\nOn May 22, 2026, the Dow Jones Industrial Average closed at 50,580. The day before, an ounce of\nBy\nbulliontrading\nMay 26, 2026\nMay 26, 2026\nGold\nEducation\nInvestment Strategy\nGold Stacking for Beginners: How to Build a Private Reserve from Zero\nWith gold trading at $4,672 per troy ounce as of May 2026, a number that would have seemed\nBy\nbulliontrading\nMay 11, 2026\nMay 11, 2026\nGold\nGold Bars\nguide\nGold Bar Serial Numbers: What They Mean and How to Track Your Bullion\nEvery gold bar produced by a reputable refinery carries a set of markings that function as its\nBy\nbulliontrading\nApril 6, 2026\nApril 6, 2026\nGold\nguide\nAllocated vs Unallocated Gold Storage: What Every Investor Should Know\nWith gold trading above $4,500 per ounce in March 2026 and record inflows pouring into\nBy\nbulliontrading\nMarch 27, 2026\nMarch 27, 2026\n1\n2\n…\n5\nOlder Posts",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/category/guide/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/guide/",
+                "name": "guide"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://bulliontradingllc.com/blog/category/guide/#webpage",
+          "url": "https://bulliontradingllc.com/blog/category/guide/",
+          "name": "guide - Bullion Trading LLC",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/category/guide/#breadcrumb"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/allocated-vs-unallocated-gold-storage/",
+    "https://bulliontradingllc.com/blog/category/education/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-bars/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/category/guide/",
+    "https://bulliontradingllc.com/blog/category/guide/investment-strategy/",
+    "https://bulliontradingllc.com/blog/category/guide/page/2/",
+    "https://bulliontradingllc.com/blog/category/guide/page/5/",
+    "https://bulliontradingllc.com/blog/category/platinum/",
+    "https://bulliontradingllc.com/blog/category/precious-metals/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/collectibles-tax-on-gold/",
+    "https://bulliontradingllc.com/blog/dow-to-gold-ratio-100-years-history/",
+    "https://bulliontradingllc.com/blog/gold-bar-serial-numbers-tracking-verification/",
+    "https://bulliontradingllc.com/blog/gold-stacking-for-beginners-build-private-reserve/",
+    "https://bulliontradingllc.com/blog/gold-vermeil-vs-gold-filled-vs-gold-plated-vs-solid-gold/",
+    "https://bulliontradingllc.com/blog/goldbacks-real-money-or-expensive-novelty/",
+    "https://bulliontradingllc.com/blog/k-shaped-economy-gold/",
+    "https://bulliontradingllc.com/blog/platinum-vs-gold-investment-2026/",
+    "https://bulliontradingllc.com/blog/what-is-a-monster-box/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/goldbacks-real-money-or-expensive-novelty.webp",
+      "alt": "goldbacks"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/07/monster-box-featured-final.webp",
+      "alt": "monster box"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/07/platinum-vs-gold-investment-2026-1.webp",
+      "alt": "platinum vs gold investment"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/06/collectibles-tax-on-gold.webp",
+      "alt": "collectibles tax on gold"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/06/k-shaped-economy-gold.webp",
+      "alt": "Gold bars beside a large K-shaped graphic with diverging arrows"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/06/gold-vermeil-vs-gold-filled-vs-gold-plated-vs-solid-gold.webp",
+      "alt": "Assorted gold jewelry pieces arranged on a light background"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/05/The-Dow-to-Gold-Ratio.webp",
+      "alt": "Line chart showing the Dow to gold ratio over time"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/05/Gold-Stacking-for-Beginners.webp",
+      "alt": "Stacked gold bars and coins on a white background"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/04/Gold-Bar-Serial-Numbers.webp",
+      "alt": "Close-up of a gold bar showing engraved serial numbers and markings"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/03/Allocated-vs-Unallocated-Gold-Storage.webp",
+      "alt": "Gold bars stacked in a secure vault storage setting"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "collectedAt": "2026-10-11",
+  "purpose": "Premium Bullion Trading LLC marketing films",
+  "attribution": "Product photographs from Bullion Trading LLC product galleries; designs belong to their respective mints and refiners. Backgrounds removed for compositing (macOS Vision subject lifting, white-background flood fill, or a fitted coin disc); pixels otherwise unaltered.",
+  "assets": [
+    {
+      "file": "marketing/premium/bar-justice-obv.png",
+      "title": "1 oz PAMP Suisse Lady of Justice gold bar (perspective, obverse)",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-pamp-suisse-lady-of-justice-gold-bar-in-assay/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2026/03/lady-of-justice_obv-perspective.webp",
+      "cutout": "Vision subject lift",
+      "sha256": "44bf0dfec22d18e908aa4de8b9cb8070813a58d56eb34df6fe8d836693dcf87f"
+    },
+    {
+      "file": "marketing/premium/bar-justice-rev.png",
+      "title": "1 oz PAMP Suisse Lady of Justice gold bar (perspective, reverse)",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-pamp-suisse-lady-of-justice-gold-bar-in-assay/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2026/03/lady-of-justice_rev-perspective.webp",
+      "cutout": "Vision subject lift",
+      "sha256": "664cc6960dda2daadf5d7e95cb304c3e9d5ec1d0f2ed201d74bdfb6b815d73eb"
+    },
+    {
+      "file": "marketing/premium/card-justice.png",
+      "title": "1 oz PAMP Suisse Lady of Justice gold bar in CertiPAMP assay",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-pamp-suisse-lady-of-justice-gold-bar-in-assay/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2026/03/lady-of-justice_front-certipamp.webp",
+      "cutout": "Vision subject lift",
+      "sha256": "dee2cffb39c1e49d6172ac64eaa975601a294ede2ce59581c7b8ab0b2bad76cf"
+    },
+    {
+      "file": "marketing/premium/bar-clover-persp.png",
+      "title": "2026 5 g PAMP gold bar, Lucky Charm four-leaf clover (perspective)",
+      "sourcePage": "https://bulliontradingllc.com/product/2026-5-gram-pamp-gold-bar-lucky-charm-four-leaf-clover/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2026/08/Lucky_4-leaf_clover_persp_OBV.webp",
+      "cutout": "Vision subject lift",
+      "sha256": "2bcc7575313267eb05a8181d478e6c87d03e2b2c85e196881fe0843c6409f898"
+    },
+    {
+      "file": "marketing/premium/bar-clover-front.png",
+      "title": "2026 5 g PAMP gold bar, Lucky Charm four-leaf clover (front)",
+      "sourcePage": "https://bulliontradingllc.com/product/2026-5-gram-pamp-gold-bar-lucky-charm-four-leaf-clover/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2026/08/Lucky_4-leaf_clover_front-REV.webp",
+      "cutout": "Vision subject lift",
+      "sha256": "f9f9d4192079831f1396890a2a13d9665542f2067e6bbda5ef6e705cd707d7c6"
+    },
+    {
+      "file": "marketing/premium/bar-valcambi-5g.png",
+      "title": "5 g Valcambi gold bar",
+      "sourcePage": "https://bulliontradingllc.com/product/5-gram-valcambi-gold-bar-in-assay/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/Valcambi-suisse-5-gram-gold-bar-jpg-webp.webp",
+      "cutout": "Vision subject lift",
+      "sha256": "35c5252a6a5b353cd34f74b1cff68d0262e0c5081f1d03a70b2f6a61b29c2b79"
+    },
+    {
+      "file": "marketing/premium/card-valcambi.png",
+      "title": "5 g Valcambi gold bar in assay",
+      "sourcePage": "https://bulliontradingllc.com/product/5-gram-valcambi-gold-bar-in-assay/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/5-gram-valcambi-suisse-gold-bar-jpg-webp.webp",
+      "cutout": "Vision subject lift",
+      "sha256": "ece3a1c8d1f59d41570d238cb5128ec628f963c79303d4780261114c401158b3"
+    },
+    {
+      "file": "marketing/premium/bar-silver-liberty.png",
+      "title": "1 oz PAMP Suisse Lady of Liberty silver bar",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-silver-bar-pamp-suisse-lady-of-liberty-999/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2026/01/e0502e5b-4482-4838-8143-3a7c9ab6d636.7c05d1eefa060baccd9c1d35673a0eab.webp",
+      "cutout": "Vision subject lift",
+      "sha256": "d8a9f790eff55a0074f24047f37c180d2c1fbf2a69caa5d39c6baaeebc1aed6f"
+    },
+    {
+      "file": "marketing/premium/bars-valcambi-platinum.png",
+      "title": "1 oz Valcambi platinum bar in assay",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-platinum-bar-valcambi-in-assay/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/Minted-bars_pt_1oz_coppia_800px_web-jpg-webp.webp",
+      "cutout": "Vision subject lift",
+      "sha256": "8911fa2d8c714ceb9eae52a231047bfc086f14aaedd3f695499695f6b0cb62d1"
+    },
+    {
+      "file": "marketing/premium/card-fortuna-gold.png",
+      "title": "1 oz PAMP Suisse Lady Fortuna gold bar in assay",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-pamp-suisse-gold-bar-lady-fortuna-in-assay/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/1_ozr_pamp_suisse_gold_bar_lady_fortuna-jpg-webp.webp",
+      "cutout": "white-background flood removal",
+      "sha256": "37612dcafafefff08e7ed2ec579e0461349361b36f274f187e4c7683851f6b63"
+    },
+    {
+      "file": "marketing/premium/card-fortuna-silver.png",
+      "title": "1 oz PAMP Lady Fortuna silver bar in assay",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-silver-bar-pamp-lady-fortuna-in-assay/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/1_oz_pamp_suisse_lady_fortuna_silver_bar-jpg-webp.webp",
+      "cutout": "white-background flood removal",
+      "sha256": "08c1a735a8df327e505638959972d068290267dc5de8839b0d53b897e7944f11"
+    },
+    {
+      "file": "marketing/premium/card-perth.png",
+      "title": "1 oz Perth Mint gold bar in assay",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-gold-bar-perth-mint-in-assay/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/1-oz-Gold-Bar-Perth-Mint-In-Assay.webp",
+      "cutout": "white-background flood removal",
+      "sha256": "a9bc16b4d5a583d8f6252ea1b2a415983df19500da95384d24cc4dd4c7eab30f"
+    },
+    {
+      "file": "marketing/premium/coin-gold-eagle.png",
+      "title": "1 oz American Gold Eagle (reverse)",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-american-gold-eagle-coin-random-year/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/1-oz-American-Gold-Eagle-BU-Random-Year_Old-style.webp",
+      "cutout": "circle fit",
+      "sha256": "9bb6b4cd1579333d64bc56f069b52df41e6f6bb36ae079888ba54525f316fb36"
+    },
+    {
+      "file": "marketing/premium/coin-maple.png",
+      "title": "1 oz Canadian Gold Maple Leaf (reverse)",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-canadian-gold-maple-leaf-coin-9999-fine-random-year/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2026/05/1-oa-9999-gold-maple-leaf-coin-reverse.webp",
+      "cutout": "circle fit",
+      "sha256": "fddaad1359ff39b433101550e19385cee8fd388eda5baa8c205975ec5a6b8afa"
+    },
+    {
+      "file": "marketing/premium/coin-krugerrand.png",
+      "title": "1 oz South African Gold Krugerrand",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-south-african-gold-krugerrand-coinrandom-year/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/1-oz-south-african-gold-krugerrand-coin-jpg-webp.webp",
+      "cutout": "circle fit",
+      "sha256": "acef2514399e79dddb4e93300635a75042b8802e791d2ce48159eea1ceb2c25f"
+    },
+    {
+      "file": "marketing/premium/coin-britannia.png",
+      "title": "1 oz British Gold Britannia",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-british-britannia-gold-coinrandom-year/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/1_oz_british_britannia_gold_coin_random_year.webp",
+      "cutout": "circle fit",
+      "sha256": "ee7bb1efed6389dc989cf0c3c00a2dec9908148899ca4f222e2e0b1e76f4baeb"
+    },
+    {
+      "file": "marketing/premium/coin-kangaroo.png",
+      "title": "1 oz Australian Gold Kangaroo",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-gold-coin-australian-2011-year-of-the-rabbit/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/1_oz_gold_coin_-_australian_kangaroo_1-jpg-webp.webp",
+      "cutout": "circle fit",
+      "sha256": "8964e02aac63a5790c7ac8e52280f1614ccd99c777b310fd64877063549c00e4"
+    },
+    {
+      "file": "marketing/premium/coin-silver-eagle.png",
+      "title": "1 oz American Silver Eagle",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-american-silver-eagle-coin-random-year-bu/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/American_Eagle_1_oz_Silver_coin-1.jpg",
+      "cutout": "circle fit",
+      "sha256": "285eeb0fb6c4db2c4e71fa85470e5c5d7752df448e07e67cc12ae5fba81cde67"
+    },
+    {
+      "file": "marketing/premium/round-buffalo.png",
+      "title": "1 oz Silver Buffalo round",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-silver-buffalo-rounds/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/1-oz-silver-round-liberty-buffalo-jpg-webp.webp",
+      "cutout": "circle fit",
+      "sha256": "9fa633ce3dbaac2cc1c67da0158f391538c3fb7be294f46f7abe3207568b7548"
+    },
+    {
+      "file": "marketing/premium/coin-maple-platinum.png",
+      "title": "1 oz Platinum Maple Leaf",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-maple-leaf-platinum-coin-random-year/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/1-oz-maple-leaf-platinum-jpg-webp.webp",
+      "cutout": "circle fit",
+      "sha256": "0f574b7adccf768e879a7e0a4b6ba27ebb98122dff942f7d115be4344d82a6aa"
+    }
+  ]
+}

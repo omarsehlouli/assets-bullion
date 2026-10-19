@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "id": "93e2f0d70b5f0320",
+    "url": "https://bulliontradingllc.com/blog/gold-dips-on-profit-taking-softer-dollar-curbs-declines/",
+    "title": "Gold dips on profit-taking, softer dollar curbs declines - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:38.926718+00:00",
+    "status": "fetched",
+    "bytes": 94707,
+    "text_characters": 3339,
+    "sha256_html": "c834b5e4887d49d4d074ef7338198830224df15a00903217e979d3323e4e5919",
+    "file": "sources/93e2f0d70b5f0320.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "To name a few valuable metals, palladium was bit altered at $1,176.97 per ounce, having reached an all-time high of $1,185.40 in the previous session.",
+  "canonical": "https://bulliontradingllc.com/blog/gold-dips-on-profit-taking-softer-dollar-curbs-declines/",
+  "text": "To name a few valuable metals, palladium was bit altered at $1,176.97 per ounce, having reached an all-time high of $1,185.40 in the previous session.\nGold rates edged lower as financiers took some revenue after the metal rose for four successive sessions last week, though the prices were supported by a muted dollar on Federal Reserves issues over the worldwide economy.\nSpot gold ends bounce listed below $1,231 per ounce.\nPalladium near an all-time high of $1,185.40/ oz hit on Friday.\nHoldings at SPDR Gold Trust fell on Friday.\nWe discovered this short article at https://www.cnbc.com/2018/11/19/gold-markets-dollar-the-fed-in-focus.html and believed it would work to our readers.\n“What people will be keeping an eye out for is any decrease in financial indicators that might result in a softening of the dollar, (that would) assistance gold gain,” he said.\n“For December the rate hike is already priced in and its most likely going to occur,” Lu said.\nHedge funds and cash managers increased their net brief position in gold by 33,378 agreements to 70,864 agreements, according to U.S. Commodity Futures Trading Commission information. This was the highest net brief position in five weeks.\nSilver slipped 0.4 percent to $14.36 an ounce, while platinum fell 0.8 percent to $840.00 per ounce.\nHoldings at SPDR Gold Trust, the worlds largest gold-backed exchange-traded fund, fell 0.19 percent to 759.68 tonnes on Friday.\nA 4th rate trek for this year is expected next month and policymakers had previously indicated two more by June 2019.\n. The dollar decreased about 0.5 percent in the previous session as Fed policymakers indicated further rates of interest increases ahead, however also raised muted concerns over a potential global downturn, leading markets to suspect the tightening cycle may not have much even more to run.\nPotential customers of greater U.S. rate of interest are unfavorable for dollar-priced gold as they raise the opportunity cost of holding the bullion.\nSpot gold may end its existing bounce below a resistance at $1,231 per ounce, and resume its drop from $1,243.28, stated Reuters technical expert Wang Tao.\n“After 4 days of upside, gold is at a regular revenue booking level … 1,225-1,230 is a resistance zone for gold,” said Vandana Bharti, assistant vice-president of product research study, SMC Comtrade Ltd\nSpot gold was down 0.1 percent at $1,219.98 per ounce, as of 0745 GMT, having acquired about 0.7 percent in the previous session.\n.\nFridays rise put palladium within a hair of parity with gold for the very first time in 16 years.\nHere is a post about Gold dips on profit-taking. , if you want to check the original content you can discover a link at the end of this post.\nU.S. gold futures were down 0.3 percent at $1,219.6 per ounce.\nThe possibility that the Fed might hold a neutral outlook beyond 2018, and a slowdown in the international economy in the middle of the ongoing U.S.-China trade spat will keep investors a little more thinking about golds safe house appeal, said Benjamin Lu, a products expert, Phillip Futures.\nFinanciers were likewise careful on contrasting signals on the chance of a truce in the Sino-U.S. trade disagreement.\nbulliontrading\nView all posts\nPrevious Post\nGold prices hold steady near a one-month low\nNext Post\nGold Is Setting Up For A Nice First-Half Rally",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-dips-on-profit-taking-softer-dollar-curbs-declines/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-dips-on-profit-taking-softer-dollar-curbs-declines/",
+                "name": "Gold dips on profit-taking, softer dollar curbs declines"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-dips-on-profit-taking-softer-dollar-curbs-declines/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-dips-on-profit-taking-softer-dollar-curbs-declines/",
+          "name": "Gold dips on profit-taking, softer dollar curbs declines - Bullion Trading LLC",
+          "datePublished": "2018-11-19T09:06:20+00:00",
+          "dateModified": "2018-11-19T09:06:20+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-dips-on-profit-taking-softer-dollar-curbs-declines/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold dips on profit-taking, softer dollar curbs declines - Bullion Trading LLC",
+          "datePublished": "2018-11-19T09:06:20+00:00",
+          "dateModified": "2018-11-19T09:06:20+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "To name a few valuable metals, palladium was bit altered at $1,176.97 per ounce, having reached an all-time high of $1,185.40 in the previous session.",
+          "name": "Gold dips on profit-taking, softer dollar curbs declines - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-dips-on-profit-taking-softer-dollar-curbs-declines/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-dips-on-profit-taking-softer-dollar-curbs-declines/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-dips-on-profit-taking-softer-dollar-curbs-declines/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/gold-dips-on-profit-taking-softer-dollar-curbs-declines/",
+    "https://bulliontradingllc.com/blog/gold-is-setting-up-for-a-nice-first-half-rally/",
+    "https://bulliontradingllc.com/blog/gold-prices-hold-steady-near-a-one-month-low/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

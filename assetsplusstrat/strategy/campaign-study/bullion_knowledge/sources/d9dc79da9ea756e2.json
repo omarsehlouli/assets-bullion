@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "d9dc79da9ea756e2",
+    "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1981/",
+    "title": "Silver Price in 1981 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:16.425760+00:00",
+    "status": "fetched",
+    "bytes": 18953,
+    "text_characters": 1133,
+    "sha256_html": "714075834e589bff00e1c9d08638e3fac2784cbb438d2fbde443b687a6e4eb63",
+    "file": "sources/d9dc79da9ea756e2.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Silver in 1981: 12 monthly observations, 1981-01-30 to 1981-12-31. Sampled high $13.15, low $8.15; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/silver-price-in-1981/",
+  "text": "Silver Price in 1981\nAmong 12 monthly observations available for 1981, the LBMA silver price fell 38.0% between 1981-01-30 ($13.15) and 1981-12-31 ($8.15). The highest sampled price was $13.15 in January and the lowest was $8.15 in December. The mean of these observations was $10.01. This is a first-to-last observation change, not a calendar-year return.\n1981 silver price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$13.15\n(1981-01-30)\n$13.15\n(January)\n$8.15\n(December)\n$8.15\n(1981-12-31)\n$10.01\nGBP\n£5.52\n(1981-01-30)\n£5.71\n(February)\n£4.20\n(November)\n£4.27\n(1981-12-31)\n£4.93\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live silver price on the\nBullion Trading LLC spot dashboard\n, or\nshop silver bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Silver price history",
+              "item": "https://learn.bulliontradingllc.com/charts/silver-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1981"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Silver price in 1981 — LBMA monthly fix",
+          "description": "Silver in 1981: 12 monthly observations, 1981-01-30 to 1981-12-31. Sampled high $13.15, low $8.15; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1981/",
+          "temporalCoverage": "1981-01-30/1981-12-31",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

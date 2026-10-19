@@ -1,0 +1,80 @@
+{
+  "id": "campaign2",
+  "name": "Know the Price. Choose the Bar.",
+  "scope": "U.S.",
+  "audience": "Adults actively comparing one-ounce gold bars, brands, payment methods and premiums.",
+  "approach": "Meet existing purchase intent with transparent comparison. A focused gold-bar creative leads straight to the one-ounce-bar category. The ad explains what to compare without claiming the lowest price. On Meta, pair the product image with a short spot-versus-premium explanation.",
+  "hypothesis": "Specific product intent plus a clear comparison task may produce the strongest national purchase intent, even if gifting earns more casual attention.",
+  "description": "A product-led campaign for shoppers ready to compare recognizable 1 oz gold bars and their current total prices.",
+  "headline": "Know the price. Choose the bar.",
+  "primary": "A gold bar is more than its spot price. Compare 1 oz bars by mint, current price and payment option, then choose with the details in front of you.",
+  "meta_headline": "Compare 1 oz Gold Bars",
+  "meta_description": "See current prices and product details.",
+  "cta": "Shop Now",
+  "google_headlines": [
+    "Compare 1 oz Gold Bars",
+    "Live Gold Bar Prices",
+    "Shop PAMP & Valcambi",
+    "Know the Price. Choose Gold.",
+    "Explore Gold Bars Online",
+    "Bullion Trading LLC"
+  ],
+  "google_descriptions": [
+    "Compare 1 oz gold bars by mint and current price. Review payment options before buying.",
+    "Explore PAMP, Valcambi and other listed bars. See live product details and availability.",
+    "Spot is the starting point. Compare the full product price before choosing your bar."
+  ],
+  "keywords": {
+    "gold": [
+      "buy 1 oz gold bar",
+      "1 oz gold bar price",
+      "PAMP gold bar for sale",
+      "Valcambi gold bar",
+      "gold bar premium",
+      "compare gold bar prices"
+    ]
+  },
+  "destinations": {
+    "gold": "https://bulliontradingllc.com/gold/bars/1-oz-gold-bars/"
+  },
+  "supporting": [
+    "https://bulliontradingllc.com/product/1-oz-pamp-suisse-gold-bar-lady-fortuna-in-assay/",
+    "https://learn.bulliontradingllc.com/guides/questions/03-what-is-spot-price-vs-premium/"
+  ],
+  "transcript": [
+    "spot-to-store",
+    "faq-premium",
+    "icons-of-gold",
+    "faq-bar-or-eagle"
+  ],
+  "visual": "A single blue PAMP Lady Fortuna gold assay card on a charcoal surface, with a plain notebook and pen. Warm edge light emphasizes the real product; no chart, price or savings claim is pictured.",
+  "image": "exec-1802f025-8080-4dc4-850f-53cd20a752f9.png",
+  "refs": [
+    "card-fortuna-gold.png"
+  ],
+  "caution": "No lowest-premium or savings claim. Compare equivalent weight, brand, condition and payment method at the same time. Do not reuse archived prices.",
+  "status": "draft_for_review",
+  "objective": "Purchases of physical gold and silver bullion",
+  "google_targeting": "U.S. presence; separate gold/silver intent groups. Exclude NYC metro during the combined pilot to avoid overlap with local campaigns.",
+  "meta_targeting": "Adults in the selected geography; broad creative-led prospecting. Retarget consenting site visitors separately if available. No customer list or private audience was used.",
+  "meta_note": "Meta uses audience and creative context, not Google-style search keywords. Keywords below are for Google Search and content planning.",
+  "negative_keywords": [
+    "jobs",
+    "free gold",
+    "gold plated",
+    "gold paint",
+    "gold jewelry",
+    "gold mining stocks",
+    "ETF",
+    "futures",
+    "forex",
+    "scrap gold",
+    "sell gold",
+    "gold loan"
+  ],
+  "assets": {
+    "primary_image": "creative.png",
+    "image_type": "AI-generated reference-based campaign concept",
+    "visual_description": "A single blue PAMP Lady Fortuna gold assay card on a charcoal surface, with a plain notebook and pen. Warm edge light emphasizes the real product; no chart, price or savings claim is pictured."
+  }
+}

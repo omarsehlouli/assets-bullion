@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "e11520e529736d70",
+    "url": "https://bulliontradingllc.com/blog/gold-prices-bounce-after-disappointing-pending-home-sales-data/",
+    "title": "Gold Prices Bounce After Disappointing Pending Home Sales Data - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:42.476014+00:00",
+    "status": "fetched",
+    "bytes": 95997,
+    "text_characters": 3178,
+    "sha256_html": "0817474e9cf6ab9989837e814eb138aa6ca06fba7f6a016982d532e068b9bd60",
+    "file": "sources/e11520e529736d70.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "\" Much of the country is taking pleasure in a flourishing task market, but purchasing a house is ending up being more expensive,\" Yun added. \"That is why it",
+  "canonical": "https://bulliontradingllc.com/blog/gold-prices-bounce-after-disappointing-pending-home-sales-data/",
+  "text": "” Much of the country is taking pleasure in a flourishing task market, but purchasing a house is ending up being more expensive,” Yun added. “That is why it is an absolute need for there to be a large increase in existing and brand-new houses offered for sale in coming months to moderate house price development. Otherwise, sales will stay stuck in this holding pattern and a growing share of potential buyers– specifically newbie buyers– will be left on the sidelines.”\nGold prices have actually bounced of a five-week low following information revealing more weakness in the real estate sector as less customers than expected devoted to purchasing a home in March, according to the most recent information from the National Association of Realtors (NAR).\nMonday, the association stated that its pending home sales index increased only 0.4% in March to a reading of 107.6, compared to Februarys downwardly modified level of 107.2. The increase was weaker than expected as financial experts were anticipating to see a 0.6% rise.\nWhile the month-to-month information was fairly the same, pending house sales are down dramatically from the previous year. The index is down 3% from March 2016; this is the 3rd consecutive month of annual decreases.\nBecause the index is seen as a barometer for the real estate market, economic experts carefully see the pending house sales numbers. A lag of a month or more typically exists between a contract and a finished sale.\nWhile still unfavorable on the day, the gold market has actually bounced off its session lows in initial reaction to the information. June gold futures last traded at $1,316.20 an ounce, down 0.54% on the day.\nAccording to Lawrence Yun, NAR chief economist, the real estate sales are dropping due to the fact that a lack of supply is driving house rates higher.\n.\n” Much of the nation is taking pleasure in a thriving job market, but buying a house is ending up being more pricey,” Yun included. “That is why it is an outright need for there to be a large increase in current and brand-new homes readily available for sale in coming months to moderate house rate growth.\n“” Steady cost development and the swift pace listings are coming off the market are evidence that more supply is required to fully please demand1. What continues to keep back sales is the truth that potential purchasers are significantly having trouble discovering a cost effective home to buy,” he stated in journalism release.\nHere is an article about gold rates bounced back after pending house sales data. , if you desire to check out the original short article you can discover the link at the end of this post.\nWhat continues to hold back sales is the fact that potential purchasers are increasingly having difficulty discovering an affordable house to purchase,” he said in the press release.\nWe found this article http://www.kitco.com/news/2018-04-30/Gold-Prices-Bounce-After-Disappointing-Pending-Home-Sales-Data.html By: Neils Christensen and thought it would be handy to our subscribers.\nbulliontrading\nView all posts\nPrevious Post\nWhere Does Gold Go Now?\nNext Post\nGold and Silver Forecasts for 2018, Explained by U.S. Money Reserve",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/04/1.png",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2018/04/1.png",
+          "width": "829",
+          "height": "449",
+          "caption": "1",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-bounce-after-disappointing-pending-home-sales-data/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+                "name": "Gold Market &amp; Economics"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-prices-bounce-after-disappointing-pending-home-sales-data/",
+                "name": "Gold Prices Bounce After Disappointing Pending Home Sales Data"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-bounce-after-disappointing-pending-home-sales-data/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-prices-bounce-after-disappointing-pending-home-sales-data/",
+          "name": "Gold Prices Bounce After Disappointing Pending Home Sales Data - Bullion Trading LLC",
+          "datePublished": "2018-04-30T10:56:48+00:00",
+          "dateModified": "2018-04-30T10:56:48+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/04/1.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-bounce-after-disappointing-pending-home-sales-data/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold Prices Bounce After Disappointing Pending Home Sales Data - Bullion Trading LLC",
+          "datePublished": "2018-04-30T10:56:48+00:00",
+          "dateModified": "2018-04-30T10:56:48+00:00",
+          "articleSection": "Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "&quot; Much of the country is taking pleasure in a flourishing task market, but purchasing a house is ending up being more expensive,&quot; Yun added. &quot;That is why it",
+          "name": "Gold Prices Bounce After Disappointing Pending Home Sales Data - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-bounce-after-disappointing-pending-home-sales-data/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-bounce-after-disappointing-pending-home-sales-data/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/04/1.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-bounce-after-disappointing-pending-home-sales-data/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/gold-and-silver-forecasts-for-2018-explained-by-u-s-money-reserve/",
+    "https://bulliontradingllc.com/blog/gold-prices-bounce-after-disappointing-pending-home-sales-data/",
+    "https://bulliontradingllc.com/blog/where-does-gold-go-now/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2018/04/1.png",
+      "alt": "1"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

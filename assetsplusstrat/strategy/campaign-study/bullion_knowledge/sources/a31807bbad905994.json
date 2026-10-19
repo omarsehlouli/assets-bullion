@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "id": "a31807bbad905994",
+    "url": "https://learn.bulliontradingllc.com/tools/gold-silver-ratio/",
+    "title": "Gold-to-silver ratio | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:46.088356+00:00",
+    "status": "fetched",
+    "bytes": 18686,
+    "text_characters": 1324,
+    "sha256_html": "fe59d36c05c442b602d7aabfb17846f18ee7132facad2a6e6971c1cf164f8b35",
+    "file": "sources/a31807bbad905994.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "How many ounces of silver one ounce of gold buys, vs the 20-year historical mean. A timing-and-allocation signal precious-metals investors have used for centuries.",
+  "canonical": "https://learn.bulliontradingllc.com/tools/gold-silver-ratio/",
+  "text": "Gold-to-silver ratio\nHow many ounces of silver one ounce of gold buys, vs the 20-year historical mean. A timing-and-allocation signal precious-metals investors have used for centuries.\nGold spot ($/oz)\nSilver spot ($/oz)\n66.8\n:1\nNear historical average\nBalanced — split allocations work well here.\n20-year mean\n71\n:1 · range\n32\n–\n113\n:1\nComputed from monthly Yahoo Finance closes (GC=F / SI=F). Data ~\n204\nmonths.\nHow to use the ratio\nThe gold-to-silver ratio compresses two prices into a single number. It's most\nuseful as a\nrelative-value signal\n— when the ratio is far above\nits long-term mean, silver is comparatively cheap; when it's far below, gold is\ncomparatively cheap.\nBelow 50:1\n— silver expensive relative to gold. Historically rare.\n50:1 – 70:1\n— neutral band. Most of the 20th century lived here.\n70:1 – 85:1\n— silver getting cheap. Many investors lean toward silver here.\nAbove 85:1\n— extreme territory. 2020 hit 124:1 during liquidity panic.\nMean reversion is the lesson, not market timing. Extreme readings tend to revert\nover multi-year windows — but the \"wait\" can be years, and you'll need the patience\nto hold through volatility.\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Tools",
+              "item": "https://learn.bulliontradingllc.com/tools/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold-to-silver ratio"
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://learn.bulliontradingllc.com/tools/gold-silver-ratio/#webpage",
+          "url": "https://learn.bulliontradingllc.com/tools/gold-silver-ratio/",
+          "name": "Gold-to-silver ratio",
+          "description": "How many ounces of silver one ounce of gold buys, vs the 20-year historical mean. A timing-and-allocation signal precious-metals investors have used for centuries.",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "isAccessibleForFree": true,
+          "about": {
+            "@type": "Thing",
+            "name": "Gold-to-silver ratio"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

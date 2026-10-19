@@ -1,0 +1,297 @@
+{
+  "metadata": {
+    "id": "21303459349f7cc4",
+    "url": "https://bulliontradingllc.com/blog/category/silver-bars/",
+    "title": "silver bars - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:28.016716+00:00",
+    "status": "fetched",
+    "bytes": 126944,
+    "text_characters": 2570,
+    "sha256_html": "03c7fc4f6a94e98f425cade35bbc973f393dcd06570c03cead290502294182ac",
+    "file": "sources/21303459349f7cc4.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Shop silver bars in 1 oz, 10 oz and kilo sizes. BTLLC offers competitive pricing and secure shipping for serious stackers with sealed packaging often in stock.",
+  "canonical": "https://bulliontradingllc.com/blog/category/silver-bars/",
+  "text": "silver\nsilver bars\nHow the Hunt Brothers Almost Cornered the Silver Market: The True Story of Silver Thursday\nIn the late 1970s, two Texas brothers with deep oil money and even deeper convictions about\nBy\nbulliontrading\nFebruary 27, 2026\nFebruary 27, 2026\nsilver bars\nTop 10 Silver Bars to Invest Into 2024\nRecently, I had an excellent discussion with Trax from TraxNYC Diamond Jewelry about silver\nBy\nbulliontrading\nFebruary 5, 2024\nAugust 21, 2025\nGold\nGold Bars\nGold Market & Economics\nnews\nsilver\nsilver bars\nSilver Coins\nThe Journey of a Gold or Silver Item: From Mine to Market\nGold and silver travel a long way from where they're dug up to the shops. People have always\nBy\nbulliontrading\nSeptember 9, 2023\ncoin collection\nGold\nGold Bars\ngold bullion\ngold coins\nsilver\nsilver bars\nSilver Coins\nWhat Are Assays & Certificates Of Authenticity?\nChances are, if you’re a precious metal investor or collector, you might have had casual\nBy\nbulliontrading\nApril 10, 2023\ncoin collection\nGold\nGold Bars\ngold bullion\ngold coins\nGold Market & Economics\nsilver\nsilver bars\nSilver Coins\nUncategorized\nShould You Buy Gold With a Credit Card?\nGold has always been the most preferred and prized metal among all precious metals due to its\nBy\nbulliontrading\nMarch 20, 2023\ncoin collection\nGold\nGold Bars\ngold bullion\ngold coins\nGold Market & Economics\nsilver\nsilver bars\nSilver Coins\nWhy You Shouldn’t Include Gold & Silver In Your IRA\nRetirement is inevitable for all, but the fear of financial instability looms when we think of\nBy\nbulliontrading\nFebruary 22, 2023\nGold\nGold Bars\ngold bullion\ngold coins\nGold Market & Economics\nnews\nsilver\nsilver bars\nSilver Coins\nWill There Be Enough Physical Gold And Silver?\nImagine a scenario where the demand for precious metals significantly increases. Gold is being\nBy\nbulliontrading\nFebruary 4, 2021\nGold\nGold Bars\ngold bullion\ngold coins\nGold Market & Economics\nnews\nsilver\nsilver bars\nSilver Coins\nUncategorized\nManaging Expectations When Buying Gold\nWhen it comes to buying gold, you need to go into it with the right mindset. You need to know\nBy\nbulliontrading\nJanuary 15, 2021\nsilver\nsilver bars\nSilver Coins\nHow to Invest in Silver the Right Way\nBuying silver isnt for everybody. However if you think that the marketplace is ripe for gains,\nBy\nbulliontrading\nDecember 26, 2017\ncoin collection\nGold\nGold Bars\ngold bullion\ngold coins\nsilver\nsilver bars\nSafety Week: Assays and Certificates\nAs part of our Safety Week here at Bullion, were sharing some of our most popular guides on\nBy\nbulliontrading\nAugust 31, 2017\n1\n2\n3\nOlder Posts",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/category/silver-bars/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/silver-bars/",
+                "name": "silver bars"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://bulliontradingllc.com/blog/category/silver-bars/#webpage",
+          "url": "https://bulliontradingllc.com/blog/category/silver-bars/",
+          "name": "silver bars - Bullion Trading LLC",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/category/silver-bars/#breadcrumb"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/buy-gold-with-credit-card/",
+    "https://bulliontradingllc.com/blog/category/coin-collection/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-bars/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/category/news/",
+    "https://bulliontradingllc.com/blog/category/silver-bars/",
+    "https://bulliontradingllc.com/blog/category/silver-bars/page/2/",
+    "https://bulliontradingllc.com/blog/category/silver-bars/page/3/",
+    "https://bulliontradingllc.com/blog/category/silver-coins/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/category/uncategorized/",
+    "https://bulliontradingllc.com/blog/how-to-invest-in-silver-the-right-way/",
+    "https://bulliontradingllc.com/blog/hunt-brothers-silver-market/",
+    "https://bulliontradingllc.com/blog/managing-expectations-when-buying-gold/",
+    "https://bulliontradingllc.com/blog/safety-week-assays-and-certificates/",
+    "https://bulliontradingllc.com/blog/should-you-put-gold-silver-in-your-ira/",
+    "https://bulliontradingllc.com/blog/the-journey-of-a-gold-or-silver-item-from-mine-to-market/",
+    "https://bulliontradingllc.com/blog/top-10-silver-bars-to-invest-into-2024/",
+    "https://bulliontradingllc.com/blog/what-are-assays-certificates-of-authenticity/",
+    "https://bulliontradingllc.com/blog/will-there-be-enough-physical-gold-and-silver/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2026/02/How-the-Hunt-Brothers-Almost-Cornered-the-Silver-Market-The-True-Story-of-Silver-Thursday.webp",
+      "alt": "Hunt Brothers"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2024/02/Design-article-1-png.webp",
+      "alt": "Top 10 Silver Bars"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2023/09/goldtomarket.webp",
+      "alt": "Gold Market"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2017/07/certificate-of-authenticity-jpg.webp",
+      "alt": "certificate of authenticity"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2020/12/Should-You-Buy-Gold-With-Credit-Card-jpg.webp",
+      "alt": "Should You Buy Gold With Credit Card"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2023/02/Why-You-Shouldnt-Include-Gold-Silver-In-Your-IRA-jpg.webp",
+      "alt": "Why You Shouldn’t Include Gold & Silver In Your IRA"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/Kalgoorlie_The_Big_Pit_DSC04498.jpeg",
+      "alt": "Untitled"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/cropped-logo.png",
+      "alt": "Untitled"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2017/12/silver-jpg.webp",
+      "alt": "silver"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/2013-Proof-5-Star-Generals-Commemorative-Coins-1-jpg.webp",
+      "alt": "Untitled"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

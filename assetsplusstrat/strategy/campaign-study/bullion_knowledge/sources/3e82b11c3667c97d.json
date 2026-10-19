@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "id": "3e82b11c3667c97d",
+    "url": "https://bulliontradingllc.com/blog/category/gold-bullion/",
+    "title": "gold bullion - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:26.732154+00:00",
+    "status": "fetched",
+    "bytes": 134573,
+    "text_characters": 2582,
+    "sha256_html": "4da31ce7013ed0f015d5da8e92698d76539af07b870a016e819d5363b81bef7b",
+    "file": "sources/3e82b11c3667c97d.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Find gold bullion coins and bars for investing, gifting, or long-term holding. BTLLC offers competitive pricing and secure shipping with tracking included.",
+  "canonical": "https://bulliontradingllc.com/blog/category/gold-bullion/",
+  "text": "Gold\ncoin collection\ngold bullion\ngold coins\nAmerican Gold Eagle vs Canadian Gold Maple Leaf: 2026 Comparison\nWith gold trading near $5,000 per ounce in February 2026, selecting the right bullion coin\nBy\nbulliontrading\nFebruary 19, 2026\nFebruary 19, 2026\nGold\ngold bullion\nGold Market & Economics\nnews\nUncategorized\nGold Tariff Exemption: How Trump’s Executive Order Transforms the Bullion Market\nThe precious metals industry received a decisive victory this week as the London Bullion Market\nBy\nbulliontrading\nSeptember 14, 2025\nSeptember 14, 2025\ngold bullion\nguide\nThe Best Gold Bar Brands 2024\nInvestors have always turned to gold to boost their portfolios, looking for the best gold bar\nBy\nbulliontrading\nNovember 28, 2023\nAugust 22, 2025\nGold\nGold Bars\ngold bullion\nGold Market & Economics\nBullion Gold vs. Jewelry Gold: Understanding the Differences\nGold has been valued for a long time, both for its looks and as an investment. But here's the\nBy\nbulliontrading\nSeptember 4, 2023\ncoin collection\nGold\nGold Bars\ngold bullion\ngold coins\nsilver\nsilver bars\nSilver Coins\nWhat Are Assays & Certificates Of Authenticity?\nChances are, if you’re a precious metal investor or collector, you might have had casual\nBy\nbulliontrading\nApril 10, 2023\ncoin collection\nGold\nGold Bars\ngold bullion\ngold coins\nGold Market & Economics\nsilver\nsilver bars\nSilver Coins\nUncategorized\nShould You Buy Gold With a Credit Card?\nGold has always been the most preferred and prized metal among all precious metals due to its\nBy\nbulliontrading\nMarch 20, 2023\ncoin collection\nGold\nGold Bars\ngold bullion\ngold coins\nGold Market & Economics\nsilver\nsilver bars\nSilver Coins\nWhy You Shouldn’t Include Gold & Silver In Your IRA\nRetirement is inevitable for all, but the fear of financial instability looms when we think of\nBy\nbulliontrading\nFebruary 22, 2023\ncoin collection\nGold\nGold Bars\ngold bullion\ngold coins\nUncategorized\nA Guide To Investing In Precious Metal\nFor a very long time, gold and silver have been regarded as the best methods of investing in\nBy\nbulliontrading\nJune 4, 2022\nGold\nGold Bars\ngold bullion\ngold coins\nGold Market & Economics\nnews\nsilver\nsilver bars\nSilver Coins\nWill There Be Enough Physical Gold And Silver?\nImagine a scenario where the demand for precious metals significantly increases. Gold is being\nBy\nbulliontrading\nFebruary 4, 2021\nGold\nGold Bars\ngold bullion\ngold coins\nGold Market & Economics\nWhen Gold Is Bought For Insurance\nSome people are interested in buying gold as insurance. It’s important to be realistic when\nBy\nbulliontrading\nJanuary 15, 2021\n1\n2\n…\n4\nOlder Posts",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/category/gold-bullion/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-bullion/",
+                "name": "gold bullion"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://bulliontradingllc.com/blog/category/gold-bullion/#webpage",
+          "url": "https://bulliontradingllc.com/blog/category/gold-bullion/",
+          "name": "gold bullion - Bullion Trading LLC",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/category/gold-bullion/#breadcrumb"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/american-gold-eagle-vs-canadian-gold-maple-leaf-2026/",
+    "https://bulliontradingllc.com/blog/bullion-gold-vs-jewelry-gold-understanding-the-differences/",
+    "https://bulliontradingllc.com/blog/buy-gold-with-credit-card/",
+    "https://bulliontradingllc.com/blog/category/coin-collection/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-bars/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/page/2/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/page/4/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/category/guide/",
+    "https://bulliontradingllc.com/blog/category/news/",
+    "https://bulliontradingllc.com/blog/category/silver-bars/",
+    "https://bulliontradingllc.com/blog/category/silver-coins/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/category/uncategorized/",
+    "https://bulliontradingllc.com/blog/gold-tariff-exemption-how-trumps-executive-order-transforms-the-bullion-market/",
+    "https://bulliontradingllc.com/blog/investing-in-precious-metals/",
+    "https://bulliontradingllc.com/blog/should-you-put-gold-silver-in-your-ira/",
+    "https://bulliontradingllc.com/blog/the-best-gold-bar-brands-2024/",
+    "https://bulliontradingllc.com/blog/what-are-assays-certificates-of-authenticity/",
+    "https://bulliontradingllc.com/blog/when-gold-is-bought-for-insurance/",
+    "https://bulliontradingllc.com/blog/will-there-be-enough-physical-gold-and-silver/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2026/02/American-Gold-Eagle-vs-Canadian-Gold-Maple-Leaf.webp",
+      "alt": "Two gold bullion coins, American Gold Eagle and Canadian Maple Leaf"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2025/09/Gold-Tariff-Exemption-How-Trumps-Executive-Order-Transforms-the-Bullion-Market.webp",
+      "alt": "gold tariff exemption"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2023/11/best-gold-bar-brands.webp",
+      "alt": "Best Gold Bar Brand 2024"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2023/09/Article-1-pic.webp",
+      "alt": "Bullion Gold vs. Jewelry Gold: Understanding the Differences"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2017/07/certificate-of-authenticity-jpg.webp",
+      "alt": "certificate of authenticity"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2020/12/Should-You-Buy-Gold-With-Credit-Card-jpg.webp",
+      "alt": "Should You Buy Gold With Credit Card"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2023/02/Why-You-Shouldnt-Include-Gold-Silver-In-Your-IRA-jpg.webp",
+      "alt": "Why You Shouldn’t Include Gold & Silver In Your IRA"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2022/06/A-Guide-To-Investing-In-Precious-Metal-jpg-webp.webp",
+      "alt": "A Guide To Investing In Precious Metal"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/Kalgoorlie_The_Big_Pit_DSC04498.jpeg",
+      "alt": "Untitled"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/gold-investment-jpg.webp",
+      "alt": "Untitled"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "metadata": {
+    "id": "846182fca5599561",
+    "url": "https://bulliontradingllc.com/blog/gold-futures-explained-comex-contracts/",
+    "title": "Gold Futures Explained: How COMEX Contracts Work - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:39.450506+00:00",
+    "status": "fetched",
+    "bytes": 124037,
+    "text_characters": 12940,
+    "sha256_html": "ac13b2dd24f7ab12358051974dbdfcfbabb713d43a888e8e0c4a4eed56c2b2c3",
+    "file": "sources/846182fca5599561.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Gold futures explained for beginners: how COMEX contracts work, what the specs mean, who uses them, and what every physical gold buyer needs to know in 2026.",
+  "canonical": "https://bulliontradingllc.com/blog/gold-futures-explained-comex-contracts/",
+  "text": "If you follow gold prices, you have probably come across the term “COMEX” dozens of times. Commentators quote COMEX prices, analysts worry about COMEX inventory levels, and traders reference COMEX open interest when sizing up the gold market. Most of them assume you already know what it is and how it works.\nMost people don’t. That’s a real problem, because COMEX gold futures directly set the floor for what you pay for physical coins and bars. With gold trading above $4,700 per ounce as of May 2026, the mechanics behind that number actually matter.\nThe two markets are connected but not the same, and that difference shows up in the premium you pay every time the basis moves.\nWhat Is COMEX?\nCOMEX stands for Commodity Exchange. It was founded in New York in 1933 through the merger of four smaller exchanges: the National Metal Exchange, the Rubber Exchange of New York, the National Raw Silk Exchange, and the New York Hide Exchange. In 1994, COMEX merged with the New York Mercantile Exchange (NYMEX), and in 2008, CME Group acquired the combined entity.\nInvestopedia’s overview of COMEX\ncovers this history in detail.\nToday,\nCOMEX is a division of CME Group\n, the world’s largest derivatives marketplace. Gold, silver, copper, and several other metals trade there as standardized contracts on a regulated exchange.\nThe prices discovered on COMEX serve as the global benchmark for gold. When media outlets report a gold price, they are usually quoting the COMEX front-month futures price or a spot price derived from it. The London Bullion Market Association (LBMA) runs its own\nLBMA Gold Price benchmark\n, set twice daily through an electronic auction process, but the two markets stay closely connected through arbitrage. When prices diverge significantly between New York and London, capital and metal flow between markets to close the gap, usually quickly. We covered how those two systems interact in our earlier piece on\nCOMEX and LBMA gold pricing\n.\nWhat a Gold Futures Contract Actually Is\nA futures contract is a legally binding agreement to buy or sell a specific quantity of a commodity at a set price on a specific future date. The textbook definition, but the practical version is simpler: you are making a bet on where gold prices will be at a future date, and the bet is binding.\nAccording to the\nofficial COMEX gold futures contract specifications\n, a single standard gold futures contract (ticker symbol: GC) covers 100 troy ounces of gold, quoted in U.S. dollars and cents per troy ounce. With gold at $4,730 per ounce, one contract controls a notional value of $473,000. The minimum price increment is $0.10 per troy ounce, which equals $10 per contract. Every dollar gold moves, your position gains or loses $100.\nContracts are available for delivery in several months throughout the year. The most actively traded months are typically the nearest upcoming delivery months, called “front-month” contracts. As a front-month contract approaches expiration, trading volume shifts to the next scheduled month. The full list of listed contracts is available on the\nCME Group gold page\n.\nHow a COMEX gold futures contract works: both buyer and seller post initial and maintenance margin with the CME Clearinghouse, which guarantees every trade and credits or debits gains and losses at the close of each session.\nOne thing that catches beginners off guard is that gold futures are not traded on a traditional stock exchange like the NYSE. They trade on CME Globex, an electronic platform that is open nearly 24 hours a day, Sunday through Friday, with a 60-minute break each day. That near-continuous access is part of the point: when news breaks in Asia at 3 a.m. New York time, the futures market adjusts immediately. Physical dealers, by contrast, are closed.\nMargin, Leverage, and the Daily Settlement\nYou do not need $473,000 to trade one gold futures contract. That is the entire point of leverage in futures markets.\nCME Group sets initial margin requirements (the deposit needed to open a position) and maintenance margin requirements (the minimum balance you must maintain while holding it). These figures change based on volatility, so rather than cite a number that will be outdated, check the current requirements directly on the\nCME Group gold contract page\n. The point is that initial margin is a small fraction of the contract’s full notional value. That fraction is the leverage.\nThat leverage works in both directions. If gold rises $50 per ounce, a long position gains $5,000 on an initial outlay that might be a fraction of that. If gold drops $50 per ounce, the loss is equally real and equally fast. If your account falls below the maintenance margin threshold, you receive a margin call requiring you to add funds or close the position. This is not optional.\nWhat makes futures different from stocks is mark-to-market daily settlement. At the close of each trading session, the exchange calculates the settlement price and credits gains or debits losses directly to each account. There is no “holding through a loss” until things recover, not in the way a stock investor might. The\nCFTC’s primer on futures trading basics\nexplains how brokers are required to segregate customer funds and adjust accounts daily to current market value. For someone on the right side of a move, this means cash appearing in your account regularly. For someone on the wrong side, it means cash leaving.\nCOMEX front-month gold futures settlement prices, October 2025 to May 2026. The Jan 2026 sell-off is marked; the market recovered and peaked above $5,200 before retracing.\nContract Months and the Rolling Process\nEach COMEX gold futures contract has a delivery month. As that month approaches, traders who have no intention of receiving or delivering physical gold need to act. Most either close their position outright or “roll” it forward, meaning they sell the expiring contract and simultaneously buy the next active one.\nRolling is routine, but it creates predictable patterns. In the days before expiration, open interest in the front month drops sharply while the next month picks up. Volume can look strange to someone not expecting it. Prices between contract months also differ slightly, a relationship called “contango” when later months trade at a premium to nearer ones, which is the normal state for gold because of financing and storage costs.\nUnderstanding the roll matters practically if you are watching COMEX data to interpret dealer premiums or spot price movements. A sudden widening between two contract months can signal something unusual happening in the physical market, as we described in detail in our analysis of\ngold and silver lease rates in 2025\n.\nPhysical Delivery: Who Actually Gets the Gold\nLess than 1% of COMEX gold futures contracts result in physical delivery of gold. That figure comes directly from the exchange, and it matters because it explains the purpose of the market. Most participants, including hedge funds, commodity trading advisers, mining companies, bullion banks, and speculators, close positions before delivery. They use futures to hedge price exposure or speculate on direction. They are not interested in receiving 100-ounce gold bars at a New York depository.\nWhen delivery does occur, the mechanics are specific. A short seller intending to deliver must hold gold in a\nCOMEX-approved depository\n, evidenced by electronic depository warrants or warehouse receipts. The gold must meet COMEX good delivery standards: a minimum purity of 99.5% for gold bars, produced by COMEX-approved refiners, and conforming to strict weight and dimension requirements.\nThe process begins on the First Notice Day, which falls several days before the contract’s last trading date. Long position holders who want to take delivery signal their intent. The exchange matches buyers and sellers, and two business days after the short submits its delivery notice, the warrant transfers to the buyer at the settlement price from the notice date.\nFor a retail investor who accidentally holds a long futures position into the delivery period without intending to take delivery, the situation becomes expensive and complicated to resolve. Tracking your contract’s expiration calendar is not optional.\nMicro Gold Futures: A More Accessible Entry Point\nCME Group offers Micro Gold futures (ticker: MGC) with a contract size of 10 troy ounces, one-tenth of the standard contract. At $4,730 per ounce, one Micro Gold contract represents a notional value of around $47,300, with proportionally lower margin requirements. For individual investors who want price exposure to gold through the futures market without committing to a full standard contract, these smaller instruments are worth knowing about. Details on the Micro Gold contract are available on the\nCME Group Micro Gold page\n.\nThat said, the mechanics are identical to the standard contract: daily settlement, margin calls, expiration. The numbers are smaller; the risks work exactly the same way. Anyone treating Micro Gold futures as a safe, beginner-friendly substitute for physical metal is in for an unpleasant lesson.\nWhat COMEX Prices Mean for Physical Bullion Buyers\nThe COMEX futures price is not the retail price on a dealer’s website, but it sets the floor for it. The difference between the two is called the “basis”. Under normal conditions, futures trade at a modest premium to spot, reflecting the cost of financing and storage between now and the delivery date. The spread is usually small and predictable.\nWhen the basis widens or inverts, it signals something unusual. In early 2025, the basis between COMEX gold futures and London spot prices widened dramatically as U.S. demand for physical delivery surged, pushing New York futures to a premium that reached several hundred dollars per ounce above London spot at its peak. The arbitrage that followed pulled large quantities of metal from London vaults into the COMEX delivery system. That kind of basis move flows directly into what dealers charge for physical coins and bars.\nThere is also the Exchange for Physical (EFP), a mechanism that allows traders to switch between a futures position and a spot physical position. When EFP premiums are wide, it tells you that physical metal in New York is commanding a premium over paper contracts, which is a different signal than the published “spot price” might suggest. The relationship between COMEX and the physical market is not always obvious from headline prices alone.\nThree ways to get gold price exposure compared side by side. Futures offer the highest liquidity and leverage but come with margin calls, expiration dates, and no physical ownership. Physical bullion eliminates counterparty risk entirely.\nCOMEX Futures vs. Physical Gold: Not the Same Thing\nSome commentators frame this as a contest between “paper gold” and “real gold”, with futures portrayed as instruments disconnected from physical metal. That framing has a kernel of truth, but it’s not the whole story.\nCOMEX futures serve real purposes. Gold miners use them to lock in sale prices for future production. Dealers hedge inventory. Speculators provide the liquidity that makes the market run. That price discovery process feeds into what you pay at a dealer, even if you never open a trading account.\nPhysical gold doesn’t come with any of those complications. No counterparty, no expiration, no margin calls, no broker standing between you and the metal. For most people, that simplicity is the whole point of owning it.\nUnderstanding COMEX does not make you a futures trader. It makes you a more informed buyer of the physical product, because you understand what sets the price you pay, how that price moves, and why the premium above spot fluctuates in ways that sometimes seem disconnected from the daily headlines.\nThe Practical Takeaway\nStrip away the jargon and a COMEX gold futures contract is not that complicated. One hundred troy ounces, priced in dollars per ounce, settled against the market every day, with less than 1% ever resulting in actual metal changing hands. The market exists to let producers, dealers, and traders shift price risk to whoever wants to take the other side, and it does that at enormous scale:\nCME Group reports\nthe equivalent of nearly 27 million ounces traded daily, roughly 30 times the volume of the largest gold ETF.\nFor anyone buying physical gold: COMEX is where the price gets set. The leverage, the margin calls, the rolling, the delivery mechanics all flow into the price of the coins in your safe. Watching COMEX is watching the engine room. Knowing how it works beats wondering why the price moved while you were reading the morning news.\nbulliontrading\nView all posts\nPrevious Post\nSovereign Wealth Funds and Gold: Why the World's Largest Investors Are Accumulating the Metal\nNext Post\nHow to Calculate the Melt Value of Silver Coins and Gold Jewelry\nLeave a Reply\nCancel reply",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2026/05/Gold-Futures-Explained-How-COMEX-Contracts-Work.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2026/05/Gold-Futures-Explained-How-COMEX-Contracts-Work.webp",
+          "width": "1254",
+          "height": "1254",
+          "caption": "gold futures explained",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-futures-explained-comex-contracts/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-futures-explained-comex-contracts/",
+                "name": "Gold Futures Explained: How COMEX Contracts Work"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-futures-explained-comex-contracts/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-futures-explained-comex-contracts/",
+          "name": "Gold Futures Explained: How COMEX Contracts Work - Bullion Trading LLC",
+          "datePublished": "2026-05-06T13:06:09+00:00",
+          "dateModified": "2026-05-06T13:10:45+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2026/05/Gold-Futures-Explained-How-COMEX-Contracts-Work.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-futures-explained-comex-contracts/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold Futures Explained: How COMEX Contracts Work - Bullion Trading LLC",
+          "keywords": "gold futures explained,COMEX gold futures,how COMEX works,gold futures contract,gold futures for beginners",
+          "datePublished": "2026-05-06T13:06:09+00:00",
+          "dateModified": "2026-05-06T13:10:45+00:00",
+          "articleSection": "Education, Gold, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Gold futures explained for beginners: how COMEX contracts work, what the specs mean, who uses them, and what every physical gold buyer needs to know in 2026.",
+          "name": "Gold Futures Explained: How COMEX Contracts Work - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-futures-explained-comex-contracts/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-futures-explained-comex-contracts/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2026/05/Gold-Futures-Explained-How-COMEX-Contracts-Work.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-futures-explained-comex-contracts/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/education/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/comex-and-lbma-gold-pricing-explained/",
+    "https://bulliontradingllc.com/blog/gold-and-silver-lease-rates-2025-tight-market-analysis/",
+    "https://bulliontradingllc.com/blog/gold-futures-explained-comex-contracts/",
+    "https://bulliontradingllc.com/blog/how-to-calculate-melt-value-silver-coins-gold-jewelry/",
+    "https://bulliontradingllc.com/blog/sovereign-wealth-funds-and-gold/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.cftc.gov/ConsumerProtection/EducationCenter/FuturesMarketBasics/index.htm",
+    "https://www.cmegroup.com/company/comex.html",
+    "https://www.cmegroup.com/markets/metals/precious/e-micro-gold.html",
+    "https://www.cmegroup.com/markets/metals/precious/gold.contractSpecs.html",
+    "https://www.cmegroup.com/markets/metals/precious/gold.html",
+    "https://www.cmegroup.com/solutions/clearing/operations-and-deliveries/nymex-delivery-notices.html",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/",
+    "https://www.investopedia.com/terms/c/comex.asp",
+    "https://www.lbma.org.uk/prices-and-data/precious-metal-prices"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2026/05/Gold-Futures-Explained-How-COMEX-Contracts-Work.webp",
+      "alt": "gold futures explained"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/05/comex_clearinghouse_structure-1024x579.webp",
+      "alt": "Diagram showing the structure of a COMEX gold futures contract: Long Buyer and Short Seller both post margin to the CME Clearinghouse, which guarantees every trade and settles gains and losses daily"
+    },
+    {
+      "url": "/wp-content/uploads/2026/05/comex_gold_price_oct2025_may2026-1024x469.webp",
+      "alt": "Line chart of COMEX gold front-month settlement prices from October 2025 to May 2026, showing a rise from roughly $3,881 to a peak above $5,200 before settling near $4,725"
+    },
+    {
+      "url": "/wp-content/uploads/2026/05/comex_futures_vs_etf_vs_physical-1024x514.webp",
+      "alt": "Comparison table showing COMEX Gold Futures vs Gold ETF vs Physical Gold Bullion across nine criteria including leverage, expiration, counterparty risk, margin calls, metal ownership, tax treatment, minimum buy-in, liquidity, and management fees"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

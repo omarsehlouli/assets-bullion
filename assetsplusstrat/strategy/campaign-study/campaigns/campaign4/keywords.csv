@@ -1,0 +1,15 @@
+ad_group,keyword,match_type,evidence
+gold_local,buy gold NYC,Exact,Suggested intent; no volume or CPC data retrieved
+gold_local,buy gold NYC,Phrase,Suggested intent; no volume or CPC data retrieved
+gold_local,gold bullion dealer Manhattan,Exact,Suggested intent; no volume or CPC data retrieved
+gold_local,gold bullion dealer Manhattan,Phrase,Suggested intent; no volume or CPC data retrieved
+gold_local,buy gold bars New York,Exact,Suggested intent; no volume or CPC data retrieved
+gold_local,buy gold bars New York,Phrase,Suggested intent; no volume or CPC data retrieved
+gold_local,Diamond District gold dealer,Exact,Suggested intent; no volume or CPC data retrieved
+gold_local,Diamond District gold dealer,Phrase,Suggested intent; no volume or CPC data retrieved
+silver_local,buy silver NYC,Exact,Suggested intent; no volume or CPC data retrieved
+silver_local,buy silver NYC,Phrase,Suggested intent; no volume or CPC data retrieved
+silver_local,silver bullion dealer NYC,Exact,Suggested intent; no volume or CPC data retrieved
+silver_local,silver bullion dealer NYC,Phrase,Suggested intent; no volume or CPC data retrieved
+silver_local,buy silver coins Manhattan,Exact,Suggested intent; no volume or CPC data retrieved
+silver_local,buy silver coins Manhattan,Phrase,Suggested intent; no volume or CPC data retrieved

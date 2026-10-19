@@ -1,0 +1,292 @@
+{
+  "metadata": {
+    "id": "0ee1ae4f662baafa",
+    "url": "https://bulliontradingllc.com/bullion-tax/virginia/",
+    "title": "Bullion Sales Tax in Virginia (2026): Rules, Exemptions & Ex.",
+    "retrieved_at": "2026-10-12T22:11:28.027055+00:00",
+    "status": "fetched",
+    "bytes": 106485,
+    "text_characters": 2987,
+    "sha256_html": "ed5a4780e63773a5bf600bfeb1120a95c03081e03490b1d7002adae0a19b4b2d",
+    "file": "sources/0ee1ae4f662baafa.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Virginia has a statewide sales tax; bullion and legal-tender coins are exempt only on invoices of $1,000+ that meet state guidance. Jewelry is taxed. Verify.",
+  "canonical": "https://bulliontradingllc.com/bullion-tax/virginia/",
+  "text": "←\nAll states\nHeads-up — rules recently changed:\nExemption extended through 06/30/2026 (recheck before go-live)\nOrder minimum to qualify\n$1,000+\nYour order has to reach this for the exemption to apply.\nWhat's taxed?\nGood to know\nCommon questions\nHere's how each kind of item is treated in this state. Tap a row to read the plain-English note.\nWhat you're buying\nSales tax?\nWhat that means\nBullion Bars\nDepends on the order\nTax-free if your order total is at least $1,000 and the items qualify. Smaller orders are taxed.\nBullion Coins\nDepends on the order\nTax-free if your order total is at least $1,000 and the items qualify. Smaller orders are taxed.\nBullion Rounds\nDepends on the order\nTax-free if your order total is at least $1,000 and the items qualify. Smaller orders are taxed.\nLegal-Tender Coins\nDepends on the order\nTax-free if your order total is at least $1,000 and the items qualify. Smaller orders are taxed.\nNumismatic Coins\nDepends on the order\nTax-free if your order total is at least $1,000 and the items qualify. Smaller orders are taxed.\nJewelry\nSales tax applies\nStandard Virginia sales tax applies at checkout.\nIndustrial Precious Metal\nSales tax applies\nStandard Virginia sales tax applies at checkout.\nCollectibles (Non-Coin)\nSales tax applies\nStandard Virginia sales tax applies at checkout.\nPaper Currency\nSales tax applies\nStandard Virginia sales tax applies at checkout.\nAccessories\nSales tax applies\nStandard Virginia sales tax applies at checkout.\nWhat's covered by the exemption\nGold, silver, and platinum bullion and legal-tender coins — on orders of $1,000+. The current rule is scheduled to sunset on June 30, 2026 unless renewed.\nHow they decide what counts as bullion\nOrder has to total $1,000 or more, the metal must be at least 90% pure, and the price has to be based on weight and purity — not rarity. Rule extended through June 30, 2026; verify before relying on it.\nWhat's NOT covered\nOrders under $1,000, items under 90% purity, jewelry, artwork, and rarity-priced collectibles.\nCommon questions about sales tax on gold and silver in Virginia.\nIs gold or silver bullion taxable in Virginia?\n+\nIt depends on the transaction. Virginia’s guidance indicates the sale can be exempt only if the invoice is at least $1,000 and the item is qualifying bullion.\nWhat is Virginia’s threshold for tax-free bullion purchases?\n+\nVirginia’s guidance uses a $1,000 minimum invoice threshold for the exemption on qualifying bullion and legal-tender coins.\nWhat bullion qualifies for the Virginia exemption?\n+\nState guidance references items that are at least 90% precious metal with value based on mass and purity, and it applies to qualifying bullion and legal-tender coins.\nAre numismatic or collector coins exempt in Virginia?\n+\nNot always. They may be exempt only if they qualify under Virginia’s bullion/legal-tender guidance and the invoice meets the $1,000 threshold.\nIs jewelry taxed in Virginia?\n+\nYes. Jewelry is taxable under Virginia’s sales tax rules.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Sales Tax in Virginia (2026): Rules, Exemptions &amp; Ex.",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "description": "Virginia has a statewide sales tax; bullion and legal-tender coins are exempt only on invoices of $1,000+ that meet state guidance. Jewelry is taxed. Verify."
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/bullion-tax/virginia/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/bullion-tax/",
+                "name": "Bullion Sales Tax by State"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "name": "Virginia",
+              "item": "https://bulliontradingllc.com/bullion-tax/virginia/"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "WebPage",
+            "FAQPage"
+          ],
+          "@id": "https://bulliontradingllc.com/bullion-tax/virginia/#webpage",
+          "url": "https://bulliontradingllc.com/bullion-tax/virginia/",
+          "name": "Bullion Sales Tax in Virginia (2026): Rules, Exemptions &amp; Ex.",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/virginia/#breadcrumb"
+          },
+          "headline": "Virginia Sales Tax on Bullion",
+          "description": "Virginia has a statewide sales tax; bullion and legal-tender coins are exempt only on invoices of $1,000+ that meet state guidance. Jewelry is taxed. Verify.",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is gold or silver bullion taxable in Virginia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends on the transaction. Virginia’s guidance indicates the sale can be exempt only if the invoice is at least $1,000 and the item is qualifying bullion."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is Virginia’s threshold for tax-free bullion purchases?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Virginia’s guidance uses a $1,000 minimum invoice threshold for the exemption on qualifying bullion and legal-tender coins."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What bullion qualifies for the Virginia exemption?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "State guidance references items that are at least 90% precious metal with value based on mass and purity, and it applies to qualifying bullion and legal-tender coins."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are numismatic or collector coins exempt in Virginia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Not always. They may be exempt only if they qualify under Virginia’s bullion/legal-tender guidance and the invoice meets the $1,000 threshold."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is jewelry taxed in Virginia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Jewelry is taxable under Virginia’s sales tax rules."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Bullion Sales Tax in Virginia (2026): Rules, Exemptions &amp; Ex.",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Virginia has a statewide sales tax; bullion and legal-tender coins are exempt only on invoices of $1,000+ that meet state guidance. Jewelry is taxed. Verify.",
+          "name": "Bullion Sales Tax in Virginia (2026): Rules, Exemptions &amp; Ex.",
+          "@id": "https://bulliontradingllc.com/bullion-tax/virginia/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/virginia/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/virginia/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/bullion-tax/utah/",
+    "https://bulliontradingllc.com/bullion-tax/vermont/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "id": "09021d9a6646051e",
+    "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2014/",
+    "title": "Palladium Price in 2014 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:06.619775+00:00",
+    "status": "fetched",
+    "bytes": 19550,
+    "text_characters": 1194,
+    "sha256_html": "caeae8d3d277c3add4f2c315c1eb23feea45de461587bb304f1c788b3eb207ea",
+    "file": "sources/09021d9a6646051e.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Palladium in 2014: 12 monthly observations, 2014-01-31 to 2014-12-30. Sampled high $898, low $707; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2014/",
+  "text": "Palladium Price in 2014\nAmong 12 monthly observations available for 2014, the LBMA palladium price rose 14.7% between 2014-01-31 ($707) and 2014-12-30 ($811). The highest sampled price was $898 in August and the lowest was $707 in January. The mean of these observations was $806. This is a first-to-last observation change, not a calendar-year return.\n2014 palladium price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$707\n(2014-01-31)\n$898\n(August)\n$707\n(January)\n$811\n(2014-12-30)\n$806\nGBP\n£429\n(2014-01-31)\n£541\n(August)\n£429\n(January)\n£522\n(2014-12-30)\n£490\nEUR\n€523\n(2014-01-31)\n€681\n(August)\n€523\n(January)\n€666\n(2014-12-30)\n€611\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live palladium price on the\nBullion Trading LLC spot dashboard\n, or\nshop palladium bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Palladium price history",
+              "item": "https://learn.bulliontradingllc.com/charts/palladium-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "2014"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Palladium price in 2014 — LBMA monthly fix",
+          "description": "Palladium in 2014: 12 monthly observations, 2014-01-31 to 2014-12-30. Sampled high $898, low $707; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2014/",
+          "temporalCoverage": "2014-01-31/2014-12-30",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/platinum-and-palladium/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "54f4e2c028ac37e1",
+    "url": "https://bulliontradingllc.com/blog/silver-prices-become-more-detached-from-gold/",
+    "title": "Silver Prices Become More Detached From Gold - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:07.011422+00:00",
+    "status": "fetched",
+    "bytes": 98213,
+    "text_characters": 4063,
+    "sha256_html": "253cf8df784575a89f3935685980fadf62f193b794c53d5fc85ff07a41ec5702",
+    "file": "sources/54f4e2c028ac37e1.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The everyday tech charts have revealed that the expected December silver costs are sitting on the 100-day moving average. This puts futures costs at $20.016,",
+  "canonical": "https://bulliontradingllc.com/blog/silver-prices-become-more-detached-from-gold/",
+  "text": "The everyday tech charts have revealed that the expected December silver costs are sitting on the 100-day moving average. This puts futures costs at $20.016, but with silver already going below that level, it increases the risk that is put upon the market from the viewpoint of the technical charts.\nThe forecasts for the rest of the 2014 year are also revealing a down pattern, according to TD Securities trade expert, Bart Melek. He states that the silver bar and coin demand will drop 25% through 2014 and approximately 15% through 2015. ETT holdings are also anticipated to drop as there is a high supply of silver and the United States method to financial policy is likely to change.\nPeter Thomas of Zaner Precious Metals also believed this to be true. He says that due to trips and hedging for coin dealerships drives business down and leaves the silver market susceptible for a minimum of 3 weeks of the month. He has also observed some modifications occurring in the Comex market. With the Commitment of Traders report that was recently released, it was exposed that non-commercial futures fell by as much as 42 million ounces, which has to do with 14% of the market. This has been among the best losses sustained in the market since February 2013.\nSome have said that with gold sitting at its present rate, there is a selling chance in the rare-earth elements market. The price is just being kept in place by safe-haven purchasing and hedging for rare-earth elements. It is anticipated that with the coming tightening of monetary policy, silver prices could potentially fall as low as $17.50 an ounce. With an increasing weakness in crucial markets of the silver trade, lots of people are thinking about the correction that was made last Tuesday to be a possibility for the future of silver.\nThe mint sales for silver coins have dipped down 27% through the month of July, and they require for physical silver can only be referred to as sluggish at finest. The European markets are not doing far better, as silver coin sales have fallen there too. Even the exchange-traded funds holdings have experienced a drop-off.\nWhile gold has gotten some gains due to geopolitical unrest and news from the Fed, the very same can not be said for silver. With a weak showing over the last few months, many individuals are concerned that this could be a sign that golds market strength will not last either.\nSilver has actually been consistently falling considering that the middle of July, even going to a seven-week low of $19.74 for the cash silver, and $19.76 for future trades. Jonathan Butler, a metals strategist for Mitsubishi, has said that silver has been “used down” by the increasing strength of the dollar, and does not gain the advantages of geopolitical unrest. The geopolitical tensions that have actually struck around the world have prevented the market from encroaching on the prices of silver.\nDecember gold futures on the Mercantile Exchange were up 1.25% while September silver fell by 2.1%. This is an uncommon occurrence because the 2 products normally trade couples with gold. Gold got a slight increase over the last week, however this strength was not provided to silver.\n.\nSilver has actually been consistently falling considering that the middle of July, even going to a seven-week low of $19.74 for the money silver, and $19.76 for future trades. The mint sales for silver coins have actually dipped down 27% through the month of July, and they demand for physical silver can just be explained as sluggish at finest. He states that due to trips and hedging for coin dealerships drives service down and leaves the silver market vulnerable for at least three weeks of the month. With an increasing weak point in essential markets of the silver trade, numerous individuals are considering the correction that was made last Tuesday to be a possibility for the future of silver.\nbulliontrading\nView all posts\nPrevious Post\nFederal Reserve Will Guide Gold In The Coming Weeks\nNext Post\nInvesting in Gold – Other Issues with Gold as an Investment",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/08/silver-prices-800x500-1-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2014/08/silver-prices-800x500-1-jpg.webp",
+          "width": "800",
+          "height": "500",
+          "caption": "silver-prices-800&#215;500",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/silver-prices-become-more-detached-from-gold/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/silver/",
+                "name": "silver"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/silver-prices-become-more-detached-from-gold/",
+                "name": "Silver Prices Become More Detached From Gold"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/silver-prices-become-more-detached-from-gold/#webpage",
+          "url": "https://bulliontradingllc.com/blog/silver-prices-become-more-detached-from-gold/",
+          "name": "Silver Prices Become More Detached From Gold - Bullion Trading LLC",
+          "datePublished": "2014-08-21T21:33:58+00:00",
+          "dateModified": "2014-08-21T21:33:58+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/08/silver-prices-800x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/silver-prices-become-more-detached-from-gold/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Silver Prices Become More Detached From Gold - Bullion Trading LLC",
+          "datePublished": "2014-08-21T21:33:58+00:00",
+          "dateModified": "2014-08-21T21:33:58+00:00",
+          "articleSection": "silver",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "The everyday tech charts have revealed that the expected December silver costs are sitting on the 100-day moving average. This puts futures costs at $20.016,",
+          "name": "Silver Prices Become More Detached From Gold - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/silver-prices-become-more-detached-from-gold/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/silver-prices-become-more-detached-from-gold/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/08/silver-prices-800x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/silver-prices-become-more-detached-from-gold/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/federal-reserve-will-guide-gold-in-the-coming-weeks/",
+    "https://bulliontradingllc.com/blog/investing-in-gold-other-issues-with-gold-as-an-investment/",
+    "https://bulliontradingllc.com/blog/silver-prices-become-more-detached-from-gold/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2014/08/silver-prices-800x500-1-jpg.webp",
+      "alt": "silver-prices-800×500"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

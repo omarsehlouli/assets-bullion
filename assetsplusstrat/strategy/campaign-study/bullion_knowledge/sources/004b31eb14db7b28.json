@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "id": "004b31eb14db7b28",
+    "url": "https://bulliontradingllc.com/blog/value-of-gold/",
+    "title": "Value of Gold - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:15.001238+00:00",
+    "status": "fetched",
+    "bytes": 94917,
+    "text_characters": 3289,
+    "sha256_html": "e22eed36969c6a925dc2ed4b181b27733fcc16a36396d7de60a8fdcdc480f61f",
+    "file": "sources/004b31eb14db7b28.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "This worth will continue to alter depending upon how I select to make my sale, and whether any additional fees are involved. If I am selling a PAMP bar, it",
+  "canonical": "https://bulliontradingllc.com/blog/value-of-gold/",
+  "text": "This worth will continue to alter depending upon how I select to make my sale, and whether any additional fees are involved. If I am selling a PAMP bar, it deserves far more if it has a certificate than without one, and a lot more if that certificate remains unopened. A local store dealership may offer me a different price altogether, depending on his service policies or what his situation might be.\nEvery seller needs to know what offers gold its value as this will identify how they proceed to sell their product. An items scrap value is normally considered its minimum rate. Lets state I have an American Silver Eagle. While the “worth” of this coin would alter depending upon who I speak to and need to there be any commission fees, I understand that the melt worth of this specific coin is equivalent to One Ounce of Silver. It may seem weird to believe of melting down coins, as it is technically unlawful to deface national currency, but it really occurs regularly with global currency. I will send out myAmerican Eagles to a dealer in Canada to melt them for me there, and I in turn will melt down his Maple Leafs.\nAnd, like many things on the Internet, this can be an useful tool, however we at Bullion Trading LLC dont recommend relying on it.\n.\nI will send myAmerican Eagles to a dealership in Canada to melt them for me there, and I in turn will melt down his Maple Leafs.\nAnd now, having written a complete paragraph considering that I last inspected, I see that the very same coinin my pocket has actually increased to $32.12.\nAnd so I am able to sell the PAMP bar for a price that I recognize is reasonable based on my understanding of the trading costs and what its scrap worth ultimately is.\nA local store dealership might provide me a different cost altogether, depending on his service policies or what his scenario might be.\nGold wouldnt be the financial investment it is without this aspect, and that is part of its mystique.\nBecause of this volatility, I decide that the finest location to make my sale would be at a bullion dealer. I make this choice based upon my familiarity with this particular dealership and the truth I know he will offer me a fair cost on my PAMP bar. I make sure to get different evaluations regarding its scrap worth. The tool I found on the Internet is helpful, however I certainly do not rely on it. When I check out the dealer, he examines the bar and reveals that he is educated on the item. He likewise recognizes that I know a fair amount also. Therefore I am able to sell the PAMP bar for a rate that I acknowledge is reasonable based on my knowledge of the trading rates and what its scrap value eventually is.\nGold wouldnt be the financial investment it is without this component, and that is part of its mystique.\nIts strange to believe that there are sites out there that “cyber melt” your gold bullion, however its real. Among the Internets numerous tools, you can now determine the scrap value of your gold product with recent trading rates. And, like many things on the Internet, this can be a helpful tool, however we at Bullion Trading LLC do not recommend depending on it.\nbulliontrading\nView all posts\nPrevious Post\nAre You a Collector Or an Investor?\nNext Post\nSwiss Gold In New York: Five of the World’s Best Gold Bars",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2012/11/american-eagle-gold-coin-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2012/11/american-eagle-gold-coin-jpg.webp",
+          "width": "300",
+          "height": "300",
+          "caption": "american-eagle-gold-coin",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/value-of-gold/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/value-of-gold/",
+                "name": "Value of Gold"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/value-of-gold/#webpage",
+          "url": "https://bulliontradingllc.com/blog/value-of-gold/",
+          "name": "Value of Gold - Bullion Trading LLC",
+          "datePublished": "2012-11-14T06:47:18+00:00",
+          "dateModified": "2012-11-14T06:47:18+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2012/11/american-eagle-gold-coin-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/value-of-gold/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Value of Gold - Bullion Trading LLC",
+          "datePublished": "2012-11-14T06:47:18+00:00",
+          "dateModified": "2012-11-14T06:47:18+00:00",
+          "articleSection": "Gold, gold bullion, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "This worth will continue to alter depending upon how I select to make my sale, and whether any additional fees are involved. If I am selling a PAMP bar, it",
+          "name": "Value of Gold - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/value-of-gold/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/value-of-gold/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2012/11/american-eagle-gold-coin-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/value-of-gold/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/are-you-a-collector-or-an-investor/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/swiss-gold-in-new-york-five-of-the-worlds-best-gold-bars/",
+    "https://bulliontradingllc.com/blog/value-of-gold/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2012/11/american-eagle-gold-coin-jpg.webp",
+      "alt": "american-eagle-gold-coin"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

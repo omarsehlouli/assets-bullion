@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "id": "ff8c89ebff792e77",
+    "url": "https://learn.bulliontradingllc.com/charts/",
+    "title": "Precious Metals Price History — LBMA London Fix Since 1968",
+    "retrieved_at": "2026-10-12T22:12:53.200617+00:00",
+    "status": "fetched",
+    "bytes": 25060,
+    "text_characters": 2016,
+    "sha256_html": "5f79dfe514b8728af8487415dd787485534828ed0492594ee36abc6ae7396113",
+    "file": "sources/ff8c89ebff792e77.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Explore the official LBMA London fix back to 1968 in USD, GBP and EUR. Interactive gold, silver, platinum and palladium price history, monthly-sample highs, and a year-by-year archive.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/",
+  "text": "Precious Metals Price History\nThe official\nLBMA London fix\n— the global benchmark price for gold, silver, platinum and\npalladium — going back to\n1968\n, in US dollars, British pounds and euros. Pick a metal,\ncurrency and time range to explore six decades of price history.\nGold\nSilver\nPlatinum\nPalladium\nUSD\nGBP\nEUR\nAll (1968→)\n30Y\n20Y\n10Y\n5Y\nLatest (2026-09-25)\n$4,261\nHighest monthly sample\n$5,222\nFeb 2026\nSample high\n$5,222\nFeb 2026\nSample low\n$34.99\nJan 1970\nSource: LBMA fixing (PM where applicable), per troy ounce. Last available fixing per month; latest month may be incomplete. EUR begins 1999. See the methodology for sampling limits.\nRead the sources and calculation methodology\n. The latest month may be incomplete; sampled highs are not intraday records.\nHighest monthly observations (USD)\nGold\n$5,222\nsample high · Feb 2026\nLatest: $4,261\nSilver\n$103\nsample high · Jan 2026\nLatest: $65.02\nPlatinum\n$2,366\nsample high · Feb 2026\nLatest: $1,769\nPalladium\n$2,981\nsample high · Apr 2021\nLatest: $1,257\nBrowse by metal\nGold monthly price history\nSilver monthly price history\nPlatinum monthly price history\nPalladium monthly price history\nMore charts & tools\nHistorical price lookup — the fix on any date since 1968\nGold-to-silver ratio history (58 years of data)\nInflation-adjusted (real) gold price\nGold vs the S&P 500\nHighest monthly gold observations\nHighest monthly silver observations\nHighest monthly platinum observations\nHighest monthly palladium observations\nWhat is the LBMA London fix?\nThe LBMA (London Bullion Market Association) Gold and Silver fixes are the precious-metals\nindustry's benchmark settlement prices, set in London and used worldwide to price contracts,\nETFs and physical bullion. We chart the daily fix aggregated to a monthly close, back to 1968 —\na continuous, free history that is increasingly hard to find elsewhere.\nLooking to act on these prices? See today's live quotes on the\nBullion Trading LLC spot dashboard\n, or\nshop gold\nand\nsilver bullion\nat live, spot-based prices.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Precious metals price history by metal",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "url": "https://learn.bulliontradingllc.com/charts/gold-price-history/",
+              "name": "Gold price history"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+              "name": "Silver price history"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "url": "https://learn.bulliontradingllc.com/charts/platinum-price-history/",
+              "name": "Platinum price history"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-history/",
+              "name": "Palladium price history"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "LBMA London fix — precious metals price history (monthly observations)",
+          "description": "Explore the official LBMA London fix back to 1968 in USD, GBP and EUR. Interactive gold, silver, platinum and palladium price history, monthly-sample highs, and a year-by-year archive.",
+          "url": "https://learn.bulliontradingllc.com/charts/",
+          "creator": {
+            "@type": "Organization",
+            "name": "London Bullion Market Association"
+          },
+          "temporalCoverage": "1968/2026",
+          "variableMeasured": [
+            "Gold price",
+            "Silver price",
+            "Platinum price",
+            "Palladium price"
+          ],
+          "measurementTechnique": "LBMA London fix (PM where applicable), per troy ounce, in USD/GBP/EUR",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

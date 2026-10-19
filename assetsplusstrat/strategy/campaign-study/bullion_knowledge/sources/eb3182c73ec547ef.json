@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "id": "eb3182c73ec547ef",
+    "url": "https://bulliontradingllc.com/blog/gold-breaches-1300-mark-as-weak-us-jobs-data-dents-dollar/",
+    "title": "Gold breaches $1,300 mark as weak US jobs data dents dollar - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:37.265149+00:00",
+    "status": "fetched",
+    "bytes": 96754,
+    "text_characters": 3199,
+    "sha256_html": "26b5dd064ffc1e4d7aa96b70d8be7c5c4c8106b3ef07ad0a9cd80c48b6c401d7",
+    "file": "sources/eb3182c73ec547ef.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "\" We saw a surprisingly weak non-farm jobs number that pushed the dollar and the U.S. stock exchange, which in turn supported the rally in gold,\" stated Jim",
+  "canonical": "https://bulliontradingllc.com/blog/gold-breaches-1300-mark-as-weak-us-jobs-data-dents-dollar/",
+  "text": "” We saw a surprisingly weak non-farm jobs number that pushed the dollar and the U.S. stock exchange, which in turn supported the rally in gold,” stated Jim Wyckoff, senior analyst at Kitco Metals. “Gold is going to be influenced by the dollar index.”\nHere is a post about gold price breaches $1,300 mark. If you wish to see the initial article you can find the link at the bottom of this post.\nWhile Fridays report from the Labor Department did have a few intense areas, such as dip in the unemployment rate and an upward modification to December and January data, it did indicate the U.S. economy is slowing, supporting the Feds “client” method toward rates of interest walkings this year.\nGold rose a percent to a one-week high on Friday, briefly breaching the essential $1,300 ceiling, as weak U.S. payroll data dented the dollar and danger sentiment, while also intensifying a dismal worldwide economic picture.\n” I do not believe this specific report alone will alter the Feds financial policy,” he said. “If we get a string of weak numbers next number of months, then thats a different story, however right now that 20,000 increase in non-farm is an anomaly.”\nSpot gold was up 1.05 percent at $1,298.96 per ounce since 1:57 p.m. EST, en route to a weekly gain. Costs on Thursday was up to $1,280.91, within striking distance of a more than five-week low touched previously this week.\n” Growth in the U.S. is going to slow as the country has actually reached complete work and productivity is really high so there isnt much space for growth … And were pertaining to an end of the Federal Reserves rate cycle, which must weaken the dollar further,” said Natixis analyst Bernard Dahdah.\nPalladium slipped 1.47 percent to $1,505 per ounce, on track for its greatest weekly decrease considering that the week ended Nov. 23.\nThe tasks number might be modified up and the “internals” were not so bad, Kitcos Wyckoff said.\nPlatinum fell 0.28 percent to $811, after touching its most affordable given that Feb. 19 at $806.50 earlier. It was down about 4.9 percent so far this week, its most significant weekly portion decline given that mid-August.\nInvestors likewise kept a close eye on trade talks in between the United States and China, with mixed signals from Washington on the likelihood of a breakthrough.\nWe discovered this excellent post at https://www.cnbc.com/2019/03/08/gold-steadies-as-ecb-stance-drag-equities-us-jobs-data-eyed.html\nU.S. job development nearly stalled in February with the economy developing only 20,000 jobs in the middle of a contraction in payrolls in building and construction and numerous other sectors.\nU.S. gold futures settled $13.20 greater at $1,299.30.\nThe dollar held its earlier losses versus a basket of currencies, making bullion cheaper for holders of other currencies, while Wall Street was set to fall after the tasks information.\nSilver got 1.89 percent to $15.30, after slipping to its most affordable since late December in the previous session.\nbulliontrading\nView all posts\nPrevious Post\nPrice of Gold Fundamental Weekly Forecast – If Treasury Yields Plunge then Look for Gold to Soar\nNext Post\nGold Benefiting As Central Banks De-Dollarize - BoAML",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/03/gold-price-breaches-1300-mark-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2019/03/gold-price-breaches-1300-mark-jpg.webp",
+          "width": "740",
+          "height": "423",
+          "caption": "gold-price-breaches-1300-mark",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-breaches-1300-mark-as-weak-us-jobs-data-dents-dollar/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-breaches-1300-mark-as-weak-us-jobs-data-dents-dollar/",
+                "name": "Gold breaches $1,300 mark as weak US jobs data dents dollar"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-breaches-1300-mark-as-weak-us-jobs-data-dents-dollar/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-breaches-1300-mark-as-weak-us-jobs-data-dents-dollar/",
+          "name": "Gold breaches $1,300 mark as weak US jobs data dents dollar - Bullion Trading LLC",
+          "datePublished": "2019-03-11T11:23:03+00:00",
+          "dateModified": "2019-03-11T11:23:03+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/03/gold-price-breaches-1300-mark-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-breaches-1300-mark-as-weak-us-jobs-data-dents-dollar/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold breaches $1,300 mark as weak US jobs data dents dollar - Bullion Trading LLC",
+          "datePublished": "2019-03-11T11:23:03+00:00",
+          "dateModified": "2019-03-11T11:23:03+00:00",
+          "articleSection": "Gold, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "&quot; We saw a surprisingly weak non-farm jobs number that pushed the dollar and the U.S. stock exchange, which in turn supported the rally in gold,&quot; stated Jim",
+          "name": "Gold breaches $1,300 mark as weak US jobs data dents dollar - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-breaches-1300-mark-as-weak-us-jobs-data-dents-dollar/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-breaches-1300-mark-as-weak-us-jobs-data-dents-dollar/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/03/gold-price-breaches-1300-mark-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-breaches-1300-mark-as-weak-us-jobs-data-dents-dollar/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/gold-benefiting-as-central-banks-de-dollarize-boaml/",
+    "https://bulliontradingllc.com/blog/gold-breaches-1300-mark-as-weak-us-jobs-data-dents-dollar/",
+    "https://bulliontradingllc.com/blog/price-of-gold-fundamental-weekly-forecast-if-treasury-yields-plunge-then-look-for-gold-to-soar/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2019/03/gold-price-breaches-1300-mark-jpg.webp",
+      "alt": "gold-price-breaches-1300-mark"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

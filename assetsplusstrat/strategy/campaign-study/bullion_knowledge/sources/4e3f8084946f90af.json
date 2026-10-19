@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "id": "4e3f8084946f90af",
+    "url": "https://learn.bulliontradingllc.com/tools/metal-value/",
+    "title": "Metal value calculator | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:46.496104+00:00",
+    "status": "fetched",
+    "bytes": 20979,
+    "text_characters": 1306,
+    "sha256_html": "75e0232faffd38e035d1e7fa06a1906d7dff313dfa9f17194555519fd5bd451c",
+    "file": "sources/4e3f8084946f90af.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "What is your physical holding worth right now? List items, the tool computes pure-metal value at spot.",
+  "canonical": "https://learn.bulliontradingllc.com/tools/metal-value/",
+  "text": "Metal value calculator\nWhat is your physical holding worth right now? List items, the tool computes pure-metal value at spot.\nItem\nMetal\nQty\nWeight\nUnit\nPurity\nValue\n🥇\nGold\n🥈\nSilver\n⚙️\nPlatinum\n🔬\nPalladium\noz t\ng\nkg\n$4,320\n1\n×\n$4,320\n×\n🥇\nGold\n🥈\nSilver\n⚙️\nPlatinum\n🔬\nPalladium\noz t\ng\nkg\n$1,293\n20\n×\n$65\n×\n🥇\nGold\n🥈\nSilver\n⚙️\nPlatinum\n🔬\nPalladium\noz t\ng\nkg\n$1,389\n1\n×\n$1,389\n×\n+ Add holding\nTotal\n$7,002\nSpot prices: gold $\n4,320.5\n, silver $\n64.71\n, platinum $\n1,800.8\n, palladium $\n1,277.5\n(fallback — live API unavailable).\nDoes not account for numismatic premium or dealer spread.\nCommon purity values to enter\n0.9999\n— modern .9999 fine gold (Maple Leaf, PAMP, RCM bars)\n0.917\n— 22-karat gold (American Eagle, South African Krugerrand)\n0.999\n— modern .999 fine silver (American Eagle, Maple Leaf, generic rounds)\n0.925\n— sterling silver (jewelry)\n0.900\n— pre-1965 US silver coinage\n0.9995\n— investment-grade platinum / palladium bars\n\"Pure metal weight\" = item weight × purity. A 1-oz American Gold Eagle weighs ~33.93 g\ntotal but contains exactly 1 troy oz (31.10 g) of pure gold — the rest is silver/copper\nadded for durability.\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Tools",
+              "item": "https://learn.bulliontradingllc.com/tools/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Metal value calculator"
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://learn.bulliontradingllc.com/tools/metal-value/#webpage",
+          "url": "https://learn.bulliontradingllc.com/tools/metal-value/",
+          "name": "Metal value calculator",
+          "description": "What is your physical holding worth right now? List items, the tool computes pure-metal value at spot.",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "isAccessibleForFree": true,
+          "about": {
+            "@type": "Thing",
+            "name": "Precious metals melt value"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

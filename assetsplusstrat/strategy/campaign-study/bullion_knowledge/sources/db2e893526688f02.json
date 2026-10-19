@@ -1,0 +1,440 @@
+{
+  "metadata": {
+    "id": "db2e893526688f02",
+    "url": "https://bulliontradingllc.com/mints/metalor/",
+    "title": "Metalor - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:41.930475+00:00",
+    "status": "fetched",
+    "bytes": 194391,
+    "text_characters": 1556,
+    "sha256_html": "372e142b23187a952ce2bfc0f9b031d1b0676d3dd188e343c55f20d34f490160",
+    "file": "sources/db2e893526688f02.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Metalor, headquartered in Switzerland, is a prestigious refiner known for producing finely finished bullion bars with clear, trusted hallmarking. Favored for their clean design and consistent specifications, Metalor products are a popular choice for investors seeking Swiss-made refinement and global brand recognition.",
+  "canonical": "https://bulliontradingllc.com/mints/metalor/",
+  "text": "Metalor at a glance\n✓ LBMA Good Delivery\nType\nSwiss refiner\nCountry\nSwitzerland\nFounded\n1852\nSignature products\nCast & minted gold and silver bars\nAuthentication\nLBMA Good Delivery; assay-certified.\nFilters\nShowing all 3 results\nList\nGrid\nFilter by Metal\nGold\nSilver\nPlatinum\nPalladium\nFilter by Weight\n0.1106 oz\n0.2304 oz\n0.7734 oz\n0.9675 oz\n1 gram\n1 kilo\n1 oz\n1.205 oz\n1.25 oz\n1.5 oz\n1/10 oz\n1/2 gram\n1/2 oz\n1/20 oz\n1/4 oz\n10 gram\n10 oz\n10.725 oz\n100 gram\n100 oz\n1000.9 oz\n178.75 oz\n2 gram\n2 oz\n2.5 gram\n20 gram\n20 oz\n25 gram\n25 oz\n250 gram\n3 oz\n3.575 oz\n30 gram\n36 oz\n4 oz\n5 gram\n5 oz\n50 gram\n50 oz\n500 gram\n500 oz\n7.15 oz\n71.5 oz\n715 oz\nQty\nAdd to cart\nGold Bars\n1 Kilo Metalor Gold Bar .9999 Fine(New)\n$\n138,975.37\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nOut of stock\nRead more\nSilver\n10 oz Metalor Silver Bar\n$\n681.57\nRead more\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\nSilver\n1 Kilo Metalor Silver Bar (Seconday)\n$\n2,272.36\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nMetalor, headquartered in Switzerland, is a prestigious refiner known for producing finely finished bullion bars with clear, trusted hallmarking. Favored for their clean design and consistent specifications, Metalor products are a popular choice for investors seeking Swiss-made refinement and global brand recognition.\nof 1 Pages\nExplore Bullion Trading LLC\nShopping Metalor? Browse by metal, learn the fundamentals, or sell your bullion to us.\nGold Bullion\nSilver Bullion\nPlatinum & Palladium\nAll Mints\nGuides\nCalculators & Tools\nSell to Us",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/mints/metalor/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/mints/metalor/",
+                "name": "Metalor"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://bulliontradingllc.com/mints/metalor/#webpage",
+          "url": "https://bulliontradingllc.com/mints/metalor/",
+          "name": "Metalor - Bullion Trading LLC",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/mints/metalor/#breadcrumb"
+          },
+          "about": {
+            "@id": "https://bulliontradingllc.com/mints/metalor/#brand"
+          },
+          "mainEntity": {
+            "@id": "https://bulliontradingllc.com/mints/metalor/#itemlist"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "Organization",
+            "Brand"
+          ],
+          "@id": "https://bulliontradingllc.com/mints/metalor/#brand",
+          "name": "Metalor",
+          "url": "https://bulliontradingllc.com/mints/metalor/",
+          "legalName": "Metalor Technologies SA",
+          "foundingDate": "1852",
+          "sameAs": [
+            "https://www.wikidata.org/wiki/Q1408166",
+            "https://en.wikipedia.org/wiki/Metalor",
+            "https://www.metalor.com"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "CH"
+          },
+          "hasCredential": {
+            "@type": "EducationalOccupationalCredential",
+            "name": "LBMA Good Delivery",
+            "credentialCategory": "accreditation",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "London Bullion Market Association",
+              "alternateName": "LBMA",
+              "url": "https://www.lbma.org.uk/"
+            }
+          },
+          "description": "Metalor is a Swiss precious-metals refiner; an LBMA Good Delivery refiner.",
+          "logo": "https://bulliontradingllc.com/wp-content/uploads/2026/02/Metalor-Logo.webp",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "@id": "https://bulliontradingllc.com/mints/metalor/#itemlist",
+          "name": "Metalor products",
+          "numberOfItems": "3",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "url": "https://bulliontradingllc.com/product/1-kilo-metalor-gold-bar-9999-finenew/",
+              "name": "1 Kilo Metalor Gold Bar .9999 Fine(New)"
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "url": "https://bulliontradingllc.com/product/10-oz-metalor-silver-bar/",
+              "name": "10 oz Metalor Silver Bar"
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "url": "https://bulliontradingllc.com/product/1-kilo-metalor-silver-bar/",
+              "name": "1 Kilo Metalor Silver Bar (Seconday)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/casting-grain/",
+    "https://bulliontradingllc.com/casting-grain/gold-casting-grain/",
+    "https://bulliontradingllc.com/casting-grain/platinum-casting-grain/",
+    "https://bulliontradingllc.com/casting-grain/silver-casting-grain/",
+    "https://bulliontradingllc.com/compare/",
+    "https://bulliontradingllc.com/gifts/",
+    "https://bulliontradingllc.com/gifts/collectibles/",
+    "https://bulliontradingllc.com/gifts/golf-tees/",
+    "https://bulliontradingllc.com/gifts/religious-collection/",
+    "https://bulliontradingllc.com/gifts/secondary-market-gold-silver/",
+    "https://bulliontradingllc.com/gifts/silver-bullets-for-sale/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/gold/bars/",
+    "https://bulliontradingllc.com/gold/bars/1-2-oz-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/1-kilo-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/1-oz-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/10-oz-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/5-oz-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/10-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/100-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/2-5-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/2-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/20-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/250-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/5-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/50-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/500-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/coins/",
+    "https://bulliontradingllc.com/gold/coins/1-10-oz-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/1-2-oz-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/1-4-oz-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/1-oz-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/australian-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/austrian-gold-philharmonics-coins/",
+    "https://bulliontradingllc.com/gold/coins/british-royal-mint-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/canadian-maple-leaf-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/chinese-gold-coin/",
+    "https://bulliontradingllc.com/gold/coins/krugerrand-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/us-mint-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/us-mint-gold-coins/american-buffalo-gold-coin/",
+    "https://bulliontradingllc.com/gold/coins/us-mint-gold-coins/american-eagle-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/us-mint-gold-coins/pre-1933-us-gold-coins/",
+    "https://bulliontradingllc.com/gold/coins/world-gold-coin/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/mints/metalor?filter_metal=gold",
+    "https://bulliontradingllc.com/mints/metalor?filter_metal=palladium",
+    "https://bulliontradingllc.com/mints/metalor?filter_metal=platinum",
+    "https://bulliontradingllc.com/mints/metalor?filter_metal=silver",
+    "https://bulliontradingllc.com/mints/metalor?filter_type-of-bullion=bar",
+    "https://bulliontradingllc.com/mints/metalor?filter_type-of-bullion=coin",
+    "https://bulliontradingllc.com/mints/metalor?filter_type-of-bullion=round",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=0-1106-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=0-2304-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=0-7734-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=0-9675-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=1-10-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=1-2-gram",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=1-2-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=1-20-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=1-205-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=1-25-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=1-4-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=1-5-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=1-gram",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=1-kilo",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=1-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=10-725-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=10-gram",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=10-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=100-gram",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=100-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=1000-9-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=178-75-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=2-5-gram",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=2-gram",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=2-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=20-gram",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=20-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=25-gram",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=25-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=250-gram",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=3-575-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=3-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=30-gram",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=36-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=4-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=5-gram",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=5-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=50-gram",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=50-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=500-gram",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=500-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=7-15-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=71-5-oz",
+    "https://bulliontradingllc.com/mints/metalor?filter_weight=715-oz",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/platinum-and-palladium/",
+    "https://bulliontradingllc.com/platinum-and-palladium/palladium/",
+    "https://bulliontradingllc.com/platinum-and-palladium/palladium/palladium-bars/",
+    "https://bulliontradingllc.com/platinum-and-palladium/palladium/palladium-coins/",
+    "https://bulliontradingllc.com/platinum-and-palladium/platinum/",
+    "https://bulliontradingllc.com/platinum-and-palladium/platinum/platinum-bars/",
+    "https://bulliontradingllc.com/platinum-and-palladium/platinum/platinum-coins/",
+    "https://bulliontradingllc.com/product/1-kilo-metalor-gold-bar-9999-finenew/",
+    "https://bulliontradingllc.com/product/1-kilo-metalor-silver-bar/",
+    "https://bulliontradingllc.com/product/10-oz-metalor-silver-bar/",
+    "https://bulliontradingllc.com/shop/",
+    "https://bulliontradingllc.com/silver/",
+    "https://bulliontradingllc.com/silver/bars/",
+    "https://bulliontradingllc.com/silver/bars/1-kilo-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/1-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/10-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/100-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/50-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/gram-silver-bars/",
+    "https://bulliontradingllc.com/silver/coins/",
+    "https://bulliontradingllc.com/silver/coins/african-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/canadian-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/government-mint-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/government-mint-silver-coins/austrian-silver-philharmonics/",
+    "https://bulliontradingllc.com/silver/coins/government-mint-silver-coins/chinese-silver-pandas/",
+    "https://bulliontradingllc.com/silver/coins/government-minted-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/silver-rounds/",
+    "https://bulliontradingllc.com/silver/coins/us-silver-coins/",
+    "https://bulliontradingllc.com/social-media-deals/",
+    "https://bulliontradingllc.com/social-media-deals/5-10-oz-platinum-and-palladium-bars/",
+    "https://bulliontradingllc.com/social-media-deals/platinum-and-palladium-gram-bars/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/Metalor-Gold-Bar-1-300x300.jpg",
+      "alt": "1 kilo Metalor gold bar .9999 fine with stamped assay details"
+    },
+    {
+      "url": "/wp-content/uploads/2025/01/10-oz-Metalor-Silver-Bar-999-Fine-Sealed_36d101ed-573c-40e0-90dc-07180eb5672d.4d70164d67dbf1181ff7c11d66efce4e-300x300.jpg",
+      "alt": "10 oz Metalor silver bar sealed in protective plastic packaging"
+    },
+    {
+      "url": "/wp-content/uploads/2025/01/d73e8f61-cdf2-493e-83a1-ae2821c6a8d3.39583e01d5626bc562f9fbdee4ecfc9c-300x300.webp",
+      "alt": "10 oz Metalor silver bar with stamped logo and weight markings"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-kilo-metalor-silver-bar-300x300.jpg",
+      "alt": "1 kilo silver Metalor bar with stamped refinery logo"
+    }
+  ]
+}

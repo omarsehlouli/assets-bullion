@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "id": "eb29069d91a11557",
+    "url": "https://bulliontradingllc.com/blog/buying-and-selling-online-vs-buying-and-selling-in-person/",
+    "title": "Buying and Selling Online Vs. Buying and Selling In Person - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:23.981558+00:00",
+    "status": "fetched",
+    "bytes": 107700,
+    "text_characters": 3757,
+    "sha256_html": "94ae10bd88c8b537967df86007508d5c10a810465f67bf23fce9e90c89a81d37",
+    "file": "sources/eb29069d91a11557.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Online vs in-person gold deals: compare pricing, trust, security, shipping, and service. Learn when convenience helps and when face-to-face is safer.",
+  "canonical": "https://bulliontradingllc.com/blog/buying-and-selling-online-vs-buying-and-selling-in-person/",
+  "text": "Buying gold online is easy and convenient. You choose what you want to buy, add it to your shopping cart, enter your credit card information and check out, all from the comfort of your phone or computer.\nThis is not always as simple as it sounds. With high-ticket precious metals, you may not want to compromise the quality of your buying experience for convenience.\nGold prices are dependent on constantly shifting, complex economic factors. Online dealers have to concern themselves with price fluctuations very differently than dealers with physical stores. When you buy gold in person, you are buying the gold for the price that it is at that time. When you buy online, the price is what the price of gold is at the time of checkout. This seems like it should be cut and dry enough. Whether you place an order digitally or you pay a dealer in person, you’re getting your coins or bars for the that spot gold price.\nHowever, checking out from an online store can have unseen complications. When someone places an order online, the order has to reach the seller to be processed and then  fulfilled and then it has to be paid for. The order then gets packaged and sent out for delivery. During this process, the gold price may go up and down. The price of gold when the order is placed may be different from when the order is actually being processed and or fulfillled. When the buyer sees that the price has gone down, oftentimes they might cancel their order. When orders are canceled, dealers suffer a market loss due to the fact that they had hedged their gold or silver by having it on reserve for the customer. Dealers know this is a possibility with online orders, so they protect themselves by keeping your credit card on file and charging you to make up for the extra costs if the price goes down while your order is processing.\nYou can see these kinds of disputes on many reviews for online sellers. It’s a common issue with buying online.\nAnother issue with buying online is the quality of the inventory that online sellers keep. When people have bars or coins that are not in pristine condition, they often send them to online dealers because they can’t gauge the quality of the goods before accepting them. They end up having units in their inventory that are scratched, damaged and worn. So they have coins in stock that they need to get rid of. These coins wouldn’t pass a visual inspection by an expert but the customer won’t know that until they are already purchased and sent through the mail with the customer having already signed for the delivery.\nThe biggest issue with buying online is the possibility of scams. There are many ways for scammers to operate in this business. They can create fake websites, take your money and send you nothing. They can send you counterfeit metals. These scams can be difficult to avoid and even more difficult to have anything done about them. The amount of money people invest in gold is not a figure to throw around and be uncertain whether you’ll get what you paid for.\nBuying in person helps you steer clear of these complications that can lead to a disappointing experience.\nNothing beats seeing exactly what you’re getting, who is selling it to you and paying for it on the spot. Serious investors will not throw their money around to any random website on the Internet and neither should anyone. Your best bet is to travel to a physical location to make your purchase, such as our office in NYC’s historic Diamond District. This will ensure you receive better service, better merchandise and thus ensure you more peace of mind.\nbulliontrading\nView all posts\nPrevious Post\nSilver and Gold Coins Vs Bars: Which One to Buy?\nNext Post\nWhy Gold Bars Should Be .9999% Pure\nLeave a Reply\nCancel reply",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/nyc.jpg",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2021/04/nyc.jpg",
+          "width": "1918",
+          "height": "784",
+          "caption": "Untitled",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/buying-and-selling-online-vs-buying-and-selling-in-person/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/uncategorized/",
+                "name": "Uncategorized"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/buying-and-selling-online-vs-buying-and-selling-in-person/",
+                "name": "Buying and Selling Online Vs. Buying and Selling In Person"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/buying-and-selling-online-vs-buying-and-selling-in-person/#webpage",
+          "url": "https://bulliontradingllc.com/blog/buying-and-selling-online-vs-buying-and-selling-in-person/",
+          "name": "Buying and Selling Online Vs. Buying and Selling In Person - Bullion Trading LLC",
+          "datePublished": "2020-11-20T09:55:12+00:00",
+          "dateModified": "2020-11-20T09:55:12+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/nyc.jpg"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/buying-and-selling-online-vs-buying-and-selling-in-person/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Buying and Selling Online Vs. Buying and Selling In Person - Bullion Trading LLC",
+          "datePublished": "2020-11-20T09:55:12+00:00",
+          "dateModified": "2020-11-20T09:55:12+00:00",
+          "articleSection": "Uncategorized",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Online vs in-person gold deals: compare pricing, trust, security, shipping, and service. Learn when convenience helps and when face-to-face is safer.",
+          "name": "Buying and Selling Online Vs. Buying and Selling In Person - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/buying-and-selling-online-vs-buying-and-selling-in-person/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/buying-and-selling-online-vs-buying-and-selling-in-person/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/nyc.jpg"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/buying-and-selling-online-vs-buying-and-selling-in-person/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/buying-and-selling-online-vs-buying-and-selling-in-person/",
+    "https://bulliontradingllc.com/blog/category/uncategorized/",
+    "https://bulliontradingllc.com/blog/gold-coins-vs-bars/",
+    "https://bulliontradingllc.com/blog/why-gold-bars-should-be-9999-pure/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/nyc.jpg",
+      "alt": "Untitled"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2020/11/cleardot.gif",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

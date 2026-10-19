@@ -1,0 +1,5 @@
+ad_group,channel,final_url,tracked_url,purpose
+gold,google,https://bulliontradingllc.com/gold/bars/1-oz-gold-bars/,https://bulliontradingllc.com/gold/bars/1-oz-gold-bars/?utm_source=google&utm_medium=cpc&utm_campaign=campaign2&utm_content=gold_v1,Primary purchase path
+gold,meta,https://bulliontradingllc.com/gold/bars/1-oz-gold-bars/,https://bulliontradingllc.com/gold/bars/1-oz-gold-bars/?utm_source=meta&utm_medium=paid_social&utm_campaign=campaign2&utm_content=gold_v1,Primary purchase path
+support_1,sitelink,https://bulliontradingllc.com/product/1-oz-pamp-suisse-gold-bar-lady-fortuna-in-assay/,https://bulliontradingllc.com/product/1-oz-pamp-suisse-gold-bar-lady-fortuna-in-assay/,Secondary information or product path
+support_2,sitelink,https://learn.bulliontradingllc.com/guides/questions/03-what-is-spot-price-vs-premium/,https://learn.bulliontradingllc.com/guides/questions/03-what-is-spot-price-vs-premium/,Secondary information or product path

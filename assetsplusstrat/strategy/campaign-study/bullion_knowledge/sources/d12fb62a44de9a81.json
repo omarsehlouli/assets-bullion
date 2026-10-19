@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "d12fb62a44de9a81",
+    "url": "https://bulliontradingllc.com/blog/gld-and-the-fine-print/",
+    "title": "GLD and the Fine Print - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:35.577878+00:00",
+    "status": "fetched",
+    "bytes": 94811,
+    "text_characters": 2519,
+    "sha256_html": "4229f01329c620e803ce0f62448d99612eb1c6624acecfaa36d7445b92e49e5b",
+    "file": "sources/d12fb62a44de9a81.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "To use that declaration to this example: if a merchant asserts they have offered you gold but can not produce the item, then there is no distinction in",
+  "canonical": "https://bulliontradingllc.com/blog/gld-and-the-fine-print/",
+  "text": "To use that declaration to this example: if a merchant asserts they have offered you gold but can not produce the item, then there is no distinction in between them and someone who never had gold to start with.\nOnce again, this is why its always crucial to do the needed research before the time of sale, whether you are the purchaser or seller.\nTo apply that declaration to this example: if a merchant asserts they have sold you gold but can not produce the item, then there is no distinction between them and someone who never had gold to start with.\nOne great benefit about Bullion Trading is that our guidelines of conduct are practically the polar reverse of GLDs; werequire the client to be physically present at the time of their purchase and motivate them to examine the gold themselves, which they can then bring on them when they leave. And while we do not parade the gold in our vault out to strangers for apparent factors, we make it obvious what our service is, and we are definitely happy to discuss our gold with anybody who is available in. This is why, as soon as again, a trusted bullion dealer is an excellent location for a brand-new financier to begin prior to moving on to any major trust fund. When it comes to GLD, their circumstance should offer us all time out. If nothing else comes out of this newspaper article, at least it will encourage investors to begin checking out the prospectus a bit more carefully.\nIf absolutely nothing else comes out of this news story, at least it will motivate investors to start checking out the prospectus a little bit more closely.\nLets talk a bit about the SPDR Gold Trust, likewise called GLD, which is one of the most popular and active funds used by financiers for gold trading. GLD is popular for having low costs and $68 billion in possessions. Yet now there is talk surrounding GLD and possible scam allegations from private investors. And so, now the funds prospectus is under close scrutiny, with specific language and choice of words being investigated.\nNot only would you not trust such a bank, but they would be a contradiction to the really meaning that we hold banks to be.\nAnd so, now the funds prospectus is under close examination, with specific language and choice of words being investigated.\nNot just would you not trust such a bank, however they would be a contradiction to the very meaning that we hold banks to be.\nbulliontrading\nView all posts\nPrevious Post\nIran Shines a New Light on Trade\nNext Post\n1 Oz Johnson Matthey Silver Bars",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2012/04/Mexican-Gold-Coin-jpeg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2012/04/Mexican-Gold-Coin-jpeg.webp",
+          "width": "300",
+          "height": "300",
+          "caption": "Mexican-Gold-Coin",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gld-and-the-fine-print/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gld-and-the-fine-print/",
+                "name": "GLD and the Fine Print"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gld-and-the-fine-print/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gld-and-the-fine-print/",
+          "name": "GLD and the Fine Print - Bullion Trading LLC",
+          "datePublished": "2012-04-05T07:27:19+00:00",
+          "dateModified": "2012-04-05T07:27:19+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2012/04/Mexican-Gold-Coin-jpeg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gld-and-the-fine-print/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "GLD and the Fine Print - Bullion Trading LLC",
+          "datePublished": "2012-04-05T07:27:19+00:00",
+          "dateModified": "2012-04-05T07:27:19+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "To use that declaration to this example: if a merchant asserts they have offered you gold but can not produce the item, then there is no distinction in",
+          "name": "GLD and the Fine Print - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gld-and-the-fine-print/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gld-and-the-fine-print/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2012/04/Mexican-Gold-Coin-jpeg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gld-and-the-fine-print/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/1-oz-johnson-matthey-silver-bars/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/gld-and-the-fine-print/",
+    "https://bulliontradingllc.com/blog/iran-shines-a-new-light-on-trade/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2012/04/Mexican-Gold-Coin-jpeg.webp",
+      "alt": "Mexican-Gold-Coin"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

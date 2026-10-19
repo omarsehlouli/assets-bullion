@@ -1,0 +1,296 @@
+{
+  "metadata": {
+    "id": "affaf6ada1e97226",
+    "url": "https://bulliontradingllc.com/blog/american-silver-eagle-a-smart-investment/",
+    "title": "American Silver Eagle: A Smart Investment  - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:18.589012+00:00",
+    "status": "fetched",
+    "bytes": 102275,
+    "text_characters": 2824,
+    "sha256_html": "1d77ffd03b4c2a669f5417f8edef6722f0613aa8d6242edf05c00cca4e85a308",
+    "file": "sources/affaf6ada1e97226.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Why the 1 oz American Silver Eagle is a go-to bullion coin—its origins, annual releases, and options from single coins to Monster Boxes.",
+  "canonical": "https://bulliontradingllc.com/blog/american-silver-eagle-a-smart-investment/",
+  "text": "When it comes to putting your money in precious metals, the\n1 oz American Silver Eagle Coin\nis often the go-to choice. It’s something we at Bullion Trading LLC are proud to offer. You can get this coin on its own or grab a whole\n500 Oz Silver Monster Box\n. Either way, you’re stepping into a world of valuable, tangible assets. Let’s talk about who’s behind these coins, why they’re worth your attention, and what makes each year’s coin a little special.\nWho Backs and Mints the 1 oz American Silver Eagle Coin?\nThe American Silver Eagle coin is a product of the United States Mint, ensuring its quality and purity. Each coin is a tangible asset backed and guaranteed by the U.S. government, epitomizing a secure and reliable investment.\nDiscovering the Charm of the Silver Eagle\nQuality and Purity\nThe\n1 oz American Silver Eagle\nCoin is known for being made of .999 fine silver. Each coin is carefully made to ensure it’s top-notch, showcasing the high standards of Bullion Trading LLC.\nHistorical and Aesthetic Value\nEach coin is adorned with the famous Lady Liberty on one side and a heraldic eagle on the other, capturing the rich history and culture of America.\nBacked by the\nU.S. Government\nThe strong backing by the U.S. government builds trust among buyers. This support boosts the coin’s charm, making it a go-to option for those looking to add precious metals to their investment mix or IRAs.\nDifference Between Years\nEach 1 oz American Silver Eagle Coin is distinctly stamped with its year of production. While the iconic design remains consistent, collectors and investors cherish the subtle variations and refinements that each year brings, adding a unique narrative and value to every coin.\nThe\n500 Oz Silver Monster Box\nExclusively offered by Bullion Trading LLC, the 500 Oz Silver Monster Box is an investor’s dream. It provides not just a substantial volume of silver but also a collection of distinct coins, each marked by its unique year of minting, offering both tangible and numismatic value.\nA Golden Opportunity\nThe 1 oz American Silver Eagle Coin and the 500 Oz Silver Monster Box, both offered by Bullion Trading LLC, , at discount prices, are quintessential assets for every investor. With their blend of purity, historical significance, and the strong backing by the U.S. government, they stand as unyielding pillars in the world of precious metal investment.\nSome Popular 1 oz silver coins\nQuick View\nAdd to cart\nSilver Coins For Sale\n1 oz Silver Buffalo Rounds\n$28.27\nQuick View\nAdd to cart\nSilver\n1 oz Silver American Eagle $1 Colorized Coin (Random Year)\n$35.14\nQuick View\nAdd to cart\nSilver\n2000 Colorized 1 oz American Silver Eagle Coin\n$34.44\nbulliontrading\nView all posts\nPrevious Post\nBeware of Scammers Before You Purchase Gold!\nNext Post\nRise in Gold & Silver: Trust Bullion Trading LLC",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2023/10/Article-pic.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2023/10/Article-pic.webp",
+          "width": "1200",
+          "height": "900",
+          "caption": "Monster Box of American Eagle Silver Coins",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/american-silver-eagle-a-smart-investment/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/coin/",
+                "name": "Coin"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/american-silver-eagle-a-smart-investment/",
+                "name": "American Silver Eagle: A Smart Investment "
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/american-silver-eagle-a-smart-investment/#webpage",
+          "url": "https://bulliontradingllc.com/blog/american-silver-eagle-a-smart-investment/",
+          "name": "American Silver Eagle: A Smart Investment  - Bullion Trading LLC",
+          "datePublished": "2023-10-17T11:34:34+00:00",
+          "dateModified": "2023-10-17T11:34:34+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2023/10/Article-pic.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/american-silver-eagle-a-smart-investment/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "American Silver Eagle: A Smart Investment  - Bullion Trading LLC",
+          "keywords": "American Silver Eagle",
+          "datePublished": "2023-10-17T11:34:34+00:00",
+          "dateModified": "2023-10-17T11:34:34+00:00",
+          "articleSection": "Coin, Silver Coins",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Why the 1 oz American Silver Eagle is a go-to bullion coin—its origins, annual releases, and options from single coins to Monster Boxes.",
+          "name": "American Silver Eagle: A Smart Investment  - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/american-silver-eagle-a-smart-investment/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/american-silver-eagle-a-smart-investment/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2023/10/Article-pic.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/american-silver-eagle-a-smart-investment/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/american-silver-eagle-a-smart-investment/",
+    "https://bulliontradingllc.com/blog/beware-of-scammers-before-you-purchase-gold/",
+    "https://bulliontradingllc.com/blog/category/coin/",
+    "https://bulliontradingllc.com/blog/category/silver-coins/",
+    "https://bulliontradingllc.com/blog/rise-in-gold-silver-trust-bullion-trading-llc/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/product/1-oz-american-silver-eagle-coin-random-year-bu/",
+    "https://bulliontradingllc.com/product/1-oz-silver-american-eagle-1-colorized-coin-random-year/",
+    "https://bulliontradingllc.com/product/1-oz-silver-buffalo-rounds/",
+    "https://bulliontradingllc.com/product/500-oz-silver-monster-box-random-year-american-eagle/",
+    "https://bulliontradingllc.com/shop/",
+    "https://bulliontradingllc.com/silver/coins/",
+    "https://bulliontradingllc.com/silver/coins/us-silver-coins/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2023/10/Article-pic.webp",
+      "alt": "Monster Box of American Eagle Silver Coins"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2023/04/1-oz-silver-round-liberty-buffalo-450x450.jpg",
+      "alt": "1 oz silver round liberty buffalo"
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2023/01/american-eagle-random-year-450x540.png",
+      "alt": "american eagle 1 oz coin random year"
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2023/01/Untitled-design-1-450x540.png",
+      "alt": "Colorized 1 oz American Eagle Coin"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

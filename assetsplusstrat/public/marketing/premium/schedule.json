@@ -1,0 +1,2072 @@
+{
+  "first-piece": {
+    "id": "first-piece",
+    "title": "Your first piece",
+    "fps": 60,
+    "durationInFrames": 1513,
+    "duration": 25.205,
+    "voice": "marketing/premium/audio/first-piece-voice.wav",
+    "score": "marketing/premium/audio/first-piece-score.wav",
+    "scenes": [
+      {
+        "id": "hook",
+        "text": "Your first piece of gold or silver starts with a closer look.",
+        "audioStart": 0.45,
+        "audioEnd": 3.625,
+        "visualStart": 0,
+        "words": [
+          {
+            "word": "Your",
+            "start": 0.45,
+            "end": 0.65
+          },
+          {
+            "word": "first",
+            "start": 0.65,
+            "end": 0.89
+          },
+          {
+            "word": "piece",
+            "start": 0.89,
+            "end": 1.13
+          },
+          {
+            "word": "of",
+            "start": 1.13,
+            "end": 1.35
+          },
+          {
+            "word": "gold",
+            "start": 1.35,
+            "end": 1.61
+          },
+          {
+            "word": "or",
+            "start": 1.61,
+            "end": 1.77
+          },
+          {
+            "word": "silver",
+            "start": 1.77,
+            "end": 2.11
+          },
+          {
+            "word": "starts",
+            "start": 2.11,
+            "end": 2.51
+          },
+          {
+            "word": "with",
+            "start": 2.51,
+            "end": 2.81
+          },
+          {
+            "word": "a",
+            "start": 2.81,
+            "end": 2.95
+          },
+          {
+            "word": "closer",
+            "start": 2.95,
+            "end": 3.23
+          },
+          {
+            "word": "look.",
+            "start": 3.23,
+            "end": 3.53
+          }
+        ],
+        "visualEnd": 3.825
+      },
+      {
+        "id": "choice",
+        "text": "Explore gold bars, silver coins, and rounds at Bullion Trading.",
+        "audioStart": 4.045,
+        "audioEnd": 8.66,
+        "visualStart": 3.825,
+        "words": [
+          {
+            "word": "Explore",
+            "start": 4.045,
+            "end": 4.525
+          },
+          {
+            "word": "gold",
+            "start": 4.525,
+            "end": 4.805
+          },
+          {
+            "word": "bars,",
+            "start": 4.805,
+            "end": 5.265
+          },
+          {
+            "word": "silver",
+            "start": 5.745,
+            "end": 5.885
+          },
+          {
+            "word": "coins,",
+            "start": 5.885,
+            "end": 6.365
+          },
+          {
+            "word": "and",
+            "start": 6.745,
+            "end": 6.865
+          },
+          {
+            "word": "rounds",
+            "start": 6.865,
+            "end": 7.205
+          },
+          {
+            "word": "at",
+            "start": 7.205,
+            "end": 7.565
+          },
+          {
+            "word": "Bullion",
+            "start": 7.565,
+            "end": 8.025
+          },
+          {
+            "word": "Trading.",
+            "start": 8.025,
+            "end": 8.345
+          }
+        ],
+        "visualEnd": 8.86
+      },
+      {
+        "id": "details",
+        "text": "Compare weights, discover the details, and find the piece that fits your collection.",
+        "audioStart": 9.08,
+        "audioEnd": 14.015,
+        "visualStart": 8.86,
+        "words": [
+          {
+            "word": "Compare",
+            "start": 9.08,
+            "end": 9.48
+          },
+          {
+            "word": "weights,",
+            "start": 9.48,
+            "end": 9.88
+          },
+          {
+            "word": "discover",
+            "start": 10.32,
+            "end": 10.6
+          },
+          {
+            "word": "the",
+            "start": 10.6,
+            "end": 10.86
+          },
+          {
+            "word": "details,",
+            "start": 10.86,
+            "end": 11.3
+          },
+          {
+            "word": "and",
+            "start": 11.64,
+            "end": 11.72
+          },
+          {
+            "word": "find",
+            "start": 11.72,
+            "end": 12.0
+          },
+          {
+            "word": "the",
+            "start": 12.0,
+            "end": 12.2
+          },
+          {
+            "word": "piece",
+            "start": 12.2,
+            "end": 12.46
+          },
+          {
+            "word": "that",
+            "start": 12.46,
+            "end": 12.76
+          },
+          {
+            "word": "fits",
+            "start": 12.76,
+            "end": 13.02
+          },
+          {
+            "word": "your",
+            "start": 13.02,
+            "end": 13.26
+          },
+          {
+            "word": "collection.",
+            "start": 13.26,
+            "end": 13.62
+          }
+        ],
+        "visualEnd": 14.215
+      },
+      {
+        "id": "confidence",
+        "text": "With live, spot-based pricing and a New York team behind every order, take the next step.",
+        "audioStart": 14.435,
+        "audioEnd": 20.89,
+        "visualStart": 14.215,
+        "words": [
+          {
+            "word": "With",
+            "start": 14.435,
+            "end": 14.675
+          },
+          {
+            "word": "live,",
+            "start": 14.675,
+            "end": 15.115
+          },
+          {
+            "word": "spot-based",
+            "start": 15.535,
+            "end": 16.115
+          },
+          {
+            "word": "pricing",
+            "start": 16.115,
+            "end": 16.655
+          },
+          {
+            "word": "and",
+            "start": 16.655,
+            "end": 17.315
+          },
+          {
+            "word": "a",
+            "start": 17.315,
+            "end": 17.455
+          },
+          {
+            "word": "New",
+            "start": 17.455,
+            "end": 17.595
+          },
+          {
+            "word": "York",
+            "start": 17.595,
+            "end": 17.835
+          },
+          {
+            "word": "team",
+            "start": 17.835,
+            "end": 18.195
+          },
+          {
+            "word": "behind",
+            "start": 18.195,
+            "end": 18.655
+          },
+          {
+            "word": "every",
+            "start": 18.655,
+            "end": 19.035
+          },
+          {
+            "word": "order,",
+            "start": 19.035,
+            "end": 19.395
+          },
+          {
+            "word": "take",
+            "start": 20.015,
+            "end": 20.115
+          },
+          {
+            "word": "the",
+            "start": 20.115,
+            "end": 20.295
+          },
+          {
+            "word": "next",
+            "start": 20.295,
+            "end": 20.495
+          },
+          {
+            "word": "step.",
+            "start": 20.495,
+            "end": 20.775
+          }
+        ],
+        "visualEnd": 21.09
+      },
+      {
+        "id": "cta",
+        "text": "Buy from Bullion Trading.",
+        "audioStart": 21.31,
+        "audioEnd": 22.805,
+        "visualStart": 21.09,
+        "words": [
+          {
+            "word": "Buy",
+            "start": 21.31,
+            "end": 21.63
+          },
+          {
+            "word": "from",
+            "start": 21.63,
+            "end": 21.87
+          },
+          {
+            "word": "Bullion",
+            "start": 21.87,
+            "end": 22.27
+          },
+          {
+            "word": "Trading.",
+            "start": 22.27,
+            "end": 22.57
+          }
+        ],
+        "visualEnd": 25.205
+      }
+    ]
+  },
+  "new-york": {
+    "id": "new-york",
+    "title": "A real New York connection",
+    "fps": 60,
+    "durationInFrames": 1399,
+    "duration": 23.305,
+    "voice": "marketing/premium/audio/new-york-voice.wav",
+    "score": "marketing/premium/audio/new-york-score.wav",
+    "scenes": [
+      {
+        "id": "hook",
+        "text": "In the heart of New York's Diamond District, precious metals are a hands-on experience.",
+        "audioStart": 0.45,
+        "audioEnd": 5.305,
+        "visualStart": 0,
+        "words": [
+          {
+            "word": "In",
+            "start": 0.45,
+            "end": 0.61
+          },
+          {
+            "word": "the",
+            "start": 0.61,
+            "end": 0.69
+          },
+          {
+            "word": "heart",
+            "start": 0.69,
+            "end": 0.87
+          },
+          {
+            "word": "of",
+            "start": 0.87,
+            "end": 1.01
+          },
+          {
+            "word": "New",
+            "start": 1.01,
+            "end": 1.17
+          },
+          {
+            "word": "York's",
+            "start": 1.17,
+            "end": 1.51
+          },
+          {
+            "word": "Diamond",
+            "start": 1.51,
+            "end": 1.71
+          },
+          {
+            "word": "District,",
+            "start": 1.71,
+            "end": 2.25
+          },
+          {
+            "word": "precious",
+            "start": 2.75,
+            "end": 2.91
+          },
+          {
+            "word": "metals",
+            "start": 2.91,
+            "end": 3.31
+          },
+          {
+            "word": "are",
+            "start": 3.31,
+            "end": 3.63
+          },
+          {
+            "word": "a",
+            "start": 3.63,
+            "end": 3.81
+          },
+          {
+            "word": "hands-on",
+            "start": 3.81,
+            "end": 4.41
+          },
+          {
+            "word": "experience.",
+            "start": 4.41,
+            "end": 4.87
+          }
+        ],
+        "visualEnd": 5.505
+      },
+      {
+        "id": "heritage",
+        "text": "Bullion Trading has served buyers and sellers since two thousand eight.",
+        "audioStart": 5.725,
+        "audioEnd": 9.39,
+        "visualStart": 5.505,
+        "words": [
+          {
+            "word": "Bullion",
+            "start": 5.725,
+            "end": 6.085
+          },
+          {
+            "word": "Trading",
+            "start": 6.085,
+            "end": 6.365
+          },
+          {
+            "word": "has",
+            "start": 6.365,
+            "end": 6.725
+          },
+          {
+            "word": "served",
+            "start": 6.725,
+            "end": 7.145
+          },
+          {
+            "word": "buyers",
+            "start": 7.145,
+            "end": 7.505
+          },
+          {
+            "word": "and",
+            "start": 7.505,
+            "end": 7.745
+          },
+          {
+            "word": "sellers",
+            "start": 7.745,
+            "end": 8.085
+          },
+          {
+            "word": "since",
+            "start": 8.085,
+            "end": 8.485
+          },
+          {
+            "word": "2008.",
+            "start": 8.485,
+            "end": 9.125
+          }
+        ],
+        "visualEnd": 9.59
+      },
+      {
+        "id": "visit",
+        "text": "Explore gold and silver online, or visit our counter on West Forty-Seventh Street.",
+        "audioStart": 9.81,
+        "audioEnd": 14.985,
+        "visualStart": 9.59,
+        "words": [
+          {
+            "word": "Explore",
+            "start": 9.81,
+            "end": 10.31
+          },
+          {
+            "word": "gold",
+            "start": 10.31,
+            "end": 10.59
+          },
+          {
+            "word": "and",
+            "start": 10.59,
+            "end": 10.79
+          },
+          {
+            "word": "silver",
+            "start": 10.79,
+            "end": 11.07
+          },
+          {
+            "word": "online,",
+            "start": 11.07,
+            "end": 11.65
+          },
+          {
+            "word": "or",
+            "start": 11.65,
+            "end": 12.39
+          },
+          {
+            "word": "visit",
+            "start": 12.39,
+            "end": 12.69
+          },
+          {
+            "word": "our",
+            "start": 12.69,
+            "end": 12.87
+          },
+          {
+            "word": "counter",
+            "start": 12.87,
+            "end": 13.23
+          },
+          {
+            "word": "on",
+            "start": 13.23,
+            "end": 13.55
+          },
+          {
+            "word": "West",
+            "start": 13.55,
+            "end": 13.83
+          },
+          {
+            "word": "Forty-Seventh",
+            "start": 13.83,
+            "end": 14.81
+          },
+          {
+            "word": "Street.",
+            "start": 14.81,
+            "end": 14.91
+          }
+        ],
+        "visualEnd": 15.185
+      },
+      {
+        "id": "people",
+        "text": "Real products. A real place. A team you can talk to.",
+        "audioStart": 15.405,
+        "audioEnd": 19.07,
+        "visualStart": 15.185,
+        "words": [
+          {
+            "word": "Real",
+            "start": 15.405,
+            "end": 15.765
+          },
+          {
+            "word": "products.",
+            "start": 15.765,
+            "end": 16.225
+          },
+          {
+            "word": "A",
+            "start": 16.805,
+            "end": 16.885
+          },
+          {
+            "word": "real",
+            "start": 16.885,
+            "end": 17.045
+          },
+          {
+            "word": "place.",
+            "start": 17.045,
+            "end": 17.365
+          },
+          {
+            "word": "A",
+            "start": 17.985,
+            "end": 18.045
+          },
+          {
+            "word": "team",
+            "start": 18.045,
+            "end": 18.225
+          },
+          {
+            "word": "you",
+            "start": 18.225,
+            "end": 18.385
+          },
+          {
+            "word": "can",
+            "start": 18.385,
+            "end": 18.525
+          },
+          {
+            "word": "talk",
+            "start": 18.525,
+            "end": 18.725
+          },
+          {
+            "word": "to.",
+            "start": 18.725,
+            "end": 18.965
+          }
+        ],
+        "visualEnd": 19.27
+      },
+      {
+        "id": "cta",
+        "text": "Buy from Bullion Trading.",
+        "audioStart": 19.49,
+        "audioEnd": 20.905,
+        "visualStart": 19.27,
+        "words": [
+          {
+            "word": "Buy",
+            "start": 19.49,
+            "end": 19.69
+          },
+          {
+            "word": "from",
+            "start": 19.69,
+            "end": 19.89
+          },
+          {
+            "word": "Bullion",
+            "start": 19.89,
+            "end": 20.29
+          },
+          {
+            "word": "Trading.",
+            "start": 20.29,
+            "end": 20.59
+          }
+        ],
+        "visualEnd": 23.305
+      }
+    ]
+  },
+  "meaningful-gift": {
+    "id": "meaningful-gift",
+    "title": "A gift with meaning",
+    "fps": 60,
+    "durationInFrames": 1491,
+    "duration": 24.835,
+    "voice": "marketing/premium/audio/meaningful-gift-voice.wav",
+    "score": "marketing/premium/audio/meaningful-gift-score.wav",
+    "scenes": [
+      {
+        "id": "hook",
+        "text": "Some moments deserve more than an ordinary gift.",
+        "audioStart": 0.45,
+        "audioEnd": 2.995,
+        "visualStart": 0,
+        "words": [
+          {
+            "word": "Some",
+            "start": 0.45,
+            "end": 0.71
+          },
+          {
+            "word": "moments",
+            "start": 0.71,
+            "end": 1.01
+          },
+          {
+            "word": "deserve",
+            "start": 1.01,
+            "end": 1.37
+          },
+          {
+            "word": "more",
+            "start": 1.37,
+            "end": 1.75
+          },
+          {
+            "word": "than",
+            "start": 1.75,
+            "end": 1.97
+          },
+          {
+            "word": "an",
+            "start": 1.97,
+            "end": 2.15
+          },
+          {
+            "word": "ordinary",
+            "start": 2.15,
+            "end": 2.61
+          },
+          {
+            "word": "gift.",
+            "start": 2.61,
+            "end": 2.91
+          }
+        ],
+        "visualEnd": 3.195
+      },
+      {
+        "id": "milestones",
+        "text": "A silver anniversary. A golden milestone. A new tradition of your own.",
+        "audioStart": 3.415,
+        "audioEnd": 8.12,
+        "visualStart": 3.195,
+        "words": [
+          {
+            "word": "A",
+            "start": 3.415,
+            "end": 3.575
+          },
+          {
+            "word": "silver",
+            "start": 3.575,
+            "end": 3.815
+          },
+          {
+            "word": "anniversary.",
+            "start": 3.815,
+            "end": 4.495
+          },
+          {
+            "word": "A",
+            "start": 5.075,
+            "end": 5.215
+          },
+          {
+            "word": "golden",
+            "start": 5.215,
+            "end": 5.455
+          },
+          {
+            "word": "milestone.",
+            "start": 5.455,
+            "end": 6.035
+          },
+          {
+            "word": "A",
+            "start": 6.755,
+            "end": 6.835
+          },
+          {
+            "word": "new",
+            "start": 6.835,
+            "end": 6.975
+          },
+          {
+            "word": "tradition",
+            "start": 6.975,
+            "end": 7.315
+          },
+          {
+            "word": "of",
+            "start": 7.315,
+            "end": 7.635
+          },
+          {
+            "word": "your",
+            "start": 7.635,
+            "end": 7.775
+          },
+          {
+            "word": "own.",
+            "start": 7.775,
+            "end": 7.995
+          }
+        ],
+        "visualEnd": 8.32
+      },
+      {
+        "id": "selection",
+        "text": "Explore gold and silver pieces at Bullion Trading, from beautifully detailed bars to memorable coins and rounds.",
+        "audioStart": 8.54,
+        "audioEnd": 15.715,
+        "visualStart": 8.32,
+        "words": [
+          {
+            "word": "Explore",
+            "start": 8.54,
+            "end": 9.0
+          },
+          {
+            "word": "gold",
+            "start": 9.0,
+            "end": 9.4
+          },
+          {
+            "word": "and",
+            "start": 9.4,
+            "end": 9.64
+          },
+          {
+            "word": "silver",
+            "start": 9.64,
+            "end": 10.02
+          },
+          {
+            "word": "pieces",
+            "start": 10.02,
+            "end": 10.5
+          },
+          {
+            "word": "at",
+            "start": 10.5,
+            "end": 10.82
+          },
+          {
+            "word": "Bullion",
+            "start": 10.82,
+            "end": 11.26
+          },
+          {
+            "word": "Trading,",
+            "start": 11.26,
+            "end": 11.6
+          },
+          {
+            "word": "from",
+            "start": 12.14,
+            "end": 12.32
+          },
+          {
+            "word": "beautifully",
+            "start": 12.32,
+            "end": 12.66
+          },
+          {
+            "word": "detailed",
+            "start": 12.66,
+            "end": 13.24
+          },
+          {
+            "word": "bars",
+            "start": 13.24,
+            "end": 13.66
+          },
+          {
+            "word": "to",
+            "start": 13.66,
+            "end": 13.96
+          },
+          {
+            "word": "memorable",
+            "start": 13.96,
+            "end": 14.34
+          },
+          {
+            "word": "coins",
+            "start": 14.34,
+            "end": 14.86
+          },
+          {
+            "word": "and",
+            "start": 14.86,
+            "end": 15.18
+          },
+          {
+            "word": "rounds.",
+            "start": 15.18,
+            "end": 15.48
+          }
+        ],
+        "visualEnd": 15.915
+      },
+      {
+        "id": "keepsake",
+        "text": "Choose something they can hold, admire, and remember. Make the moment shine.",
+        "audioStart": 16.135,
+        "audioEnd": 20.68,
+        "visualStart": 15.915,
+        "words": [
+          {
+            "word": "Choose",
+            "start": 16.135,
+            "end": 16.395
+          },
+          {
+            "word": "something",
+            "start": 16.395,
+            "end": 16.715
+          },
+          {
+            "word": "they",
+            "start": 16.715,
+            "end": 16.995
+          },
+          {
+            "word": "can",
+            "start": 16.995,
+            "end": 17.175
+          },
+          {
+            "word": "hold,",
+            "start": 17.175,
+            "end": 17.535
+          },
+          {
+            "word": "admire,",
+            "start": 18.035,
+            "end": 18.075
+          },
+          {
+            "word": "and",
+            "start": 18.435,
+            "end": 18.515
+          },
+          {
+            "word": "remember.",
+            "start": 18.515,
+            "end": 18.955
+          },
+          {
+            "word": "Make",
+            "start": 19.495,
+            "end": 19.635
+          },
+          {
+            "word": "the",
+            "start": 19.635,
+            "end": 19.815
+          },
+          {
+            "word": "moment",
+            "start": 19.815,
+            "end": 20.035
+          },
+          {
+            "word": "shine.",
+            "start": 20.035,
+            "end": 20.435
+          }
+        ],
+        "visualEnd": 20.88
+      },
+      {
+        "id": "cta",
+        "text": "Buy from Bullion Trading.",
+        "audioStart": 21.1,
+        "audioEnd": 22.435,
+        "visualStart": 20.88,
+        "words": [
+          {
+            "word": "Buy",
+            "start": 21.1,
+            "end": 21.3
+          },
+          {
+            "word": "from",
+            "start": 21.3,
+            "end": 21.52
+          },
+          {
+            "word": "Bullion",
+            "start": 21.52,
+            "end": 21.9
+          },
+          {
+            "word": "Trading.",
+            "start": 21.9,
+            "end": 22.18
+          }
+        ],
+        "visualEnd": 24.835
+      }
+    ]
+  },
+  "icons-of-gold": {
+    "id": "icons-of-gold",
+    "title": "Icons of gold",
+    "fps": 60,
+    "durationInFrames": 1308,
+    "duration": 21.785,
+    "voice": "marketing/premium/audio/icons-of-gold-voice.wav",
+    "score": "marketing/premium/audio/icons-of-gold-score.wav",
+    "scenes": [
+      {
+        "id": "hook",
+        "text": "Some gold coins are known all over the world.",
+        "audioStart": 0.45,
+        "audioEnd": 3.075,
+        "visualStart": 0,
+        "words": [
+          {
+            "word": "Some",
+            "start": 0.45,
+            "end": 0.71
+          },
+          {
+            "word": "gold",
+            "start": 0.71,
+            "end": 1.03
+          },
+          {
+            "word": "coins",
+            "start": 1.03,
+            "end": 1.39
+          },
+          {
+            "word": "are",
+            "start": 1.39,
+            "end": 1.61
+          },
+          {
+            "word": "known",
+            "start": 1.61,
+            "end": 1.87
+          },
+          {
+            "word": "all",
+            "start": 1.87,
+            "end": 2.23
+          },
+          {
+            "word": "over",
+            "start": 2.23,
+            "end": 2.47
+          },
+          {
+            "word": "the",
+            "start": 2.47,
+            "end": 2.61
+          },
+          {
+            "word": "world.",
+            "start": 2.61,
+            "end": 2.85
+          }
+        ],
+        "visualEnd": 3.275
+      },
+      {
+        "id": "icons",
+        "text": "The American Eagle. The Canadian Maple Leaf. The Krugerrand. The Britannia.",
+        "audioStart": 3.495,
+        "audioEnd": 8.03,
+        "visualStart": 3.275,
+        "words": [
+          {
+            "word": "The",
+            "start": 3.495,
+            "end": 3.655
+          },
+          {
+            "word": "American",
+            "start": 3.655,
+            "end": 3.995
+          },
+          {
+            "word": "Eagle.",
+            "start": 3.995,
+            "end": 4.355
+          },
+          {
+            "word": "The",
+            "start": 4.815,
+            "end": 4.855
+          },
+          {
+            "word": "Canadian",
+            "start": 4.855,
+            "end": 5.255
+          },
+          {
+            "word": "Maple",
+            "start": 5.255,
+            "end": 5.535
+          },
+          {
+            "word": "Leaf.",
+            "start": 5.535,
+            "end": 5.855
+          },
+          {
+            "word": "The",
+            "start": 6.355,
+            "end": 6.415
+          },
+          {
+            "word": "Krugerrand.",
+            "start": 6.415,
+            "end": 6.995
+          },
+          {
+            "word": "The",
+            "start": 7.315,
+            "end": 7.395
+          },
+          {
+            "word": "Britannia.",
+            "start": 7.395,
+            "end": 7.935
+          }
+        ],
+        "visualEnd": 8.23
+      },
+      {
+        "id": "bars",
+        "text": "And bars from names like PAMP Suisse, Valcambi, and the Perth Mint.",
+        "audioStart": 8.45,
+        "audioEnd": 12.905,
+        "visualStart": 8.23,
+        "words": [
+          {
+            "word": "And",
+            "start": 8.45,
+            "end": 8.71
+          },
+          {
+            "word": "bars",
+            "start": 8.71,
+            "end": 9.05
+          },
+          {
+            "word": "from",
+            "start": 9.05,
+            "end": 9.41
+          },
+          {
+            "word": "names",
+            "start": 9.41,
+            "end": 9.73
+          },
+          {
+            "word": "like",
+            "start": 9.73,
+            "end": 10.15
+          },
+          {
+            "word": "PAMP",
+            "start": 10.15,
+            "end": 10.55
+          },
+          {
+            "word": "Suisse,",
+            "start": 10.55,
+            "end": 11.03
+          },
+          {
+            "word": "Valcambi,",
+            "start": 11.45,
+            "end": 12.01
+          },
+          {
+            "word": "and",
+            "start": 12.17,
+            "end": 12.25
+          },
+          {
+            "word": "the",
+            "start": 12.25,
+            "end": 12.37
+          },
+          {
+            "word": "Perth",
+            "start": 12.37,
+            "end": 12.57
+          },
+          {
+            "word": "Mint.",
+            "start": 12.57,
+            "end": 12.81
+          }
+        ],
+        "visualEnd": 13.105
+      },
+      {
+        "id": "shop",
+        "text": "Explore them at Bullion Trading, online or in New York's Diamond District.",
+        "audioStart": 13.325,
+        "audioEnd": 17.54,
+        "visualStart": 13.105,
+        "words": [
+          {
+            "word": "Explore",
+            "start": 13.325,
+            "end": 13.765
+          },
+          {
+            "word": "them",
+            "start": 13.765,
+            "end": 13.965
+          },
+          {
+            "word": "at",
+            "start": 13.965,
+            "end": 14.165
+          },
+          {
+            "word": "Bullion",
+            "start": 14.165,
+            "end": 14.525
+          },
+          {
+            "word": "Trading,",
+            "start": 14.525,
+            "end": 14.885
+          },
+          {
+            "word": "online",
+            "start": 15.225,
+            "end": 15.505
+          },
+          {
+            "word": "or",
+            "start": 15.505,
+            "end": 15.925
+          },
+          {
+            "word": "in",
+            "start": 15.925,
+            "end": 16.125
+          },
+          {
+            "word": "New",
+            "start": 16.125,
+            "end": 16.305
+          },
+          {
+            "word": "York's",
+            "start": 16.305,
+            "end": 16.665
+          },
+          {
+            "word": "Diamond",
+            "start": 16.665,
+            "end": 16.865
+          },
+          {
+            "word": "District.",
+            "start": 16.865,
+            "end": 17.345
+          }
+        ],
+        "visualEnd": 17.74
+      },
+      {
+        "id": "cta",
+        "text": "Buy from Bullion Trading.",
+        "audioStart": 17.96,
+        "audioEnd": 19.385,
+        "visualStart": 17.74,
+        "words": [
+          {
+            "word": "Buy",
+            "start": 17.96,
+            "end": 18.22
+          },
+          {
+            "word": "from",
+            "start": 18.22,
+            "end": 18.44
+          },
+          {
+            "word": "Bullion",
+            "start": 18.44,
+            "end": 18.8
+          },
+          {
+            "word": "Trading.",
+            "start": 18.8,
+            "end": 19.08
+          }
+        ],
+        "visualEnd": 21.785
+      }
+    ]
+  },
+  "makers-edge": {
+    "id": "makers-edge",
+    "title": "The Maker's Edge",
+    "fps": 60,
+    "durationInFrames": 4524,
+    "duration": 75.395,
+    "voice": "marketing/premium/audio/makers-edge-voice.wav",
+    "score": "marketing/premium/audio/makers-edge-score.wav",
+    "scenes": [
+      {
+        "id": "element",
+        "text": "You don't build a masterpiece on weak foundations. And you don't scale a jewelry business by paying outrageous milling fees.",
+        "audioStart": 2.8,
+        "audioEnd": 10.775,
+        "visualStart": 0,
+        "words": [
+          {
+            "word": "You",
+            "start": 2.8,
+            "end": 2.98
+          },
+          {
+            "word": "don't",
+            "start": 2.98,
+            "end": 3.34
+          },
+          {
+            "word": "build",
+            "start": 3.34,
+            "end": 3.46
+          },
+          {
+            "word": "a",
+            "start": 3.46,
+            "end": 3.64
+          },
+          {
+            "word": "masterpiece",
+            "start": 3.64,
+            "end": 4.24
+          },
+          {
+            "word": "on",
+            "start": 4.24,
+            "end": 4.54
+          },
+          {
+            "word": "weak",
+            "start": 4.54,
+            "end": 4.8
+          },
+          {
+            "word": "foundations.",
+            "start": 4.8,
+            "end": 5.48
+          },
+          {
+            "word": "And",
+            "start": 6.18,
+            "end": 6.26
+          },
+          {
+            "word": "you",
+            "start": 6.26,
+            "end": 6.42
+          },
+          {
+            "word": "don't",
+            "start": 6.42,
+            "end": 7.1
+          },
+          {
+            "word": "scale",
+            "start": 7.1,
+            "end": 7.1
+          },
+          {
+            "word": "a",
+            "start": 7.1,
+            "end": 7.28
+          },
+          {
+            "word": "jewelry",
+            "start": 7.28,
+            "end": 7.6
+          },
+          {
+            "word": "business",
+            "start": 7.6,
+            "end": 8.12
+          },
+          {
+            "word": "by",
+            "start": 8.12,
+            "end": 8.42
+          },
+          {
+            "word": "paying",
+            "start": 8.42,
+            "end": 8.86
+          },
+          {
+            "word": "outrageous",
+            "start": 8.86,
+            "end": 9.66
+          },
+          {
+            "word": "milling",
+            "start": 9.66,
+            "end": 10.26
+          },
+          {
+            "word": "fees.",
+            "start": 10.26,
+            "end": 10.46
+          }
+        ],
+        "visualEnd": 11.175
+      },
+      {
+        "id": "frustration",
+        "text": "When other dealers charge you ten to fifteen dollars over spot just for casting grain, they aren't just taking your money. They are eating your profit margins. They are taxing your craft.",
+        "audioStart": 11.975,
+        "audioEnd": 23.64,
+        "visualStart": 11.175,
+        "words": [
+          {
+            "word": "When",
+            "start": 11.975,
+            "end": 12.155
+          },
+          {
+            "word": "other",
+            "start": 12.155,
+            "end": 12.395
+          },
+          {
+            "word": "dealers",
+            "start": 12.395,
+            "end": 12.835
+          },
+          {
+            "word": "charge",
+            "start": 12.835,
+            "end": 13.235
+          },
+          {
+            "word": "you",
+            "start": 13.235,
+            "end": 13.535
+          },
+          {
+            "word": "$10-15",
+            "start": 13.535,
+            "end": 14.455
+          },
+          {
+            "word": "over",
+            "start": 14.455,
+            "end": 15.095
+          },
+          {
+            "word": "spot",
+            "start": 15.095,
+            "end": 15.415
+          },
+          {
+            "word": "just",
+            "start": 15.415,
+            "end": 15.795
+          },
+          {
+            "word": "for",
+            "start": 15.795,
+            "end": 16.015
+          },
+          {
+            "word": "casting",
+            "start": 16.015,
+            "end": 16.375
+          },
+          {
+            "word": "grain,",
+            "start": 16.375,
+            "end": 16.775
+          },
+          {
+            "word": "they",
+            "start": 17.335,
+            "end": 17.535
+          },
+          {
+            "word": "aren't",
+            "start": 17.535,
+            "end": 17.855
+          },
+          {
+            "word": "just",
+            "start": 17.855,
+            "end": 18.075
+          },
+          {
+            "word": "taking",
+            "start": 18.075,
+            "end": 18.355
+          },
+          {
+            "word": "your",
+            "start": 18.355,
+            "end": 18.615
+          },
+          {
+            "word": "money.",
+            "start": 18.615,
+            "end": 18.875
+          },
+          {
+            "word": "They",
+            "start": 19.455,
+            "end": 19.675
+          },
+          {
+            "word": "are",
+            "start": 19.675,
+            "end": 19.855
+          },
+          {
+            "word": "eating",
+            "start": 19.855,
+            "end": 20.195
+          },
+          {
+            "word": "your",
+            "start": 20.195,
+            "end": 20.475
+          },
+          {
+            "word": "profit",
+            "start": 20.475,
+            "end": 20.855
+          },
+          {
+            "word": "margins.",
+            "start": 20.855,
+            "end": 21.315
+          },
+          {
+            "word": "They",
+            "start": 22.075,
+            "end": 22.275
+          },
+          {
+            "word": "are",
+            "start": 22.275,
+            "end": 22.475
+          },
+          {
+            "word": "taxing",
+            "start": 22.475,
+            "end": 22.895
+          },
+          {
+            "word": "your",
+            "start": 22.895,
+            "end": 23.195
+          },
+          {
+            "word": "craft.",
+            "start": 23.195,
+            "end": 23.495
+          }
+        ],
+        "visualEnd": 24.04
+      },
+      {
+        "id": "arsenal",
+        "text": "Welcome to Bullion Trading LLC. We supply the makers. Pure gold, sterling silver, and platinum casting grain. No hidden markups. No extortionate premiums. Just the raw, high-purity materials you need, priced fairly.",
+        "audioStart": 26.14,
+        "audioEnd": 42.125,
+        "visualStart": 24.04,
+        "words": [
+          {
+            "word": "Welcome",
+            "start": 26.14,
+            "end": 26.5
+          },
+          {
+            "word": "to",
+            "start": 26.5,
+            "end": 26.74
+          },
+          {
+            "word": "Bullion",
+            "start": 26.74,
+            "end": 27.1
+          },
+          {
+            "word": "Trading,",
+            "start": 27.1,
+            "end": 27.48
+          },
+          {
+            "word": "LLC.",
+            "start": 27.7,
+            "end": 28.02
+          },
+          {
+            "word": "We",
+            "start": 28.86,
+            "end": 28.94
+          },
+          {
+            "word": "supply",
+            "start": 28.94,
+            "end": 29.26
+          },
+          {
+            "word": "the",
+            "start": 29.26,
+            "end": 29.44
+          },
+          {
+            "word": "makers",
+            "start": 29.44,
+            "end": 29.82
+          },
+          {
+            "word": "pure",
+            "start": 29.82,
+            "end": 30.48
+          },
+          {
+            "word": "gold,",
+            "start": 30.48,
+            "end": 30.96
+          },
+          {
+            "word": "sterling",
+            "start": 31.44,
+            "end": 31.7
+          },
+          {
+            "word": "silver,",
+            "start": 31.7,
+            "end": 32.12
+          },
+          {
+            "word": "and",
+            "start": 32.6,
+            "end": 32.74
+          },
+          {
+            "word": "platinum",
+            "start": 32.74,
+            "end": 33.14
+          },
+          {
+            "word": "casting",
+            "start": 33.14,
+            "end": 33.54
+          },
+          {
+            "word": "grain.",
+            "start": 33.54,
+            "end": 33.96
+          },
+          {
+            "word": "No",
+            "start": 34.74,
+            "end": 34.96
+          },
+          {
+            "word": "hidden",
+            "start": 34.96,
+            "end": 35.18
+          },
+          {
+            "word": "markups,",
+            "start": 35.18,
+            "end": 35.68
+          },
+          {
+            "word": "no",
+            "start": 36.3,
+            "end": 36.4
+          },
+          {
+            "word": "extortionate",
+            "start": 36.4,
+            "end": 37.06
+          },
+          {
+            "word": "premiums,",
+            "start": 37.06,
+            "end": 37.48
+          },
+          {
+            "word": "just",
+            "start": 38.3,
+            "end": 38.44
+          },
+          {
+            "word": "the",
+            "start": 38.44,
+            "end": 38.68
+          },
+          {
+            "word": "raw,",
+            "start": 38.68,
+            "end": 38.98
+          },
+          {
+            "word": "high",
+            "start": 39.24,
+            "end": 39.3
+          },
+          {
+            "word": "purity",
+            "start": 39.3,
+            "end": 39.72
+          },
+          {
+            "word": "materials",
+            "start": 39.72,
+            "end": 40.28
+          },
+          {
+            "word": "you",
+            "start": 40.28,
+            "end": 40.5
+          },
+          {
+            "word": "need,",
+            "start": 40.5,
+            "end": 40.88
+          },
+          {
+            "word": "priced",
+            "start": 41.28,
+            "end": 41.5
+          },
+          {
+            "word": "fairly.",
+            "start": 41.5,
+            "end": 41.9
+          }
+        ],
+        "visualEnd": 42.525
+      },
+      {
+        "id": "district",
+        "text": "Located right in the heart of New York's Diamond District. Need it today? Walk into our showroom on Forty-Seventh Street and walk out with your grain. Not in New York? We ship fully insured, same day, anywhere in the country.",
+        "audioStart": 43.725,
+        "audioEnd": 58.75,
+        "visualStart": 42.525,
+        "words": [
+          {
+            "word": "Located",
+            "start": 43.725,
+            "end": 44.125
+          },
+          {
+            "word": "right",
+            "start": 44.125,
+            "end": 44.485
+          },
+          {
+            "word": "in",
+            "start": 44.485,
+            "end": 44.645
+          },
+          {
+            "word": "the",
+            "start": 44.645,
+            "end": 44.765
+          },
+          {
+            "word": "heart",
+            "start": 44.765,
+            "end": 44.965
+          },
+          {
+            "word": "of",
+            "start": 44.965,
+            "end": 45.225
+          },
+          {
+            "word": "New",
+            "start": 45.225,
+            "end": 45.465
+          },
+          {
+            "word": "York's",
+            "start": 45.465,
+            "end": 45.885
+          },
+          {
+            "word": "Diamond",
+            "start": 45.885,
+            "end": 46.125
+          },
+          {
+            "word": "District.",
+            "start": 46.125,
+            "end": 46.725
+          },
+          {
+            "word": "Need",
+            "start": 47.365,
+            "end": 47.465
+          },
+          {
+            "word": "it",
+            "start": 47.465,
+            "end": 47.605
+          },
+          {
+            "word": "today?",
+            "start": 47.605,
+            "end": 47.885
+          },
+          {
+            "word": "Walk",
+            "start": 48.465,
+            "end": 48.705
+          },
+          {
+            "word": "into",
+            "start": 48.705,
+            "end": 48.945
+          },
+          {
+            "word": "our",
+            "start": 48.945,
+            "end": 49.165
+          },
+          {
+            "word": "showroom",
+            "start": 49.165,
+            "end": 49.645
+          },
+          {
+            "word": "on",
+            "start": 49.645,
+            "end": 49.865
+          },
+          {
+            "word": "47th Street",
+            "start": 49.865,
+            "end": 50.945
+          },
+          {
+            "word": "and",
+            "start": 50.945,
+            "end": 51.605
+          },
+          {
+            "word": "walk",
+            "start": 51.605,
+            "end": 51.805
+          },
+          {
+            "word": "out",
+            "start": 51.805,
+            "end": 52.025
+          },
+          {
+            "word": "with",
+            "start": 52.025,
+            "end": 52.225
+          },
+          {
+            "word": "your",
+            "start": 52.225,
+            "end": 52.425
+          },
+          {
+            "word": "grain.",
+            "start": 52.425,
+            "end": 52.745
+          },
+          {
+            "word": "Not",
+            "start": 53.425,
+            "end": 53.565
+          },
+          {
+            "word": "in",
+            "start": 53.565,
+            "end": 53.725
+          },
+          {
+            "word": "New",
+            "start": 53.725,
+            "end": 53.865
+          },
+          {
+            "word": "York?",
+            "start": 53.865,
+            "end": 54.125
+          },
+          {
+            "word": "We",
+            "start": 54.885,
+            "end": 55.105
+          },
+          {
+            "word": "ship",
+            "start": 55.105,
+            "end": 55.305
+          },
+          {
+            "word": "fully",
+            "start": 55.305,
+            "end": 55.665
+          },
+          {
+            "word": "insured,",
+            "start": 55.665,
+            "end": 56.145
+          },
+          {
+            "word": "same",
+            "start": 56.625,
+            "end": 56.845
+          },
+          {
+            "word": "day,",
+            "start": 56.845,
+            "end": 57.185
+          },
+          {
+            "word": "anywhere",
+            "start": 57.665,
+            "end": 57.885
+          },
+          {
+            "word": "in",
+            "start": 57.885,
+            "end": 58.165
+          },
+          {
+            "word": "the",
+            "start": 58.165,
+            "end": 58.265
+          },
+          {
+            "word": "country.",
+            "start": 58.265,
+            "end": 58.525
+          }
+        ],
+        "visualEnd": 59.15
+      },
+      {
+        "id": "cta",
+        "text": "Protect your margins. Perfect your craft. Visit the wholesale desk at twenty West Forty-Seventh Street, or lock in your live price right now at Bullion Trading LLC dot com.",
+        "audioStart": 60.05,
+        "audioEnd": 72.195,
+        "visualStart": 59.15,
+        "words": [
+          {
+            "word": "Protect",
+            "start": 60.05,
+            "end": 60.45
+          },
+          {
+            "word": "your",
+            "start": 60.45,
+            "end": 60.67
+          },
+          {
+            "word": "margins.",
+            "start": 60.67,
+            "end": 61.13
+          },
+          {
+            "word": "Perfect",
+            "start": 61.73,
+            "end": 61.93
+          },
+          {
+            "word": "your",
+            "start": 61.93,
+            "end": 62.21
+          },
+          {
+            "word": "craft.",
+            "start": 62.21,
+            "end": 62.57
+          },
+          {
+            "word": "Visit",
+            "start": 63.53,
+            "end": 63.65
+          },
+          {
+            "word": "the",
+            "start": 63.65,
+            "end": 63.89
+          },
+          {
+            "word": "wholesale",
+            "start": 63.89,
+            "end": 64.19
+          },
+          {
+            "word": "desk",
+            "start": 64.19,
+            "end": 64.65
+          },
+          {
+            "word": "at",
+            "start": 64.65,
+            "end": 64.87
+          },
+          {
+            "word": "20",
+            "start": 64.87,
+            "end": 65.25
+          },
+          {
+            "word": "West",
+            "start": 65.25,
+            "end": 65.47
+          },
+          {
+            "word": "47th",
+            "start": 65.47,
+            "end": 66.31
+          },
+          {
+            "word": "Street.",
+            "start": 66.31,
+            "end": 66.49
+          },
+          {
+            "word": "Or",
+            "start": 67.25,
+            "end": 67.41
+          },
+          {
+            "word": "lock",
+            "start": 67.41,
+            "end": 67.67
+          },
+          {
+            "word": "in",
+            "start": 67.67,
+            "end": 67.85
+          },
+          {
+            "word": "your",
+            "start": 67.85,
+            "end": 68.01
+          },
+          {
+            "word": "live",
+            "start": 68.01,
+            "end": 68.25
+          },
+          {
+            "word": "price",
+            "start": 68.25,
+            "end": 68.67
+          },
+          {
+            "word": "right",
+            "start": 68.67,
+            "end": 68.91
+          },
+          {
+            "word": "now",
+            "start": 68.91,
+            "end": 69.29
+          },
+          {
+            "word": "at",
+            "start": 69.29,
+            "end": 69.59
+          },
+          {
+            "word": "BullionTradingLLC.com.",
+            "start": 69.59,
+            "end": 72.11
+          }
+        ],
+        "visualEnd": 75.395
+      }
+    ]
+  }
+}

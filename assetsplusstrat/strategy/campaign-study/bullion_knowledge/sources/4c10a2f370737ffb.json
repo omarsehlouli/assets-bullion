@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "id": "4c10a2f370737ffb",
+    "url": "https://learn.bulliontradingllc.com/charts/methodology/",
+    "title": "Historical Chart Sources & Calculation Methodology | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:02.254912+00:00",
+    "status": "fetched",
+    "bytes": 13122,
+    "text_characters": 3423,
+    "sha256_html": "887366af5b236546f2fc8539e47f68328ba9243710417d4ac62585ea878d1671",
+    "file": "sources/4c10a2f370737ffb.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "How we sample LBMA prices, calculate changes and ratios, and adjust gold for inflation. Data coverage, observation dates and limitations.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/methodology/",
+  "text": "← Historical charts\nHistorical chart methodology\nOne monthly observation is useful for showing a long history. It does not describe every trade or every day's high and low.\nPrepared by the\nBullion Trading LLC editorial team\n. Dataset retrieved\n2026-09-26\n. Retrieval time is not the observation date or a claim that the series is live.\nSources and coverage\nOur historical series uses the\nLBMA precious-metal benchmark prices\nsupplied by its historical price feed. Gold, platinum and palladium use the PM observation; silver uses its daily observation. Values are per troy ounce in the currency provided by the source. EUR observations begin in 1999; missing values are omitted, not treated as zero.\nMetal\nFirst available fixing in monthly sample\nLatest available fixing\nMonthly observations\nGold\n1968-04-30\n2026-09-25\n702\nSilver\n1968-01-31\n2026-09-25\n705\nPlatinum\n1990-04-30\n2026-09-25\n438\nPalladium\n1990-04-30\n2026-09-25\n438\nMonthly observations and incomplete periods\nWe select the last available daily fixing in each calendar month. The newest month may be incomplete and changes when more data becomes available. A past month is only as complete as the source data. The date shown beside an observation is the actual fixing date, not the first day of the month or the page-build date.\nHighs and lows on monthly charts are the largest and smallest sampled observations. An “all-time-high” URL is retained for existing links, but its page reports the highest monthly sample. Daily or intraday market records can differ. For a particular day's fixing, use the\ndaily lookup\n.\nChanges and averages\nChange = (last available observation ÷ first available observation − 1) × 100. The yearly table's first point is normally the last available January fixing, not the opening price on January 1. This is not a calendar-year investment return. Current years and decades are partial. The mean is the arithmetic average of the available monthly observations, not an average of all daily prices.\nGold-to-silver ratio\nWe divide the monthly gold observation by the silver observation for the same month and currency. Fixing dates can differ when a source has gaps, and the metals' benchmarks are set at different times of day. This is not a simultaneous tradable quote. The percentile is the share of sampled ratios at or below the latest ratio; it does not predict future returns.\nInflation adjustment\nReal price = nominal monthly price × CPI-U for 2026-08 ÷ CPI-U for the observation month. We use the\nBLS CPI-U\nall-items US city average, not seasonally adjusted (CUUR0000SA0). 2026-08 is the reference month, not “today's dollars.” Months without matching CPI data are omitted.\nGold and the S&P 500\nThe comparison aligns available monthly observations and rebases both series to 100 at the first shared point. The S&P 500 series is a price index, excluding dividends. Gold prices exclude dealer premiums, storage, insurance and transaction costs. The chart is not a comparison of net investor returns.\nHistorical benchmarks and retail quotes\nThese datasets update when new data is published to this site. They are separate from the\nlive spot dashboard\n. A retail bullion quote also depends on the product, quantity, premium and payment method. See the product page and checkout for the applicable purchase price.\nTo report a data issue, include the chart URL, metal, currency and observation date when contacting\n[email protected]\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Methodology"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/",
+    "https://www.bls.gov/cpi/",
+    "https://www.lbma.org.uk/prices-and-data/precious-metal-prices"
+  ],
+  "images": []
+}

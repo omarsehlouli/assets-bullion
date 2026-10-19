@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "aeedd44148f4128b",
+    "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2005/",
+    "title": "Silver Price in 2005 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:19.446836+00:00",
+    "status": "fetched",
+    "bytes": 19480,
+    "text_characters": 1207,
+    "sha256_html": "89da9a8aaa30a9df0387c99af4514e88154c558da095bc96668559b8b0bbaa17",
+    "file": "sources/aeedd44148f4128b.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Silver in 2005: 12 monthly observations, 2005-01-31 to 2005-12-30. Sampled high $8.83, low $6.72; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/silver-price-in-2005/",
+  "text": "Silver Price in 2005\nAmong 12 monthly observations available for 2005, the LBMA silver price rose 31.4% between 2005-01-31 ($6.72) and 2005-12-30 ($8.83). The highest sampled price was $8.83 in December and the lowest was $6.72 in January. The mean of these observations was $7.39. This is a first-to-last observation change, not a calendar-year return.\n2005 silver price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$6.72\n(2005-01-31)\n$8.83\n(December)\n$6.72\n(January)\n$8.83\n(2005-12-30)\n$7.39\nGBP\n£3.57\n(2005-01-31)\n£5.13\n(December)\n£3.57\n(January)\n£5.13\n(2005-12-30)\n£4.09\nEUR\n€5.15\n(2005-01-31)\n€7.46\n(December)\n€5.15\n(January)\n€7.46\n(2005-12-30)\n€5.99\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live silver price on the\nBullion Trading LLC spot dashboard\n, or\nshop silver bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Silver price history",
+              "item": "https://learn.bulliontradingllc.com/charts/silver-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "2005"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Silver price in 2005 — LBMA monthly fix",
+          "description": "Silver in 2005: 12 monthly observations, 2005-01-31 to 2005-12-30. Sampled high $8.83, low $6.72; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2005/",
+          "temporalCoverage": "2005-01-31/2005-12-30",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

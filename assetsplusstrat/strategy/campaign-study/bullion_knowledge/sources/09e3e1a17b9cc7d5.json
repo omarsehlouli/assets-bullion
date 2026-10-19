@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "09e3e1a17b9cc7d5",
+    "url": "https://bulliontradingllc.com/blog/silver-prices-may-break-the-december-jinx-with-a-take-off/",
+    "title": "Silver prices may break the December jinx with a take-off - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:07.409112+00:00",
+    "status": "fetched",
+    "bytes": 96364,
+    "text_characters": 3622,
+    "sha256_html": "0d8d10ff2aefaf5e8fbfcf82c3d3559e371920c45ba8bacf9d7ab6e763992920",
+    "file": "sources/09e3e1a17b9cc7d5.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "This need to look really enticing for contrarians as it remains in record short area and any bounce would activate a short capture. The red line, which",
+  "canonical": "https://bulliontradingllc.com/blog/silver-prices-may-break-the-december-jinx-with-a-take-off/",
+  "text": "This need to look really enticing for contrarians as it remains in record short area and any bounce would activate a short capture. The red line, which represents the net speculative positions of cash supervisors, revealed the speculative position decreasing to a record level.\nThe average fuel to produce an ounce of gold is 32 gallons as versus 0.50 gallons for silver. This has to do with 64 to 1 of fuel usage for production of an ounce of gold and silver.\n.\nThe following chart reveals that in current times, silver has beaten gold. This is uncommon as silver tends to have a greater beta than gold and tends to drop far more than the yellow metal on down weeks. These are extremely great signs for silver bulls.\nIn 2017, the average expense of silver production is $14-15/ oz. The following chart shows that in current times, silver has actually beaten gold.\nWe found this nice article at https://economictimes.indiatimes.com/markets/commodities/views/silver-prices-may-break-the-december-jinx-with-a-take-off/articleshow/63365506.cms By: Aasif Hirani and thought it would it would be really practical to our silver investor customers.\nThe typical mining gold-silver ratio has to do with 1 to 9, which makes silver undervalued compared to gold.\nNevertheless, production expenditures are expected to bump up as fuel constitutes among the main expenses of mining gold and silver. With a dive in petroleum price, we can anticipate an additional hike in production cost that will make silver more undervalued if the ratio remains near 78-80.\nThis might give you a sensation of deja vu. In December when gold-silver ratio came in at 80, we did forecast that latter would outshine the former looking at the previous history. Silver did beat gold, but just for a brief spell when the ratio fell to 76.65 from 80, however has actually again climbed up back to the 80 mark.\nHere a great article about silver will increase this coming December 2018. , if you desire to check out the original material there is a link at the bottom of this post.\nWhen again, we are forecasting that silver ought to see a rally from here onwards. All the best active ingredients for a take-off are already there and we are hoping that we hear the announcement of the flight taking off. We already have actually attached our se.\nThe current gold-silver ratio, at around 80, is near the historic high of 2008 when the reading was 84.90. The price of silver blew up from there and by 2010, the ratio had reached to 64. When the ratio nears 80, a historical chart analysis reveals that silver constantly acquires versus gold.\nThere is a difference this time. The outperformance of silver versus gold must hold for a longer period, going on.\nThe price of silver exploded from there and by 2010, the ratio had actually reached to 64. A historical chart analysis shows that silver always acquires versus gold when the ratio nears 80.\nIn 2017, the typical cost of silver production is $14-15/ oz. The matching figure for gold is around $1,100-1,150. The production cost ratio is around 76. Which is why we are seeing the cost ratio reversing from 76.\nThe other reason that I feel silver is prime for breakout compare to gold is the COT (Commitment of Traders) report. Silver speculators increased their own COT net-short position to the greatest on record.\nSilver did beat gold, but just for a short spell when the ratio fell to 76.65 from 80, but has once again climbed up back to the 80 mark.\nbulliontrading\nView all posts\nPrevious Post\nGold turns higher as dollar softens on as-expected CPI reading\nNext Post\nSteel and Aluminum? Let’s Talk About Gold",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/03/4-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2018/03/4-jpg.webp",
+          "width": "719",
+          "height": "316",
+          "caption": "4",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/silver-prices-may-break-the-december-jinx-with-a-take-off/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/silver/",
+                "name": "silver"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/silver-prices-may-break-the-december-jinx-with-a-take-off/",
+                "name": "Silver prices may break the December jinx with a take-off"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/silver-prices-may-break-the-december-jinx-with-a-take-off/#webpage",
+          "url": "https://bulliontradingllc.com/blog/silver-prices-may-break-the-december-jinx-with-a-take-off/",
+          "name": "Silver prices may break the December jinx with a take-off - Bullion Trading LLC",
+          "datePublished": "2018-03-19T11:16:10+00:00",
+          "dateModified": "2018-03-19T11:16:10+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/03/4-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/silver-prices-may-break-the-december-jinx-with-a-take-off/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Silver prices may break the December jinx with a take-off - Bullion Trading LLC",
+          "datePublished": "2018-03-19T11:16:10+00:00",
+          "dateModified": "2018-03-19T11:16:10+00:00",
+          "articleSection": "silver",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "This need to look really enticing for contrarians as it remains in record short area and any bounce would activate a short capture. The red line, which",
+          "name": "Silver prices may break the December jinx with a take-off - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/silver-prices-may-break-the-december-jinx-with-a-take-off/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/silver-prices-may-break-the-december-jinx-with-a-take-off/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/03/4-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/silver-prices-may-break-the-december-jinx-with-a-take-off/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/gold-turns-higher-as-dollar-softens-on-as-expected-cpi-reading/",
+    "https://bulliontradingllc.com/blog/silver-prices-may-break-the-december-jinx-with-a-take-off/",
+    "https://bulliontradingllc.com/blog/steel-and-aluminum-lets-talk-about-gold/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2018/03/4-jpg.webp",
+      "alt": "4"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

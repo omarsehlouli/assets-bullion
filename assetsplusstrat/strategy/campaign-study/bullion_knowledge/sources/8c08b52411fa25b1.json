@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "id": "8c08b52411fa25b1",
+    "url": "https://bulliontradingllc.com/blog/1915-austrian-coronas/",
+    "title": "1915 Austrian Coronas - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:15.955226+00:00",
+    "status": "fetched",
+    "bytes": 93848,
+    "text_characters": 2604,
+    "sha256_html": "dc69dd216ae065f8a430df084a200fd1f191a6b32774f153d0c91d7628105a55",
+    "file": "sources/8c08b52411fa25b1.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Weve currently gone over Austrias popular gold coin, the Philharmonic, however the 1915 Corona 100, though no longer minted, is a crucial piece of history.",
+  "canonical": "https://bulliontradingllc.com/blog/1915-austrian-coronas/",
+  "text": "Weve currently gone over Austrias popular gold coin, the Philharmonic, however the 1915 Corona 100, though no longer minted, is a crucial piece of history. The Austrian Mint first revealed these coins in 1892 as legal tender.\nHis brother, Franz Ferdinand, is specifically notable in the history books, as his assassination is frequently pointed out as the catalyst for World War I. One troy ounce Coronas have a 35mm size and 90% purity. This indicates they are only 21.6 Karat gold. They were minted in denominations of 1, 2, 5, 10, 20, and 100 Corona. So why is 1915 such an important year? It was then that the coin was terminated. This would seem exceptionally suitable, being one year into the Great War and one year far from Franz Josefs death. As a result, any and all Corona coins found with a 1915 date are official restrikes from later dates. This makes 1915 a year of infamy that has continued to produce gold throughout history given that long after it has actually ended. Today these coins stay noteworthy collectors items and so much a part of Austrian history that its no surprise gold coins were later on reestablished as legal tender in the form of the Philharmonics. Clearly, someone new to the gold scene might prefer coins that are currently active, in addition to ones in greater pureness, such as the Canadian Maple Leaf. Yet, a severe investor ought to not be prevented by the Coronas current status but actually take a look at the global picture. In 2008, at the height of the financial crisis, Austrian gold showed to offer better on an international basis than Eagles or Krugerrands! Austrias distinct location in history and both world wars provide it a particular mystique, and maybe this makes its gold appear to be “more steady” that those of other economies. With the economic future still unpredictable, any financier who wishes to hedge his financial resources for the worldwide market would do well to acquaint himself with the Austrian Corona.\nWeve already gone over Austrias well-known gold coin, the Philharmonic, however the 1915 Corona 100, though no longer minted, is an essential piece of history. Today these coins stay significant collectors products and so much a part of Austrian history that its no wonder gold coins were later on reestablished as legal tender in the kind of the Philharmonics. Certainly, someone new to the gold scene might prefer coins that are currently active, as well as ones in higher purity, such as the Canadian Maple Leaf.\nbulliontrading\nView all posts\nPrevious Post\nFOMC and the Aftermath\nNext Post\nIran Shines a New Light on Trade",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/1915-austrian-coronas/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/1915-austrian-coronas/",
+                "name": "1915 Austrian Coronas"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/1915-austrian-coronas/#webpage",
+          "url": "https://bulliontradingllc.com/blog/1915-austrian-coronas/",
+          "name": "1915 Austrian Coronas - Bullion Trading LLC",
+          "datePublished": "2012-03-15T07:47:26+00:00",
+          "dateModified": "2012-03-15T07:47:26+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/1915-austrian-coronas/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "1915 Austrian Coronas - Bullion Trading LLC",
+          "datePublished": "2012-03-15T07:47:26+00:00",
+          "dateModified": "2012-03-15T07:47:26+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Weve currently gone over Austrias popular gold coin, the Philharmonic, however the 1915 Corona 100, though no longer minted, is a crucial piece of history.",
+          "name": "1915 Austrian Coronas - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/1915-austrian-coronas/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/1915-austrian-coronas/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/1915-austrian-coronas/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/1915-austrian-coronas/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/fomc-and-the-aftermath/",
+    "https://bulliontradingllc.com/blog/iran-shines-a-new-light-on-trade/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

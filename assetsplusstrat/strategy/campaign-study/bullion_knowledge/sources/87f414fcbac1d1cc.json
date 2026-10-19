@@ -1,0 +1,299 @@
+{
+  "metadata": {
+    "id": "87f414fcbac1d1cc",
+    "url": "https://bulliontradingllc.com/blog/comex-gold-delivery-explained/",
+    "title": "COMEX gold delivery: what actually happens when you take it - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:29.685996+00:00",
+    "status": "fetched",
+    "bytes": 119300,
+    "text_characters": 10068,
+    "sha256_html": "d93c2036bb9c7ca77248c3a9e19ca5a4b53ae2f70c8992d09b5dd3fef58bb176",
+    "file": "sources/87f414fcbac1d1cc.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "COMEX gold delivery explained step by step: notice days, warrants, depositories, load-out fees, and why taking delivery rarely beats buying bars.",
+  "canonical": "https://bulliontradingllc.com/blog/comex-gold-delivery-explained/",
+  "text": "Somewhere in every gold conversation, someone says it: why pay a dealer’s premium when you could just buy a futures contract and take delivery? It sounds like a cheat code. And yes, COMEX gold delivery is real. Roughly every other month, thousands of contracts settle into physical metal. But here is what the people repeating the cheat code usually have not done: the paperwork. What you receive is not a bar on your doorstep. It is an electronic warrant for a 100 ounce bar sitting in a vault in New York or Delaware, and at August 2026 prices, the privilege costs you around $440,000 up front. This article walks through the process step by step, what you actually own at the end of it, and the specific point where the cheat code stops being cheap.\nDelivery runs on the exchange’s calendar, not yours. Miss a step and your broker will simply close the position for you.\nWhat a contract actually promises\nThe standard COMEX gold future, symbol GC, covers 100 troy ounces of gold at a minimum fineness of .995. The\nCME Group’s own delivery guide\nspells out the fine print most traders never read: the seller delivers either one 100 ounce bar or three 1 kilo bars, and delivery happens through the transfer of a depository warrant, an electronic document proving that a specific bar sits in a specific licensed vault.\nThat word, warrant, is the whole story. You are not buying a bar that gets shipped. You are buying the title to a bar that stays exactly where it is. If you already understand\nhow COMEX contracts work\non the trading side, delivery is the moment the paper world and the metal world briefly touch. Briefly. In a normal month, the overwhelming majority of contracts never get there; traders close or roll their positions long before the calendar forces the question.\nThe COMEX gold delivery timeline, step by step\nSay you are long one GC contract and you genuinely want the metal. The first thing your broker will tell you is whether they allow it at all. Plenty of retail futures brokers simply prohibit clients from going to delivery and will liquidate your position before the deadline. If yours does allow it, they will require the full contract value in cash, not margin. With gold trading around\n$4,379 an ounce as of August 10, 2026\n, that is roughly $438,000 sitting in your account for one contract.\nThen the calendar takes over. The month before the delivery month ends with first notice day, the date after which any long position can be assigned. Delivery itself works short-side first: a short holder files a notice of intent to deliver, and the clearing house assigns that notice to a long, typically the oldest open position. Ownership of the warrant transfers two business days after the notice, at the settlement price on the day the notice was filed. You do not choose the day. You do not choose the bar. You do not choose the vault. The exchange’s machinery decides all three, and your job is to have the money ready.\nA quick word on the smaller contracts, because this is where a popular workaround falls apart. The 10 ounce Micro Gold future does technically deliver, but not metal. It delivers an\nAccumulated Certificate of Exchange\n, a token representing 10 percent of a 100 ounce warrant. You need ten of them before you can convert to an actual warrant. In other words, the small contract does not make delivery smaller. It makes the $438,000 threshold arrive in ten installments.\nWhat you own the day after\nCongratulations, you now hold a warrant. Your gold is a specific bar, with a specific serial number, in one of the exchange’s licensed depositories: names like Brink’s, HSBC, JPMorgan Chase, Loomis, Malca-Amit, and Manfra, Tordella and Brookes, clustered in and around New York, plus facilities in Delaware. The bar is real. Auditors count it. But your relationship to it now looks a lot like the arrangement described in our guide to\nallocated and unallocated storage\n: you own titled metal inside someone else’s vault, and the vault charges rent.\nA detail worth knowing before you get here: you will not be dealing with the depository yourself. Warrants live inside the clearing system, so everything routes through your futures broker, including the monthly storage bill, which lands on your statement whether you remember the bar exists or not. Ask your broker for their delivery fee schedule in writing before first notice day, because this is not a standardized retail product with posted pricing. Fees differ from firm to firm, and a broker who rarely handles retail deliveries may quote you numbers that make the whole exercise pointless on the spot.\nStorage accrues monthly for as long as you hold the warrant, and the exact rate depends on the depository. That part is manageable. The part that surprises people is what the warrant is worth if you keep it: quite a lot, actually. A warranted bar inside the system carries an unbroken chain of custody, which means it can be sold back into the futures market or transferred to another party at full value with a few keystrokes. Inside the fence, your bar is perfectly liquid. The trouble starts when you try to leave.\nTwo ways to own 100 ounces. The warrant wins on paper liquidity; the dealer route wins the moment you want gold you can actually hold, divide, or sell in pieces\nThe load-out problem\nTaking your bar out of the depository is called a load-out, and it is the single most expensive click in this whole process, though not mainly because of the fee. Depositories charge for the withdrawal and for armored transport, and those costs vary. The real price is invisible: the moment your bar crosses the vault’s threshold, its chain of custody breaks and the warrant dies. To ever sell that same bar back into the COMEX system, it would need to travel to an approved assayer or refiner, be re-verified, and be re-warranted at your expense.\nOutside the system, you are now a private individual holding a single 100 ounce bar worth around $438,000. Try selling it. A dealer will happily quote you, but the buyer pool for a bar that size is thin compared with the market for one ounce coins, and you cannot sell 10 percent of it to cover a tuition bill. The divisibility you gave up is precisely what retail buyers pay premiums to get. There is a reason the physical market runs on small, recognizable, easily verified pieces, the same logic covered in our piece on\nwhy the cheapest gold price is not always the best deal\n: liquidity on the way out is worth paying for on the way in.\nWhen delivery suddenly matters\nNone of this means delivery is a gimmick. It is the mechanism that keeps futures prices honest, and every so often the whole market remembers that. Between December 2024 and March 2025, fears that new US tariffs might catch gold bars in the net sent a historic flood of metal across the Atlantic; COMEX warehouse stocks swelled by tens of millions of ounces as banks flew bars from London to New York rather than risk being caught short. The\nWorld Gold Council’s analysis of the episode\nis worth reading in full, because it shows who delivery is really for: bullion banks, refiners, and trading desks arbitraging the gap between London and New York prices, in institutional size, with their own vault accounts already in place.\nIt has happened before. When the pandemic snapped the link between London and New York in 2020, first notice day for the June contract saw shorts declare over 28,000 contracts for delivery, about 2.8 million ounces in a single day, as documented in\nBullionStar’s analysis of COMEX delivery reports\n. Notice what those numbers describe: institutions delivering to institutions, warrants shuffling between clearing members. The bars barely move. The system was built for exactly this, which is why it fits individuals so badly.\nThe delivery route quotes you spot. The costs just arrive after the trade instead of before it.\nRun the math like a dealer would\nHere is the honest comparison. The futures route gets you 100 ounces at very close to the spot price, and on paper that is a genuine saving over retail premiums. Put rough numbers on it: if common one ounce bullion products carry premiums in the low single digits, the retail route on a $438,000 position might cost you somewhere in the low five figures more than spot. That is real money, and it is exactly the number that makes the futures idea so seductive.\nNow spend that saving. Against it, stack the costs delivery adds back: a broker that permits delivery, delivery and clearing fees, monthly storage for as long as you hold the warrant, and either a permanent vault relationship or a load-out that breaks your bar’s pedigree and strands you with a six figure ingot the retail market treats warily.\nAdd the costs that never show up on a statement. You bought at a settlement price you did not pick, on a day you did not pick. You hold one indivisible object instead of a hundred sellable ones. And if you ever want back into the institutional loop, the re-assay bill is yours. The price difference between COMEX gold and dealer gold, explained in our breakdown of\nhow COMEX and LBMA pricing work\n, exists because those two products are not the same thing. One is settlement-grade metal inside a closed institutional loop. The other is gold shaped for human beings to own.\nIf your goal is a large, cheap, vault-held position and you never intend to touch the metal, delivery can pencil out, though at that point an allocated storage account gets you something similar with far less procedure. If your goal is gold you control, in sizes you can actually sell, the arithmetic tilts hard toward simply buying the bars and coins directly and paying the modest premium for metal that arrives divisible, verifiable, and yours from day one. The futures market is a magnificent machine for setting the price of gold. It was never designed to hand you any.\nbulliontrading\nView all posts\nPrevious Post\nMS70 graded Silver Eagles: the trap inside the perfect-coin label\nNext Post\nEisenhower dollar value: which Ikes are worth real money\nLeave a Reply\nCancel reply",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2026/08/comex-gold-delivery-explained.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2026/08/comex-gold-delivery-explained.webp",
+          "width": "1254",
+          "height": "1254",
+          "caption": "COMEX gold delivery",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/comex-gold-delivery-explained/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/education/",
+                "name": "Education"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/comex-gold-delivery-explained/",
+                "name": "COMEX gold delivery: what actually happens when you take it"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/comex-gold-delivery-explained/#webpage",
+          "url": "https://bulliontradingllc.com/blog/comex-gold-delivery-explained/",
+          "name": "COMEX gold delivery: what actually happens when you take it - Bullion Trading LLC",
+          "datePublished": "2026-08-11T18:17:26+00:00",
+          "dateModified": "2026-08-11T18:17:28+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2026/08/comex-gold-delivery-explained.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/comex-gold-delivery-explained/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "COMEX gold delivery: what actually happens when you take it - Bullion Trading LLC",
+          "keywords": "COMEX gold delivery,taking delivery on gold futures,COMEX warrant,gold futures physical delivery,first notice day gold",
+          "datePublished": "2026-08-11T18:17:26+00:00",
+          "dateModified": "2026-08-11T18:17:28+00:00",
+          "articleSection": "Education, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "COMEX gold delivery explained step by step: notice days, warrants, depositories, load-out fees, and why taking delivery rarely beats buying bars.",
+          "name": "COMEX gold delivery: what actually happens when you take it - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/comex-gold-delivery-explained/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/comex-gold-delivery-explained/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2026/08/comex-gold-delivery-explained.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/comex-gold-delivery-explained/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/allocated-vs-unallocated-gold-storage/",
+    "https://bulliontradingllc.com/blog/category/education/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/comex-and-lbma-gold-pricing-explained/",
+    "https://bulliontradingllc.com/blog/comex-gold-delivery-explained/",
+    "https://bulliontradingllc.com/blog/eisenhower-dollar-value/",
+    "https://bulliontradingllc.com/blog/gold-futures-explained-comex-contracts/",
+    "https://bulliontradingllc.com/blog/gold-premium-trap-cheapest-gold-price/",
+    "https://bulliontradingllc.com/blog/ms70-graded-silver-eagles-worth-it/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://tradingeconomics.com/commodity/gold",
+    "https://twitter.com/BullionTrading",
+    "https://www.bullionstar.com/blogs/ronan-manly/the-curious-case-of-comex-gold-deliveries/",
+    "https://www.cmegroup.com/education/courses/introduction-to-precious-metals/what-is-the-precious-metals-delivery-process",
+    "https://www.cmegroup.com/rulebook/COMEX/1a/120.pdf",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.gold.org/goldhub/gold-focus/2025/02/you-asked-we-answered-threat-us-tariffs-moving-gold-market",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2026/08/comex-gold-delivery-explained.webp",
+      "alt": "COMEX gold delivery"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/08/comex-gold-delivery-timeline_web-1024x571.webp",
+      "alt": "Timeline diagram of the COMEX gold delivery process from position to warrant transfer"
+    },
+    {
+      "url": "/wp-content/uploads/2026/08/comex-warrant-vs-dealer-gold_web-1024x571.webp",
+      "alt": "Comparison table of holding a COMEX warrant versus buying gold bars from a dealer"
+    },
+    {
+      "url": "/wp-content/uploads/2026/08/comex-delivery-cost-reality_web-1024x571.webp",
+      "alt": "Stat panel showing the real costs of COMEX gold delivery for an individual buyer"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

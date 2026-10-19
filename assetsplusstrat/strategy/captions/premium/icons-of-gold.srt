@@ -1,0 +1,43 @@
+1
+00:00:00,400 --> 00:00:01,810
+Some gold coins are known
+
+2
+00:00:01,820 --> 00:00:03,100
+all over the world.
+
+3
+00:00:03,445 --> 00:00:04,605
+The American Eagle.
+
+4
+00:00:04,765 --> 00:00:06,105
+The Canadian Maple Leaf.
+
+5
+00:00:06,305 --> 00:00:07,245
+The Krugerrand.
+
+6
+00:00:07,265 --> 00:00:08,185
+The Britannia.
+
+7
+00:00:08,400 --> 00:00:11,280
+And bars from names like PAMP Suisse,
+
+8
+00:00:11,400 --> 00:00:13,060
+Valcambi, and the Perth Mint.
+
+9
+00:00:13,275 --> 00:00:15,135
+Explore them at Bullion Trading,
+
+10
+00:00:15,175 --> 00:00:17,595
+online or in New York's Diamond District.
+
+11
+00:00:17,910 --> 00:00:19,330
+Buy from Bullion Trading.

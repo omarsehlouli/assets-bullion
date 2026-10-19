@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "id": "bfe8502984cdfee5",
+    "url": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/01-why-physical-gold/",
+    "title": "Why Buy Physical Gold? | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:29.697992+00:00",
+    "status": "fetched",
+    "bytes": 20455,
+    "text_characters": 2003,
+    "sha256_html": "6b33d73ce0e8ebe59616f4b8a0fc2399a32dbc426d7ff6139e26bf6f5323fda0",
+    "file": "sources/bfe8502984cdfee5.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Three parts: the historical role of gold as money, how it behaves during economic stress, and where it sits in a modern portfolio.",
+  "canonical": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/01-why-physical-gold/",
+  "text": "beginner\nBy the\nBullion Trading LLC editorial team\nWhy Buy Physical Gold?\nThree parts: the historical role of gold as money, how it behaves during economic stress, and where it sits in a modern portfolio.\nMost “should I buy gold” articles answer either too vaguely (“it’s a hedge”) or too narrowly (“buy these specific products”). This topic takes the middle road: three short reads that build a working mental model of what physical gold actually does for your finances.\nWe split the answer across three parts so you can read in 5-minute chunks instead of a 20-minute scroll.\n60:1\nHistorical average gold-to-silver ratio\nSource: USGS long-run survey\nThe three parts\nThe Foundation\n— what makes gold different from stocks, bonds, or cash; the 5,000-year argument compressed to 4 minutes.\nEconomic Protection\n— how gold has behaved during the four U.S. recessions in living memory, with the numbers.\nPortfolio Role\n— the specific reasons advisors recommend 5–25% allocations and why “0%” is itself a position with risks.\n💡\nWant the calculator now?\nSkip to\nTopic 2: How much to buy\nif you’ve already decided you want some exposure and just need to size it.\nTest your understanding\nQuick check: Why physical gold?\n5 questions →\nWhy Buy Physical Gold Quiz\n8 questions →\nThe Foundation: What Makes Gold Different\nWhy a 5,000-year-old asset still belongs in a 21st-century portfolio.\nEconomic Protection: How Gold Behaves When Things Break\nReal numbers from the four recent U.S. crises — 2000 dot-com, 2008 financial, 2020 COVID, 2022 inflation shock.\nPortfolio Role: Why Advisors Recommend 5–25%\nThe case for holding any gold at all, and a quick calculator to see what different allocations do to your numbers.\nRelated on bulliontradingllc.com\nThree reasons to invest in gold (BTLLC blog) ↗\n· blog\nUnderstanding gold premiums ↗\n· blog\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Guides",
+              "item": "https://learn.bulliontradingllc.com/guides/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "New to Precious Metals",
+              "item": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Why Buy Physical Gold?"
+            }
+          ]
+        },
+        {
+          "@type": "Article",
+          "headline": "Why Buy Physical Gold?",
+          "description": "Three parts: the historical role of gold as money, how it behaves during economic stress, and where it sits in a modern portfolio.",
+          "url": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/01-why-physical-gold/",
+          "author": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/blog/three-reasons-to-invest-in-gold-according-to-research/",
+    "https://bulliontradingllc.com/blog/understanding-gold-premiums-an-in-depth-guide/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

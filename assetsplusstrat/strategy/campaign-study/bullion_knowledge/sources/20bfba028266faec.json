@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "id": "20bfba028266faec",
+    "url": "https://bulliontradingllc.com/blog/managing-expectations-when-buying-gold/",
+    "title": "Managing Expectations When Buying Gold - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:58.314518+00:00",
+    "status": "fetched",
+    "bytes": 102258,
+    "text_characters": 3294,
+    "sha256_html": "e00f4b0f05caed135774557fc32f03c447f93346a54e327ed0d24c8bfc7d6d0c",
+    "file": "sources/20bfba028266faec.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Buying gold requires the right mindset. Review common investor mistakes, realistic outcomes, and key risks to understand before purchasing bullion.",
+  "canonical": "https://bulliontradingllc.com/blog/managing-expectations-when-buying-gold/",
+  "text": "When it comes to buying gold, you need to go into it with the right mindset.\nYou need to know what is realistic and what is not. We’ve been in the business for several decades and have seen too many people who want to invest in gold for the wrong reasons. There are issues you need to be aware of before purchasing gold and precious metals. Naturally, any\ngold dealer\nwill probably tell you investing in gold is a wonderful idea with no downsides. We want to save you from any disappointment and ensure you’re well-educated and informed before you make your purchase.\nInvesting in gold is one way to diversify your investment portfolio but is it the same as any other investment? You may have read articles and been advised by others to\nbuy gold\nand now you’re ready to make your purchase. What are those articles and those people not telling you?\nLike any other investment, the price of gold increases with demand, when more people are buying it.\nWhen someone suggests you invest in what they’ve invested in, consider that their investment is only valuable if others invest in it. If they bought it when it was low and they convinced everyone else to buy, the price will go up. So you may not get the same price as the person encouraging you to buy. The price of gold today has nothing to do with the price of gold tomorrow.\nAnother thing that is rarely discussed when it comes to investing is how many people pull out from their investment shortly after buying it. This can be due to inevitable circumstances, such as personal emergencies. Prices are affected by this as well. If everyone is buying gold one week, chances are many people will also be returning it in the coming weeks due to unforeseen circumstances and better investments presenting themselves.\nThe value of gold is roughly 90% influenced by the value of the US dollar ($USD).\nWhen the value of the dollar goes up, the value of gold goes down and vice-versa. Many people invest in gold in times of economic uncertainty, such as during the COVID-19 pandemic of 2020. Gold prices reached a record high of $2,069.40 on Aug. 6, 2020 because people lacked faith in a speedy economic recovery. Now there are predictions that gold will go down in 2021 because there is faith in the measures put in place to vaccinate the public and restore the economy. However, some are not as optimistic about the efficacy of the vaccines and predict gold will go up again.\nThe truth is, there are articles written about gold from every era, telling you the same thing, convincing you to buy. The truth is, the dollar will always be fluctuating, there will always be the threat of stock market crashes, inflation will always rear its ugly head. The same predictions have been being made forever in regards to changing circumstances. There’s always just as much speculation that a particular event will cause it to go up as there is speculation about it going down. It just depends on who you ask.\nIs investing in gold worth it? At the end of the day, that’s entirely up to you to decide for yourself. Do your research on both sides of the argument and draw upon your own knowledge of the economy.\nbulliontrading\nView all posts\nPrevious Post\nWhy Gold Bars Should Be .9999% Pure\nNext Post\nWhen Gold Is Bought For Insurance\nLeave a Reply\nCancel reply",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/cropped-logo.png",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2021/04/cropped-logo.png",
+          "width": "250",
+          "height": "73",
+          "caption": "Untitled",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/managing-expectations-when-buying-gold/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/managing-expectations-when-buying-gold/",
+                "name": "Managing Expectations When Buying Gold"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/managing-expectations-when-buying-gold/#webpage",
+          "url": "https://bulliontradingllc.com/blog/managing-expectations-when-buying-gold/",
+          "name": "Managing Expectations When Buying Gold - Bullion Trading LLC",
+          "datePublished": "2021-01-15T12:05:21+00:00",
+          "dateModified": "2021-01-15T12:05:21+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/cropped-logo.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/managing-expectations-when-buying-gold/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Managing Expectations When Buying Gold - Bullion Trading LLC",
+          "datePublished": "2021-01-15T12:05:21+00:00",
+          "dateModified": "2021-01-15T12:05:21+00:00",
+          "articleSection": "Gold, Gold Bars, gold bullion, gold coins, Gold Market &amp; Economics, news, silver, silver bars, Silver Coins, Uncategorized",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Buying gold requires the right mindset. Review common investor mistakes, realistic outcomes, and key risks to understand before purchasing bullion.",
+          "name": "Managing Expectations When Buying Gold - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/managing-expectations-when-buying-gold/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/managing-expectations-when-buying-gold/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/cropped-logo.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/managing-expectations-when-buying-gold/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-bars/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/category/news/",
+    "https://bulliontradingllc.com/blog/category/silver-bars/",
+    "https://bulliontradingllc.com/blog/category/silver-coins/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/category/uncategorized/",
+    "https://bulliontradingllc.com/blog/managing-expectations-when-buying-gold/",
+    "https://bulliontradingllc.com/blog/when-gold-is-bought-for-insurance/",
+    "https://bulliontradingllc.com/blog/why-gold-bars-should-be-9999-pure/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/cropped-logo.png",
+      "alt": "Untitled"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

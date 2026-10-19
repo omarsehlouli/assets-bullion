@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "id": "d4dbbbec3c0b5e41",
+    "url": "https://bulliontradingllc.com/charts/silver-price/",
+    "title": "Silver Price Today — Live Silver Spot Price Chart | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:30.378233+00:00",
+    "status": "fetched",
+    "bytes": 100087,
+    "text_characters": 3028,
+    "sha256_html": "9c71df2922ab6ccfb37fc9ecc983d74af434ed2ecc25e28695be2acab5912112",
+    "file": "sources/d4dbbbec3c0b5e41.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Live silver price per ounce, gram and kilo, updated every minute. Interactive chart with LBMA history to 1968, bid/ask spread, and a silver value calculator.",
+  "canonical": "https://bulliontradingllc.com/charts/silver-price/",
+  "text": "The silver spot price is the market rate for one troy ounce of .999 fine silver for immediate delivery. Silver is both a monetary metal and an industrial one — solar panels, electronics, and medical uses consume most annual supply — so its price moves with investment demand and the industrial cycle alike.\n—\nper troy ounce\n—\nBid\n—\nAsk\n—\nLast updated:\n—\nET\n24h High\n—\n24h Low\n—\nDay Change\n—\n52-Week High\n—\n52-Week Low\n—\n1D\n1W\n1M\n1Y\n5Y\nALL\n⬇ Save chart\nIntraday: BullionTradingLLC.com live feed · History: LBMA auction prices · Charts by\nTradingView\n· Chart images free to share with attribution\nSilver Price Converter\nCurrency\nUSD ($)\nEUR (€)\nGBP (£)\nJPY (¥)\nCHF (Fr)\nAUD (A$)\nCAD (C$)\nWeight\nTroy ounce\nGram\nKilogram\nPound\nTola\n—\nSilver Price per Ounce, Gram & Kilo\nUnit\nSilver Price\n(USD)\nDay Change\nTroy ounce\n—\n—\nGram\n—\n—\nKilogram\n—\n—\nWhy Invest in Silver?\nSilver offers precious-metals exposure at a low entry price and has historically outperformed gold in strong bull markets. Its dual monetary-industrial nature makes it more volatile than gold — bigger swings both ways.\nThe Gold-to-Silver Ratio\nThe ratio of the gold price to the silver price is a classic valuation gauge. High ratios have historically marked moments when silver was cheap relative to gold; many stackers trade the ratio by switching between metals.\nIndustrial Demand\nSilver is the best electrical conductor of all metals. Photovoltaics, EVs, and electronics consume hundreds of millions of ounces a year, tightening the balance between mine supply and investment demand.\nSilver Price FAQ\nWhat is the spot price of silver?\nThe spot price is the current market rate for one troy ounce of .999 fine silver for immediate settlement, set by continuous global trading. Dealer prices for physical silver are quoted as a premium over this spot price.\nWhy are silver premiums higher than gold premiums?\nMinting a silver coin costs nearly as much as minting a gold one, but the metal itself is worth far less — so the fixed cost is a larger share of the price. Premiums as a percentage are therefore naturally higher on silver.\nWhat is junk silver?\nPre-1965 U.S. dimes, quarters, and half dollars are 90% silver. They trade close to their melt value, making them a popular low-premium way to hold small, divisible silver.\nHow much silver is in a silver dollar?\nMorgan and Peace dollars contain 0.7734 troy ounces of pure silver. Multiply that by the live spot price above for the melt value.\nDoes the silver price follow gold?\nUsually, but with more amplitude: silver tends to rise and fall further than gold in percentage terms. Industrial demand can also decouple it from gold for stretches.\nIs silver taxed differently than gold?\nSales-tax treatment of bullion varies by state, and both metals are treated as collectibles for U.S. federal capital-gains purposes. Check your state's rules or ask us before ordering.\nPrices are indicative market rates for informational purposes and are not an offer to buy or sell. Product prices include a premium over spot.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/charts/silver-price/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/charts/",
+                "name": "Live Gold &amp; Silver Prices — All Metals Dashboard | Bullion Trading LLC"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/charts/silver-price/",
+                "name": "Silver Price Today — Live Silver Spot Price Chart | Bullion Trading LLC"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/charts/silver-price/#webpage",
+          "url": "https://bulliontradingllc.com/charts/silver-price/",
+          "name": "Silver Price Today — Live Silver Spot Price Chart | Bullion Trading LLC",
+          "datePublished": "2025-03-11T01:09:31+00:00",
+          "dateModified": "2026-10-12T22:11:19+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/charts/silver-price/#breadcrumb"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the spot price of silver?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The spot price is the current market rate for one troy ounce of .999 fine silver for immediate settlement, set by continuous global trading. Dealer prices for physical silver are quoted as a premium over this spot price."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why are silver premiums higher than gold premiums?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Minting a silver coin costs nearly as much as minting a gold one, but the metal itself is worth far less — so the fixed cost is a larger share of the price. Premiums as a percentage are therefore naturally higher on silver."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is junk silver?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pre-1965 U.S. dimes, quarters, and half dollars are 90% silver. They trade close to their melt value, making them a popular low-premium way to hold small, divisible silver."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much silver is in a silver dollar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Morgan and Peace dollars contain 0.7734 troy ounces of pure silver. Multiply that by the live spot price above for the melt value."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the silver price follow gold?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually, but with more amplitude: silver tends to rise and fall further than gold in percentage terms. Industrial demand can also decouple it from gold for stretches."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is silver taxed differently than gold?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sales-tax treatment of bullion varies by state, and both metals are treated as collectibles for U.S. federal capital-gains purposes. Check your state's rules or ask us before ordering."
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/",
+    "https://www.tradingview.com/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    }
+  ]
+}

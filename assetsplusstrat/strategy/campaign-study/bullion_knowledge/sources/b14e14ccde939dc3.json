@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "id": "b14e14ccde939dc3",
+    "url": "https://learn.bulliontradingllc.com/charts/platinum-all-time-high/",
+    "title": "Platinum Record High in Monthly LBMA Observations | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:08.082414+00:00",
+    "status": "fetched",
+    "bytes": 31857,
+    "text_characters": 1803,
+    "sha256_html": "392525fe475f0502cfe4421dd7f3634fd44229f8ff72e83f6e66a057fa016f5c",
+    "file": "sources/b14e14ccde939dc3.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Highest monthly platinum observation: $2,366 (2026-02-27). Latest sampled fixing: $1,769 as of 2026-09-25. Not an intraday record.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/platinum-all-time-high/",
+  "text": "Platinum Record High in Monthly Observations\nThe highest monthly observation in this dataset is\n$2,366\n(2026-02-27). The latest sampled fixing is\n$1,769\nas of 2026-09-25: 25.2% below it.\nThese are nominal prices, sampled once per month. Daily and intraday peaks can be higher. Use the\ninflation-adjusted gold chart\nfor a comparison in constant dollars.\nGold\nSilver\nPlatinum\nPalladium\nUSD\nGBP\nEUR\nAll (1968→)\n30Y\n20Y\n10Y\n5Y\nLatest (2026-09-25)\n$1,769\nHighest monthly sample\n$2,366\nFeb 2026\nSample high\n$2,366\nFeb 2026\nSample low\n$332\nDec 1991\nSource: LBMA fixing (PM where applicable), per troy ounce. Last available fixing per month; latest month may be incomplete. EUR begins 1999. See the methodology for sampling limits.\nHighest monthly observation by year\nYear\nHighest monthly sample (USD)\nMonth\n2026\n$2,366\nFebruary\n2025\n$2,226\nDecember\n2024\n$1,048\nMay\n2023\n$1,074\nApril\n2022\n$1,063\nFebruary\n2021\n$1,218\nApril\n2020\n$1,068\nDecember\n2019\n$952\nDecember\n2018\n$1,003\nJanuary\n2017\n$1,029\nFebruary\n2016\n$1,143\nJuly\n2015\n$1,221\nJanuary\n2014\n$1,480\nJune\n2013\n$1,672\nJanuary\n2012\n$1,726\nFebruary\n2011\n$1,845\nAugust\n2010\n$1,755\nDecember\n2009\n$1,461\nDecember\n2008\n$2,150\nFebruary\n2007\n$1,530\nDecember\n2006\n$1,280\nMay\n2005\n$979\nNovember\n2004\n$903\nMarch\n2003\n$813\nDecember\n2002\n$598\nDecember\n2001\n$610\nFebruary\n2000\n$619\nDecember\n1999\n$443\nDecember\n1998\n$407\nMarch\n1997\n$435\nJuly\n1996\n$420\nJanuary\n1995\n$449\nApril\n1994\n$420\nOctober\n1993\n$414\nJuly\n1992\n$385\nJuly\n1991\n$404\nFebruary\n1990\n$490\nMay\nSee today's live platinum price on the\nspot dashboard\n, or\nshop platinum bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Platinum price history",
+              "item": "https://learn.bulliontradingllc.com/charts/platinum-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Monthly observation record"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Platinum highest monthly observations (LBMA)",
+          "description": "Highest monthly platinum observation: $2,366 (2026-02-27). Latest sampled fixing: $1,769 as of 2026-09-25. Not an intraday record.",
+          "url": "https://learn.bulliontradingllc.com/charts/platinum-all-time-high/",
+          "temporalCoverage": "1990-04-30/2026-09-25",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/platinum-and-palladium/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "id": "cb8ad318cd149a29",
+    "url": "https://learn.bulliontradingllc.com/quiz/dollar-cost-averaging-quiz/",
+    "title": "Dollar-Cost Averaging Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:40.248407+00:00",
+    "status": "fetched",
+    "bytes": 28151,
+    "text_characters": 411,
+    "sha256_html": "555707330f5dbfe02f56a5e17f82c8d82e3e529bcf33594a0b7cdab221708544",
+    "file": "sources/cb8ad318cd149a29.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of dollar-cost averaging strategy for precious metals investing.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/dollar-cost-averaging-quiz/",
+  "text": "Dollar-Cost Averaging Quiz\nTest your knowledge of dollar-cost averaging strategy for precious metals investing.\nWhat is dollar-cost averaging (DCA) in precious metals investing?\nA\nBuying metals only when prices are low\nB\nInvesting a fixed dollar amount at regular intervals regardless of price\nC\nBuying the same number of ounces each month\nD\nTiming the market to maximize returns\n←\nBack to Dollar-Cost Averaging",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Investment Strategies",
+              "item": "https://learn.bulliontradingllc.com/guides/investment-strategies/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Dollar-Cost Averaging",
+              "item": "https://learn.bulliontradingllc.com/guides/investment-strategies/02-dollar-cost-averaging/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Dollar-Cost Averaging Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Dollar-Cost Averaging Quiz",
+          "description": "Test your knowledge of dollar-cost averaging strategy for precious metals investing.",
+          "url": "https://learn.bulliontradingllc.com/quiz/dollar-cost-averaging-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Dollar-Cost Averaging"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is dollar-cost averaging (DCA) in precious metals investing?",
+              "text": "What is dollar-cost averaging (DCA) in precious metals investing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Investing a fixed dollar amount at regular intervals regardless of price",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Dollar-cost averaging is the practice of investing a fixed dollar amount in precious metals at regular intervals, regardless of price, which automatically buys more ounces when prices are low and fewer when prices are high."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Buying metals only when prices are low"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Buying the same number of ounces each month"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Timing the market to maximize returns"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "According to the content, what was David's monthly DCA strategy?",
+              "text": "According to the content, what was David's monthly DCA strategy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "$400 monthly ($300 gold, $100 silver)",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "David, the teacher in the example, invested $400 monthly with $300 going to gold and $100 to silver, demonstrating a systematic approach to precious metals accumulation."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "$200 monthly ($150 gold, $50 silver)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$500 monthly ($400 gold, $100 silver)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$600 monthly ($500 gold, $100 silver)"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is a key psychological benefit of dollar-cost averaging?",
+              "text": "What is a key psychological benefit of dollar-cost averaging?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It removes fear and greed from investment decisions",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "DCA removes fear and greed from investment decisions by creating a systematic, emotion-free approach to investing that doesn't require trying to time the market."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "It guarantees profits"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "It allows perfect market timing"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "It eliminates all investment risk"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How does volatility benefit DCA practitioners?",
+              "text": "How does volatility benefit DCA practitioners?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lower prices mean buying more metal, higher prices mean portfolio growth",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Volatility benefits DCA practitioners because when prices drop, your fixed dollar amount buys more ounces, and when prices rise, your existing holdings increase in value, creating a natural averaging effect."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Volatility has no impact on DCA"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Volatility always reduces returns"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Volatility makes timing easier"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is a typical conservative DCA allocation between gold and silver?",
+              "text": "What is a typical conservative DCA allocation between gold and silver?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "80% gold, 20% silver",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "A conservative DCA allocation typically consists of 80% gold and 20% silver, providing stability while still including silver for diversification."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "50% gold, 50% silver"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "60% gold, 40% silver"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "90% gold, 10% silver"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "According to the content, what has been gold's long-term trend from 1971-2025?",
+              "text": "According to the content, what has been gold's long-term trend from 1971-2025?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gold has risen from $35 to over $3,300 per ounce",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold has shown a consistent long-term upward trend, rising from $35 to over $3,300 per ounce from 1971-2025, despite short-term volatility."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Gold has remained flat"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold has declined in value"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold has been extremely volatile with no clear trend"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the most popular DCA schedule according to the content?",
+              "text": "What is the most popular DCA schedule according to the content?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Monthly investing",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Monthly investing is the most popular DCA schedule because it aligns with most people's paychecks and provides regular averaging without being too frequent."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Weekly investing"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Quarterly investing"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Annual investing"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: DCA requires perfect timing to be successful.",
+              "text": "True or False: DCA requires perfect timing to be successful.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "False",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "False. DCA specifically eliminates the need for perfect timing by systematically investing regardless of market conditions, making it accessible to investors who cannot time the market."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "True"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

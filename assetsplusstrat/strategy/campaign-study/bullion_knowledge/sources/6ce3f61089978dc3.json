@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "id": "6ce3f61089978dc3",
+    "url": "https://learn.bulliontradingllc.com/coin-values/quarters/",
+    "title": "Quarters Worth Money — Silver Content & Key Dates | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:26.214371+00:00",
+    "status": "fetched",
+    "bytes": 30620,
+    "text_characters": 2682,
+    "sha256_html": "2559080b7d3bd988182de2c76cf11f0ce16ac8053d518c99851435f1b0aa0d26",
+    "file": "sources/6ce3f61089978dc3.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Most quarters are worth 25 cents — but every Washington quarter dated 1964 or earlier is 90% silver, worth several dollars in melt alone, and a handful of …",
+  "canonical": "https://learn.bulliontradingllc.com/coin-values/quarters/",
+  "text": "Quarters Worth Money\nMost quarters are worth 25 cents — but every Washington quarter dated 1964 or earlier is 90% silver, worth several dollars in melt alone, and a handful of dates and error coins bring much more.\n💰 What's it worth? — live melt calculator\nBy coin\n90% \"junk\" silver by face value\nCoin\nSilver quarter (1964 & earlier)\nHow many\nMelt value (\nsilver\n)\n$11.70\n$11.70\neach ·\n0.1808\noz\nsilver\n/coin\nSell yours to us →\nShop US silver coins\n→\nMelt = pure metal content ×\nrecent\nspot (\nsilver\n$\n64.71\n/oz\n). This is the bullion floor; collectible coins can be worth far more. Melting circulating US coins is illegal — this estimates intrinsic value.\n📈 The melt-value time machine — what a\nquarter\n's\nsilver\nhas been worth since\n1968\nMetal value in 1968\n$0.35\n0.1808 oz silver\nPeak (2026)\n$18.66\nmonthly LBMA high\nToday\n$11.70\nrecent spot\nA\nquarter\nheld about\n$0.35\nof\nsilver\nin\n1968\n, peaked near\n$18.66\nin\n2026\n, and its metal is worth\n$11.70\ntoday\n. That is intrinsic melt only — a real, dated example carries a collector premium on top.\nSee what we'll pay for yours →\nIs your quarter silver?\nSilver years:\n1932–1964 (plus 1976 Bicentennial 40% silver proof/collector issues).\nA 1964-or-earlier quarter is 90% silver. The quickest tell is the edge: silver quarters show a solid silver-white edge, while modern clad quarters show a copper-colored stripe.\nQuarter composition by year\nYears\nComposition\nSilver content\n1796–1964\n90% silver, 10% copper\n0.1808 oz\n1965–present\nCopper-nickel clad (no silver)\n—\n1976 (collector)\n40% silver Bicentennial\n0.0739 oz\nWhich quarters are worth money\nSilver quarters (1932–1964): worth their melt value in silver, often several dollars each.\nKey dates: 1932-D and 1932-S Washington quarters are the series keys.\nErrors: 1950-D/S over-mintmark, doubled-die varieties, and off-center/clipped planchet errors carry premiums.\nStanding Liberty (1916–1930) and Barber (1892–1916) quarters are older 90% silver types with strong collector demand.\nPopular quarters by year\n1964 Quarter\n1976 Bicentennial Quarter\n2023 Quarter Errors &s\nHave quarters to sell?\nWe buy gold, silver and coins in person at our NYC Diamond District counter, or by insured mail.\nGet a free quote →\nLooking to buy?\nShop US silver coins →\nBuy at Bullion Trading LLC\nLive prices from our store — buy online or at our NYC Diamond District counter.\nMorgan Silver Dollar Coin BU - Random Year\n$89.75\nView →\n1 oz American Silver Eagle Coin (Random Year) BU\n$79.23\nView →\n1 oz Silver American Eagle $1 Colorized Coin (Random Year)\n$70.29\nView →\nPAMP 1 oz Silver $2 Burton Morris - Popcorn Coin Pop!\n$134.23\nView →\nMore:\nall coin values\n·\nsilver price history\n·\ngold/silver ratio",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Coin Values",
+              "item": "https://learn.bulliontradingllc.com/coin-values/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Quarters"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Quarters — melt value, silver content & key dates",
+          "description": "Most quarters are worth 25 cents — but every Washington quarter dated 1964 or earlier is 90% silver, worth several dollars in melt alone, and a handful of …",
+          "url": "https://learn.bulliontradingllc.com/coin-values/quarters/",
+          "creator": {
+            "@type": "Organization",
+            "name": "United States Mint"
+          },
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/product/1-oz-american-silver-eagle-coin-random-year-bu/",
+    "https://bulliontradingllc.com/product/1-oz-silver-american-eagle-1-colorized-coin-random-year/",
+    "https://bulliontradingllc.com/product/morgan-silver-dollar-coin-bu-random-year/",
+    "https://bulliontradingllc.com/product/pamp-1-oz-silver-2-burton-morris-popcorn-coin-pop/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/",
+    "https://bulliontradingllc.com/silver/silver-coins-for-sale/us-silver-coins/"
+  ],
+  "images": [
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/morgan-silver-dollar-coin-300x169.jpg",
+      "alt": "Morgan silver dollar coin, 26.73 gram, classic Liberty design"
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/American_Eagle_1_oz_Silver_coin-1-231x300.jpg",
+      "alt": "1 oz American Silver Eagle coin with Walking Liberty design"
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/american-eagle-random-year-250x300.webp",
+      "alt": "1 oz silver American Eagle colorized coin with eagle design"
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/2023-pamp-1-oz-silver-2-burton-morris-popcorn2-300x300.webp",
+      "alt": "PAMP 1 oz silver Burton Morris Popcorn coin with colorful packaging"
+    }
+  ]
+}

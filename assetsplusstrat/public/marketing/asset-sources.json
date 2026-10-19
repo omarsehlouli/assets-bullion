@@ -1,0 +1,63 @@
+{
+  "researchedAt": "2026-10-11",
+  "purpose": "Three Bullion Trading LLC marketing videos created at user request",
+  "attribution": "Product photographs sourced from Bullion Trading LLC product galleries. Underlying mint/refinery product designs remain with their respective owners. Source provenance is recorded here; no independent license grant was supplied by the website.",
+  "selectionMethod": "Downloaded URLs actually observed in product-gallery data-large_image attributes, choosing the largest native representation of each selected view. No guessed image variants. Original bytes retained.",
+  "assets": [
+    {
+      "file": "marketing/images/gold-pamp.webp",
+      "title": "1 oz PAMP Suisse Gold Bar \u2014 Lady Fortuna (Veriscan)",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-pamp-suisse-gold-bar-lady-fortuna-in-assay/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/1_ozr_pamp_suisse_gold_bar_lady_fortuna-jpg-webp.webp",
+      "width": 500,
+      "height": 500,
+      "mimeType": "image/webp",
+      "sha256": "3230c3d689a2df402d98791d6e4f8e80a1c8250ca7984c282604f77ef723d66c",
+      "notes": "Gallery main image; maximum native source 500\u00d7500."
+    },
+    {
+      "file": "marketing/images/silver-pamp.webp",
+      "title": "1 oz Silver Bar \u2014 PAMP Lady Fortuna (In Assay)",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-silver-bar-pamp-lady-fortuna-in-assay/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/1_oz_pamp_suisse_lady_fortuna_silver_bar-jpg-webp.webp",
+      "width": 500,
+      "height": 500,
+      "mimeType": "image/webp",
+      "sha256": "271d683de7b54537daa03a541839cef4b27af75e724b614c74c3aa64eaf6a07d",
+      "notes": "Gallery main image; maximum native source 500\u00d7500. An unrelated platinum image also appears in this gallery and was excluded."
+    },
+    {
+      "file": "marketing/images/silver-eagle.jpg",
+      "title": "1 oz American Silver Eagle Coin (Random Year) BU",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-american-silver-eagle-coin-random-year-bu/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/American_Eagle_1_oz_Silver_coin-1.jpg",
+      "width": 500,
+      "height": 650,
+      "mimeType": "image/jpeg",
+      "sha256": "19b952de935c9f12e81006626380a5e4d4d6ca1df33caa1330a7ef07f2ffe52f",
+      "notes": "Gallery main image and largest source by dimensions. Original JPEG preserved; local extension differs from the requested .webp. Coin shown is an illustrative year for a random-year product."
+    },
+    {
+      "file": "marketing/images/gold-rosa.webp",
+      "title": "5 Gram PAMP Suisse Rosa Gold Bar",
+      "sourcePage": "https://bulliontradingllc.com/product/5-gram-pamp-suisse-rosa-gold-bar/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/rosa_5g_certipamp_obverse_0-jpg-webp.webp",
+      "width": 500,
+      "height": 500,
+      "mimeType": "image/webp",
+      "sha256": "7a79ca5270bd9af83c8e57b7f1875716cacf59773423e26f5d2b000d54645ec9",
+      "notes": "Selected second gallery image. Visually verified bar and assay certificate both explicitly say 5 g. Main gallery image filename refers to 20g and another image refers to 1oz, so neither was used."
+    },
+    {
+      "file": "marketing/images/silver-round.webp",
+      "title": "1 oz Liberty Eagle Silver Round 999 Medallion Engravable",
+      "sourcePage": "https://bulliontradingllc.com/product/1-oz-liberty-eagle-silver-round-999-medallion-engravable/",
+      "sourceUrl": "https://bulliontradingllc.com/wp-content/uploads/2026/05/1-oz-silver-round-engravable-silvertowne-mint-round-1.webp",
+      "width": 2000,
+      "height": 2000,
+      "mimeType": "image/webp",
+      "sha256": "4e3997e725ebcc6ee2fc0a498cf56d83cbbefb3db97ceb4930b687fee1221729",
+      "notes": "Gallery main data-large_image original; maximum native source 2000\u00d72000."
+    }
+  ]
+}

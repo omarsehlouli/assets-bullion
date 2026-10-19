@@ -1,0 +1,279 @@
+{
+  "metadata": {
+    "id": "bbd72ad2f27107d7",
+    "url": "https://bulliontradingllc.com/blog/american-eagle-gold-coins-how-your-loose-change-can-be-a-big-pay-day/",
+    "title": "American Eagle Gold Coins – How your loose change can be a big pay day - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:18.519694+00:00",
+    "status": "fetched",
+    "bytes": 98898,
+    "text_characters": 3710,
+    "sha256_html": "5b24cf6aab6c8d2d37b1c6f8267b0af251a69bb878ff3786652d967b7b7b33f0",
+    "file": "sources/bbd72ad2f27107d7.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The IRA is tax free while the American Eagles hold its value versus inflation and the falling dollar.",
+  "canonical": "https://bulliontradingllc.com/blog/american-eagle-gold-coins-how-your-loose-change-can-be-a-big-pay-day/",
+  "text": "The IRA is tax free while the American Eagles hold its value versus inflation and the falling dollar.\nGold plays an exceptional function of diversifying ones portfolio, considering that it can move independently from stocks and bonds, plus its a concrete possession that one can hold in their hands that is quickly purchased and stored.\nThe American Eagle Gold Bullion Coins is one of the worlds leading bullion financial investment coins, considering that the authorization by the Bullion Coin Act of 1985. It is produced from gold mines in the United States and are inscribed with their gold content and legal tender “face” value, which is valued based on the current market value or spot price of gold of its metal content, plus a premium to cover coinage and circulation. It is available in four denominations. They are minted in four weights– 1/10, 1/4, 1/2 and 1 ounce– to fit a variety of spending plans.\nThe reverse style was developed by the carver Miely Busiek, which features a flying eagle carrying an olive branch flying above a nest of a household of eagles.\nWhat makes the American Eagle such a great investments and savings strategy is the weight, purity, and material are backed by the United States government. Frugal savers and smart investors can invest with confidence knowing they are getting the value out of the specified amount of gold. In addition, long-term financiers can include their American Eagles in the Individual Retirement Account (IRAs), which translates into a double whammy investment technique. The IRA is tax totally free while the American Eagles hold its value versus inflation and the falling dollar.\nThey are minted in 4 weights– 1/10, 1/4, 1/2 and 1 ounce– to fit a variety of budget plans.\nIf youre new to buying gold bullion and purchasing silver bullion, then the following must offer you with a little gold bullion lesson 101.\nThe American Eagle utilizes a 22 karat basic developed for gold flowing coinage over 350 years earlier. They include their quantity in pure gold with a mix of alloy to secure it from scratching and ruining, which can diminish their resale worth. The American Eagle obverse (front) design was inspired by among the most gorgeous coins in America called the Augustus Saint-Gaudens renowned $20 gold piece, minted from 1907-1933. The reverse design was created by the sculptor Miely Busiek, which includes a flying eagle carrying an olive branch flying above a nest of a household of eagles.\nGold plays an outstanding function of diversifying ones portfolio, given that it can move separately from bonds and stocks, plus its a concrete property that one can hold in their hands that is quickly purchased and stored.\n.\nSavings is everything about hedging your investments the smart way to lower the financial threats from the impacts of inflation. It is simple to track the worth of the American Eagle in papers and sites that report the everyday gold area cost and trends. You can buy the American Eagle by the majority of significant gold coins and rare-earth elements dealers, along with brokerage houses and taking part banks. If youre in the NYC area, Bullion Trading LLC is among the oldest rare-earth elements and gold bullion dealers around with friendly and educated professionals on personnel to answer your questions and guide you in making the very best purchase for your budget plan and savings strategy. https://bulliontradingllc.com/.\nIf youre new to purchasing gold bullion and buying silver bullion, then the following should offer you with a little gold bullion lesson 101.\nbulliontrading\nView all posts\nPrevious Post\nThree Ways to Hedge Against Inflation with Silver\nNext Post\nThe United States, an untapped gold mine?",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/08/American-Eagle-Gold-Coins-1170x500-1.png",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2014/08/American-Eagle-Gold-Coins-1170x500-1.png",
+          "width": "1170",
+          "height": "500",
+          "caption": "American-Eagle-Gold-Coins-1170&#215;500",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/american-eagle-gold-coins-how-your-loose-change-can-be-a-big-pay-day/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/american-eagle-gold-coins-how-your-loose-change-can-be-a-big-pay-day/",
+                "name": "American Eagle Gold Coins – How your loose change can be a big pay day"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/american-eagle-gold-coins-how-your-loose-change-can-be-a-big-pay-day/#webpage",
+          "url": "https://bulliontradingllc.com/blog/american-eagle-gold-coins-how-your-loose-change-can-be-a-big-pay-day/",
+          "name": "American Eagle Gold Coins – How your loose change can be a big pay day - Bullion Trading LLC",
+          "datePublished": "2014-08-12T21:48:25+00:00",
+          "dateModified": "2014-08-12T21:48:25+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/08/American-Eagle-Gold-Coins-1170x500-1.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/american-eagle-gold-coins-how-your-loose-change-can-be-a-big-pay-day/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "American Eagle Gold Coins – How your loose change can be a big pay day - Bullion Trading LLC",
+          "datePublished": "2014-08-12T21:48:25+00:00",
+          "dateModified": "2014-08-12T21:48:25+00:00",
+          "articleSection": "Gold, gold bullion, gold coins, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "The IRA is tax free while the American Eagles hold its value versus inflation and the falling dollar.",
+          "name": "American Eagle Gold Coins – How your loose change can be a big pay day - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/american-eagle-gold-coins-how-your-loose-change-can-be-a-big-pay-day/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/american-eagle-gold-coins-how-your-loose-change-can-be-a-big-pay-day/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/08/American-Eagle-Gold-Coins-1170x500-1.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/american-eagle-gold-coins-how-your-loose-change-can-be-a-big-pay-day/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/american-eagle-gold-coins-how-your-loose-change-can-be-a-big-pay-day/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/the-united-states-an-untapped-gold-mine/",
+    "https://bulliontradingllc.com/blog/three-ways-to-hedge-against-inflation-with-silver/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2014/08/American-Eagle-Gold-Coins-1170x500-1.png",
+      "alt": "American-Eagle-Gold-Coins-1170×500"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

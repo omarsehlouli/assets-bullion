@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "id": "e95c14a617e44090",
+    "url": "https://bulliontradingllc.com/blog/premiums/",
+    "title": "Premiums - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:03.361781+00:00",
+    "status": "fetched",
+    "bytes": 95141,
+    "text_characters": 4069,
+    "sha256_html": "d3bde732af020773cc8cfad993dd13091ca85a1483d0d98374277d4914447da5",
+    "file": "sources/e95c14a617e44090.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "American Eagles may have the greatest premium amongst gold coins, but because of that you will get the finest price when you sell it.",
+  "canonical": "https://bulliontradingllc.com/blog/premiums/",
+  "text": "American Eagles may have the greatest premium amongst gold coins, but because of that you will get the finest price when you sell it.\nThe bottom line is how much is being spent over the spot price, and a low premium will constantly make it much easier for the financier to stay closer to the mark he is attempting to reach.\nGoing into this field, the investor requirement to learn to not be terrified however to have a very clear and intimate understanding of numbers, since in some cases a couple of percentage points make all the distinction in the world.\nSince of golds high rate, these premiums might frighten newbies and appear like an unnecessary expenditure. If $1,000 appears like a high cost, then $1,020 will seem even more scary. In fact, because that 2% premium is lower than it would be for other items, gold ends up being much easier and far more lucrative for the investor. And for that reason, despite what others may say, I guarantee that gold is still a worthwhile investment, with or without premiums. Entering into this field, the financier requirement to discover to not be frightened but to have an intimate and extremely clear understanding of numbers, since in some cases a couple of percentage points make all the difference in the world.\nLets analyze simply what a distinction there is and why its there.\nToday, gold bars possess approximately 2.7% premium per ounce over spot cost. To offer an idea of just how inexpensive this is, the grocery store premium today on bread is 40%. This is comparable to milk or oats. Obviously, those products may all have a lower area price to start with; nevertheless; if one is acquiring gold as an investment with strategies to sell in the near future, this small premium will barely impact the quantity of the general revenue. The unskilled investor may not have allocated his expenditures for this premium and might still be adversely affected by it; yet another reason to be as educated in this field as possible prior to making a purchase.\nThe bottom line is how much is being spent over the area rate, and a low premium will constantly make it much easier for the investor to stay closer to the mark he is trying to reach.\nTo an investor, percentage points ultimately are more significant than the actual physical amount thats been invested. Lets say that a male goes to the shop, intending to invest $6.00, but ends up investing $9.00. This may look like a small disparity, however the reality is that hes gone 50% over-budget! Now lets state that instead of $6.00, it was a 6 million dollar spending plan, and he still has the practice of going 50% over. Would you trust him for your project? To an investor, the same principles use.\nLets examine just what a distinction there is and why its there.\nThe unskilled financier may not have actually allotted his expenditures for this premium and may still be adversely impacted by it; yet another reason to be as educated in this field as possible before making a purchase.\nA financier needs to be prepared to face differing degrees of premiums; a gold American Eagle has a higher premium than a gold Krugerrand, and all premiums will decrease if the item is bought in large quantities. While preferably a customer will attempt to avoid premiums, as soon as they become inescapable, the finest course of action is to plan your purchases so that you will encounter as couple of as possible. Lets say the item youre purchasing has a $5.00 premium. If you purchase $10.00s worth of the product, then youll have a 50% premium, however if you purchase $100.00s worth, then youll only have a 5% premium. The bigger quantity you buy the smaller sized percentage the premium will be. Also, think about the reality that items that have a higher premium typically also have a better buy-back rate. American Eagles might have the greatest premium among gold coins, however since of that you will get the very best cost when you sell it.\nbulliontrading\nView all posts\nPrevious Post\nMF Global & Why You Should Hold Some Gold Bullion\nNext Post\nAmerican Buffalo Coins",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/premiums/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/premiums/",
+                "name": "Premiums"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/premiums/#webpage",
+          "url": "https://bulliontradingllc.com/blog/premiums/",
+          "name": "Premiums - Bullion Trading LLC",
+          "datePublished": "2011-11-15T09:00:40+00:00",
+          "dateModified": "2011-11-15T09:00:40+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/premiums/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Premiums - Bullion Trading LLC",
+          "datePublished": "2011-11-15T09:00:40+00:00",
+          "dateModified": "2011-11-15T09:00:40+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "American Eagles may have the greatest premium amongst gold coins, but because of that you will get the finest price when you sell it.",
+          "name": "Premiums - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/premiums/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/premiums/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/premiums/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/american-buffalo-coins/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/mf-global-why-you-should-hold-some-gold-bullion/",
+    "https://bulliontradingllc.com/blog/premiums/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "id": "79d716256143ff2e",
+    "url": "https://learn.bulliontradingllc.com/quiz/how-much-to-buy-quiz/",
+    "title": "How Much Gold and Silver to Buy Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:41.793847+00:00",
+    "status": "fetched",
+    "bytes": 29429,
+    "text_characters": 343,
+    "sha256_html": "de7a081173c1902eff713cfab2a33b31115c2311fb4e07a0aa7c948eda4dbbd0",
+    "file": "sources/79d716256143ff2e.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your understanding of precious metals allocation strategies, dollar-cost averaging, and portfolio balance principles.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/how-much-to-buy-quiz/",
+  "text": "How Much Gold and Silver to Buy Quiz\nTest your understanding of precious metals allocation strategies, dollar-cost averaging, and portfolio balance principles.\nWhat is the conservative approach allocation percentage for precious metals according to financial advisors?\nA\n1-3%\nB\n5-10%\nC\n15-20%\nD\n25-30%\n←\nBack to How Much Gold and Silver to Buy",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "New to Precious Metals",
+              "item": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "How Much Gold and Silver to Buy",
+              "item": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/02-how-much-to-buy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "How Much Gold and Silver to Buy Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "How Much Gold and Silver to Buy Quiz",
+          "description": "Test your understanding of precious metals allocation strategies, dollar-cost averaging, and portfolio balance principles.",
+          "url": "https://learn.bulliontradingllc.com/quiz/how-much-to-buy-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "How Much Gold and Silver to Buy"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the conservative approach allocation percentage for precious metals according to financial advisors?",
+              "text": "What is the conservative approach allocation percentage for precious metals according to financial advisors?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "5-10%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The conservative approach recommends 5-10% allocation to precious metals - like a financial life jacket, enough to keep you afloat during turbulent times."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "1-3%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "15-20%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "25-30%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Before investing in precious metals, what should be your first priority according to the Foundation First Principle?",
+              "text": "Before investing in precious metals, what should be your first priority according to the Foundation First Principle?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Have 3-6 months of expenses in an emergency fund",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The Foundation First Principle requires having 3-6 months of expenses safely tucked away as an emergency fund before investing in precious metals."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Buy as much gold as possible immediately"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Invest all savings in precious metals"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Take out loans to buy gold"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the historical average gold-to-silver ratio mentioned in the content?",
+              "text": "What is the historical average gold-to-silver ratio mentioned in the content?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "60:1",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The historical average gold-to-silver ratio is approximately 60:1, meaning 60 ounces of silver equals 1 ounce of gold."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "40:1"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "80:1"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "100:1"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "According to the content, what is the practical gold-to-silver allocation many successful investors use?",
+              "text": "According to the content, what is the practical gold-to-silver allocation many successful investors use?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "2/3 gold, 1/3 silver by value",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Many successful investors use a simple 2/3 gold, 1/3 silver allocation by value, providing gold's stability with silver's growth potential."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "50% gold, 50% silver"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "90% gold, 10% silver"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "1/3 gold, 2/3 silver"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the main benefit of dollar-cost averaging mentioned in Maria's example?",
+              "text": "What is the main benefit of dollar-cost averaging mentioned in Maria's example?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Removes timing stress and smooths out volatility",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Dollar-cost averaging removes timing stress by automatically buying more when prices are lower and less when higher, smoothing out volatility over time."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Guarantees the lowest possible prices"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Ensures immediate profits"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Eliminates all investment risk"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "In the Conservative Saver example, Emma allocated 5% of her $400,000 portfolio to precious metals. How much did she invest in gold?",
+              "text": "In the Conservative Saver example, Emma allocated 5% of her $400,000 portfolio to precious metals. How much did she invest in gold?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "$16,000",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Emma invested 5% of $400,000 ($20,000) in precious metals, with 80% going to gold ($16,000) and 20% to silver ($4,000)."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "$20,000"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$4,000"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$10,000"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "For long-term goals (10+ years), what precious metals allocation range is suggested?",
+              "text": "For long-term goals (10+ years), what precious metals allocation range is suggested?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "15-25%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "For long-term goals (10+ years), higher allocations (15-25%) become more attractive as you have decades to benefit from gold's wealth preservation power."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "5-10%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "10-15%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "30-40%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: According to the content, you should eliminate high-interest debt before investing in precious metals.",
+              "text": "True or False: According to the content, you should eliminate high-interest debt before investing in precious metals.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The Foundation First Principle states you should eliminate credit card debt and other high-interest obligations before investing in precious metals, as credit card interest often exceeds precious metals returns."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the recommended approach for Phase 1 of starting your precious metals journey?",
+              "text": "What is the recommended approach for Phase 1 of starting your precious metals journey?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Start with 1-2 ounces of gold or 50-100 ounces of silver",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Phase 1 (The Learning Purchase) recommends starting with 1-2 ounces of gold or 50-100 ounces of silver to understand the buying process, storage options, and market dynamics."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Invest all available funds immediately"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Wait until you have $100,000 to invest"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Only buy silver initially"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

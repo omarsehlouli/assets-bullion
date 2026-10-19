@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "id": "691792285f90b4af",
+    "url": "https://bulliontradingllc.com/blog/the-journey-of-a-gold-or-silver-item-from-mine-to-market/",
+    "title": "The Journey of a Gold or Silver Item: From Mine to Market  - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:11.436725+00:00",
+    "status": "fetched",
+    "bytes": 110818,
+    "text_characters": 3589,
+    "sha256_html": "460277f9baaecad06c13f77d9aa21e5c23afb19f4098542a6749558951eca7a8",
+    "file": "sources/691792285f90b4af.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Follow gold and silver from mine to market—extraction, refining, minting, and distribution—so you understand what drives supply and trust.",
+  "canonical": "https://bulliontradingllc.com/blog/the-journey-of-a-gold-or-silver-item-from-mine-to-market/",
+  "text": "Gold and silver travel a long way from where they’re dug up to the shops. People have always valued these metals. Now, with places like Bullion Trading LLC, buying gold and silver online is easy. So, when you see a gold or silver thing, think about its long trip and the people who helped get it to you.\nMining: How We Dig Up Gold and Silver\nThe journey begins deep within the earth, where gold and silver deposits are formed from mineral-rich fluids. These deposits, once located, lead to the establishment of mines. Mining can be an arduous process, involving the removal of vast amounts of earth to reach the precious ores. Techniques vary from open-pit mining to underground operations, depending on the deposit’s location and depth.\nExtraction and Refining: Turning Rock into Clean Gold and Silver\nAfter we get the ore, it’s crushed and treated to separate the metals from other stuff. This gives us big blocks called dore bars that have gold, silver, and other metals in them.\nThese dore bars are then sent to refineries for further purification. Through processes like electrolysis and smelting, impurities are removed, leaving behind pure gold or silver, ready for online gold and silver trading.\nMolding and Crafting: The Artistry Behind the Shine\nWith pure metal available, craftsmen and manufacturers mold and shape it into desired forms. This could be intricate jewelry, coins, bullion bars, or even components for industrial applications. The malleability of gold and silver makes them ideal for detailed designs and engravings.\nQuality Assurance: The Mark of Authenticity\nBefore these items reach the market, they undergo rigorous quality checks. Assay offices or other certifying bodies test the purity of the metal, often stamping items with hallmarks that indicate their authenticity and purity. For investors, this assurance is crucial, as the value of gold and silver items heavily depends on their purity.\nDistribution: Moving Gold and Silver to Stores\nDistributors play a vital role in transporting these items to various markets. They ensure that gold and silver products reach retailers, from large urban malls to small-town jewelers. For items like bullion or coins, specialized dealers and mints might be the primary distributors.\nThe Final Purchase: A Personal Touch\nThe last leg of the journey is perhaps the most personal. Whether it’s a gold necklace for a loved one, a silver coin for a collector, or an investment in bullion through platforms like Bullion Trading LLC, the final destination is always unique to the individual.\nIn Conclusion\nGold and silver travel a long way from where they’re dug up to the shops. People have always valued these metals. Now, with places like Bullion Trading LLC, buying gold and silver online is easy. So, when you see a gold or silver thing, think about its long trip and the people who helped get it to you.\nBest Selling Products\nQuick View\nAdd to cart\n1 oz Gold Bars\n1 oz PAMP Suisse Gold Bar – Lady Fortuna (In Assay)\n$2,032.72\nQuick View\nAdd to cart\n1 oz Gold Coins\n1 Oz Gold American Buffalo Coin (Random Year)\n$2,064.72\nQuick View\nAdd to cart\n1 oz Gold Bars\n1 oz Credit Suisse Gold Bar(In Assay)\n$2,029.72\nQuick View\nAdd to cart\n1 oz Gold Coins\n1 oz American Gold Eagle Coin(Random Year)\n$2,064.72\nQuick View\nAdd to cart\n1 oz Gold Bars\n1 oz Gold Bar – Random Brand\n$2,007.72\nQuick View\nAdd to cart\n1 oz Gold Bars\n1 Oz Gold Bar – PAMP Suisse New Design(In Assay)\n$2,031.72\nbulliontrading\nView all posts\nPrevious Post\nBullion Gold vs. Jewelry Gold: Understanding the Differences\nNext Post\nWhy Gold Matters in Inflation",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2023/09/goldtomarket.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2023/09/goldtomarket.webp",
+          "width": "482",
+          "height": "322",
+          "caption": "Gold Market",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/the-journey-of-a-gold-or-silver-item-from-mine-to-market/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/the-journey-of-a-gold-or-silver-item-from-mine-to-market/",
+                "name": "The Journey of a Gold or Silver Item: From Mine to Market "
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/the-journey-of-a-gold-or-silver-item-from-mine-to-market/#webpage",
+          "url": "https://bulliontradingllc.com/blog/the-journey-of-a-gold-or-silver-item-from-mine-to-market/",
+          "name": "The Journey of a Gold or Silver Item: From Mine to Market  - Bullion Trading LLC",
+          "datePublished": "2023-09-09T14:45:19+00:00",
+          "dateModified": "2023-09-09T14:45:19+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2023/09/goldtomarket.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/the-journey-of-a-gold-or-silver-item-from-mine-to-market/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "The Journey of a Gold or Silver Item: From Mine to Market  - Bullion Trading LLC",
+          "keywords": "gold mine",
+          "datePublished": "2023-09-09T14:45:19+00:00",
+          "dateModified": "2023-09-09T14:45:19+00:00",
+          "articleSection": "Gold, Gold Bars, Gold Market &amp; Economics, news, silver, silver bars, Silver Coins",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Follow gold and silver from mine to market—extraction, refining, minting, and distribution—so you understand what drives supply and trust.",
+          "name": "The Journey of a Gold or Silver Item: From Mine to Market  - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/the-journey-of-a-gold-or-silver-item-from-mine-to-market/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/the-journey-of-a-gold-or-silver-item-from-mine-to-market/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2023/09/goldtomarket.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/the-journey-of-a-gold-or-silver-item-from-mine-to-market/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/bullion-gold-vs-jewelry-gold-understanding-the-differences/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-bars/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/category/news/",
+    "https://bulliontradingllc.com/blog/category/silver-bars/",
+    "https://bulliontradingllc.com/blog/category/silver-coins/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/the-journey-of-a-gold-or-silver-item-from-mine-to-market/",
+    "https://bulliontradingllc.com/blog/why-gold-matters-in-inflation/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/gold/bars/1-oz-gold-bars/",
+    "https://bulliontradingllc.com/gold/coins/1-oz-gold-coins/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/product/1-oz-american-gold-eagle-coinrandom-year/",
+    "https://bulliontradingllc.com/product/1-oz-gold-american-buffalo-coin-random-year/",
+    "https://bulliontradingllc.com/product/1-oz-gold-bar-pamp-suisse-horse-in-assay/",
+    "https://bulliontradingllc.com/product/1-oz-gold-bar-pamp-suisse-new-designin-assay/",
+    "https://bulliontradingllc.com/product/1-oz-gold-bar-random-brand/",
+    "https://bulliontradingllc.com/product/1-oz-pamp-suisse-gold-bar-lady-fortuna-in-assay/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2023/09/goldtomarket.webp",
+      "alt": "Gold Market"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2017/04/1_ozr_pamp_suisse_gold_bar_lady_fortuna-450x450.jpg",
+      "alt": "1 oz PAMP Suisse Gold Bar - Lady Fortuna"
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2022/08/1_oz_american_buffalo_gold_coin-450x450.jpg",
+      "alt": "1 oz gold american buffalo coin"
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2017/04/1-oz-credit-suisse-gold-bar-1-1.jpg",
+      "alt": "Credit Suisse 1 oz Gold Bar"
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2017/04/1_oz_american_gold_eagle_coin-450x450.jpg",
+      "alt": "1 oz American Gold Eagle Coin"
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2017/04/prod-1ozgoldbar-1-oz-gold-bar-new-450x450.webp",
+      "alt": "One-ounce gold bar with a simple refined bullion design"
+    },
+    {
+      "url": "https://bulliontradingllc.com/wp-content/uploads/2021/04/1_oz_gold_bar_-_pamp_suisse_new_design-450x450.jpeg",
+      "alt": "1 Oz Gold Bar - PAMP Suisse New Design (In Assay)"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

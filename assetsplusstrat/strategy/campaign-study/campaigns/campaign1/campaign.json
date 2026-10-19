@@ -1,0 +1,84 @@
+{
+  "id": "campaign1",
+  "name": "Your First Piece",
+  "scope": "U.S.",
+  "audience": "Adults considering their first physical gold or silver purchase.",
+  "approach": "Make the first purchase feel understandable. Show one silver coin and one small gold bar, invite comparison of weights and product details, and send high-intent traffic directly to the appropriate metal category. Lead with choice and clarity rather than financial urgency.",
+  "hypothesis": "A tangible, approachable product pair may reduce first-purchase intimidation and earn qualified product exploration.",
+  "description": "A calm introduction to physical gold and silver, built around recognizable products, simple comparison, and live product prices.",
+  "headline": "Your first piece starts here.",
+  "primary": "Start with a closer look. Compare gold bars, silver coins and rounds at Bullion Trading LLC, with live product prices and a New York team you can reach.",
+  "meta_headline": "Find Your First Piece",
+  "meta_description": "Explore gold and silver bullion.",
+  "cta": "Shop Now",
+  "google_headlines": [
+    "Buy Gold & Silver Bullion",
+    "Find Your First Piece",
+    "Compare Bullion Weights",
+    "Shop Silver Coins & Rounds",
+    "Explore Small Gold Bars",
+    "Bullion Trading LLC"
+  ],
+  "google_descriptions": [
+    "Explore gold bars, silver coins and rounds. Compare weights and live product prices.",
+    "Start with a closer look. Shop physical bullion with a New York team you can reach.",
+    "Find the product that fits your budget. Review current pricing and payment options."
+  ],
+  "keywords": {
+    "silver": [
+      "buy silver bullion",
+      "buy silver coins",
+      "silver rounds for sale",
+      "1 oz silver eagle"
+    ],
+    "gold": [
+      "buy small gold bars",
+      "5 gram gold bar",
+      "buy gold bullion",
+      "gold bars for beginners"
+    ]
+  },
+  "destinations": {
+    "silver": "https://bulliontradingllc.com/silver/",
+    "gold": "https://bulliontradingllc.com/gold/bars/gram-gold-bars/"
+  },
+  "supporting": [
+    "https://bulliontradingllc.com/gold/",
+    "https://learn.bulliontradingllc.com/guides/understanding-gold-silver/"
+  ],
+  "transcript": [
+    "first-piece",
+    "faq-bar-or-eagle"
+  ],
+  "visual": "Warm ivory tabletop with a silver American Eagle and an orange Valcambi 5 g gold assay card; soft window light and approachable scale. Generated illustrative product scene; exact year and serial details are not guaranteed.",
+  "image": "exec-eb578a65-5f57-4b91-bb87-93e4bae2b2d9.png",
+  "refs": [
+    "coin-silver-eagle.png",
+    "card-valcambi.png"
+  ],
+  "caution": "Keep gold and silver search ad groups on matching destinations. No minimum starting price, returns promise, or claim that every buyer can afford a particular item.",
+  "status": "draft_for_review",
+  "objective": "Purchases of physical gold and silver bullion",
+  "google_targeting": "U.S. presence; separate gold/silver intent groups. Exclude NYC metro during the combined pilot to avoid overlap with local campaigns.",
+  "meta_targeting": "Adults in the selected geography; broad creative-led prospecting. Retarget consenting site visitors separately if available. No customer list or private audience was used.",
+  "meta_note": "Meta uses audience and creative context, not Google-style search keywords. Keywords below are for Google Search and content planning.",
+  "negative_keywords": [
+    "jobs",
+    "free gold",
+    "gold plated",
+    "gold paint",
+    "gold jewelry",
+    "gold mining stocks",
+    "ETF",
+    "futures",
+    "forex",
+    "scrap gold",
+    "sell gold",
+    "gold loan"
+  ],
+  "assets": {
+    "primary_image": "creative.png",
+    "image_type": "AI-generated reference-based campaign concept",
+    "visual_description": "Warm ivory tabletop with a silver American Eagle and an orange Valcambi 5 g gold assay card; soft window light and approachable scale. Generated illustrative product scene; exact year and serial details are not guaranteed."
+  }
+}

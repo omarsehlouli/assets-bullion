@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "id": "870222e38efb1f8c",
+    "url": "https://bulliontradingllc.com/blog/gold-is-setting-up-for-a-nice-first-half-rally/",
+    "title": "Gold Is Setting Up For A Nice First-Half Rally - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:40.657810+00:00",
+    "status": "fetched",
+    "bytes": 93656,
+    "text_characters": 2687,
+    "sha256_html": "3d2f6bd8ca878230d77f569bb6efcbe4eb22493cce2819367f2d7661ce9f6175",
+    "file": "sources/870222e38efb1f8c.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Rare-earth elements financiers do not have much to console them these days. Simply about the only bright area is the great, though ephemeral, pop in the",
+  "canonical": "https://bulliontradingllc.com/blog/gold-is-setting-up-for-a-nice-first-half-rally/",
+  "text": "Rare-earth elements financiers do not have much to console them these days. Simply about the only bright area is the great, though ephemeral, pop in the gold/silver price that appears to take place every January. Often it persists for 6 or two months, in some cases it ends prior to the snows do. However in either case its more enjoyable than the rest of the year.\nHeres the same information for gold in visual kind, which illustrates how uncommon the present structure has become.\nTheres no factor to expect Asian purchasing to leave from the normal this January, so – especially offered 2018s grinding price decline which has put the metals on sale – its sensible to expect favorable patterns to kick in quickly.\nIn reality, the set-up this time is looking a lot like 2016, without a doubt the best run of the previous 5 years. Since in addition to the typical seasonal elements, the structure of the paper (i.e., futures contract) markets is also bullish. This past week, business traders – who tend to be best at huge turning points – went strongly long and are not far from being net long, meaning they highly anticipate greater rates in the next couple of months. Speculators, meanwhile, tend to be wrong at turning points, and theyre now net short, which is also both uncommon and very bullish.\nThis pattern repeats due to the fact that Asians like to provide gold and silver precious jewelry as wedding gifts, and they like to have their wedding events in the Spring. They do their anticipatory purchasing in January, which tends, other things being equal, to push up the rate.\nHere is a nice short article about gold establishing up for a great rally. If you wish to read the original article you can find a link at the end of this post.\nSo lets fantasize a bit about a replay of 2016, when both gold and silver rose for a solid 6 months, and recall the fire that lit under the mining stocks. Heres silver miner ETF SIL, one of many fond memories that would be great to revisit:\nSimply about the only brilliant area is the great, though ephemeral, pop in the gold/silver rate that appears to happen every January. Sometimes it persists for 6 or so months, sometimes it ends prior to the snows do. This past week, industrial traders – who tend to be best at big turning points – went aggressively long and are not far from being net long, suggesting they strongly expect greater rates in the next few months.\nWe found this post at https://seekingalpha.com/article/4224306-gold-setting-nice-first-half-rally By: John Rubino\nbulliontrading\nView all posts\nPrevious Post\nGold dips on profit-taking, softer dollar curbs declines\nNext Post\nGold scales over 3-week peak as dollar slips",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-is-setting-up-for-a-nice-first-half-rally/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-is-setting-up-for-a-nice-first-half-rally/",
+                "name": "Gold Is Setting Up For A Nice First-Half Rally"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-is-setting-up-for-a-nice-first-half-rally/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-is-setting-up-for-a-nice-first-half-rally/",
+          "name": "Gold Is Setting Up For A Nice First-Half Rally - Bullion Trading LLC",
+          "datePublished": "2018-11-26T09:31:35+00:00",
+          "dateModified": "2018-11-26T09:31:35+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-is-setting-up-for-a-nice-first-half-rally/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold Is Setting Up For A Nice First-Half Rally - Bullion Trading LLC",
+          "datePublished": "2018-11-26T09:31:35+00:00",
+          "dateModified": "2018-11-26T09:31:35+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Rare-earth elements financiers do not have much to console them these days. Simply about the only bright area is the great, though ephemeral, pop in the",
+          "name": "Gold Is Setting Up For A Nice First-Half Rally - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-is-setting-up-for-a-nice-first-half-rally/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-is-setting-up-for-a-nice-first-half-rally/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-is-setting-up-for-a-nice-first-half-rally/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/gold-dips-on-profit-taking-softer-dollar-curbs-declines/",
+    "https://bulliontradingllc.com/blog/gold-is-setting-up-for-a-nice-first-half-rally/",
+    "https://bulliontradingllc.com/blog/gold-scales-over-3-week-peak-as-dollar-slips/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

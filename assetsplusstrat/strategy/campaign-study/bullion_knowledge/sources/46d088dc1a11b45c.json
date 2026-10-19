@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "id": "46d088dc1a11b45c",
+    "url": "https://bulliontradingllc.com/blog/fun-facts-about-gold/",
+    "title": "Fun Facts About Gold - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:34.891995+00:00",
+    "status": "fetched",
+    "bytes": 96811,
+    "text_characters": 3782,
+    "sha256_html": "7c3184e3a20bfe26f71bdb044bc8ad871189f9241a7cd3ebb948ee9fc04cf02c",
+    "file": "sources/46d088dc1a11b45c.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "- Fort Knox held 649.6 million ounces of gold in 1941 when the United States currency was backed by gold.- All the gold humanity possesses can be compressed",
+  "canonical": "https://bulliontradingllc.com/blog/fun-facts-about-gold/",
+  "text": "– Fort Knox held 649.6 million ounces of gold in 1941 when the United States currency was backed by gold.- All the gold humanity possesses can be compressed into an 18-yard cube– which is roughly 1/10 the size of the Washington Monument in Washington, D.C.\n– All the gold humanity has can be compressed into an 18-yard cube– which is roughly 1/10 the size of the Washington Monument in Washington, D.C.\n– Gold is likewise utilized in astronaut helmets, being exceptionally essential for permitting astronauts to remain cool thanks to its ability to dissipate heat.\nWhile gold is mostly purchased for financial investment purposes these days, gold is also an extremely enjoyable rare-earth element. Its not just something that can be used as economic protection, although you will find it in the majority of federal government repositories the world over.\nthrough https://www.911metallurgist.com- More steel is produced per hour than the amount of gold collected throughout human history. This makes it an extremely important metal, due to its shortage. The majority of the gold produced today originates from South Africa, who produces 2/3 of the worlds supply.\n– The largest gold bar worldwide weighs 250 kg (551 lb). The largest gold nugget discovered “in the wild” remained in California in the United States, which weighed 195 pounds.\n– The weight of gold is heavily deceptive, with a single cubic foot of it weighing half a load.\n– Fort Knox held 649.6 million ounces of gold in 1941 when the United States currency was backed by gold. With the United States no longer on the gold requirement, today, Fort Knox only holds about 147.3 million ounces. Switzerland itself was the last nation to switch away from the gold requirement in 1999.\n– 25 heaps of gold is found in every cubic mile of sea water. While this amounts to a staggering 10 billion lots of gold just floating in the ocean, there is no economical method to recuperate it.\nFrom performing electrical energy to being the easiest method to transfer wealth, gold has numerous fascinating uses, and a storied history. Heres some intriguing facts about everybodys favorite metal.\n– Not just is gold edible, but the human body contains about 0.2 milligrams of gold– primarily in the blood stream.\n– Gold is extremely flexible, with a single ounce of it having the ability to be inculcated a wire 60 miles long. A single ounce can likewise be hammered into a sheet that is 100 square feet.\n– Gold, when chemically liquified, is utilized in dealing with rheumatoid arthritis victims. Seven out of 10 cases of rheumatoid arthritis victims have actually reported success with gold treatment.\n– A hotel opened the worlds first gold vending device in May 2010. The vending maker, naturally, is covered in 24-carat gold.\n– More gold is held by Indian housewives than the currency reserves of the United States, International Monetary Fund, Switzerland, and Germany put together. The first gold coins were created by King Croesus of Lydia in 540 BC, but gold has been around considering that before taped history. Even more notably, gold has stayed a fun, and beneficial metal.\nMany of the gold produced today comes from South Africa, who produces 2/3 of the worlds supply.\n– Three Olympic pool can hold all the gold ever mined in the world.\n– More gold is held by Indian housewives than homemakers currency reserves of the United States, International Monetary Fund, Switzerland, and Germany put together. The very first gold coins were created by King Croesus of Lydia in 540 BC, however gold has actually been around because before tape-recorded history. Even more importantly, gold has remained a fun, and helpful metal.\nbulliontrading\nView all posts\nPrevious Post\nFeatured Coin: JFK Half Dollar\nNext Post\nWhat Is Peak Gold?",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-bullion-bars-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-bullion-bars-jpg.webp",
+          "width": "848",
+          "height": "250",
+          "caption": "Untitled",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/fun-facts-about-gold/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/coin-collection/",
+                "name": "coin collection"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/fun-facts-about-gold/",
+                "name": "Fun Facts About Gold"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/fun-facts-about-gold/#webpage",
+          "url": "https://bulliontradingllc.com/blog/fun-facts-about-gold/",
+          "name": "Fun Facts About Gold - Bullion Trading LLC",
+          "datePublished": "2017-06-28T09:15:16+00:00",
+          "dateModified": "2017-06-28T09:15:16+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-bullion-bars-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/fun-facts-about-gold/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Fun Facts About Gold - Bullion Trading LLC",
+          "datePublished": "2017-06-28T09:15:16+00:00",
+          "dateModified": "2017-06-28T09:15:16+00:00",
+          "articleSection": "coin collection, Gold, Gold Bars, gold bullion, gold coins, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "- Fort Knox held 649.6 million ounces of gold in 1941 when the United States currency was backed by gold.- All the gold humanity possesses can be compressed",
+          "name": "Fun Facts About Gold - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/fun-facts-about-gold/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/fun-facts-about-gold/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-bullion-bars-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/fun-facts-about-gold/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/coin-collection/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-bars/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/featured-coin-jfk-half-dollar/",
+    "https://bulliontradingllc.com/blog/fun-facts-about-gold/",
+    "https://bulliontradingllc.com/blog/what-is-peak-gold/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/gold-bullion-bars-jpg.webp",
+      "alt": "Untitled"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "id": "6e70a8e6325ab498",
+    "url": "https://learn.bulliontradingllc.com/quiz/fundamental-analysis-quiz/",
+    "title": "Fundamental Analysis Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:40.663538+00:00",
+    "status": "fetched",
+    "bytes": 28194,
+    "text_characters": 346,
+    "sha256_html": "ab46dfe84a2988df2a0744bfb24595daa818f5719ad3b9bd04a7ab156cd3aaf6",
+    "file": "sources/6e70a8e6325ab498.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of supply-demand dynamics, macroeconomic forces, and fundamental valuation methods for precious metals.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/fundamental-analysis-quiz/",
+  "text": "Fundamental Analysis Quiz\nTest your knowledge of supply-demand dynamics, macroeconomic forces, and fundamental valuation methods for precious metals.\nAccording to the content, how long does it typically take for new precious metals discoveries to reach production?\nA\n2-3 years\nB\n5-7 years\nC\n7-15 years\nD\n15-20 years\n←\nBack to Fundamental Analysis",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Market Analysis",
+              "item": "https://learn.bulliontradingllc.com/guides/market-analysis/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Fundamental Analysis",
+              "item": "https://learn.bulliontradingllc.com/guides/market-analysis/02-fundamental-analysis/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Fundamental Analysis Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Fundamental Analysis Quiz",
+          "description": "Test your knowledge of supply-demand dynamics, macroeconomic forces, and fundamental valuation methods for precious metals.",
+          "url": "https://learn.bulliontradingllc.com/quiz/fundamental-analysis-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Fundamental Analysis"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "According to the content, how long does it typically take for new precious metals discoveries to reach production?",
+              "text": "According to the content, how long does it typically take for new precious metals discoveries to reach production?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "7-15 years",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "New discoveries take 7-15 years to reach production, meaning current high prices won't increase supply quickly, supporting fundamental price strength."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "2-3 years"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "5-7 years"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "15-20 years"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What acquisition did Sibanye-Stillwater make that demonstrates the industry shift toward recycling?",
+              "text": "What acquisition did Sibanye-Stillwater make that demonstrates the industry shift toward recycling?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "$82 million acquisition of US precious metals recycler Metallix",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Sibanye-Stillwater's $82 million acquisition of US precious metals recycler Metallix demonstrates how mining companies are investing heavily in secondary supply."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "$50 million purchase of a mining company"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$100 million investment in new mining equipment"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$75 million purchase of exploration rights"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "According to the content, how much have global central banks been purchasing gold annually?",
+              "text": "According to the content, how much have global central banks been purchasing gold annually?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Over 1,000 tonnes",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Global central banks are maintaining gold buying at levels not seen since the end of the gold standard, with over 1,000 tonnes purchased annually."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Over 500 tonnes"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Over 750 tonnes"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Over 1,500 tonnes"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What percentage did silver jewelry demand collapse compared to 2024 due to high prices?",
+              "text": "What percentage did silver jewelry demand collapse compared to 2024 due to high prices?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "50%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Silver jewelry demand collapsed 50% compared to 2024 due to high prices, while industrial applications continue supporting fundamental demand."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "25%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "40%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "60%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "According to NDR's Tim Hayes, what positioning strategy remains structurally attractive?",
+              "text": "According to NDR's Tim Hayes, what positioning strategy remains structurally attractive?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Long gold/short dollar",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Professional analysts like NDR's Tim Hayes suggest the \"long gold/short dollar\" positioning strategy remains structurally attractive."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Long dollar/short gold"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Long stocks/short bonds"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Long bonds/short commodities"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the key insight about Federal Reserve credibility mentioned in the content?",
+              "text": "What is the key insight about Federal Reserve credibility mentioned in the content?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Political pressure on Fed independence is creating credibility concerns",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Political pressure on Federal Reserve independence is creating institutional credibility concerns that historically drive safe-haven demand for precious metals."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Fed credibility is at all-time highs"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Fed policy is completely predictable"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Fed independence has never been stronger"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How much did Russia's precious metals exports to China increase in the first half of 2025?",
+              "text": "How much did Russia's precious metals exports to China increase in the first half of 2025?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They nearly doubled to $1 billion",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Russia's precious metals exports to China nearly doubled to $1 billion in first half of 2025, demonstrating how geopolitical sanctions create new trade patterns."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "They doubled to $500 million"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "They tripled to $1.5 billion"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "They remained unchanged"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Central banks rarely sell gold once purchased, removing supply permanently from markets.",
+              "text": "True or False: Central banks rarely sell gold once purchased, removing supply permanently from markets.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Unlike private investors, central banks rarely sell gold once purchased, removing supply permanently from markets and providing structural demand support."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

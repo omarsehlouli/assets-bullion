@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "id": "b1c8cc21f2b97da6",
+    "url": "https://bulliontradingllc.com/blog/gold-surges-to-trade-at-highest-level-in-over-a-month/",
+    "title": "Gold surges to trade at highest level in over a month - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:46.932042+00:00",
+    "status": "fetched",
+    "bytes": 95122,
+    "text_characters": 3125,
+    "sha256_html": "a8600b2966ed3ddba69ed26ef067aff8487b254a1c20086857271e690323351c",
+    "file": "sources/b1c8cc21f2b97da6.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "A weaker dollar makes gold cheaper for holders of other currencies and can stimulate need. Likewise weighing on the dollar were the minutes from the latest",
+  "canonical": "https://bulliontradingllc.com/blog/gold-surges-to-trade-at-highest-level-in-over-a-month/",
+  "text": "A weaker dollar makes gold cheaper for holders of other currencies and can stimulate need. Likewise weighing on the dollar were the minutes from the latest Federal Reserve conference, which showed policymakers were worried about low inflation and could be careful of raising interest rates rapidly.\nArea gold was up 0.52 percent at $1,294.51 an ounce while U.S. gold futures for December shipment were up 0.56 percent at $1,294.50 an ounce.\nU.S. PMI and capital items information missed out on expectations last week, helping to drive the dollar to its weakest in two months.\n“If we see lastly some sort of motion in this location, that could reignite the trumpflation trade, risk properties might go to the races and we might see a pullback in gold as a risk hedge,” Mitsubishis Butler stated. Investors were likewise watching heavy selling of blue-chip shares in China, which last week suffered their greatest one-day fall in 17 months.\nGold costs increased on Monday, helped by a weaker dollar, as financiers expected congressional testimony by the candidate to chair the U.S. Federal Reserve and a conference between U.S. President Donald Trump and Senate Republicans on tax reform.\nWe discovered this article at https://www.cnbc.com/2017/11/26/gold-steady-dollar-holds-near-2-month-low.html and thought this something that our customers would find helpful.\nThis is an excellent article about Gold surges. If you have any questions about the short article or you wish to view the initial post the link to it is at completion.\nIn other rare-earth elements, silver was up 0.8 percent at $17.11 an ounce, platinum advanced 0.6 percent to $945.40 and palladium increased 0.45 percent to $1,001.70.\nGold is delicate to higher rates of interest due to the fact that they tend to reinforce the dollar and press U.S. bond yields higher, lowering the appeal of non-yielding bullion.\nOn the technical side, fibonacci resistance was at $1,295.40 and momentum signs recommended that gold prices would continue to increase, ScotiaMocatta experts said in a note.\n“Weve seen a relatively firm healing underpinned by a weaker dollar and some information readings from the U.S. and somewhere else that called into question the sustainability of growth,” said Mitsubishi expert Jon Butler.\nEarlier in the session the metal traded as high as $1,299 an ounce, it greatest level because Oct. 16 when gold hit a high of $1,307.40, which was likewise the last time gold traded above $1,300 an ounce.\n“Thus far we have yet to see any safe-haven premium creep into golds rate to show anxiety in equities and China bonds,” stated Jeffrey Halley, senior market analyst at OANDA.\nJerome Powell, the nominee to change Janet Yellen as Fed chair next year, is due to appear before Congress on Tuesday. Likewise on Tuesday, President Trump will satisfy Senate Republicans to discuss tax reform legislation that could speed up U.S. financial development.\nbulliontrading\nView all posts\nPrevious Post\nGold, silver and platinum prices have found bases and look set to remain rangebound\nNext Post\nThe Gold and Silver Mine: Do your homework before buying gold",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-surges-to-trade-at-highest-level-in-over-a-month/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-surges-to-trade-at-highest-level-in-over-a-month/",
+                "name": "Gold surges to trade at highest level in over a month"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-surges-to-trade-at-highest-level-in-over-a-month/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-surges-to-trade-at-highest-level-in-over-a-month/",
+          "name": "Gold surges to trade at highest level in over a month - Bullion Trading LLC",
+          "datePublished": "2017-12-01T13:50:54+00:00",
+          "dateModified": "2017-12-01T13:50:54+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-surges-to-trade-at-highest-level-in-over-a-month/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold surges to trade at highest level in over a month - Bullion Trading LLC",
+          "datePublished": "2017-12-01T13:50:54+00:00",
+          "dateModified": "2017-12-01T13:50:54+00:00",
+          "articleSection": "Gold, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "A weaker dollar makes gold cheaper for holders of other currencies and can stimulate need. Likewise weighing on the dollar were the minutes from the latest",
+          "name": "Gold surges to trade at highest level in over a month - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-surges-to-trade-at-highest-level-in-over-a-month/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-surges-to-trade-at-highest-level-in-over-a-month/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-surges-to-trade-at-highest-level-in-over-a-month/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/gold-silver-and-platinum-prices-have-found-bases-and-look-set-to-remain-rangebound/",
+    "https://bulliontradingllc.com/blog/gold-surges-to-trade-at-highest-level-in-over-a-month/",
+    "https://bulliontradingllc.com/blog/the-gold-and-silver-mine-do-your-homework-before-buying-gold/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

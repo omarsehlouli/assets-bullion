@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "id": "fc5c61b04ccefc26",
+    "url": "https://bulliontradingllc.com/blog/will-uncle-sam-come-knocking-for-my-precious-metals/",
+    "title": "Will Uncle Sam come knocking for my precious metals? - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:20.734215+00:00",
+    "status": "fetched",
+    "bytes": 97219,
+    "text_characters": 1947,
+    "sha256_html": "b04cdf0280d5a3228c05a94678869c27962f4cecc5d669082b8cb92beb00494a",
+    "file": "sources/fc5c61b04ccefc26.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "This indicates if you put your savings into buying precious metals, rather of the bank, you will increase your monetary worth over time.",
+  "canonical": "https://bulliontradingllc.com/blog/will-uncle-sam-come-knocking-for-my-precious-metals/",
+  "text": "This indicates if you put your savings into buying precious metals, rather of the bank, you will increase your monetary worth over time.\nOffense of the order was punishable by a fine up to $10,000 or 10 years in jail.\nHow does this affect you as a consumer? Well, no matter just how much you attempt to save for that unique dream home, wedding, or holiday or your childs college tuition, you will not ever get ahead due to the fact that the value of your cost savings will continue to reduce as time goes on. Why? Inflation triggers the devaluation of the dollar, therefore preventing your overall profits potential. What is the finest and most reliable monetary strategy any American can do to secure their cost savings and investments versus inflation? Hedge hard with tough assets such as products like gold and silver bullion. Purchasing rare-earth elements is the safest cost savings strategy because it protects you from the falling dollar. As the worth of the dollar declines, gold tends to increase in value. This indicates if you put your cost savings into purchasing valuable metals, rather of the bank, you will increase your financial worth gradually.\nIf youre interested in transforming your savings into currency that has a real value, then visit our site where our team of bullion specialist can assist satisfy your monetary requirements. You can acquire safely online or come by our store conveniently situated in NYC.\nWhat we have today is a lot of funny cash or fiat currency in circualtion that is backed by air or as some state, “faith in the dollar”.\nOffense of the order was punishable by a fine up to $10,000 or 10 years in prison.\nWhat we have today is a bunch of amusing cash or fiat currency in circualtion that is backed by air or as some say, “faith in the dollar”.\nbulliontrading\nView all posts\nPrevious Post\nInsight Behind Bullion Trading LLC’s Best-Sellers\nNext Post\nThree Ways to Hedge Against Inflation with Silver",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/07/precious-metals-1170x500-1.png",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2014/07/precious-metals-1170x500-1.png",
+          "width": "1170",
+          "height": "500",
+          "caption": "precious-metals-1170&#215;500",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/will-uncle-sam-come-knocking-for-my-precious-metals/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/will-uncle-sam-come-knocking-for-my-precious-metals/",
+                "name": "Will Uncle Sam come knocking for my precious metals?"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/will-uncle-sam-come-knocking-for-my-precious-metals/#webpage",
+          "url": "https://bulliontradingllc.com/blog/will-uncle-sam-come-knocking-for-my-precious-metals/",
+          "name": "Will Uncle Sam come knocking for my precious metals? - Bullion Trading LLC",
+          "datePublished": "2014-07-29T21:53:13+00:00",
+          "dateModified": "2014-07-29T21:53:13+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/07/precious-metals-1170x500-1.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/will-uncle-sam-come-knocking-for-my-precious-metals/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Will Uncle Sam come knocking for my precious metals? - Bullion Trading LLC",
+          "datePublished": "2014-07-29T21:53:13+00:00",
+          "dateModified": "2014-07-29T21:53:13+00:00",
+          "articleSection": "Gold, gold bullion, gold coins, Gold Market &amp; Economics, silver, silver bars, Silver Coins",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "This indicates if you put your savings into buying precious metals, rather of the bank, you will increase your monetary worth over time.",
+          "name": "Will Uncle Sam come knocking for my precious metals? - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/will-uncle-sam-come-knocking-for-my-precious-metals/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/will-uncle-sam-come-knocking-for-my-precious-metals/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/07/precious-metals-1170x500-1.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/will-uncle-sam-come-knocking-for-my-precious-metals/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/category/silver-bars/",
+    "https://bulliontradingllc.com/blog/category/silver-coins/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/insight-behind-bullion-trading-llcs-best-sellers/",
+    "https://bulliontradingllc.com/blog/three-ways-to-hedge-against-inflation-with-silver/",
+    "https://bulliontradingllc.com/blog/will-uncle-sam-come-knocking-for-my-precious-metals/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2014/07/precious-metals-1170x500-1.png",
+      "alt": "precious-metals-1170×500"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

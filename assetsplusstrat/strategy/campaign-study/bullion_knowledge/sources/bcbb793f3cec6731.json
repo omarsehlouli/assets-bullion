@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "bcbb793f3cec6731",
+    "url": "https://bulliontradingllc.com/blog/fomc-and-the-aftermath/",
+    "title": "FOMC and the Aftermath - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:34.358385+00:00",
+    "status": "fetched",
+    "bytes": 96356,
+    "text_characters": 3023,
+    "sha256_html": "cd74082c1ce57e6cbf53c7f1df11b92da7ce3ed2fcefb00c030259066ac67318",
+    "file": "sources/bcbb793f3cec6731.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The details of the FOMC conference absolutely raise a number of crucial concerns, and for those of us with a stake in golds instant performance, any",
+  "canonical": "https://bulliontradingllc.com/blog/fomc-and-the-aftermath/",
+  "text": "The details of the FOMC conference absolutely raise a number of crucial concerns, and for those of us with a stake in golds instant performance, any statements made in relation to QE hold considerable weight to us. But I return to my continuous point, mentioned various times, that gold probably has the most stable market performance in history, as it is the only “stock” to have had a number of millennia-worth of company. The FOMC meeting may set a low tide for golds performance in the next year, but there will be another and another, due to the fact that unlike Enron, Netflix, or any of their brethren, gold will never declare bankruptcy.\nThe financial obligation crisis in Europe continues to loom over us, leading to lots of forecasts about how gold will be affected in both the short and long-run; Greece in specific is still injuring and is typically designated as the market to keep an eye on as it may compromise gold in the short-term. Gold goes up when the dollar goes down, and vice versa, yet this does not harm golds capacity as a financial investment. The FOMC conference might set a low tide for golds efficiency in the next year, but there will be another and another, due to the fact that unlike Enron, Netflix, or any of their brethren, gold will never state bankruptcy.\nThe financial obligation crisis in Europe continues to loom over us, leading to many projections about how gold will be affected in both the short and long-run; Greece in specific is still hurting and is frequently designated as the market to keep an eye on as it may weaken gold in the short-term. Gold goes up when the dollar goes down, and vice versa, yet this does not injure golds capacity as an investment.\nThe procedure of creating money to purchase bonds in the open market is called Quantative Easing (QE), specifically due to the fact that investors are “relieved” intopurchasing gold due to the anticipation of high inflation rates. Producing money triggers more of it to be invested on gold. In the occasion that the hedge funds do not receive anymore QE they will offer at that point as the metal will no longer be an attractive property to hold. Yet the present financial environment, consisting of the creation of countless new tasks, suggests that QE would not be the finest strategy at this time.\nThe recent Federal Open Market Committee conference has not been very handy for gold. The boost in liquidity programs and decrease of bond buying programs did not speak greatly for golds future and financiers have actually started to stay away from the metal, enabling the trading rate to go down to $100/ounce. Nevertheless, the meeting did improve the outlook of development for stocks, decreasing the expectations that the reserve bank will start a third round of bond purchasing. Lets find out a bit more about the concerns caused by this conference and what they symbolize for us included in the gold trade.\nbulliontrading\nView all posts\nPrevious Post\n100 oz Englehard & JM Bars\nNext Post\n1915 Austrian Coronas",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2012/03/1-oz-portrait-of-grant-wood-american-Arts-commemorative-Series-Gold-Coin-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2012/03/1-oz-portrait-of-grant-wood-american-Arts-commemorative-Series-Gold-Coin-jpg.webp",
+          "width": "300",
+          "height": "300",
+          "caption": "1-oz-portrait-of-grant-wood-american-Arts-commemorative-Series-Gold-Coin",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/fomc-and-the-aftermath/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+                "name": "Gold Market &amp; Economics"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/fomc-and-the-aftermath/",
+                "name": "FOMC and the Aftermath"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/fomc-and-the-aftermath/#webpage",
+          "url": "https://bulliontradingllc.com/blog/fomc-and-the-aftermath/",
+          "name": "FOMC and the Aftermath - Bullion Trading LLC",
+          "datePublished": "2012-03-15T07:45:24+00:00",
+          "dateModified": "2012-03-15T07:45:24+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2012/03/1-oz-portrait-of-grant-wood-american-Arts-commemorative-Series-Gold-Coin-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/fomc-and-the-aftermath/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "FOMC and the Aftermath - Bullion Trading LLC",
+          "datePublished": "2012-03-15T07:45:24+00:00",
+          "dateModified": "2012-03-15T07:45:24+00:00",
+          "articleSection": "Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "The details of the FOMC conference absolutely raise a number of crucial concerns, and for those of us with a stake in golds instant performance, any",
+          "name": "FOMC and the Aftermath - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/fomc-and-the-aftermath/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/fomc-and-the-aftermath/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2012/03/1-oz-portrait-of-grant-wood-american-Arts-commemorative-Series-Gold-Coin-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/fomc-and-the-aftermath/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/100-oz-englehard-jm-bars/",
+    "https://bulliontradingllc.com/blog/1915-austrian-coronas/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/fomc-and-the-aftermath/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2012/03/1-oz-portrait-of-grant-wood-american-Arts-commemorative-Series-Gold-Coin-jpg.webp",
+      "alt": "1-oz-portrait-of-grant-wood-american-Arts-commemorative-Series-Gold-Coin"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

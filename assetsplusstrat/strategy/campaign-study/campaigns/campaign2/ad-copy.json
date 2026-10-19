@@ -1,0 +1,52 @@
+{
+  "google_search": {
+    "headlines": [
+      {
+        "text": "Compare 1 oz Gold Bars",
+        "characters": 22
+      },
+      {
+        "text": "Live Gold Bar Prices",
+        "characters": 20
+      },
+      {
+        "text": "Shop PAMP & Valcambi",
+        "characters": 20
+      },
+      {
+        "text": "Know the Price. Choose Gold.",
+        "characters": 28
+      },
+      {
+        "text": "Explore Gold Bars Online",
+        "characters": 24
+      },
+      {
+        "text": "Bullion Trading LLC",
+        "characters": 19
+      }
+    ],
+    "descriptions": [
+      {
+        "text": "Compare 1 oz gold bars by mint and current price. Review payment options before buying.",
+        "characters": 87
+      },
+      {
+        "text": "Explore PAMP, Valcambi and other listed bars. See live product details and availability.",
+        "characters": 88
+      },
+      {
+        "text": "Spot is the starting point. Compare the full product price before choosing your bar.",
+        "characters": 84
+      }
+    ]
+  },
+  "meta": {
+    "primary_text": "A gold bar is more than its spot price. Compare 1 oz bars by mint, current price and payment option, then choose with the details in front of you.",
+    "headline": "Compare 1 oz Gold Bars",
+    "description": "See current prices and product details.",
+    "cta": "Shop Now"
+  },
+  "creative_overlay_suggestion": "Know the price. Choose the bar.",
+  "note": "Copy and image are separate assets. No live ad was created."
+}

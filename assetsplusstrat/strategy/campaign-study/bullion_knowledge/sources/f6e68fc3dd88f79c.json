@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "f6e68fc3dd88f79c",
+    "url": "https://learn.bulliontradingllc.com/charts/gold-price-in-2026/",
+    "title": "Gold Price in 2026 — Monthly LBMA Fix, Highs & Lows | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:01.661192+00:00",
+    "status": "fetched",
+    "bytes": 19416,
+    "text_characters": 1204,
+    "sha256_html": "2590e54a7263dab9316ef5ced6ea81312539c27931da0e403cc0ee2e61314b75",
+    "file": "sources/f6e68fc3dd88f79c.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Gold in 2026: 9 monthly observations, 2026-01-30 to 2026-09-25. Sampled high $5,222, low $4,026; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/gold-price-in-2026/",
+  "text": "Gold Price in 2026\nAmong 9 monthly observations available for 2026, the LBMA gold price fell 14.5% between 2026-01-30 ($4,982) and 2026-09-25 ($4,261). The highest sampled price was $5,222 in February and the lowest was $4,026 in June. The mean of these observations was $4,538. This is a first-to-last observation change, not a calendar-year return.\n2026 gold price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$4,982\n(2026-01-30)\n$5,222\n(February)\n$4,026\n(June)\n$4,261\n(2026-09-25)\n$4,538\nGBP\n£3,625\n(2026-01-30)\n£3,882\n(February)\n£3,003\n(July)\n£3,217\n(2026-09-25)\n£3,379\nEUR\n€4,185\n(2026-01-30)\n€4,425\n(February)\n€3,512\n(July)\n€3,738\n(2026-09-25)\n€3,907\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live gold price on the\nBullion Trading LLC spot dashboard\n, or\nshop gold bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold price history",
+              "item": "https://learn.bulliontradingllc.com/charts/gold-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "2026"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Gold price in 2026 — LBMA monthly fix",
+          "description": "Gold in 2026: 9 monthly observations, 2026-01-30 to 2026-09-25. Sampled high $5,222, low $4,026; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/gold-price-in-2026/",
+          "temporalCoverage": "2026-01-30/2026-09-25",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

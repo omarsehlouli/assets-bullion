@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "id": "c233f6d7d6a90725",
+    "url": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-gold/",
+    "title": "What Impacts the Price of Gold? - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:16.373724+00:00",
+    "status": "fetched",
+    "bytes": 97392,
+    "text_characters": 4277,
+    "sha256_html": "a75f0a9ba7edfc5185edece1c9bad6cba5919bac5d4285ab663c6a9e914facee",
+    "file": "sources/c233f6d7d6a90725.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The rate of gold has been driven by several divergent factors considering that it was first heated by the ancient Egyptians. It quickly ended up being a",
+  "canonical": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-gold/",
+  "text": "The rate of gold has been driven by several divergent factors considering that it was first heated by the ancient Egyptians. It quickly ended up being a method of displaying beauty and wealth, with the ancient Mesopotamians embellishing their dead with lovely (and pricey) headdresses. Humankind has actually been driven by a desire for gold throughout its history, with King Ferdinand of Spain stating in 1511 that humans must get gold by any methods needed.\nGold has actually continued to be an important product into the modern-day day. As the years pass gold is utilized in more things than simply burial headdresses; being utilized for investment purposes, electronic gadgets, medical devices, and even used in the equipment sending out humans into space. In 2011 gold reached a record high of $1,420 per ounce due to its desirability.\nGold bars and granules are visualized at the Austrian Gold and Silver Separating Plant Oegussa in Vienna October 23, 2012. REUTERS/Heinz-Peter Bader (AUSTRIA – Tags: BUSINESS)\nThe concern that appears is basic: what drives the price of gold to these highs?\nMaybe the most apparent chauffeur of gold costs is the real production rates. Many of the “easy gold” on the planet has already been mined. To access new gold reserves needs better (read: more expensive) innovation, and more dangerous practices. This places the worth of the gold that is being mined by the major players more pricey. China, South Africa, the United States, Australia, Russia, and Peru are thus required to spend more in order to reach gold and satisfy demand. In turn, these costs are passed on to the consumer.\nGold demand will continue to increase, as it constantly has throughout human history. Do you comprehend the methods which the rate of gold is driven? Share this story, and let us understand in the remarks!\nIn 2010, according to the World Gold Council and the London Bullion Market Association, 54% of the worldwide gold need was accounted for on the jewelry market.\nWhile gold is the first currency reserve of much of the world, the US dollar is the 2nd, and increasingly the. Because of this, when the worth of the dollar increases, the worth of gold decreases and vice versa.\nConnected to the first 2 drivers, wealth protection drives the price of gold. Uncertain economic times implies individuals put less faith in the currency released by a country. In turn, the seek to other areas to safeguard their cash. As covered previously, when financial times doubt the cost of gold increases. This is that principle in action. Gold also supplies political protection in case unsteady states – particularly in the MENA regions – fail. Gold is deemed a “safe haven” by financiers as even if currencies stop working gold will still remain in need.\nOne of the largest chauffeurs of the price of gold is also the oldest: main and state banks. Gold is utilized as a reserve currency the world over, for while it is no longer being used to back difficult currency its intrinsic worth implies that countries have money on hand for emergency situation functions. With this gold being drawn off the open market, it implies the minimal supply of gold on the market increases.\nThe rate of gold has been driven by several divergent elements since it was very first heated by the ancient Egyptians. Gold bars and granules are envisioned at the Austrian Gold and Silver Separating Plant Oegussa in Vienna October 23, 2012. With this gold being drawn off the open market, it means the minimal supply of gold on the market increases. Gold is viewed as a “safe sanctuary” by investors as even if currencies stop working gold will still be in demand.\nIn 2010, according to the World Gold Council and the London Bullion Market Association, 54% of the around the world gold need was accounted for on the precious jewelry market. 3 of the most populated nations on Earth (India, China, and the United States) were certainly the most significant stars on the market, with China requiring 200 tonnes in the very first 2 months of 2011 alone. 12% of the demand on this market is driven by industrial usage – typically in medical and electronic manufacturing.\nbulliontrading\nView all posts\nPrevious Post\nHow To Spot Fake Gold And Silver\nNext Post\nThe Many Uses Of Silver, Part 1",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/2013-Proof-5-Star-Generals-Commemorative-Coins-1-1-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2021/04/2013-Proof-5-Star-Generals-Commemorative-Coins-1-1-jpg.webp",
+          "width": "750",
+          "height": "355",
+          "caption": "Untitled",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-gold/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/coin-collection/",
+                "name": "coin collection"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-gold/",
+                "name": "What Impacts the Price of Gold?"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-gold/#webpage",
+          "url": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-gold/",
+          "name": "What Impacts the Price of Gold? - Bullion Trading LLC",
+          "datePublished": "2017-08-03T10:15:33+00:00",
+          "dateModified": "2017-08-03T10:15:33+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/2013-Proof-5-Star-Generals-Commemorative-Coins-1-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-gold/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "What Impacts the Price of Gold? - Bullion Trading LLC",
+          "datePublished": "2017-08-03T10:15:33+00:00",
+          "dateModified": "2017-08-03T10:15:33+00:00",
+          "articleSection": "coin collection, Gold Bars, gold bullion, gold coins, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "The rate of gold has been driven by several divergent factors considering that it was first heated by the ancient Egyptians. It quickly ended up being a",
+          "name": "What Impacts the Price of Gold? - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-gold/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-gold/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/2013-Proof-5-Star-Generals-Commemorative-Coins-1-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/what-impacts-the-price-of-gold/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/coin-collection/",
+    "https://bulliontradingllc.com/blog/category/gold-bars/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/how-to-spot-fake-gold-and-silver/",
+    "https://bulliontradingllc.com/blog/the-many-uses-of-silver-part-1/",
+    "https://bulliontradingllc.com/blog/what-impacts-the-price-of-gold/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/2013-Proof-5-Star-Generals-Commemorative-Coins-1-1-jpg.webp",
+      "alt": "Untitled"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

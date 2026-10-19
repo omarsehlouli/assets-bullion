@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "id": "8eba69c8cf16de4d",
+    "url": "https://learn.bulliontradingllc.com/charts/platinum-price-in-1999/",
+    "title": "Platinum Price in 1999 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:10.114371+00:00",
+    "status": "fetched",
+    "bytes": 19522,
+    "text_characters": 1191,
+    "sha256_html": "65ea4c501dafd0039deee9912d7faeac0050bd80cb0052500de4228c98a9abf8",
+    "file": "sources/8eba69c8cf16de4d.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Platinum in 1999: 12 monthly observations, 1999-01-29 to 1999-12-30. Sampled high $443, low $344; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/platinum-price-in-1999/",
+  "text": "Platinum Price in 1999\nAmong 12 monthly observations available for 1999, the LBMA platinum price rose 28.6% between 1999-01-29 ($345) and 1999-12-30 ($443). The highest sampled price was $443 in December and the lowest was $344 in July. The mean of these observations was $378. This is a first-to-last observation change, not a calendar-year return.\n1999 platinum price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$345\n(1999-01-29)\n$443\n(December)\n$344\n(July)\n$443\n(1999-12-30)\n$378\nGBP\n£209\n(1999-01-29)\n£274\n(November)\n£209\n(January)\n£274\n(1999-12-30)\n£234\nEUR\n€303\n(1999-01-29)\n€441\n(December)\n€303\n(January)\n€441\n(1999-12-30)\n€358\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live platinum price on the\nBullion Trading LLC spot dashboard\n, or\nshop platinum bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Platinum price history",
+              "item": "https://learn.bulliontradingllc.com/charts/platinum-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1999"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Platinum price in 1999 — LBMA monthly fix",
+          "description": "Platinum in 1999: 12 monthly observations, 1999-01-29 to 1999-12-30. Sampled high $443, low $344; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/platinum-price-in-1999/",
+          "temporalCoverage": "1999-01-29/1999-12-30",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/platinum-and-palladium/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

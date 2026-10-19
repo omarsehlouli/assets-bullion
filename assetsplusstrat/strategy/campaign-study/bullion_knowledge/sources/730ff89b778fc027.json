@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "id": "730ff89b778fc027",
+    "url": "https://bulliontradingllc.com/bullion-tax/delaware/",
+    "title": "Bullion Sales Tax in Delaware (2026): Rules & Examples",
+    "retrieved_at": "2026-10-12T22:11:22.243346+00:00",
+    "status": "fetched",
+    "bytes": 103669,
+    "text_characters": 2020,
+    "sha256_html": "2f61f2534d037e7436aef8bb1851f018506323e69118f21c64a051a31d4e2281",
+    "file": "sources/730ff89b778fc027.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Delaware has no state sales tax, so bullion, coins, and jewelry are not subject to Delaware sales tax. No exemption threshold is needed.",
+  "canonical": "https://bulliontradingllc.com/bullion-tax/delaware/",
+  "text": "←\nAll states\nStatewide sales tax\nNone\nWhat's taxed?\nGood to know\nCommon questions\nHere's how each kind of item is treated in this state. Tap a row to read the plain-English note.\nWhat you're buying\nSales tax?\nWhat that means\nBullion Bars\nNo sales tax\nNo sales tax in Delaware. You won't see sales tax on this on your order.\nBullion Coins\nNo sales tax\nNo sales tax in Delaware. You won't see sales tax on this on your order.\nBullion Rounds\nNo sales tax\nNo sales tax in Delaware. You won't see sales tax on this on your order.\nLegal-Tender Coins\nNo sales tax\nNo sales tax in Delaware. You won't see sales tax on this on your order.\nNumismatic Coins\nNo sales tax\nNo sales tax in Delaware. You won't see sales tax on this on your order.\nJewelry\nNo sales tax\nNo sales tax in Delaware. You won't see sales tax on this on your order.\nIndustrial Precious Metal\nNo sales tax\nNo sales tax in Delaware. You won't see sales tax on this on your order.\nCollectibles (Non-Coin)\nNo sales tax\nNo sales tax in Delaware. You won't see sales tax on this on your order.\nPaper Currency\nNo sales tax\nNo sales tax in Delaware. You won't see sales tax on this on your order.\nAccessories\nNo sales tax\nNo sales tax in Delaware. You won't see sales tax on this on your order.\nWhat's covered by the exemption\nDelaware has no general sales tax — there is nothing to exempt or apply.\nWhat's NOT covered\nNo state or local general sales tax\nCommon questions about sales tax on gold and silver in Delaware.\nIs gold bullion taxed in Delaware?\n+\nNo. Delaware has no state sales tax, so Delaware sales tax is not charged on bullion.\nAre silver coins subject to sales tax in Delaware?\n+\nNo. Because Delaware has no general sales tax, coins are not subject to Delaware sales tax.\nDo I pay sales tax on numismatic coins in Delaware?\n+\nNo. Delaware does not impose a general sales tax, so numismatic coin purchases are not charged Delaware sales tax.\nIs jewelry taxed in Delaware?\n+\nNo. With no statewide sales tax, jewelry is not subject to Delaware sales tax.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Sales Tax in Delaware (2026): Rules &amp; Examples",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "description": "Delaware has no state sales tax, so bullion, coins, and jewelry are not subject to Delaware sales tax. No exemption threshold is needed."
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/bullion-tax/delaware/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/bullion-tax/",
+                "name": "Bullion Sales Tax by State"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "name": "Delaware",
+              "item": "https://bulliontradingllc.com/bullion-tax/delaware/"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "WebPage",
+            "FAQPage"
+          ],
+          "@id": "https://bulliontradingllc.com/bullion-tax/delaware/#webpage",
+          "url": "https://bulliontradingllc.com/bullion-tax/delaware/",
+          "name": "Bullion Sales Tax in Delaware (2026): Rules &amp; Examples",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/delaware/#breadcrumb"
+          },
+          "headline": "Delaware Sales Tax on Bullion",
+          "description": "Delaware has no state sales tax, so bullion, coins, and jewelry are not subject to Delaware sales tax. No exemption threshold is needed.",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is gold bullion taxed in Delaware?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. Delaware has no state sales tax, so Delaware sales tax is not charged on bullion."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are silver coins subject to sales tax in Delaware?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. Because Delaware has no general sales tax, coins are not subject to Delaware sales tax."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do I pay sales tax on numismatic coins in Delaware?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. Delaware does not impose a general sales tax, so numismatic coin purchases are not charged Delaware sales tax."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is jewelry taxed in Delaware?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. With no statewide sales tax, jewelry is not subject to Delaware sales tax."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Bullion Sales Tax in Delaware (2026): Rules &amp; Examples",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Delaware has no state sales tax, so bullion, coins, and jewelry are not subject to Delaware sales tax. No exemption threshold is needed.",
+          "name": "Bullion Sales Tax in Delaware (2026): Rules &amp; Examples",
+          "@id": "https://bulliontradingllc.com/bullion-tax/delaware/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/delaware/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/delaware/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/bullion-tax/district-of-columbia/",
+    "https://bulliontradingllc.com/bullion-tax/florida/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    }
+  ]
+}

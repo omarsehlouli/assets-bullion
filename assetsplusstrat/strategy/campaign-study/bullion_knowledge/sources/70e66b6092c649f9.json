@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "70e66b6092c649f9",
+    "url": "https://bulliontradingllc.com/blog/preparing-for-the-worst-buying-silver/",
+    "title": "Preparing For The Worst: Buying Silver - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:03.746474+00:00",
+    "status": "fetched",
+    "bytes": 95503,
+    "text_characters": 2840,
+    "sha256_html": "7c9469b3a4d8597f72cbb033168b92fdf357da723e1fdb4b16deac65173e7320",
+    "file": "sources/70e66b6092c649f9.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The economic downturns that were experienced around the globe in 2001 and 2008 taught many individuals a really crucial lesson: no market is invincible.",
+  "canonical": "https://bulliontradingllc.com/blog/preparing-for-the-worst-buying-silver/",
+  "text": "The economic downturns that were experienced around the globe in 2001 and 2008 taught many individuals a really crucial lesson: no market is invincible. Soaring inflation rates and transportation expenses for items made the purchasing power of the dollar extremely weak for many years. This has actually led many individuals to consider putting their financial investments into something that is consistent and powerful; like silver.\nWhat Are Investors Worried About?\nPurchasing silver as a hedge versus inflation is absolutely nothing new. For individuals with some cash that is in a single currency, it is always a great concept to diversify their holdings in the face of an uncertain market. With the severe highs and lows that have punctuated the last years, lots of individuals are now stressed that some currencies might be on the edge of a collapse.\nWhile there is combined information that is being provided to support this notion, it has not stopped people from starting to purchase difficult products that can be used as a financial market base.\nHow Can Silver Protect My Money?\nAnother form of silver investment that is gaining considerable traction is physically having collections of the metal kept in a safe area. Some people want to use it on the occasion that a barter system is put into place, however most others like the idea of its liquidity in several countries.\nUsually, there are two schools of idea that pervade the discussion about using silver bullion and silver coin financial investments to protect your wealth. Initially, silver bullion can be invested even when you are not physically in ownership of the rare-earth element. You can invest in it as a hedge to protect yourself versus downturns in the currency through which you run.\nWhere Do I Buy Silver?\nGenerally, there are two schools of idea that pervade the conversation about utilizing silver bullion and silver coin financial investments to secure your wealth. Possibly the finest location to buy silver in the New York location is Bullion Trading LLC, which is commemorating their 25-year anniversary this year. They have a city office where you can go to purchase, offer, and get financial investment guidance about silver bullion and coins.\nPossibly the best place to purchase silver in the New York area is Bullion Trading LLC, which is celebrating their 25-year anniversary this year. They have a city office where you can go to buy, sell, and get investment advice about silver bullion and coins. If you can not make it into their shop, there is no reason to worry due to the fact that they have an accomplished and regularly updated website at BullionTradingLLC.com and experts to assist you.\nbulliontrading\nView all posts\nPrevious Post\nWhy Silver Is Becoming A Better Investment Than Gold\nNext Post\n3 Reasons That Silver Demand Is Going To Rise",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/09/buying-silver-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2014/09/buying-silver-jpg.webp",
+          "width": "800",
+          "height": "342",
+          "caption": "buying-silver",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/preparing-for-the-worst-buying-silver/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+                "name": "Gold Market &amp; Economics"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/preparing-for-the-worst-buying-silver/",
+                "name": "Preparing For The Worst: Buying Silver"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/preparing-for-the-worst-buying-silver/#webpage",
+          "url": "https://bulliontradingllc.com/blog/preparing-for-the-worst-buying-silver/",
+          "name": "Preparing For The Worst: Buying Silver - Bullion Trading LLC",
+          "datePublished": "2014-09-25T15:54:47+00:00",
+          "dateModified": "2014-09-25T15:54:47+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/09/buying-silver-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/preparing-for-the-worst-buying-silver/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Preparing For The Worst: Buying Silver - Bullion Trading LLC",
+          "datePublished": "2014-09-25T15:54:47+00:00",
+          "dateModified": "2014-09-25T15:54:47+00:00",
+          "articleSection": "Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "The economic downturns that were experienced around the globe in 2001 and 2008 taught many individuals a really crucial lesson: no market is invincible.",
+          "name": "Preparing For The Worst: Buying Silver - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/preparing-for-the-worst-buying-silver/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/preparing-for-the-worst-buying-silver/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/09/buying-silver-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/preparing-for-the-worst-buying-silver/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/3-reasons-that-silver-demand-is-going-to-rise/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/preparing-for-the-worst-buying-silver/",
+    "https://bulliontradingllc.com/blog/why-silver-is-becoming-a-better-investment-than-gold/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2014/09/buying-silver-jpg.webp",
+      "alt": "buying-silver"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

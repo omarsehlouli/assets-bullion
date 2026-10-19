@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "id": "513b7734b65e8cee",
+    "url": "https://learn.bulliontradingllc.com/guides/platinum-investing/",
+    "title": "Platinum Investing | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:31.756463+00:00",
+    "status": "fetched",
+    "bytes": 22343,
+    "text_characters": 3994,
+    "sha256_html": "4646a03a02d87cb2156557900475e6ff324aef7559ba1ffb70aa6919ac9b2019",
+    "file": "sources/513b7734b65e8cee.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Rarer than gold, with strong industrial demand from auto catalysts. Platinum trades on a different rhythm — here is the framework.",
+  "canonical": "https://learn.bulliontradingllc.com/guides/platinum-investing/",
+  "text": "intermediate\nUpdated June 1, 2026\nBy the\nBullion Trading LLC editorial team\nPlatinum Investing\nRarer than gold, with strong industrial demand from auto catalysts. Platinum trades on a different rhythm — here is the framework.\nPlatinum sits in an awkward middle ground for most investors: too industrial to behave like gold, too scarce and concentrated in supply to behave like a base metal. About 70% of mined supply comes from a handful of South African operations, and roughly 40% of annual demand is tied to autocatalysts. That combination produces price action that often diverges sharply from the rest of the precious-metals complex — and creates entry points that gold and silver investors routinely miss.\nThis path builds the working knowledge to evaluate platinum on its own terms rather than as a gold substitute. By the end, you will understand the supply pipeline, the demand drivers worth tracking, the practical tradeoffs between bullion, ETFs, mining equities, and futures, and how platinum fits inside a tax-aware long-term portfolio. The goal is competence: making allocation, vehicle, and timing decisions about platinum specifically — with reasons you can defend.\n📊\nWhat you'll learn\nHow South African supply concentration and autocatalyst demand drive the platinum price cycle\nThe real tradeoffs between physical bars and coins, ETFs, miner equities, and futures exposure\nHow to size a platinum position alongside gold and silver without doubling up on the same risk\nTax treatment, IRA eligibility rules, and storage choices that materially affect after-tax returns\nWhat’s in this path\nIntroduction to Platinum Investing\n— what makes platinum distinct from gold and silver, and why it deserves a separate framework.\nPlatinum Market Fundamentals\n— mine supply, recycling, autocatalyst and jewelry demand, and the platinum-palladium-rhodium relationship.\nPhysical Platinum Investment\n— coins, bars, premiums, authentication, and the realities of buying and storing physical platinum.\nIndirect Platinum Investment Methods\n— ETFs, closed-end funds, mining stocks, streaming companies, and futures contracts compared.\nComprehensive Platinum Investment Strategy\n— position sizing, correlation with gold, and integrating platinum into a diversified portfolio.\nAdvanced Platinum Investment Approaches\n— ratio trading, supply-disruption plays, and tactical use of options and leverage.\nPlatinum Tax & Retirement Planning\n— collectibles tax rules, IRA-eligible products, and structuring holdings for long-term efficiency.\nIntroduction to Platinum Investing\nPlatinum is roughly 30 times rarer than gold and serves as both an industrial and precious metal, offering distinct diversification and supply-driven upside.\nPlatinum Market Fundamentals\nHow scarcity, concentrated supply, industrial demand, and persistent deficits shape platinum prices and create distinct dynamics from gold and silver.\nPhysical Platinum Investment\nHow to buy, store, and sell physical platinum bars and coins, including premiums, VAT impact, storage choices, and liquidity considerations.\nIndirect Platinum Investment Methods\nSurvey of ETFs, mining stocks, futures, options, vaulted accounts, and funds that provide platinum exposure without holding the physical metal.\nComprehensive Platinum Investment Strategy\nHow to build a diversified platinum allocation across physical metal, ETFs, and mining stocks while managing volatility, costs, and geopolitical risk.\nAdvanced Platinum Investment Approaches\nSophisticated platinum strategies including vaulted ownership, derivatives, leveraged mining stocks, and ratio-based trades for experienced investors managing complex risk.\nPlatinum Tax & Retirement Planning\nHow platinum investments are taxed in the US, the role of self-directed IRAs, and strategies to optimize after-tax returns.\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Guides",
+              "item": "https://learn.bulliontradingllc.com/guides/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Platinum Investing"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Platinum Investing",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 7,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "url": "https://learn.bulliontradingllc.com/guides/platinum-investing/01-introduction-platinum-investing/",
+              "name": "Introduction to Platinum Investing"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "url": "https://learn.bulliontradingllc.com/guides/platinum-investing/02-platinum-market-fundamentals/",
+              "name": "Platinum Market Fundamentals"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "url": "https://learn.bulliontradingllc.com/guides/platinum-investing/03-physical-platinum-investment/",
+              "name": "Physical Platinum Investment"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "url": "https://learn.bulliontradingllc.com/guides/platinum-investing/04-indirect-platinum-investment-methods/",
+              "name": "Indirect Platinum Investment Methods"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "url": "https://learn.bulliontradingllc.com/guides/platinum-investing/05-comprehensive-platinum-investment-strategy/",
+              "name": "Comprehensive Platinum Investment Strategy"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "url": "https://learn.bulliontradingllc.com/guides/platinum-investing/06-advanced-platinum-investment-approaches/",
+              "name": "Advanced Platinum Investment Approaches"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "url": "https://learn.bulliontradingllc.com/guides/platinum-investing/07-platinum-tax-retirement-planning/",
+              "name": "Platinum Tax & Retirement Planning"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

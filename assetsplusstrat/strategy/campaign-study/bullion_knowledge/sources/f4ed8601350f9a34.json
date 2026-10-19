@@ -1,0 +1,94 @@
+{
+  "metadata": {
+    "id": "f4ed8601350f9a34",
+    "url": "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "title": "Gold-to-Silver Ratio History — Monthly Chart & Data | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:01.792861+00:00",
+    "status": "fetched",
+    "bytes": 18610,
+    "text_characters": 1592,
+    "sha256_html": "8bf644206767808f85f0d45870b1fde5bee1d9bbbf309f06481cea3c8b92e5fc",
+    "file": "sources/f4ed8601350f9a34.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The gold/silver ratio in the monthly LBMA sample. The 2026-09 observation is 65.5:1 vs a long-run average of 59.2:1 — sample high 115.5:1, sample low 15.9:1. Interactive chart.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+  "text": "Gold-to-Silver Ratio History\nThe gold-to-silver ratio is how many ounces of silver it takes to buy one ounce of gold.\nThe latest monthly observation is\n65.5:1\n(Sep 2026), versus a\nsample average of\n59.2:1\n— it has ranged from a low of 15.9:1\n(Dec 1979) to a high of 115.5:1 (Mar 2020).\nSources and methodology\n· Data retrieved 2026-09-26. Monthly sample extrema are not intraday records.\nCurrent ratio\n65.5 : 1\nSep 2026\n58-year average\n59.2 : 1\nSample high\n115.5 : 1\nMar 2020\nSample low\n15.9 : 1\nDec 1979\nThe latest monthly ratio sits in the\n56\nth percentile\nof the available monthly sample — historically\na relatively high ratio, meaning silver is cheap relative to gold\n.\nAll (1968→)\n30Y\n20Y\n10Y\nRatio = LBMA gold fix ÷ LBMA silver fix, monthly, USD. A ratio of 80 means one ounce of gold buys 80 ounces of silver.\nHow investors use the ratio\nSome investors compare the ratio with its historical distribution and treat extremes as\nsignals: when the ratio is unusually\nhigh\n, silver is historically cheap relative to\ngold (a setup some use to rotate from gold into silver); when it's unusually\nlow\n,\nthe reverse. It is a relative-value gauge, not a timing tool — the ratio can stay stretched for years.\nWhy the LBMA data matters\nThis chart uses the official LBMA London fix for both metals, monthly, back to 1968 — one observation per month. Gold and silver are fixed at different times of day; this is a historical ratio, not an executable simultaneous quote.\nWant to act on the ratio?\nShop gold\nor\nsilver bullion\nat live, spot-based prices, or see\nthe full\ngold\nand\nsilver\nprice histories.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold-to-silver ratio history"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Gold-to-silver ratio history (LBMA, monthly observations since 1968)",
+          "description": "The gold/silver ratio in the monthly LBMA sample. The 2026-09 observation is 65.5:1 vs a long-run average of 59.2:1 — sample high 115.5:1, sample low 15.9:1. Interactive chart.",
+          "url": "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+          "temporalCoverage": "1968/2026",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

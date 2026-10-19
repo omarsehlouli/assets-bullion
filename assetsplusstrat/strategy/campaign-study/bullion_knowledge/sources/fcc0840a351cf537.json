@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "fcc0840a351cf537",
+    "url": "https://learn.bulliontradingllc.com/charts/silver-price-1960s/",
+    "title": "Silver Price in the 1960s — LBMA Decade Chart & Data | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:13.783099+00:00",
+    "status": "fetched",
+    "bytes": 17055,
+    "text_characters": 609,
+    "sha256_html": "74bfcc038cdca22717e7bcc0088c6c076066224357fa5a8279e665c8a6bd3a85",
+    "file": "sources/fcc0840a351cf537.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Silver price through the 1960s: from $1.96 to $1.79, monthly-sample high $2.50, monthly-sample low $1.56. Monthly LBMA chart for the decade.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/silver-price-1960s/",
+  "text": "Silver Price in the 1960s\nBetween the first (1968-01-31) and last (1969-12-31) monthly observations available for the 1960s, the LBMA silver price went from $1.96 to $1.79 — a decline of 9% — with a sampled high of $2.50 (Jun 1968) and a sampled low of $1.56 (Jun 1969).\nYears in the 1960s\n1968\n1969\nSee today's live silver price on the\nspot dashboard\n, or\nshop silver bullion\nat Bullion Trading LLC.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Silver price history",
+              "item": "https://learn.bulliontradingllc.com/charts/silver-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1960s"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Silver price in the 1960s — LBMA monthly fix",
+          "description": "Silver price through the 1960s: from $1.96 to $1.79, monthly-sample high $2.50, monthly-sample low $1.56. Monthly LBMA chart for the decade.",
+          "url": "https://learn.bulliontradingllc.com/charts/silver-price-1960s/",
+          "temporalCoverage": "1968-01-31/1969-12-31",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

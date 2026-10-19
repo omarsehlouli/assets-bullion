@@ -1,0 +1,8 @@
+{
+  "retrieved_at": "2026-10-12T22:13:47.039091+00:00",
+  "discovered": 1430,
+  "selected": 1427,
+  "fetched": 1427,
+  "failed": 0,
+  "method": "Public sitemap collection respecting robots.txt; page text, metadata, JSON-LD, image references. No account access."
+}

@@ -1,0 +1,52 @@
+{
+  "google_search": {
+    "headlines": [
+      {
+        "text": "Plan Your Manhattan Pickup",
+        "characters": 26
+      },
+      {
+        "text": "Shop Gold Bars Online",
+        "characters": 21
+      },
+      {
+        "text": "Buy Gold With Local Pickup",
+        "characters": 26
+      },
+      {
+        "text": "Confirm Pickup With Our Team",
+        "characters": 28
+      },
+      {
+        "text": "Bullion in Midtown Manhattan",
+        "characters": 28
+      },
+      {
+        "text": "Bullion Trading LLC",
+        "characters": 19
+      }
+    ],
+    "descriptions": [
+      {
+        "text": "Explore gold bars and arrange eligible Manhattan pickup. Confirm payment and timing.",
+        "characters": 84
+      },
+      {
+        "text": "Pickup depends on payment clearance. Credit card and PayPal orders must be shipped.",
+        "characters": 83
+      },
+      {
+        "text": "Contact our New York team before visiting. Shop current products and live prices.",
+        "characters": 81
+      }
+    ]
+  },
+  "meta": {
+    "primary_text": "Choose your gold online, then contact our Manhattan team to arrange eligible pickup. Timing depends on payment clearance. Card and PayPal orders must ship.",
+    "headline": "Plan Your Manhattan Pickup",
+    "description": "Confirm payment and collection first.",
+    "cta": "Shop Now"
+  },
+  "creative_overlay_suggestion": "Shop online. Plan your pickup.",
+  "note": "Copy and image are separate assets. No live ad was created."
+}

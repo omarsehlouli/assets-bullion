@@ -1,0 +1,295 @@
+{
+  "metadata": {
+    "id": "691f46945d2537e9",
+    "url": "https://bulliontradingllc.com/blog/will-there-be-enough-physical-gold-and-silver/",
+    "title": "Will There Be Enough Physical Gold And Silver? - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:20.710822+00:00",
+    "status": "fetched",
+    "bytes": 113733,
+    "text_characters": 3554,
+    "sha256_html": "3c489e8b8d1b681dc1c783c46725e7d57c9255caad8591e970e66db4d9e65885",
+    "file": "sources/691f46945d2537e9.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Examines whether physical gold and silver supplies could meet surging demand, and how scarcity, mining limits, and crises affect markets.",
+  "canonical": "https://bulliontradingllc.com/blog/will-there-be-enough-physical-gold-and-silver/",
+  "text": "Imagine a scenario where the demand for precious metals significantly increases. Gold is being bought and sold en masse and traded as a currency. This could be the result of an economic crisis where the value of the US dollar ($USD) plummets. Would there be enough gold and silver to go around?\nGold Is Finite, Therefore Expensive\nGold is a finite resource that was actually formed in outer space before it was kneaded into the veins of the Earth by geothermal activity. It takes a lot of mining to produce a single ounce of gold. Once bought, it rarely leaves the hands of the buyer, as it’s most often\nbought as insurance\n. It’s understandable why it’s so valuable and why people are concerned with its scarcity. Gold sellers and buyers worry that their dealers and suppliers won’t be able to keep up with demand if the general public loses faith in the currency. Supply becomes an issue when the price of gold increases. If gold is in high demand and its value is at an all-time high, what would make someone holding such valuable assets want to sell?\nThis just makes owning gold all the more exigent. As inflation rises and the purchasing power of the dollar weakens, people will be willing to pay much more for gold. This is where gold investors will have the benefit.\nGold Supply In An Economic Crisis\nGold is a currency. This is fundamental to understanding the nature of gold relative to the economy. When there’s more demand for it and people are willing to pay higher prices for it, it will always be moving. People hold onto it as insurance but an economic crisis scenario would be a sound justification to tap into that insurance.\nIn essence, there’s no such thing as gold and silver “running out.”\nResources like food get eaten, land gets occupied and the gas in your car gets used and burned up into the air. Precious metals only change form and change hands, they don’t disappear, they don’t go back to where they came from. Even gold and silver jewelry can be melted down back into its original form and retain its value.\nGold and silver is either held onto, traded, hidden or transformed\n. It’s been here for 3 billion years and it’s here to stay. When necessary, gold and silver will be traded for goods and services like any other currency. There will be more incentive for investors to sell it when the prices are soaring due to high demand.\nWill we see a bull run to gold in the near future? Time will tell. In the meantime, having a diverse investment portfolio that includes precious metals will provide you with security and peace of mind. You never know when that investment will come in handy and your present self will be thanking your past self for providing that sort of protection. There will always be market-influencing scenarios in which you can benefit from your reserve of precious metals. However, if the country meets a fate where the economy collapses entirely and we have to resort to bartering goods and services, keep in mind that the value of your investment will ultimately be determined by who you are trading with and\nwhether or not they personally deem precious metals a valuable exchange\n.\nbulliontrading\nView all posts\nPrevious Post\nWhen Gold Is Bought For Insurance\nNext Post\nSouth African Krugerrand Gold Coin\nOne thought on “\nWill There Be Enough Physical Gold And Silver?\n”\nI like the valuable info you provide in your articles.\nI will bookmark your weblog and check again here\nregularly. I am quite certain I’ll learn many new stuff right here!\nGood luck for the next!\nReply\nLeave a Reply\nCancel reply",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/Kalgoorlie_The_Big_Pit_DSC04498.jpeg",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2021/04/Kalgoorlie_The_Big_Pit_DSC04498.jpeg",
+          "width": "1024",
+          "height": "768",
+          "caption": "Untitled",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/will-there-be-enough-physical-gold-and-silver/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/will-there-be-enough-physical-gold-and-silver/",
+                "name": "Will There Be Enough Physical Gold And Silver?"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/will-there-be-enough-physical-gold-and-silver/#webpage",
+          "url": "https://bulliontradingllc.com/blog/will-there-be-enough-physical-gold-and-silver/",
+          "name": "Will There Be Enough Physical Gold And Silver? - Bullion Trading LLC",
+          "datePublished": "2021-02-04T12:28:22+00:00",
+          "dateModified": "2021-02-04T12:28:22+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/Kalgoorlie_The_Big_Pit_DSC04498.jpeg"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/will-there-be-enough-physical-gold-and-silver/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Will There Be Enough Physical Gold And Silver? - Bullion Trading LLC",
+          "datePublished": "2021-02-04T12:28:22+00:00",
+          "dateModified": "2021-02-04T12:28:22+00:00",
+          "articleSection": "Gold, Gold Bars, gold bullion, gold coins, Gold Market &amp; Economics, news, silver, silver bars, Silver Coins",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Examines whether physical gold and silver supplies could meet surging demand, and how scarcity, mining limits, and crises affect markets.",
+          "name": "Will There Be Enough Physical Gold And Silver? - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/will-there-be-enough-physical-gold-and-silver/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/will-there-be-enough-physical-gold-and-silver/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/Kalgoorlie_The_Big_Pit_DSC04498.jpeg"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/will-there-be-enough-physical-gold-and-silver/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-bars/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/category/news/",
+    "https://bulliontradingllc.com/blog/category/silver-bars/",
+    "https://bulliontradingllc.com/blog/category/silver-coins/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/south-african-krugerrand-gold-coin/",
+    "https://bulliontradingllc.com/blog/when-gold-is-bought-for-insurance/",
+    "https://bulliontradingllc.com/blog/why-are-you-buying-gold/",
+    "https://bulliontradingllc.com/blog/will-there-be-enough-physical-gold-and-silver/",
+    "https://bulliontradingllc.com/blog/will-there-be-enough-physical-gold-and-silver/#comment-30",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://satta-king.center",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/Kalgoorlie_The_Big_Pit_DSC04498.jpeg",
+      "alt": "Untitled"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://bulliontradingllc.com/blog/wp-content/uploads/2021/02/AAxJI8N-1024x660.jpeg",
+      "alt": "Stacked gold and silver bars with a market chart background"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/be8b944b453dd9f7f218f85aa1bac9f1b0ac5ba46fce214c2d0bd7af4a53ae08?s=32&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

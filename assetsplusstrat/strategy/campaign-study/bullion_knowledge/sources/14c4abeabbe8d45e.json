@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "id": "14c4abeabbe8d45e",
+    "url": "https://bulliontradingllc.com/blog/mf-global-why-you-should-hold-some-gold-bullion/",
+    "title": "MF Global & Why You Should Hold Some Gold Bullion - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:58.789322+00:00",
+    "status": "fetched",
+    "bytes": 94651,
+    "text_characters": 3465,
+    "sha256_html": "5ea5efc481c993118576268e112180d732c7af41c80a4a9dfcd97bb751e6dcb0",
+    "file": "sources/14c4abeabbe8d45e.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The downfall of MF Global is a caution of the unpredictable nature of trading products, coming at a hard time for Wall St. Gold is the only commodity with",
+  "canonical": "https://bulliontradingllc.com/blog/mf-global-why-you-should-hold-some-gold-bullion/",
+  "text": "The downfall of MF Global is a caution of the unpredictable nature of trading products, coming at a hard time for Wall St. Gold is the only commodity with five thousand years worth of worth behind it, and at a time when stocks are unstable, gold continues to reach record highs. MF Globals scenario is tragic, however a growing number of financiers are starting to awaken to the risks of one market and strengths of gold.\nIn reaction the companys credit ranking dropped to low quantities. The companys CEO, New Jerseys former governor and senator Jon Corzine, announced he was working to discover a buyer, but the panic had currently began to set in, and so the insolvency was announced on Monday, with the company owing more than 2 billion in debts to some of Wall Streets biggest gamers. And we thought Netflix was doing bad!\nFinanciers pounded lots of financial stocks, afraid that problems were prowling on the books of other Wall Street companies.\nGold is so typically compared to stock, but while the worth of gold may change routinely, at least the physical item does not reappear and vanish, nor does a broker ever all of a sudden stop your capability to buy it one day, only to force you to offer it the next.\nIn response the companys credit ranking dropped to low amounts. The companys CEO, New Jerseys previous guv and senator Jon Corzine, announced he was working to find a purchaser, however the panic had already started to set in, and so the insolvency was announced on Monday, with the company owing more than 2 billion in financial obligations to some of Wall Streets most significant players. Financiers pounded numerous financial stocks, afraid that problems were hiding on the books of other Wall Street companies.\nSo how does this associate with gold bullion trading? In our “Premiums” short article, we went over how high markups could have a damaging result on some financiers, but on the whole, at least in the gold market, the premium remains in the possession of the client. Today, gold bars contain roughly 2.7% premium per ounce over spot cost, but at least this is constant. And as soon as the gold remains in your hands, the premium is likewise in your ownership and you can choose to perform a sale however you wish. Imagine if, despite the item being your home, the premiums on it began nose-diving and increasing on a day-by-day basis and your ease of access to your own home became unstable. Gold is so often compared to stock, however while the value of gold might change routinely, at least the physical product does not vanish and come back, nor does a broker ever all of a sudden halt your capability to buy it one day, just to force you to sell it the next.\nAs it ends up, I myself held positions within MF Global. On Monday I got a call from them, motivating me to liquidate my assets while I still could. I decided to keep my positions with them for the moment. On Tuesday I got another call from them, now revealing that all assets for frozen. On Wednesday I received yet another call, this time revealing that the my possessions were liquid once again, and once again, I chose to hold onto my positions. Its unfortunate that many customers were required to lose their positions, but in my particular case, I had the ability to trade through a different brokerage company and might hedge my assets that way.\nbulliontrading\nView all posts\nPrevious Post\n7 Reasons To Hate Gold As an Investment – Debunked –\nNext Post\nPremiums",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/mf-global-why-you-should-hold-some-gold-bullion/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/mf-global-why-you-should-hold-some-gold-bullion/",
+                "name": "MF Global &#038; Why You Should Hold Some Gold Bullion"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/mf-global-why-you-should-hold-some-gold-bullion/#webpage",
+          "url": "https://bulliontradingllc.com/blog/mf-global-why-you-should-hold-some-gold-bullion/",
+          "name": "MF Global &amp; Why You Should Hold Some Gold Bullion - Bullion Trading LLC",
+          "datePublished": "2011-11-08T09:03:19+00:00",
+          "dateModified": "2011-11-08T09:03:19+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/mf-global-why-you-should-hold-some-gold-bullion/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "MF Global &amp; Why You Should Hold Some Gold Bullion - Bullion Trading LLC",
+          "datePublished": "2011-11-08T09:03:19+00:00",
+          "dateModified": "2011-11-08T09:03:19+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "The downfall of MF Global is a caution of the unpredictable nature of trading products, coming at a hard time for Wall St. Gold is the only commodity with",
+          "name": "MF Global &amp; Why You Should Hold Some Gold Bullion - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/mf-global-why-you-should-hold-some-gold-bullion/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/mf-global-why-you-should-hold-some-gold-bullion/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/mf-global-why-you-should-hold-some-gold-bullion/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/7-reasons-to-hate-gold-as-an-investment-debunked/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/mf-global-why-you-should-hold-some-gold-bullion/",
+    "https://bulliontradingllc.com/blog/premiums/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

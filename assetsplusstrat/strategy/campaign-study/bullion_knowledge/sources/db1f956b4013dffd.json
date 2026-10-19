@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "id": "db1f956b4013dffd",
+    "url": "https://learn.bulliontradingllc.com/charts/platinum-price-in-2026/",
+    "title": "Platinum Price in 2026 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:13.571321+00:00",
+    "status": "fetched",
+    "bytes": 19514,
+    "text_characters": 1224,
+    "sha256_html": "745eadb62e954b0298e4817d82faa48b38cdff1e9977c44adeee5bb50ad32789",
+    "file": "sources/db1f956b4013dffd.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Platinum in 2026: 9 monthly observations, 2026-01-30 to 2026-09-25. Sampled high $2,366, low $1,567; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/platinum-price-in-2026/",
+  "text": "Platinum Price in 2026\nAmong 9 monthly observations available for 2026, the LBMA platinum price fell 23.1% between 2026-01-30 ($2,300) and 2026-09-25 ($1,769). The highest sampled price was $2,366 in February and the lowest was $1,567 in June. The mean of these observations was $1,923. This is a first-to-last observation change, not a calendar-year return.\n2026 platinum price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$2,300\n(2026-01-30)\n$2,366\n(February)\n$1,567\n(June)\n$1,769\n(2026-09-25)\n$1,923\nGBP\n£1,673\n(2026-01-30)\n£1,758\n(February)\n£1,186\n(June)\n£1,334\n(2026-09-25)\n£1,430\nEUR\n€1,930\n(2026-01-30)\n€2,005\n(February)\n€1,375\n(June)\n€1,551\n(2026-09-25)\n€1,653\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live platinum price on the\nBullion Trading LLC spot dashboard\n, or\nshop platinum bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Platinum price history",
+              "item": "https://learn.bulliontradingllc.com/charts/platinum-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "2026"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Platinum price in 2026 — LBMA monthly fix",
+          "description": "Platinum in 2026: 9 monthly observations, 2026-01-30 to 2026-09-25. Sampled high $2,366, low $1,567; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/platinum-price-in-2026/",
+          "temporalCoverage": "2026-01-30/2026-09-25",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/platinum-and-palladium/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

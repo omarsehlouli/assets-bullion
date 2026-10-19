@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "68aec951edb3dfba",
+    "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1972/",
+    "title": "Silver Price in 1972 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:15.376280+00:00",
+    "status": "fetched",
+    "bytes": 18944,
+    "text_characters": 1129,
+    "sha256_html": "476977ed2ed52c2ee91c063abb314134a09eaaa42e323384c216aaf79b2cb0ca",
+    "file": "sources/68aec951edb3dfba.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Silver in 1972: 12 monthly observations, 1972-01-31 to 1972-12-29. Sampled high $2.03, low $1.47; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/silver-price-in-1972/",
+  "text": "Silver Price in 1972\nAmong 12 monthly observations available for 1972, the LBMA silver price rose 35.5% between 1972-01-31 ($1.50) and 1972-12-29 ($2.03). The highest sampled price was $2.03 in December and the lowest was $1.47 in February. The mean of these observations was $1.70. This is a first-to-last observation change, not a calendar-year return.\n1972 silver price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$1.50\n(1972-01-31)\n$2.03\n(December)\n$1.47\n(February)\n$2.03\n(1972-12-29)\n$1.70\nGBP\n£0.58\n(1972-01-31)\n£0.87\n(December)\n£0.56\n(February)\n£0.87\n(1972-12-29)\n£0.69\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live silver price on the\nBullion Trading LLC spot dashboard\n, or\nshop silver bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Silver price history",
+              "item": "https://learn.bulliontradingllc.com/charts/silver-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1972"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Silver price in 1972 — LBMA monthly fix",
+          "description": "Silver in 1972: 12 monthly observations, 1972-01-31 to 1972-12-29. Sampled high $2.03, low $1.47; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1972/",
+          "temporalCoverage": "1972-01-31/1972-12-29",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

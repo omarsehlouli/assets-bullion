@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "id": "dacc974e659c3c4c",
+    "url": "https://learn.bulliontradingllc.com/quiz/types-of-gold-bullion-quiz/",
+    "title": "Types of Gold Bullion Products Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:45.391672+00:00",
+    "status": "fetched",
+    "bytes": 29985,
+    "text_characters": 473,
+    "sha256_html": "87c3feab45a4c4bad3aa8f680d1c49fb1593bb77449aaadf1c5a92da767744ad",
+    "file": "sources/dacc974e659c3c4c.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of different gold bullion products, including bars, coins, rounds, and their characteristics for investment purposes.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/types-of-gold-bullion-quiz/",
+  "text": "Types of Gold Bullion Products Quiz\nTest your knowledge of different gold bullion products, including bars, coins, rounds, and their characteristics for investment purposes.\nWhat happened to collectors and investors who owned numismatic coins during President Roosevelt's 1933 gold confiscation order?\nA\nThey had to surrender all their coins\nB\nThey were exempt from surrender\nC\nThey received double compensation\nD\nThey were arrested\n←\nBack to Types of Gold Bullion Products",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Understanding Gold & Silver",
+              "item": "https://learn.bulliontradingllc.com/guides/understanding-gold-silver/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Types of Gold Bullion Products",
+              "item": "https://learn.bulliontradingllc.com/guides/understanding-gold-silver/02-types-of-gold-bullion/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Types of Gold Bullion Products Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Types of Gold Bullion Products Quiz",
+          "description": "Test your knowledge of different gold bullion products, including bars, coins, rounds, and their characteristics for investment purposes.",
+          "url": "https://learn.bulliontradingllc.com/quiz/types-of-gold-bullion-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Types of Gold Bullion Products"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What happened to collectors and investors who owned numismatic coins during President Roosevelt's 1933 gold confiscation order?",
+              "text": "What happened to collectors and investors who owned numismatic coins during President Roosevelt's 1933 gold confiscation order?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They were exempt from surrender",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "When President Franklin D. Roosevelt signed Executive Order 6102 confiscating private gold ownership in 1933, collectors and investors who owned numismatic coins were exempt from surrender."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "They had to surrender all their coins"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "They received double compensation"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "They were arrested"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which gold bar size is considered the \"central bank standard\"?",
+              "text": "Which gold bar size is considered the \"central bank standard\"?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "400 ounce bars",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "400-ounce bars are the central bank standard and the backbone of global gold reserves, representing the largest commonly traded gold bar size."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "1 ounce bars"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "10 ounce bars"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "1 kilogram bars"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the purity level of American Gold Eagle coins?",
+              "text": "What is the purity level of American Gold Eagle coins?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "22 karat (91.67% gold)",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "American Gold Eagles are 22 karat (91.67% gold) and feature Augustus Saint-Gaudens' iconic Liberty design. They are the most popular gold coin in America."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "24 karat (99.99% gold)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "18 karat (75% gold)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "14 karat (58.33% gold)"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which gold coin was the world's first modern gold bullion coin?",
+              "text": "Which gold coin was the world's first modern gold bullion coin?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "South African Krugerrand",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The South African Krugerrand was the world's first modern gold bullion coin (1967) and over 60 million ounces have been sold worldwide, making it the world's most widely held gold coin."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "American Gold Eagle"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Canadian Gold Maple Leaf"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Austrian Gold Philharmonic"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the key difference between gold coins and gold rounds?",
+              "text": "What is the key difference between gold coins and gold rounds?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Coins have government backing, rounds do not",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold rounds offer the appearance of coins without government backing, often featuring creative designs and lower premiums than official government-issued coins."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Rounds are always smaller than coins"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Rounds are always more expensive"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "There is no difference"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is a key benefit of fractional gold products?",
+              "text": "What is a key benefit of fractional gold products?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They provide a lower entry point for new investors",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Fractional gold products make precious metals investing accessible to everyone, offering the same protection and growth potential with entry points as low as $200-$400."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "They have lower premiums than full ounces"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "They are easier to store than full ounces"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "They appreciate faster than full ounces"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which professional grading service is mentioned as the industry leader with the highest premiums?",
+              "text": "Which professional grading service is mentioned as the industry leader with the highest premiums?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "PCGS (Professional Coin Grading Service)",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "PCGS (Professional Coin Grading Service) is mentioned as the industry leader with the highest premiums for certified gold coins."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "NGC (Numismatic Guaranty Corporation)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "ANACS"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "ICG (Independent Coin Graders)"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "For a beginner portfolio under $10,000, what is the recommended allocation according to the content?",
+              "text": "For a beginner portfolio under $10,000, what is the recommended allocation according to the content?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "60% 1-ounce coins, 30% fractional coins, 10% small bars",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "For beginners with under $10,000, the recommended allocation is 60% 1-ounce coins (American Eagles or Maple Leafs for liquidity), 30% fractional coins for flexibility, and 10% small bars for low premiums."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "50% bars, 30% coins, 20% fractional"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "80% coins, 20% bars"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "100% 1-ounce coins"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Canadian Gold Maple Leafs were the world's first 99.99% pure gold bullion coin.",
+              "text": "True or False: Canadian Gold Maple Leafs were the world's first 99.99% pure gold bullion coin.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Canadian Gold Maple Leafs were the world's first 99.99% pure gold bullion coin and feature advanced security including radial lines and micro-engraved laser marks."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

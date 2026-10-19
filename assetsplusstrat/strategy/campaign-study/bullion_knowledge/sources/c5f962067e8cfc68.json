@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "c5f962067e8cfc68",
+    "url": "https://learn.bulliontradingllc.com/charts/gold-price-1960s/",
+    "title": "Gold Price in the 1960s — LBMA Decade Chart & Data | BTLLC",
+    "retrieved_at": "2026-10-12T22:12:53.218785+00:00",
+    "status": "fetched",
+    "bytes": 17024,
+    "text_characters": 606,
+    "sha256_html": "bd4e199d4b2426ba402677696deb69c2c5c7c0b19f3b7613d408befcbcef43ba",
+    "file": "sources/c5f962067e8cfc68.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Gold price through the 1960s: from $39.10 to $35.20, monthly-sample high $43.60, monthly-sample low $35.20. Monthly LBMA chart for the decade.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/gold-price-1960s/",
+  "text": "Gold Price in the 1960s\nBetween the first (1968-04-30) and last (1969-12-31) monthly observations available for the 1960s, the LBMA gold price went from $39.10 to $35.20 — a decline of 10% — with a sampled high of $43.60 (Apr 1969) and a sampled low of $35.20 (Dec 1969).\nYears in the 1960s\n1968\n1969\nSee today's live gold price on the\nspot dashboard\n, or\nshop gold bullion\nat Bullion Trading LLC.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold price history",
+              "item": "https://learn.bulliontradingllc.com/charts/gold-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1960s"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Gold price in the 1960s — LBMA monthly fix",
+          "description": "Gold price through the 1960s: from $39.10 to $35.20, monthly-sample high $43.60, monthly-sample low $35.20. Monthly LBMA chart for the decade.",
+          "url": "https://learn.bulliontradingllc.com/charts/gold-price-1960s/",
+          "temporalCoverage": "1968-04-30/1969-12-31",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

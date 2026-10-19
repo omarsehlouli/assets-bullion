@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "id": "40a7e2d175580cb2",
+    "url": "https://bulliontradingllc.com/blog/plan-to-sell-any-gold-coins-its-best-to-wait-until-spring/",
+    "title": "Plan to Sell Any Gold Coins? It’s Best to Wait Until Spring - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:02.536672+00:00",
+    "status": "fetched",
+    "bytes": 94279,
+    "text_characters": 3001,
+    "sha256_html": "6601977ff4e719aab8ceb8bf694de512ad48bf4097518fb260f7e5d82af46455",
+    "file": "sources/40a7e2d175580cb2.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": ".",
+  "canonical": "https://bulliontradingllc.com/blog/plan-to-sell-any-gold-coins-its-best-to-wait-until-spring/",
+  "text": ".\nWhen it pertains to numismatic coins, our guidance is even stronger, due to the seasonal nature of the rare coin market. In the final third of the year, deals are generally lower. Many dealerships are trying to pare down their inventory, considering that many states have a stock tax based on year-end holdings. These dealerships do not want to purchase any brand-new coins now, so they will decrease their deal on a rare coin. They tend to restock their inventory in the spring, so they tend to make a much better offer in the spring months. In basic, the time to purchase special deals remains in the 2nd half of the year, and the time to offer remains in the spring months.\nGold is Still Beating Stocks\nGold fell $24 last week and is down on Monday in advance of this weeks meeting (Tuesday and Wednesday) of the Federal Open Market Committee (FOMC), but gold is still beating stocks up until now in 2017. With the Fed conference and President Trump speaking to the United Nations on Tuesday, any resumption of stress over North Korea based upon President Trumps rhetoric on Tuesday– or a Fed decision not to raise interest rates on Wednesday– could send out gold back up to its current high of $1,350.\nHere is an extremely great short article about the finest time to sell your gold coins. For gold and silver bullion, September through February is the greatest time of year for the valuable metals, traditionally, due in part to the string of global vacation seasons we have actually determined in the past: Diwali (the Feast of Lights) in India, followed by their wedding event season, then Christmas in the West, the Chinese New Year and Valentines Day. If you plan to sell bullion coins, spring (March through June) is a much better time to sell, as gold and silver seldom make a huge relocation up in the spring.\nHere is a great post about the very best time to sell your gold coins. For gold investors it is very important to know the best time to offer gold. , if you have any concerns relating to the short article or you desire to inspect the initial short article the link to it is at the end.\nFor gold and silver bullion, September through February is the strongest time of year for the precious metals, traditionally, due in part to the string of international vacation seasons we have determined in the past: Diwali (the Feast of Lights) in India, followed by their wedding season, then Christmas in the West, the Chinese New Year and Valentines Day. If you prepare to offer bullion coins, spring (March through June) is a better time to sell, as gold and silver rarely make a huge move up in the spring.\nWe found this interesting and great short article at https://townhall.com/columnists/mikefuljenz/2017/09/20/plan-to-sell-any-gold-coins–its-best-to-wait-until-spring-n2383618 By: Mike Fuljenz\nbulliontrading\nView all posts\nPrevious Post\nI invested in gold for the first time. Here’s how.\nNext Post\nGold Prices Slip Back Near $1300 After Comex Options Surge on N.Korea 'War' Talk",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/plan-to-sell-any-gold-coins-its-best-to-wait-until-spring/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-coins/",
+                "name": "gold coins"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/plan-to-sell-any-gold-coins-its-best-to-wait-until-spring/",
+                "name": "Plan to Sell Any Gold Coins? It’s Best to Wait Until Spring"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/plan-to-sell-any-gold-coins-its-best-to-wait-until-spring/#webpage",
+          "url": "https://bulliontradingllc.com/blog/plan-to-sell-any-gold-coins-its-best-to-wait-until-spring/",
+          "name": "Plan to Sell Any Gold Coins? It’s Best to Wait Until Spring - Bullion Trading LLC",
+          "datePublished": "2017-09-28T13:17:27+00:00",
+          "dateModified": "2017-09-28T13:17:27+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/plan-to-sell-any-gold-coins-its-best-to-wait-until-spring/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Plan to Sell Any Gold Coins? It’s Best to Wait Until Spring - Bullion Trading LLC",
+          "datePublished": "2017-09-28T13:17:27+00:00",
+          "dateModified": "2017-09-28T13:17:27+00:00",
+          "articleSection": "gold coins, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": ".",
+          "name": "Plan to Sell Any Gold Coins? It’s Best to Wait Until Spring - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/plan-to-sell-any-gold-coins-its-best-to-wait-until-spring/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/plan-to-sell-any-gold-coins-its-best-to-wait-until-spring/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/plan-to-sell-any-gold-coins-its-best-to-wait-until-spring/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/gold-prices-slip-back-near-1300-after-comex-options-surge-on-n-korea-war-talk/",
+    "https://bulliontradingllc.com/blog/i-invested-in-gold-for-the-first-time-heres-how/",
+    "https://bulliontradingllc.com/blog/plan-to-sell-any-gold-coins-its-best-to-wait-until-spring/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

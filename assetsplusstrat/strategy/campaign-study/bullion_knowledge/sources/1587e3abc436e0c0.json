@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "id": "1587e3abc436e0c0",
+    "url": "https://learn.bulliontradingllc.com/charts/platinum-price-in-2025/",
+    "title": "Platinum Price in 2025 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:13.419063+00:00",
+    "status": "fetched",
+    "bytes": 19559,
+    "text_characters": 1220,
+    "sha256_html": "bcd8006fefcbd3096e3889bf0d97aa5db2b3ff30e4e96fecba2433331b3b585e",
+    "file": "sources/1587e3abc436e0c0.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Platinum in 2025: 12 monthly observations, 2025-01-31 to 2025-12-30. Sampled high $2,226, low $943; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/platinum-price-in-2025/",
+  "text": "Platinum Price in 2025\nAmong 12 monthly observations available for 2025, the LBMA platinum price rose 128.3% between 2025-01-31 ($975) and 2025-12-30 ($2,226). The highest sampled price was $2,226 in December and the lowest was $943 in February. The mean of these observations was $1,332. This is a first-to-last observation change, not a calendar-year return.\n2025 platinum price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$975\n(2025-01-31)\n$2,226\n(December)\n$943\n(February)\n$2,226\n(2025-12-30)\n$1,332\nGBP\n£786\n(2025-01-31)\n£1,651\n(December)\n£729\n(April)\n£1,651\n(2025-12-30)\n£1,006\nEUR\n€940\n(2025-01-31)\n€1,893\n(December)\n€856\n(April)\n€1,893\n(2025-12-30)\n€1,170\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live platinum price on the\nBullion Trading LLC spot dashboard\n, or\nshop platinum bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Platinum price history",
+              "item": "https://learn.bulliontradingllc.com/charts/platinum-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "2025"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Platinum price in 2025 — LBMA monthly fix",
+          "description": "Platinum in 2025: 12 monthly observations, 2025-01-31 to 2025-12-30. Sampled high $2,226, low $943; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/platinum-price-in-2025/",
+          "temporalCoverage": "2025-01-31/2025-12-30",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/platinum-and-palladium/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

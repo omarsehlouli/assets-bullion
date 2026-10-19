@@ -1,0 +1,344 @@
+{
+  "metadata": {
+    "id": "f2b75d3685507b71",
+    "url": "https://learn.bulliontradingllc.com/quiz/introduction-palladium-investing-quiz/",
+    "title": "Introduction to Palladium Investing Quiz | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:42.719025+00:00",
+    "status": "fetched",
+    "bytes": 27350,
+    "text_characters": 298,
+    "sha256_html": "7d0cd8bd2debb5dae1cb00fa87004840daf466f687fd53206fb0068258b54a0e",
+    "file": "sources/f2b75d3685507b71.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of palladium investing fundamentals and the rarest of the precious metals.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/introduction-palladium-investing-quiz/",
+  "text": "Introduction to Palladium Investing Quiz\nTest your knowledge of palladium investing fundamentals and the rarest of the precious metals.\nHow much rarer is palladium compared to platinum?\nA\n5 times rarer\nB\n10 times rarer\nC\n15 times rarer\nD\n20 times rarer\n←\nBack to Introduction to Palladium Investing",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Palladium Investing Fundamentals",
+              "item": "https://learn.bulliontradingllc.com/guides/palladium-investing-fundamentals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Introduction to Palladium Investing",
+              "item": "https://learn.bulliontradingllc.com/guides/palladium-investing-fundamentals/01-introduction-palladium-investing/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Introduction to Palladium Investing Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Introduction to Palladium Investing Quiz",
+          "description": "Test your knowledge of palladium investing fundamentals and the rarest of the precious metals.",
+          "url": "https://learn.bulliontradingllc.com/quiz/introduction-palladium-investing-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Introduction to Palladium Investing"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How much rarer is palladium compared to platinum?",
+              "text": "How much rarer is palladium compared to platinum?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "15 times rarer",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Palladium is estimated to be about 15 times rarer than platinum. While all the platinum in the world could fit inside a house, all the palladium could easily squeeze inside a living room."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "5 times rarer"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "10 times rarer"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "20 times rarer"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What percentage of global palladium supply comes from Russia and South Africa combined?",
+              "text": "What percentage of global palladium supply comes from Russia and South Africa combined?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "70-80%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Russia and South Africa together account for 70-80% of global palladium output, with Russia being the largest producer at approximately 40% and South Africa contributing about 30-35%."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "50-60%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "60-70%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "80-90%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What percentage of palladium's industrial demand comes from automotive catalytic converters?",
+              "text": "What percentage of palladium's industrial demand comes from automotive catalytic converters?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "80%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Approximately 80% of palladium's industrial demand comes from catalytic converters for cars, trucks, and buses, particularly favored for petrol vehicle catalytic converters due to its temperature tolerance."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "60%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "70%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "90%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What was palladium's all-time high price per ounce?",
+              "text": "What was palladium's all-time high price per ounce?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "US$3,440.76 in March 2022",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Palladium reached its all-time high of US$3,440.76 per ounce in March 2022, driven by supply constraints and strong automotive demand."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "US$2,800 in March 2021"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "US$3,200 in February 2022"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "US$3,600 in April 2022"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "By what percentage did palladium costs increase from 2016-2020?",
+              "text": "By what percentage did palladium costs increase from 2016-2020?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "400%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Palladium costs increased by 400% from 2016-2020, largely due to chronic undersupply driven by tightening environmental policies on automakers."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "200%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "300%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "500%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which emerging technology could create new demand drivers for palladium?",
+              "text": "Which emerging technology could create new demand drivers for palladium?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hydrogen energy technologies",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Palladium's role in emerging hydrogen energy technologies could create new demand drivers, potentially impacting its investment appeal in the coming decades."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Solar panel technology"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Wind turbine manufacturing"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Nuclear power systems"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the projected average price of palladium by the end of 2027?",
+              "text": "What is the projected average price of palladium by the end of 2027?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "US$800",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Due to growing concerns about a global economic slowdown and the rise of EVs, palladium prices are forecasted to halve by the end of 2027, with a projected average price of US$800."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "US$600"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "US$1,000"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "US$1,200"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "In what year did palladium's value surpass platinum for the first time since 2000?",
+              "text": "In what year did palladium's value surpass platinum for the first time since 2000?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "2017",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "In September 2017, palladium's value surpassed platinum for the first time since 2000, marking a significant milestone in precious metals markets."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "2016"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "2018"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "2019"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "b5378c38ac98bcf8",
+    "url": "https://learn.bulliontradingllc.com/charts/gold-price-in-2018/",
+    "title": "Gold Price in 2018 — Monthly LBMA Fix, Highs & Lows | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:00.666148+00:00",
+    "status": "fetched",
+    "bytes": 19472,
+    "text_characters": 1211,
+    "sha256_html": "26f26b5d105a7d508440e46aecf6d433dc05d69ac9f5b36eaaa06fcbc52ff4a7",
+    "file": "sources/b5378c38ac98bcf8.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Gold in 2018: 12 monthly observations, 2018-01-31 to 2018-12-28. Sampled high $1,345, low $1,187; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/gold-price-in-2018/",
+  "text": "Gold Price in 2018\nAmong 12 monthly observations available for 2018, the LBMA gold price fell 4.9% between 2018-01-31 ($1,345) and 2018-12-28 ($1,279). The highest sampled price was $1,345 in January and the lowest was $1,187 in September. The mean of these observations was $1,265. This is a first-to-last observation change, not a calendar-year return.\n2018 gold price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$1,345\n(2018-01-31)\n$1,345\n(January)\n$1,187\n(September)\n$1,279\n(2018-12-28)\n$1,265\nGBP\n£949\n(2018-01-31)\n£1,008\n(December)\n£913\n(September)\n£1,008\n(2018-12-28)\n£951\nEUR\n€1,079\n(2018-01-31)\n€1,119\n(May)\n€1,025\n(September)\n€1,117\n(2018-12-28)\n€1,073\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live gold price on the\nBullion Trading LLC spot dashboard\n, or\nshop gold bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold price history",
+              "item": "https://learn.bulliontradingllc.com/charts/gold-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "2018"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Gold price in 2018 — LBMA monthly fix",
+          "description": "Gold in 2018: 12 monthly observations, 2018-01-31 to 2018-12-28. Sampled high $1,345, low $1,187; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/gold-price-in-2018/",
+          "temporalCoverage": "2018-01-31/2018-12-28",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

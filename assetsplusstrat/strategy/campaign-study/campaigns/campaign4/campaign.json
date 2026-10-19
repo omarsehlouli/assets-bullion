@@ -1,0 +1,84 @@
+{
+  "id": "campaign4",
+  "name": "Gold Has a New York Address",
+  "scope": "NYC local",
+  "audience": "Adults in the New York metro area who prefer a reachable local dealer and an in-person purchase conversation.",
+  "approach": "Make the physical business the reason to choose this dealer. Pair the catalog products with a conceptual counter conversation, the verified Diamond District address, and a direct gold-shopping link. Add location and phone links as secondary actions; keep purchasing as the primary outcome.",
+  "hypothesis": "A verifiable Manhattan location and a human conversation may improve trust and purchase intent among local buyers with authenticity concerns.",
+  "description": "A local trust campaign connecting online bullion shopping with Bullion Trading’s physical Diamond District presence.",
+  "headline": "Gold has a New York address.",
+  "primary": "Explore gold and silver with a real New York team. Shop online or contact Bullion Trading LLC at 20 West 47th Street, Lower Level #24, to plan your visit.",
+  "meta_headline": "Your New York Bullion Dealer",
+  "meta_description": "Shop gold. Plan a Diamond District visit.",
+  "cta": "Shop Now",
+  "google_headlines": [
+    "Buy Gold in New York City",
+    "NYC Diamond District Bullion",
+    "20 West 47th Street",
+    "Gold & Silver. A Real Address.",
+    "Shop Bullion With a NYC Team",
+    "Bullion Trading LLC"
+  ],
+  "google_descriptions": [
+    "Shop gold and silver online, or plan a visit to our New York Diamond District counter.",
+    "20 West 47th Street, Lower Level #24. Contact our team before planning your visit.",
+    "Explore bars and coins with live prices. A real New York team is here to help."
+  ],
+  "keywords": {
+    "gold_local": [
+      "buy gold NYC",
+      "gold bullion dealer Manhattan",
+      "buy gold bars New York",
+      "Diamond District gold dealer"
+    ],
+    "silver_local": [
+      "buy silver NYC",
+      "silver bullion dealer NYC",
+      "buy silver coins Manhattan"
+    ]
+  },
+  "destinations": {
+    "gold_local": "https://bulliontradingllc.com/gold/",
+    "silver_local": "https://bulliontradingllc.com/silver/"
+  },
+  "supporting": [
+    "https://bulliontradingllc.com/location/",
+    "https://bulliontradingllc.com/contact-us/"
+  ],
+  "transcript": [
+    "new-york",
+    "faq-real-gold",
+    "real-or-fake"
+  ],
+  "visual": "Conceptual counter consultation: a dealer’s hand presents a blue PAMP gold assay card beside a silver coin in a capsule. Neutral office materials and natural light. These are generated hands and a fictional counter, not actual staff or premises.",
+  "image": "exec-8904cff9-c868-45c2-8859-5905a35fb477.png",
+  "refs": [
+    "card-fortuna-gold.png",
+    "coin-silver-eagle.png"
+  ],
+  "caution": "Do not present the generated counter or hands as actual staff/store photography. Do not imply any simple home test proves authenticity. Confirm business hours before a visit.",
+  "status": "draft_for_review",
+  "objective": "Purchases of physical gold and silver bullion",
+  "google_targeting": "Presence in NYC metro / practical Manhattan travel area; validate actual coverage before launch.",
+  "meta_targeting": "Adults in the selected geography; broad creative-led prospecting. Retarget consenting site visitors separately if available. No customer list or private audience was used.",
+  "meta_note": "Meta uses audience and creative context, not Google-style search keywords. Keywords below are for Google Search and content planning.",
+  "negative_keywords": [
+    "jobs",
+    "free gold",
+    "gold plated",
+    "gold paint",
+    "gold jewelry",
+    "gold mining stocks",
+    "ETF",
+    "futures",
+    "forex",
+    "scrap gold",
+    "sell gold",
+    "gold loan"
+  ],
+  "assets": {
+    "primary_image": "creative.png",
+    "image_type": "AI-generated reference-based campaign concept",
+    "visual_description": "Conceptual counter consultation: a dealer’s hand presents a blue PAMP gold assay card beside a silver coin in a capsule. Neutral office materials and natural light. These are generated hands and a fictional counter, not actual staff or premises."
+  }
+}

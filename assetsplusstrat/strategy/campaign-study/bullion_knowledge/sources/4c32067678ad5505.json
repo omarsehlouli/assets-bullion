@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "id": "4c32067678ad5505",
+    "url": "https://bulliontradingllc.com/blog/about-perth-mint-gold-bar/",
+    "title": "About Perth Mint Gold Bar - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:17.444586+00:00",
+    "status": "fetched",
+    "bytes": 93836,
+    "text_characters": 2977,
+    "sha256_html": "aeeddd3ab88ed08c5302feec62c16d97e6e343278896bba9a6b52555e6352f09",
+    "file": "sources/4c32067678ad5505.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Each minted Gold Bar bears distinct symbols of Australias golden heritage, including the stunning swan of the Mints famous stamp. The back of the bar is",
+  "canonical": "https://bulliontradingllc.com/blog/about-perth-mint-gold-bar/",
+  "text": "Each minted Gold Bar bears distinct symbols of Australias golden heritage, including the stunning swan of the Mints famous stamp. The back of the bar is decorated with pictures of kangaroos, native residents of the Australian outback where gold was mined in commercial amounts as far back as 1851.\nThe Perth Mint has an exceptional reputation for great gold coins and bars amongst financiers and collectors worldwide. Founded in 1899 as a colonial branch of Britains 1,000 years of age Royal Mint to make sovereigns from Western Australias gold, it was obtained by the State Government of Western Australia in 1970. Subsequently, The Perth Mint was appointed by the Commonwealth Government as the sole manufacturer of Australian gold, silver and platinum investment coins. Although it ceased to produce sovereigns in 1931, and is no longer a branch of the Royal Mint, it remains one of 2 official federal government mints in Australia. The Sydney Mint which opened in 1855 closed in 1926, and the Melbourne Mint operated from 1872 to 1931. The newest of the Australian Mints, the Royal Australian Mint was opened in 1965 to deal with the big volume of blood circulation coins which would be required for Australias conversion to decimal currency. So the Perth Mint is the earliest existing Australian mint, and has constantly specialized in precious metals.\nWhether you are a collector or an investor, holding a 10oz Perth Mint Gold Bar in your hand is “really cool” Give us a call today to include elegant Perth Mint Gold Bars to your gold investment portfolio.\nEach also has the Black Swan logo design. The black swan is unique. Its beak is red which makes an attractive color combination. The Black Swan prefers open waters as they need a minimum of 20 metres to take off. Nevertheless they can be discovered in the Swan River estuary which streams through the city of Perth. The black swan is Western Australias bird symbol and it is stated to be found as far north as the Kimberley area. The Swans are also the Perth Australian Rules football team logo design and Perth is likewise called the Swan City.\nThe Perth Mint Gold Bars are offered for buy from us in 5 convenient weights ranging from 10 ounce bars to 5 gram bars. The Perth mint Gold Bars are struck from 99.99% pure gold and the weight and pureness of each minted bar is ensured by the historic Perth Mint.\nBuy Australian Perth Mint at Bullion Trading llc.\nIt stopped to produce sovereigns in 1931, and is no longer a branch of the Royal Mint, it stays one of two official federal government mints in Australia. The most recent of the Australian Mints, the Royal Australian Mint was opened in 1965 to deal with the large volume of flow coins which would be needed for Australias conversion to decimal currency. The Perth Mint is the earliest existing Australian mint, and has always specialized in valuable metals.\nbulliontrading\nView all posts\nPrevious Post\nBe aware of: Fake Silver!\nNext Post\nLocal Coin Shops",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/about-perth-mint-gold-bar/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/about-perth-mint-gold-bar/",
+                "name": "About Perth Mint Gold Bar"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/about-perth-mint-gold-bar/#webpage",
+          "url": "https://bulliontradingllc.com/blog/about-perth-mint-gold-bar/",
+          "name": "About Perth Mint Gold Bar - Bullion Trading LLC",
+          "datePublished": "2011-10-12T09:07:12+00:00",
+          "dateModified": "2011-10-12T09:07:12+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/about-perth-mint-gold-bar/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "About Perth Mint Gold Bar - Bullion Trading LLC",
+          "datePublished": "2011-10-12T09:07:12+00:00",
+          "dateModified": "2011-10-12T09:07:12+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Each minted Gold Bar bears distinct symbols of Australias golden heritage, including the stunning swan of the Mints famous stamp. The back of the bar is",
+          "name": "About Perth Mint Gold Bar - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/about-perth-mint-gold-bar/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/about-perth-mint-gold-bar/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/about-perth-mint-gold-bar/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/about-perth-mint-gold-bar/",
+    "https://bulliontradingllc.com/blog/be-aware-of-fake-silver/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/local-coin-shops/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

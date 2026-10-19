@@ -1,0 +1,314 @@
+{
+  "metadata": {
+    "id": "d54afb866b5b74d7",
+    "url": "https://bulliontradingllc.com/blog/",
+    "title": "Precious Metals Blog | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:14.991892+00:00",
+    "status": "fetched",
+    "bytes": 133989,
+    "text_characters": 2923,
+    "sha256_html": "163d1f633b255630614594e18746af9125427fe8c74a1ebeaeffbe13a857291f",
+    "file": "sources/d54afb866b5b74d7.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Read the Bullion Trading LLC blog for precious metals news, market insights, and guides on gold, silver, platinum, and palladium investing.",
+  "canonical": "https://bulliontradingllc.com/blog/",
+  "text": "Gold\nEducation\nGold Bars\nMiller vs Wohlwill: how refiners take gold from 99.5% to 99.99%\nThe purity stamp on a gold bar is the last line of a chemistry lesson most buyers never see,\nBy\nbulliontrading\nOctober 7, 2026\nOctober 7, 2026\nSilver Coins\nEducation\nPrecious Metals\nsilver\nThe Pittman Act: when America melted 270 million silver dollars\nIn the spring of 1918, the melting rooms at the Philadelphia Mint ran overtime. An electric\nBy\nbulliontrading\nOctober 5, 2026\nOctober 5, 2026\nGold Market & Economics\nEducation\nThe gold brick scam: the con that gave English the word “goldbricking”\nIn October 1879, five miners in Leadville, Colorado, ran the gold brick scam on N. D. Clark.\nBy\nbulliontrading\nOctober 2, 2026\nOctober 2, 2026\nGold Market & Economics\nEducation\nE-gold: the gold-backed digital money the feds prosecuted before Bitcoin\nE-gold was one of the internet’s first digital currencies, and the company said every\nBy\nbulliontrading\nSeptember 30, 2026\nSeptember 30, 2026\nEducation\nGold Market & Economics\nThe Bre-X scandal: the $6 billion gold mine that never existed\nOn May 4, 1997, Bre-X Minerals of Calgary released a letter from its own auditor that turned\nBy\nbulliontrading\nSeptember 27, 2026\nSeptember 27, 2026\nEducation\nGold Market & Economics\nBlack Friday 1869: the day Jay Gould cornered New York’s gold market\nA few minutes before noon on Friday, September 24, 1869, a broker by the little fountain in the\nBy\nbulliontrading\nSeptember 24, 2026\nSeptember 24, 2026\nEducation\nGold\nGold Market & Economics\nBorrow Against Gold Instead of Selling It: How Gold Loans Really Work\nYes, you can borrow against gold you already own, and in a year when an ounce trades near\nBy\nbulliontrading\nSeptember 21, 2026\nSeptember 21, 2026\nGold Market & Economics\nGold\nBRICS gold-backed currency: a fact check across four summits\nThere is no BRICS gold-backed currency. Nobody can spend one, no member government has signed\nBy\nbulliontrading\nSeptember 17, 2026\nSeptember 17, 2026\nEducation\nGold\nPrecious Metals\nsilver\nWhy Is Silver So Cheap Compared to Gold?\nOn September 15, 2026, an ounce of gold cost about $4,310 and an ounce of silver about $63.50.\nBy\nbulliontrading\nSeptember 15, 2026\nSeptember 15, 2026\nEducation\nGold\nHow Gold Refining Works: Fire Assay, XRF, Accountability, and Fees\nAsk two buyers what a bag of broken 14 karat chains is worth and you will get two numbers,\nBy\nbulliontrading\nSeptember 11, 2026\nSeptember 11, 2026\nEducation\nGold\nGold Dealer Bankruptcy: What Actually Happens to Your Metal When the Vault Fails\nHere is the uncomfortable answer first. In a gold dealer bankruptcy, the court does not ask how\nBy\nbulliontrading\nSeptember 7, 2026\nSeptember 7, 2026\nGold\nEducation\nHow Much Gold Is in Old Electronics, and Is It Worth Recovering?\nPeople ask me how much gold is in old electronics more often than you’d think, usually\nBy\nbulliontrading\nSeptember 3, 2026\nSeptember 3, 2026\n1\n2\n…\n36\nOlder Posts",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/",
+                "name": "Blog"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://bulliontradingllc.com/blog/#webpage",
+          "url": "https://bulliontradingllc.com/blog/",
+          "name": "Precious Metals Blog | Bullion Trading LLC",
+          "datePublished": "2022-02-21T18:35:47+00:00",
+          "dateModified": "2026-03-18T13:10:11+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/#breadcrumb"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/black-friday-1869-jay-gould-gold-corner/",
+    "https://bulliontradingllc.com/blog/borrow-against-gold-instead-of-selling/",
+    "https://bulliontradingllc.com/blog/bre-x-scandal/",
+    "https://bulliontradingllc.com/blog/brics-gold-backed-currency-fact-check/",
+    "https://bulliontradingllc.com/blog/category/education/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-bars/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/category/precious-metals/",
+    "https://bulliontradingllc.com/blog/category/silver-coins/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/e-gold-digital-gold-currency/",
+    "https://bulliontradingllc.com/blog/gold-brick-scam/",
+    "https://bulliontradingllc.com/blog/gold-dealer-bankruptcy-what-happens-to-your-metal/",
+    "https://bulliontradingllc.com/blog/how-gold-refining-works/",
+    "https://bulliontradingllc.com/blog/how-much-gold-is-in-old-electronics/",
+    "https://bulliontradingllc.com/blog/miller-vs-wohlwill-gold-refining/",
+    "https://bulliontradingllc.com/blog/page/2/",
+    "https://bulliontradingllc.com/blog/page/36/",
+    "https://bulliontradingllc.com/blog/pittman-act/",
+    "https://bulliontradingllc.com/blog/why-is-silver-so-cheap-compared-to-gold/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2026/10/miller-vs-wohlwill-gold-refining.webp",
+      "alt": "Miller vs Wohlwill"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/10/pittman-act.webp",
+      "alt": "Pittman Act"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/10/gold-brick-scam.webp",
+      "alt": "gold brick scam"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/e-gold-digital-gold-currency.webp",
+      "alt": "e-gold"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/bre-x-scandal.webp",
+      "alt": "bre-x scandal"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/black-friday-1869-jay-gould-gold-corner.webp",
+      "alt": "black friday 1869"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/borrow-against-gold-instead-of-selling.webp",
+      "alt": "borrow against gold"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/brics-gold-backed-currency-fact-check.webp",
+      "alt": "BRICS gold-backed currency"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/why-is-silver-so-cheap-compared-to-gold.webp",
+      "alt": "why is silver so cheap"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/how-gold-refining-works.webp",
+      "alt": "how gold refining works"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/gold-dealer-bankruptcy-what-happens-to-your-metal.webp",
+      "alt": "gold dealer bankruptcy"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/09/how-much-gold-is-in-old-electronics.webp",
+      "alt": "how much gold is in old electronics"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "id": "ce36c0aa0f34182e",
+    "url": "https://bulliontradingllc.com/bullion-tax/washington/",
+    "title": "Bullion Sales Tax in Washington (2026): Rules, Exemptions & Ex.",
+    "retrieved_at": "2026-10-12T22:11:28.065545+00:00",
+    "status": "fetched",
+    "bytes": 104682,
+    "text_characters": 2311,
+    "sha256_html": "56dba60501004ccd6133b21cf0ed8b387bf1d4bb7d6d3df7455c0a6bb28b7230",
+    "file": "sources/ce36c0aa0f34182e.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Washington has a statewide sales tax, and bullion and monetized bullion are taxable for sales on or after 01/01/2026. Destination-based local tax applies.",
+  "canonical": "https://bulliontradingllc.com/bullion-tax/washington/",
+  "text": "←\nAll states\nHeads-up — rules recently changed:\nTaxable from 01/01/2026\nBullion treatment\nTaxed like other goods\nWhat's taxed?\nGood to know\nCommon questions\nHere's how each kind of item is treated in this state. Tap a row to read the plain-English note.\nWhat you're buying\nSales tax?\nWhat that means\nBullion Bars\nSales tax applies\nStandard Washington sales tax applies at checkout.\nBullion Coins\nSales tax applies\nStandard Washington sales tax applies at checkout.\nBullion Rounds\nSales tax applies\nStandard Washington sales tax applies at checkout.\nLegal-Tender Coins\nSales tax applies\nStandard Washington sales tax applies at checkout.\nNumismatic Coins\nSales tax applies\nStandard Washington sales tax applies at checkout.\nJewelry\nSales tax applies\nStandard Washington sales tax applies at checkout.\nIndustrial Precious Metal\nSales tax applies\nStandard Washington sales tax applies at checkout.\nCollectibles (Non-Coin)\nSales tax applies\nStandard Washington sales tax applies at checkout.\nPaper Currency\nAsk before ordering\nTax treatment depends on the item. If you're unsure, contact us before ordering.\nAccessories\nSales tax applies\nStandard Washington sales tax applies at checkout.\nWhat's covered by the exemption\nNothing — Washington repealed its bullion exemption effective January 1, 2026. Bullion is now taxed like other tangible goods.\nHow they decide what counts as bullion\nWashington no longer offers a bullion exemption (as of January 1, 2026). Standard sales tax applies to qualifying purchases.\nWhat's NOT covered\nNothing is exempt — bullion is fully taxed like other goods (effective Jan 1, 2026).\nCommon questions about sales tax on gold and silver in Washington.\nIs gold and silver bullion taxable in Washington in 2026?\n+\nYes. Washington taxes bullion sales for transactions on or after 01/01/2026.\nWhat changed with Washington’s bullion exemption?\n+\nThe prior bullion exemption was repealed. As a result, bullion and monetized bullion are taxable starting 01/01/2026.\nAre coins or numismatic items taxed in Washington?\n+\nYes. Washington’s rule is to charge sales tax on bullion and coins, including numismatic items.\nDo local sales tax rates apply to bullion shipments in Washington?\n+\nYes. Washington applies destination-based sales tax, so the combined rate depends on the delivery location.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Sales Tax in Washington (2026): Rules, Exemptions &amp; Ex.",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "description": "Washington has a statewide sales tax, and bullion and monetized bullion are taxable for sales on or after 01/01/2026. Destination-based local tax applies."
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/bullion-tax/washington/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/bullion-tax/",
+                "name": "Bullion Sales Tax by State"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "name": "Washington",
+              "item": "https://bulliontradingllc.com/bullion-tax/washington/"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "WebPage",
+            "FAQPage"
+          ],
+          "@id": "https://bulliontradingllc.com/bullion-tax/washington/#webpage",
+          "url": "https://bulliontradingllc.com/bullion-tax/washington/",
+          "name": "Bullion Sales Tax in Washington (2026): Rules, Exemptions &amp; Ex.",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/washington/#breadcrumb"
+          },
+          "headline": "Washington Sales Tax on Bullion",
+          "description": "Washington has a statewide sales tax, and bullion and monetized bullion are taxable for sales on or after 01/01/2026. Destination-based local tax applies.",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is gold and silver bullion taxable in Washington in 2026?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Washington taxes bullion sales for transactions on or after 01/01/2026."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What changed with Washington’s bullion exemption?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The prior bullion exemption was repealed. As a result, bullion and monetized bullion are taxable starting 01/01/2026."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are coins or numismatic items taxed in Washington?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Washington’s rule is to charge sales tax on bullion and coins, including numismatic items."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do local sales tax rates apply to bullion shipments in Washington?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Washington applies destination-based sales tax, so the combined rate depends on the delivery location."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Bullion Sales Tax in Washington (2026): Rules, Exemptions &amp; Ex.",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Washington has a statewide sales tax, and bullion and monetized bullion are taxable for sales on or after 01/01/2026. Destination-based local tax applies.",
+          "name": "Bullion Sales Tax in Washington (2026): Rules, Exemptions &amp; Ex.",
+          "@id": "https://bulliontradingllc.com/bullion-tax/washington/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/washington/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/washington/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/bullion-tax/vermont/",
+    "https://bulliontradingllc.com/bullion-tax/wisconsin/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "id": "f9f12ec1815e01d3",
+    "url": "https://learn.bulliontradingllc.com/tools/inflation-vs-gold/",
+    "title": "Inflation vs gold | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:46.496211+00:00",
+    "status": "fetched",
+    "bytes": 17450,
+    "text_characters": 1119,
+    "sha256_html": "a2644216e52911f50213ae78617d9915d650af0a5d1d14e19085364dff8bbbde",
+    "file": "sources/f9f12ec1815e01d3.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Has gold preserved purchasing power? Compare gold's nominal return to CPI inflation, with an inflation-adjusted 'real' gold series overlay.",
+  "canonical": "https://learn.bulliontradingllc.com/tools/inflation-vs-gold/",
+  "text": "Inflation vs gold\nHas gold preserved purchasing power? Compare gold's nominal return to CPI inflation, with an inflation-adjusted 'real' gold series overlay.\nGold (nominal)\n+\n593\n%\nCPI inflation\n+\n66\n%\nGold (real, inflation-adjusted)\n+\n317\n%\nGold: monthly Yahoo Finance GC=F close · CPI: BLS CUUR0000SA0 · synced\n2026-09-26\n.\nReal return = nominal return − CPI inflation over the same window.\nReading nominal vs real returns\nA nominal return measures dollars; a real return measures purchasing power.\nGold's job as an inflation hedge is judged in\nreal\nterms — if the\nCPI rises 80% over a period and gold rises 90%, the real return is only\nabout\n+5.5%\n, not 90%.\nHistorical bottom-line: across 25-year windows, gold has consistently delivered\npositive\nreal\nreturns. Over shorter windows (1-3 years) it can lose to\ninflation in nominal-strong USD periods. This is why gold is treated as a\nlong-term store of value, not a short-term inflation play.\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Tools",
+              "item": "https://learn.bulliontradingllc.com/tools/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Inflation vs gold"
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://learn.bulliontradingllc.com/tools/inflation-vs-gold/#webpage",
+          "url": "https://learn.bulliontradingllc.com/tools/inflation-vs-gold/",
+          "name": "Inflation vs gold",
+          "description": "Has gold preserved purchasing power? Compare gold's nominal return to CPI inflation, with an inflation-adjusted 'real' gold series overlay.",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "isAccessibleForFree": true,
+          "about": {
+            "@type": "Thing",
+            "name": "Gold and inflation"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

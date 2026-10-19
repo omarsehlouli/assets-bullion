@@ -1,0 +1,88 @@
+{
+  "metadata": {
+    "id": "f07896003cdd6d70",
+    "url": "https://learn.bulliontradingllc.com/charts/gold-vs-sp500/",
+    "title": "Gold vs the S&P 500 — Long-Term Performance Chart | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:01.849627+00:00",
+    "status": "fetched",
+    "bytes": 14736,
+    "text_characters": 995,
+    "sha256_html": "3ad10d256eeb954580f5db4e19eef293fa60da4f720097ad30cc9075e3a17610",
+    "file": "sources/f07896003cdd6d70.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Gold (LBMA fix) vs the S&P 500 since 1985, both indexed to 100. Over this span gold grew about 13.9× and the S&P (price only) about 43.1×. Interactive chart.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/gold-vs-sp500/",
+  "text": "Gold vs the S&P 500\nHow has gold held up against US stocks? Below, the LBMA gold price and the S&P 500 are both indexed to\n100 at the first shared monthly observation (1985-01), with data through 2026-09. Over this sampled span the gold benchmark rose\nabout\n13.9×\nand the S&P 500 (price only, excluding dividends) about\n43.1×\n.\nSources, sampling and calculation methodology\nBoth indexed to 100 at the start of the overlap.\nGold\n= LBMA fix; S&P 500 = price index (excludes dividends). For illustration, not investment advice.\nHow to read this\nIndexing both to 100 makes very different price levels comparable — a value of 400 means the sampled price is four times its starting value. Note the S&P line is\nprice only\n; including reinvested dividends would lift it\nfurther. The gold series excludes dealer premiums, storage, insurance and transaction costs. These are price-index comparisons, not net investor returns.\nSee also:\ngold price history\n,\ninflation-adjusted gold\n, or\nshop gold bullion\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold vs S&P 500"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Gold vs S&P 500 — indexed long-term performance",
+          "description": "Gold (LBMA fix) vs the S&P 500 since 1985, both indexed to 100. Over this span gold grew about 13.9× and the S&P (price only) about 43.1×. Interactive chart.",
+          "url": "https://learn.bulliontradingllc.com/charts/gold-vs-sp500/",
+          "temporalCoverage": "1985/2026",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

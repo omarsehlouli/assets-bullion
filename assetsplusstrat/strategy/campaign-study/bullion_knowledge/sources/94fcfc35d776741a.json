@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "id": "94fcfc35d776741a",
+    "url": "https://bulliontradingllc.com/blog/augusts-gold-market-looks-ready-for-the-up-cycle/",
+    "title": "August’s Gold Market Looks ‘Ready For The Up Cycle’ - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:19.464030+00:00",
+    "status": "fetched",
+    "bytes": 96422,
+    "text_characters": 3074,
+    "sha256_html": "772c902d0ef7aec2c123ed603f4a053683515a999131eddf00d301d311158f0e",
+    "file": "sources/94fcfc35d776741a.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Sprott pointed out that this is not unexpected considering that the Federal Reserve is continuing to raise rates of interest and shrink the cash supply.",
+  "canonical": "https://bulliontradingllc.com/blog/augusts-gold-market-looks-ready-for-the-up-cycle/",
+  "text": "Sprott pointed out that this is not unexpected considering that the Federal Reserve is continuing to raise rates of interest and shrink the cash supply.\nThe equity market is looking unsteady and any considerable drop could also provide extra assistance to gold rates in August.\n” I constantly thought we lived in a rather captivated world, where interest rates were no and we kept printing cash all the time. And it looks like in theory that world has ended,” Sprott said. The 20% decrease in Facebook, Netflix running into a couple of issues, some of the business that are impacted by exports, particularly automobiles … So we have some sections of the market … that are in a bear market.”\n” We had our repeat, wash and rinse and now we are prepared for the up cycle,” specified Sprott.\nAside from this, need for the yellow metal is likewise looking solid, which might help gold out in what is traditionally referred to as a very dull month.\nHere is a great post about gold gain this coming August. If you wished to check out the original post you can find the link at the bottom of this post.\n” The combination of the Fed diminishing the money supply and raising rates is not going to be positive for the marketplaces,” he stated.\n” I believe we might have struck a bottom at some point when gold came down to around $1,210 inter-day on Friday,” stated Sprott.\nAs August doldrums are rolling in, the gold market may shock investors on the advantage, according to Eric Sprott, billionaire valuable metals investor and creator of Sprott Inc\nWe found this short article at http://www.kitco.com/news/2018-07-29/August-s-Gold-Market-Looks-Ready-For-The-Up-Cycle-Sprott-Money.html By: Anna Golubova\nAugust Comex gold struck a low of $1,217 on Friday and after that continued to trade near its 12-month lows following the advance reading of second-quarter GDP that showed the U.S. economy growing 4.1%, which was somewhat less than the 4.2% projected by market consensus.\nAnd it looks like in theory that world has actually ended,” Sprott stated. The 20% decline in Facebook, Netflix running into a few issues, some of the business that are affected by exports, particularly cars … So we have some segments of the market … that are in a bear market.”\n. Gold may have finally found its rate bottom after seeing three weeks of successive losses, said Sprott throughout Sprott Moneys Weekly Wrap-Up on Friday.\n” When you take a look at whats happening with the Commitments of Traders and August gold contract turning up for expiration with that big open interest,” Sprott said. “When you see exports of gold from Hong Kong into Chia increase 46% in the month of June, when you see the Russians continue to purchase gold, offering treasuries hopefully to buy more gold, I sort of marvel if among the important things that China would not do is sell treasuries to buy gold if they get particularly distressed with the brand-new tariff routine.”\nbulliontrading\nView all posts\nPrevious Post\nCryptocurrencies and Precious Metals\nNext Post\nSeasonal Factors Could Bring Back Silver's Shine",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/07/gold-bars-1000x500-1-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2018/07/gold-bars-1000x500-1-jpg.webp",
+          "width": "1000",
+          "height": "500",
+          "caption": "gold-bars-1000&#215;500",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/augusts-gold-market-looks-ready-for-the-up-cycle/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/augusts-gold-market-looks-ready-for-the-up-cycle/",
+                "name": "August’s Gold Market Looks ‘Ready For The Up Cycle’"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/augusts-gold-market-looks-ready-for-the-up-cycle/#webpage",
+          "url": "https://bulliontradingllc.com/blog/augusts-gold-market-looks-ready-for-the-up-cycle/",
+          "name": "August’s Gold Market Looks ‘Ready For The Up Cycle’ - Bullion Trading LLC",
+          "datePublished": "2018-07-30T10:45:43+00:00",
+          "dateModified": "2018-07-30T10:45:43+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/07/gold-bars-1000x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/augusts-gold-market-looks-ready-for-the-up-cycle/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "August’s Gold Market Looks ‘Ready For The Up Cycle’ - Bullion Trading LLC",
+          "datePublished": "2018-07-30T10:45:43+00:00",
+          "dateModified": "2018-07-30T10:45:43+00:00",
+          "articleSection": "Gold, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Sprott pointed out that this is not unexpected considering that the Federal Reserve is continuing to raise rates of interest and shrink the cash supply.",
+          "name": "August’s Gold Market Looks ‘Ready For The Up Cycle’ - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/augusts-gold-market-looks-ready-for-the-up-cycle/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/augusts-gold-market-looks-ready-for-the-up-cycle/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/07/gold-bars-1000x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/augusts-gold-market-looks-ready-for-the-up-cycle/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/augusts-gold-market-looks-ready-for-the-up-cycle/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/cryptocurrencies-and-precious-metals/",
+    "https://bulliontradingllc.com/blog/seasonal-factors-could-bring-back-silvers-shine/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2018/07/gold-bars-1000x500-1-jpg.webp",
+      "alt": "gold-bars-1000×500"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "id": "fb6b5e3b74f944d6",
+    "url": "https://bulliontradingllc.com/blog/why-a-lump-of-gold-can-make-your-entire-christmas-better/",
+    "title": "Why A Lump Of Gold Can Make Your Entire Christmas Better - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:17.928130+00:00",
+    "status": "fetched",
+    "bytes": 95260,
+    "text_characters": 3182,
+    "sha256_html": "d58e7b50e370e2e37470f2e583461a4a3768ea570f6658d85d8c30c4789ef55c",
+    "file": "sources/fb6b5e3b74f944d6.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "This suggested that the bulls were either disposing massive amounts of shares into the market, or that cash was being driven into the marketplace to choose up",
+  "canonical": "https://bulliontradingllc.com/blog/why-a-lump-of-gold-can-make-your-entire-christmas-better/",
+  "text": "This suggested that the bulls were either disposing massive amounts of shares into the market, or that cash was being driven into the marketplace to choose up the smaller, cheaper shares. In either case, it is popular that volume precedes a cost change.\nShort-covering in the products market have the capability to prompt quick boosts in the prices on gold and silver. This is essential because that implies the trading will be rapid over the next couple of months.\nWhile it is still a little early to declare a bull market, there is no doubt that the conditions are gotten ready for the marketplace to remove in the very near future.\nWhile there is a little threat that is associated with individual business in the gold sector, there is no much better time or method to purchase gold than with an exchange-traded fund, or an ETF, that can cover both gold and silver stocks.\nDespite the fact that junior miners ETF has actually risen considerably over the last month, there is still a lot of space for it to continue to rise. It is extensively speculated that trading resistance will not have a considerable impact up until the market hits 46.00.\nBack in October, when the gold mining stocks first began gaining some severe momentum, some gold experts speculated that when the bottom of the market is found, the cash will have the ability to find its method into smaller mining stocks.\nAnother crucial consider the current market is the huge boost in volume. Trading volume in between the ETF and the GDX, the Vectors Junior Gold Miners, has actually raised nearly one million shares each day in between 2011 and 2013. That is a huge amount of trading, and led lots of people to think that there was substantial movement in the market when 24 million shares appeared over the last couple of weeks.\nIn specific, the Market Vectors Junior Gold Miners appeared to reveal some major favor for the smaller mining operations in the gold market. Another crucial factor in the recent market is the huge increase in volume. That is a big quantity of trading, and led many people to think that there was considerable mobility in the market when 24 million shares became offered over the last few weeks.\nWhile individuals who have not been good can always anticipate a swelling of coal in their equipping, possibly it is time for individuals who are good to get a lump of gold, instead. With a bear market that has actually stayed strong over the last three years, it is not a hard time to purchase some gold-mining stocks.\nIn specific, the Market Vectors Junior Gold Miners seemed to express some severe favor for the smaller mining operations in the gold market. This comes as little surprise for a lot of financiers that have actually discovered the bear pattern in the market that has held since 2011. There is likewise a pattern of what is known as sideways trading because the middle of 2013. This indicates that net movement was little, though there were significant trades completed in each instructions.\nbulliontrading\nView all posts\nPrevious Post\nOil Prices Increase Demand For Gold To A 14-Month High\nNext Post\nWhy You Should Give Gold and Silver Bullions as Gifts to Your Children",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/why-a-lump-of-gold-can-make-your-entire-christmas-better/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-bullion/",
+                "name": "gold bullion"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/why-a-lump-of-gold-can-make-your-entire-christmas-better/",
+                "name": "Why A Lump Of Gold Can Make Your Entire Christmas Better"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/why-a-lump-of-gold-can-make-your-entire-christmas-better/#webpage",
+          "url": "https://bulliontradingllc.com/blog/why-a-lump-of-gold-can-make-your-entire-christmas-better/",
+          "name": "Why A Lump Of Gold Can Make Your Entire Christmas Better - Bullion Trading LLC",
+          "datePublished": "2014-12-12T14:34:41+00:00",
+          "dateModified": "2014-12-12T14:34:41+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/why-a-lump-of-gold-can-make-your-entire-christmas-better/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Why A Lump Of Gold Can Make Your Entire Christmas Better - Bullion Trading LLC",
+          "datePublished": "2014-12-12T14:34:41+00:00",
+          "dateModified": "2014-12-12T14:34:41+00:00",
+          "articleSection": "gold bullion",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "This suggested that the bulls were either disposing massive amounts of shares into the market, or that cash was being driven into the marketplace to choose up",
+          "name": "Why A Lump Of Gold Can Make Your Entire Christmas Better - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/why-a-lump-of-gold-can-make-your-entire-christmas-better/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/why-a-lump-of-gold-can-make-your-entire-christmas-better/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/why-a-lump-of-gold-can-make-your-entire-christmas-better/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/",
+    "https://bulliontradingllc.com/blog/oil-prices-increase-demand-for-gold-to-a-14-month-high/",
+    "https://bulliontradingllc.com/blog/why-a-lump-of-gold-can-make-your-entire-christmas-better/",
+    "https://bulliontradingllc.com/blog/why-you-should-give-gold-and-silver-bullions-as-gifts-to-your-children/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

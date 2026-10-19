@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "id": "27bd07821f572439",
+    "url": "https://learn.bulliontradingllc.com/quiz/gold-vs-silver-quiz/",
+    "title": "Gold vs. Silver Investment Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:41.294743+00:00",
+    "status": "fetched",
+    "bytes": 29404,
+    "text_characters": 340,
+    "sha256_html": "51e21d70b1264c37f7c4db6871b0743b81e647212849bbe06e2234f13993669c",
+    "file": "sources/27bd07821f572439.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of the differences between gold and silver as investment options, including their characteristics, performance, and strategic uses.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/gold-vs-silver-quiz/",
+  "text": "Gold vs. Silver Investment Quiz\nTest your knowledge of the differences between gold and silver as investment options, including their characteristics, performance, and strategic uses.\nWhat was the original silver-to-gold ratio established by the United States in 1792?\nA\n10:1\nB\n15:1\nC\n50:1\nD\n100:1\n←\nBack to Gold vs. Silver as an Investment",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Understanding Gold & Silver",
+              "item": "https://learn.bulliontradingllc.com/guides/understanding-gold-silver/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Gold vs. Silver as an Investment",
+              "item": "https://learn.bulliontradingllc.com/guides/understanding-gold-silver/01-gold-vs-silver/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Gold vs. Silver Investment Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Gold vs. Silver Investment Quiz",
+          "description": "Test your knowledge of the differences between gold and silver as investment options, including their characteristics, performance, and strategic uses.",
+          "url": "https://learn.bulliontradingllc.com/quiz/gold-vs-silver-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Gold vs. Silver as an Investment"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What was the original silver-to-gold ratio established by the United States in 1792?",
+              "text": "What was the original silver-to-gold ratio established by the United States in 1792?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "15:1",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "In 1792, the United States established the Coinage Act, setting a 15:1 silver-to-gold ratio. Today, this ratio typically ranges between 60:1 to 100:1."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "10:1"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "50:1"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "100:1"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which metal is considered to have higher volatility and greater price swings?",
+              "text": "Which metal is considered to have higher volatility and greater price swings?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Silver",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Silver has higher volatility with often 25-50% annual price movements, while gold typically has 15-25% annual price swings, making silver more dynamic but riskier."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Gold"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Both have equal volatility"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Neither is volatile"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "From 1971-1980, what was silver's approximate percentage gain?",
+              "text": "From 1971-1980, what was silver's approximate percentage gain?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "2,930%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "From 1971-1980, silver rose from $1.63 to $49.45 per ounce, representing a 2,930% gain, demonstrating silver's explosive potential during bull markets."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "500%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "1,500%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "4,000%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is a key advantage of gold over silver for storage?",
+              "text": "What is a key advantage of gold over silver for storage?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gold has a much higher value-to-size ratio",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold has a high value-to-size ratio - $1 million in gold fits in a briefcase, while silver needs 70x more space than equivalent gold value, making gold more storage-efficient."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Gold is lighter than silver"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold doesn't need any protection"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold is easier to transport in large quantities"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which metal has significant industrial demand that affects its price?",
+              "text": "Which metal has significant industrial demand that affects its price?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Silver",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Silver has essential industrial demand for technology, solar panels, and medical applications, while gold's value is driven purely by monetary demand, making silver sensitive to economic growth cycles."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Gold"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Both equally"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Neither has industrial demand"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "According to the content, approximately how many smartphones are sold annually, and how much silver does each contain?",
+              "text": "According to the content, approximately how many smartphones are sold annually, and how much silver does each contain?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1.5 billion smartphones, 0.35 grams silver each",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Over 1.5 billion smartphones are sold annually, with each containing about 0.35 grams of silver, demonstrating silver's irreplaceable role in our digital economy."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "500 million smartphones, 0.1 grams silver each"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "2 billion smartphones, 0.5 grams silver each"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "1 billion smartphones, 0.25 grams silver each"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the recommended gold-to-silver allocation for a conservative investor according to the content?",
+              "text": "What is the recommended gold-to-silver allocation for a conservative investor according to the content?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "80% Gold, 20% Silver",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "For conservative, risk-averse investors, the recommended allocation is 80% Gold and 20% Silver, emphasizing stability and wealth preservation."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "50% Gold, 50% Silver"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "60% Gold, 40% Silver"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "90% Gold, 10% Silver"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: The gold-silver ratio tends to return to historical averages over time.",
+              "text": "True or False: The gold-silver ratio tends to return to historical averages over time.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The gold-silver ratio exhibits mean reversion, tending to return to historical averages over time, which creates trading opportunities for investors who understand this pattern."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "During economic expansion periods, which metal typically performs better?",
+              "text": "During economic expansion periods, which metal typically performs better?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Silver, due to industrial demand growth",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "During economic expansion, silver often outperforms gold because industrial demand drives prices higher, while gold may lag due to less safe-haven demand during good economic times."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Gold, due to safe-haven demand"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Both perform equally well"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Neither performs well during expansion"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

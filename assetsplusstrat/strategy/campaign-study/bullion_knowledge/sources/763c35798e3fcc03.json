@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "id": "763c35798e3fcc03",
+    "url": "https://bulliontradingllc.com/blog/how-correlated-are-bitcoin-and-gold/",
+    "title": "How Correlated are Bitcoin and Gold? - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:50.190056+00:00",
+    "status": "fetched",
+    "bytes": 95430,
+    "text_characters": 4232,
+    "sha256_html": "544d9ad935794f4eacf809569b4b9427fa1222a01e4be19e7562ba55884c00e3",
+    "file": "sources/763c35798e3fcc03.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Looking at the pre-2017 Bitcoin boom, other durations have actually shown substantially less correlation, favorable or negative, with correlation coefficients",
+  "canonical": "https://bulliontradingllc.com/blog/how-correlated-are-bitcoin-and-gold/",
+  "text": "Looking at the pre-2017 Bitcoin boom, other durations have actually shown substantially less correlation, favorable or negative, with correlation coefficients ranging from 0.31 to -0.48. The extreme end of the ranges are certainly more suggestive of a correlation, however similar to the November 2017 to February 2018 period, some correlation is to be expected based upon coincidence rather than an actual relationship in between the 2.\nIf we think about the daily data points from the 30th November 2017 to 2nd February 2018, which not only aspects in Bitcoins rally to a record closing high $19,114.20 however also its collapse to a February 2nd $8,830.75, the connection coefficient stands at -0.68.\nInterestingly, the unfavorable correlations seen in the last few years, with the correlation coefficient having turned unfavorable in 2014, would add further support to the argument that Bitcoin is not a safe sanctuary and on this basis shouldnt behave in a comparable pattern to gold throughout periods of market stress.\nMarket conditions through the duration evaluated ware especially different for the respective asset classes, with the recent equity market thrashing providing strong assistance for gold, whilst Bitcoin experienced a mass sell since the 2nd week of January.\nWe discovered this excellent post at http://www.kitco.com/commentaries/2018-02-06/How-Correlated-are-Bitcoin-and-Gold.html By: FX Empire and believed it was something our subscribers would find very handy.\nWhen looking at a correlation coefficient, a positive correlation of 1 would indicate that the set is completely correlated, with a correlation coefficient of 0 showing that there is no connection, while a correlation of -1 reflects a best negative correlation.\nTheres been lots of commentary on whether Bitcoin and gold have any correlation or whether Bitcoin is the new gold.\nWith the global equity markets currently in correction mode, the relocations in Bitcoin definitely attend to the 2nd of the 2 arguments, with Bitcoins slide to sub-$7,000 levels seeing a little reprieve in spite of the equity market slide that is continuing into the second week.\nBitcoins increase to record levels in 2017 came at a time when gold rates ware also growing, however the factors behind the gains were vastly various. The Bitcoin rally was driven by speculative investors, delighting in an uncontrolled trading environment that has actually because come crashing down. With the equity markets in totally free fall over the last week, even Bitcoin financiers will have been looking towards gold as somewhere to park the money, which will likely drive the unfavorable connection closer to -1 in the coming days before moving back to sub -0.5 levels as the markets normalize.\nAs holds true with any analysis, the data points chosen eventually decide the result of a debate. A number of periods over which the correlation coefficients are calculated to suggest that any connection is by chance at finest, however, in durations of market stress, a negative correlation is likely to construct.\nAs holds true with any possession class and any connection analysis, the time frame over which the analysis is performed will have an impact on the connection results.\nThe Bitcoin rally was driven by speculative financiers, delighting in an uncontrolled trading environment that has actually because come crashing down. With the equity markets in free fall over the last week, even Bitcoin investors will have been looking towards gold as someplace to park the money, which will likely drive the unfavorable connection better to -1 in the coming days before moving back to sub -0.5 levels as the markets normalize.\nThe slide in Bitcoin prices largely affirms that Bitcoin is not the new gold and will unlikely ever take the safe house mantle away from gold that uses financiers a physical property that can be bought and sold in even the most end ofthe world situation.\nHere is an article about how correlated are Bitcoin and Gold. If you wish to read the initial article you can find the link at the bottom of this post.\nbulliontrading\nView all posts\nPrevious Post\n15 Things to Know Before Buying Bullion\nNext Post\nGold starts the week higher as dollar pulls back",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/how-correlated-are-bitcoin-and-gold/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/how-correlated-are-bitcoin-and-gold/",
+                "name": "How Correlated are Bitcoin and Gold?"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/how-correlated-are-bitcoin-and-gold/#webpage",
+          "url": "https://bulliontradingllc.com/blog/how-correlated-are-bitcoin-and-gold/",
+          "name": "How Correlated are Bitcoin and Gold? - Bullion Trading LLC",
+          "datePublished": "2018-02-12T09:46:30+00:00",
+          "dateModified": "2018-02-12T09:46:30+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/how-correlated-are-bitcoin-and-gold/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "How Correlated are Bitcoin and Gold? - Bullion Trading LLC",
+          "datePublished": "2018-02-12T09:46:30+00:00",
+          "dateModified": "2018-02-12T09:46:30+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Looking at the pre-2017 Bitcoin boom, other durations have actually shown substantially less correlation, favorable or negative, with correlation coefficients",
+          "name": "How Correlated are Bitcoin and Gold? - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/how-correlated-are-bitcoin-and-gold/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/how-correlated-are-bitcoin-and-gold/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/how-correlated-are-bitcoin-and-gold/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/15-things-to-know-before-buying-bullion/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/gold-starts-the-week-higher-as-dollar-pulls-back/",
+    "https://bulliontradingllc.com/blog/how-correlated-are-bitcoin-and-gold/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

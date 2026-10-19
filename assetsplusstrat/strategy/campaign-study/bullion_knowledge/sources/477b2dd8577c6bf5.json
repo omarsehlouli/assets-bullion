@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "id": "477b2dd8577c6bf5",
+    "url": "https://learn.bulliontradingllc.com/coin-values/coin-rolls/",
+    "title": "How Many Coins Are in a Roll? — Coin Roll Quantities & Values",
+    "retrieved_at": "2026-10-12T22:13:25.437851+00:00",
+    "status": "fetched",
+    "bytes": 21049,
+    "text_characters": 1693,
+    "sha256_html": "31a22583daa762dd0cd77046cbf14db3c4a0d77059d075d286cfd7403c5643ba",
+    "file": "sources/477b2dd8577c6bf5.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "How many coins are in a roll? A roll of pennies is 50 ($0.50), nickels 40 ($2), dimes 50 ($5), quarters 40 ($10), half dollars 20 ($10), dollar coins 25 ($25). Full table + a roll value calculator with live silver melt.",
+  "canonical": "https://learn.bulliontradingllc.com/coin-values/coin-rolls/",
+  "text": "How Many Coins Are in a Roll?\nStandard US coin rolls hold a fixed number of coins: a roll of\ndimes is 50\n($5),\nquarters 40\n($10),\nnickels 40\n($2) and\npennies 50\n($0.50).\nUse the table and calculator below to count coins, total face value, and — for pre-1965 silver rolls —\nthe live silver melt value.\nStandard US coin roll quantities\nCoin\nCoins per roll\nFace value\nPenny\n50\n$0.50\nNickel\n40\n$2.00\nDime\n50\n$5.00\nQuarter\n40\n$10.00\nHalf dollar\n20\n$10.00\nDollar coin\n25\n$25.00\nSilver dollar (Morgan/Peace)\n20\n$20.00\n🪙 Roll value calculator\nCoin\nPenny\nNickel\nDime\nQuarter\nHalf dollar\nDollar coin\nSilver dollar (Morgan/Peace)\nNumber of rolls\nThese are silver (\n1964 & earlier are 90% silver\n)\nTotal coins\n50\nFace value\n$5.00\nHave rolls of silver coins to sell? Get a quote →\nQuick answers\nHow many pennies are in a roll?\nA standard roll of pennies contains 50 coins, with a face value of $0.50.\nHow many nickels are in a roll?\nA standard roll of nickels contains 40 coins, with a face value of $2.00.\nHow many dimes are in a roll?\nA standard roll of dimes contains 50 coins, with a face value of $5.00.\nHow many quarters are in a roll?\nA standard roll of quarters contains 40 coins, with a face value of $10.00.\nHow many half dollars are in a roll?\nA standard roll of half dollars contains 20 coins, with a face value of $10.00.\nHow many dollar coins are in a roll?\nA standard roll of dollar coins contains 25 coins, with a face value of $25.00.\nRolls of\n1964-or-earlier dimes, quarters and half dollars are 90% silver\nand worth many\ntimes face value — tick the \"silver\" box in the calculator to see the live melt. Want to sell?\nGet a quote on the Sell to Us page\n, or explore\nthe\ncoin value guides\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Coin Values",
+              "item": "https://learn.bulliontradingllc.com/coin-values/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Coin rolls"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "How many pennies are in a roll?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A standard roll of pennies contains 50 coins, with a face value of $0.50."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How many nickels are in a roll?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A standard roll of nickels contains 40 coins, with a face value of $2.00."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How many dimes are in a roll?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A standard roll of dimes contains 50 coins, with a face value of $5.00."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How many quarters are in a roll?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A standard roll of quarters contains 40 coins, with a face value of $10.00."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How many half dollars are in a roll?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A standard roll of half dollars contains 20 coins, with a face value of $10.00."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How many dollar coins are in a roll?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A standard roll of dollar coins contains 25 coins, with a face value of $25.00."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

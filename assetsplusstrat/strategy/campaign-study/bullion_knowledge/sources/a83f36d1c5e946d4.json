@@ -1,0 +1,305 @@
+{
+  "metadata": {
+    "id": "a83f36d1c5e946d4",
+    "url": "https://bulliontradingllc.com/product/1-2-oz-canadian-polar-bear-silver-coin/",
+    "title": "1/2 oz Silver Canadian Polar Bear Coin | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:48.203507+00:00",
+    "status": "fetched",
+    "bytes": 169167,
+    "text_characters": 2685,
+    "sha256_html": "148b34af0e5898839c4888ffe88331ce799a593fbbedcc0810ac0ba0239eedfe",
+    "file": "sources/a83f36d1c5e946d4.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Featuring 1/2 oz .9999 silver, the Royal Canadian Mint Polar Bear coin offers legal-tender backing, radial security lines, and secure shipping.",
+  "canonical": "https://bulliontradingllc.com/product/1-2-oz-canadian-polar-bear-silver-coin/",
+  "text": "Skip to content\nFully insured shipping\nAuthenticity guaranteed\nWe buy it back\nNYC Diamond District counter\nSecure checkout\n1/2 oz Canadian Polar Bear Silver Coin .9999\nby\nRoyal Canadian Mint\n✓ LBMA Good Delivery\n$\n35.15\nPriced live off the spot market.\nSee price history ↓\nMetal\nSilver\nWeight\n1/2 oz Troy Ounces\nPurity\n99.99\nType\nCoin\n223 In stock\nQty\nQuantity\nCheck/Wire\nCrypto\nCard/Paypal\n1-9\n1 - 9\n0%\n$\n37.22\n$\n37.96\n$\n39.08\n10-99\n10 - 99\n0.05%\n$\n37.20\n$\n37.95\n$\n39.06\n100+\n100 +\n1%\n$\n36.85\n$\n37.58\n$\n38.69\nAdd to wishlist\nGo to compare\nAdd to compare\nFully insured shipping\nShips in 1–3 business days\nWe buy it back —\nsell to us\nSecure checkout · NYC Diamond District counter\nSKU:\ns5opolarbear\nCategories:\nCanadian Silver Coins\n,\nGovernment Minted Silver Coins\n,\nSilver\n,\nSilver Coins\nMint:\nRoyal Canadian Mint\nPrice history\n1/2 oz Canadian Polar Bear Silver Coin .9999 was last recorded at $37.22 on September 13, 2026. Over the past 12 months it is down 70.7% and has ranged between $32.71 and $127.02.\nLast recorded\nLoading…\n1Y\n7D\n1M\n3M\n6M\n1Y\nAll\nDescription\nAdditional information\nDescription\nIntroducing the  1/2 oz Royal Canadian Mint Polar Bear Silver Coin, available at Bullion Trading LLC:\nCrafted by the Royal Canadian Mint\nContains 1/2 oz of .9999 fine silver\nFeatures Queen Elizabeth II on the obverse\nReverse showcases a roaring polar bear on an iceberg looking out to sea\nEnhanced with radial lines for security\nAvailable individually or in tubes of 15 coins\nA stunning addition to any collection or investment portfolio\nAdditional information\nType of Bullion\nCoin\nProduct Type\nlegal_tender_coin\nIssuer Country\nCA\nIs Legal Tender\nYes\nIs Monetized Bullion\nYes\nPurity %\n99.99\nWeight Unit\nTroy Ounces\nWeight\n1/2 oz\nMetal\nSilver\nRelated products\nOut of stock\nRead more\n1 Oz Silver Bars\n,\nSilver\n,\nSilver Bars\n1 oz OPM Silver Bar (.999 Fine )\n$\n70.04\nRead more\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\n1 Oz Silver Bars\n,\nSilver\n,\nSilver Bars\n1 Oz Silver Bar (Random Brands)\n$\n76.61\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\nSilver\n,\nSilver Rounds\n1 Oz Engelhard Prospector Silver Round (Random Year)\n$\n74.65\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\n5 oz Silver Bars\n,\nGifts\n,\nSilver\n,\nSilver Bars\n,\nSilver Bullets for Sale\n5 oz Silver Bullet\n$\n404.54\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\n$\n35.15\nAdd to cart\nLogin/Register\nDon't have an account\nRegister\nCustomer Login\nIf you have an account, sign in with your email address.\nContinue with Google\nLoading\nYour Cart\nCart is Empty\nUpdating Cart!\nHowdy,                             Guest\nSign in\nDepartments\nShop\nMints\nCart\nMy Account",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/product/1-2-oz-canadian-polar-bear-silver-coin/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/silver/",
+                "name": "Silver"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/silver/coins/",
+                "name": "Silver Coins"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "4",
+              "item": {
+                "@id": "https://bulliontradingllc.com/silver/coins/canadian-silver-coins/",
+                "name": "Canadian Silver Coins"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "5",
+              "item": {
+                "@id": "https://bulliontradingllc.com/product/1-2-oz-canadian-polar-bear-silver-coin/",
+                "name": "1/2 oz Canadian Polar Bear Silver Coin .9999"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "@id": "https://bulliontradingllc.com/product/1-2-oz-canadian-polar-bear-silver-coin/#product",
+      "name": "1/2 oz Canadian Polar Bear Silver Coin .9999",
+      "url": "https://bulliontradingllc.com/product/1-2-oz-canadian-polar-bear-silver-coin/",
+      "description": "Introducing the  1/2 oz Royal Canadian Mint Polar Bear Silver Coin, available at Bullion Trading LLC:\n\n \tCrafted by the Royal Canadian Mint\n \tContains 1/2 oz of .9999 fine silver\n \tFeatures Queen Elizabeth II on the obverse\n \tReverse showcases a roaring polar bear on an iceberg looking out to sea\n \tEnhanced with radial lines for security\n \tAvailable individually or in tubes of 15 coins\n \tA stunning addition to any collection or investment portfolio",
+      "image": [
+        "https://bulliontradingllc.com/wp-content/uploads/2026/04/2019-Canada-1-2-oz-Silver-Polar-Bear-BU_Random-Year.webp",
+        "https://bulliontradingllc.com/wp-content/uploads/2026/04/2018-half-oz-silver-polar-bear-RMC-obverse-edge-1.webp",
+        "https://bulliontradingllc.com/wp-content/uploads/2026/04/0.5-oz-polar-bear-coin-reverse-.webp",
+        "https://bulliontradingllc.com/wp-content/uploads/2026/04/0.5-oz-polar-bear-coin-.webp",
+        "https://bulliontradingllc.com/wp-content/uploads/2026/04/Picture18.webp"
+      ],
+      "sku": "s5opolarbear",
+      "offers": [
+        {
+          "@type": "Offer",
+          "priceValidUntil": "2026-10-15",
+          "availability": "https://schema.org/InStock",
+          "url": "https://bulliontradingllc.com/product/1-2-oz-canadian-polar-bear-silver-coin/",
+          "seller": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC",
+            "url": "https://bulliontradingllc.com/"
+          },
+          "price": "35.15",
+          "priceCurrency": "USD",
+          "itemCondition": "https://schema.org/NewCondition",
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "applicableCountry": "US",
+            "returnPolicyCategory": "https://schema.org/MerchantReturnNotPermitted"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "10",
+              "currency": "USD"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 1,
+                "maxValue": 3,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 1,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              }
+            }
+          }
+        }
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "Royal Canadian Mint"
+      },
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Type of Bullion",
+          "value": "Coin"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Product Type",
+          "value": "legal_tender_coin"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Issuer Country",
+          "value": "CA"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Is Legal Tender",
+          "value": "Yes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Is Monetized Bullion",
+          "value": "Yes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Purity %",
+          "value": "99.99"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight Unit",
+          "value": "Troy Ounces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Weight",
+          "value": "1/2 oz"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Metal",
+          "value": "Silver"
+        }
+      ],
+      "material": "Silver",
+      "weight": {
+        "@type": "QuantitativeValue",
+        "value": "1",
+        "unitText": "Troy Ounces",
+        "unitCode": "APZ"
+      },
+      "category": "Silver > Silver Coins > Canadian Silver Coins"
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/compare/",
+    "https://bulliontradingllc.com/gifts/",
+    "https://bulliontradingllc.com/gifts/silver-bullets-for-sale/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/mints/royal-canadian-mint/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/?redirect=https%3A%2F%2Fbulliontradingllc.com%2Fproduct%2F1-2-oz-canadian-polar-bear-silver-coin",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/product/1-oz-elemetal-silver-bar-999-fine/",
+    "https://bulliontradingllc.com/product/1-oz-engelhard-prospector-silver-roundrandom-year/",
+    "https://bulliontradingllc.com/product/1-oz-silver-bar-random-brands/",
+    "https://bulliontradingllc.com/product/5-oz-silver-bullet/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/shop/",
+    "https://bulliontradingllc.com/silver/",
+    "https://bulliontradingllc.com/silver/bars/",
+    "https://bulliontradingllc.com/silver/bars/1-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/bars/5-oz-silver-bars/",
+    "https://bulliontradingllc.com/silver/coins/",
+    "https://bulliontradingllc.com/silver/coins/canadian-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/government-minted-silver-coins/",
+    "https://bulliontradingllc.com/silver/coins/silver-rounds/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2026/04/2019-Canada-1-2-oz-Silver-Polar-Bear-BU_Random-Year-1024x1024.webp",
+      "alt": "1/2 oz Canadian Polar Bear .9999 silver coin from Royal Canadian Mint"
+    },
+    {
+      "url": "/wp-content/uploads/2026/04/2018-half-oz-silver-polar-bear-RMC-obverse-edge-1.webp",
+      "alt": "1/2 oz silver Royal Canadian Mint Polar Bear coin obverse edge"
+    },
+    {
+      "url": "/wp-content/uploads/2026/04/0.5-oz-polar-bear-coin-reverse--1024x1002.webp",
+      "alt": "1/2 oz Royal Canadian Mint silver Polar Bear coin reverse"
+    },
+    {
+      "url": "/wp-content/uploads/2026/04/2019-Canada-1-2-oz-Silver-Polar-Bear-BU_Random-Year-1024x1024.webp",
+      "alt": "1/2 oz Canadian Polar Bear .9999 silver coin from Royal Canadian Mint"
+    },
+    {
+      "url": "/wp-content/uploads/2026/04/0.5-oz-polar-bear-coin--1024x1020.webp",
+      "alt": "1/2 oz silver Royal Canadian Mint Polar Bear coin in capsule"
+    },
+    {
+      "url": "/wp-content/uploads/2026/04/Picture18-1024x1002.webp",
+      "alt": "1/2 oz Royal Canadian Mint Polar Bear silver coin in protective capsule"
+    },
+    {
+      "url": "/wp-content/uploads/2026/02/Royal-Canadian-Mint-Logo.webp",
+      "alt": "Royal Canadian Mint logo with a maple leaf emblem and text"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-oz-Elemetal-Silver-Bar-1-jpg-webp-300x300.webp",
+      "alt": "1 oz OPM silver bar with Elemetal branding"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-oz-silver-bar-ohio-precious-metals-new_61091_Rev-300x300.webp",
+      "alt": "1 oz silver OPM bar with Ohio Precious Metals engraving"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1ozmissilverbars.jpg",
+      "alt": "1 oz silver bar from random brands, .999 fine silver"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-oz-Silver-RMC-Bar-999-1000RMC-40000-2-300x300.webp",
+      "alt": "1 oz silver bar with Random Brands design and .999 purity"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/SBJMB1OZRP_1_obverse-300x300.webp",
+      "alt": "1 oz silver bar from random brand with stamped refinery markings"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1_oz_engelhard_prospector_silver_round-300x300.webp",
+      "alt": "1 oz Engelhard Prospector silver round with prospector and mule design"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1_oz_engelhard_prospector_silver_rounds-300x300.webp",
+      "alt": "1 oz silver Engelhard Prospector round with miner and donkey design"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/5-oz-silver-bullet-bulliontradingllc-jpg-webp-300x300.webp",
+      "alt": "5 oz silver Bullet bullion from Bullion Trading LLC"
+    }
+  ]
+}

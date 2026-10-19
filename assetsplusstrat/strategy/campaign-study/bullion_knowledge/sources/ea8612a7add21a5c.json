@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "id": "ea8612a7add21a5c",
+    "url": "https://bulliontradingllc.com/blog/three-charts-that-show-gold-is-going-to-1400/",
+    "title": "Three charts that show gold is going to $1,400 - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:13.230366+00:00",
+    "status": "fetched",
+    "bytes": 96017,
+    "text_characters": 3030,
+    "sha256_html": "f767b91b291846a013294358c3dd3fdf6a0bebf6264570601f2d4a2f73cc99ab",
+    "file": "sources/ea8612a7add21a5c.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "While looking at a 10-year chart of gold, Worth kept in mind that there are numerous bullish technical patterns forming on the chart.",
+  "canonical": "https://bulliontradingllc.com/blog/three-charts-that-show-gold-is-going-to-1400/",
+  "text": "While looking at a 10-year chart of gold, Worth kept in mind that there are numerous bullish technical patterns forming on the chart.\n” This is the beginning of an important move higher, even though weve currently move quite perfectly again from the lows of September,” Worth described.\n” Its unclear what [golds] role is as a hedge against inflation, however the thought that it has to go down when rates are increasing is not developed in any method,” Worth said this week on CNBCs “Futures Now.”\nOn February 21st, the 10-year Treasury yield struck its greatest level in four years, underscoring the jitters of some financiers stressed about rising rates.\nLooking back 20 years, Worth compared the performance of gold to the S&P 500 Index, and S&P 500 total return. “What you see there is rather exceptional. Not only is gold beating the S&P on a 20-year basis, its stayed up to date with dividends reinvested … by my work, theres more to come on the upside,” Worth said.\nYou can call it a head-and-shoulders bottom of sorts,” Worth said. Looking at the exact same chart, Worth kept in mind that gold has also broken out of a wedge pattern. Looking back 20 years, Worth compared the performance of gold to the S&P 500 Index, and S&P 500 overall return. Not just is gold beating the S&P on a 20-year basis, its kept up with dividends reinvested … by my work, theres more to come on the advantage,” Worth stated.\n” I believe [gold] will be at $1,400″ by the end of the year, Worth added.\n” In fact, we understand that given that December, rates have carried on the 10-year from 2.35 percent to 2.95 percent, and gold is up about 10 percent,” Worth included.\nInitially, “you see there is stress that has actually been set up given that the peak in 2011. You can call it a head-and-shoulders bottom of sorts,” Worth stated. A head-and-shoulders pattern refers to when a stock makes a high, rallies to a greater high and decreases back to the lower high.\nHere is a short article about gold is going to $1,400. , if you have any question or want to view the initial post you can find the link the bottom of this post.\nLooking at the very same chart, Worth noted that gold has also broken out of a wedge pattern. When there is a breakout from a wedge, technicians often seek to that as a bullish indication of an upward trend. “That is also a very positive set up on a technical basis,” Worth stated.\nGold simply had its worst week in over two months, but one service technician says the valuable metal is headed for a breakout.\nThe yellow metal is typically used as a hedge versus inflation; however, Carter Worth, Cornerstone Macros head of technical analysis, argued that there is no trustworthy relationship between the 2.\n.\nWe found this excellent post at https://www.cnbc.com/2018/02/24/three-charts-that-show-gold-is-going-to-1400.html By: Heidi Chung\nbulliontrading\nView all posts\nPrevious Post\nGold starts the week higher as dollar pulls back\nNext Post\nCompany To Link Gold Trade Payment Methods With Cryptocurrency Techniques",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/02/1519412062_gold3.png",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2018/02/1519412062_gold3.png",
+          "width": "714",
+          "height": "414",
+          "caption": "1519412062_gold3",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/three-charts-that-show-gold-is-going-to-1400/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/three-charts-that-show-gold-is-going-to-1400/",
+                "name": "Three charts that show gold is going to $1,400"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/three-charts-that-show-gold-is-going-to-1400/#webpage",
+          "url": "https://bulliontradingllc.com/blog/three-charts-that-show-gold-is-going-to-1400/",
+          "name": "Three charts that show gold is going to $1,400 - Bullion Trading LLC",
+          "datePublished": "2018-02-28T10:57:19+00:00",
+          "dateModified": "2018-02-28T10:57:19+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/02/1519412062_gold3.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/three-charts-that-show-gold-is-going-to-1400/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Three charts that show gold is going to $1,400 - Bullion Trading LLC",
+          "datePublished": "2018-02-28T10:57:19+00:00",
+          "dateModified": "2018-02-28T10:57:19+00:00",
+          "articleSection": "Gold, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "While looking at a 10-year chart of gold, Worth kept in mind that there are numerous bullish technical patterns forming on the chart.",
+          "name": "Three charts that show gold is going to $1,400 - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/three-charts-that-show-gold-is-going-to-1400/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/three-charts-that-show-gold-is-going-to-1400/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/02/1519412062_gold3.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/three-charts-that-show-gold-is-going-to-1400/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/company-to-link-gold-trade-payment-methods-with-cryptocurrency-techniques/",
+    "https://bulliontradingllc.com/blog/gold-starts-the-week-higher-as-dollar-pulls-back/",
+    "https://bulliontradingllc.com/blog/three-charts-that-show-gold-is-going-to-1400/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2018/02/1519412062_gold3.png",
+      "alt": "1519412062_gold3"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

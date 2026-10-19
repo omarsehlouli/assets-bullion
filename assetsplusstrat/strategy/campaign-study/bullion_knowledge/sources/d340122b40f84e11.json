@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "d340122b40f84e11",
+    "url": "https://bulliontradingllc.com/blog/gold-prices-hold-steady-near-a-one-month-low/",
+    "title": "Gold prices hold steady near a one-month low - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:43.254853+00:00",
+    "status": "fetched",
+    "bytes": 95159,
+    "text_characters": 3071,
+    "sha256_html": "193fd160a345b1ac10492c7d84a3c767357af49bbfa6fbcc2bb3d6d6a6693a76",
+    "file": "sources/d340122b40f84e11.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Here is a short article about Gold costs hold constant. If you desire to read the original article you can discover the link at the bottom of this post.",
+  "canonical": "https://bulliontradingllc.com/blog/gold-prices-hold-steady-near-a-one-month-low/",
+  "text": "Gold prices were stable on Monday, having actually dipped to a one-month low in the previous session after the U.S. dollar firmed on the Federal Reserves strategies to slowly keep tightening loaning expenses.\nSpot gold was bit changed at $1,209.57 per ounce at 0121 GMT. On Friday, costs was up to their least expensive because Oct. 11 at $1,206.13 per ounce.\nU.S. gold futures were up 0.3 percent at $1,211.7 per ounce.\nHere is a short article about Gold costs hold constant. If you desire to read the original article you can discover the link at the bottom of this post.\nGold costs were consistent on Monday, having dipped to a one-month low in the previous session after the U.S. dollar firmed on the Federal Reserves plans to gradually keep tightening up borrowing expenses.\nFundamentals\nChinas factory-gate inflation slowed for the fourth month in October on cooling domestic demand and production activity, signalling Beijing would likely present more growth-boosting procedures in the face of trade frictions with the U.S.\nDemand for physical gold collected steam during an essential festival week, brushing off a current sag going into the standard busy wedding season, while other significant Asian centers saw limited activity.\nFormer British foreign minister Boris Johnson called once again on Sunday for Prime Minister Theresa May to change course on Brexit, accusing her of requiring through a deal to keep the nation secured the EUs custom-mades union in a “overall surrender”.\nU.S. manufacturer rates rose more than expected in October and at their fastest speed in 6 years however measures of underlying cost pressure cooled, strengthening the view that the U.S. reserve bank is not dealing with a renewal in inflation.\nThe dollar index, which measures the greenback against a basket of six major currencies, inched up 0.1 percent. The greenback constructed on last weeks gains and rose towards a 16-month high.\nHedge funds and cash managers cut their net brief position in gold by 8,136 contracts to 37,486 agreements, Commodity Futures Trading Commission (CFTC) stated on Friday.\nArea gold was little bit altered at $1,209.57 per ounce at 0121 GMT. On Friday, prices was up to their most affordable since Oct. 11 at $1,206.13 per ounce.\nU.S. gold futures were up 0.3 percent at $1,211.7 per ounce.\nAsian shares fell on Monday, extending weak point in international equity markets at the end of recently as soft Chinese financial information and falling oil rates revived stress and anxiety about the outlook for world development.\nWe found this article at https://www.cnbc.com/2018/11/12/gold-markets-fed-plans-dollar-moves-in-focus.html and though it would work to our customer.\nItalys economy minister is wanting to revise down the budget plans growth projection for next year to try to reach an offer with the European Commission over financial policy, a federal government source stated on Sunday.\nbulliontrading\nView all posts\nPrevious Post\nWhat Central Banks Bought Gold In 2018?\nNext Post\nGold dips on profit-taking, softer dollar curbs declines",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/11/Gold-prices-hold-steady-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2018/11/Gold-prices-hold-steady-jpg.webp",
+          "width": "670",
+          "height": "342",
+          "caption": "Gold-prices-hold-steady",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-hold-steady-near-a-one-month-low/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-prices-hold-steady-near-a-one-month-low/",
+                "name": "Gold prices hold steady near a one-month low"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-hold-steady-near-a-one-month-low/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-prices-hold-steady-near-a-one-month-low/",
+          "name": "Gold prices hold steady near a one-month low - Bullion Trading LLC",
+          "datePublished": "2018-11-12T09:33:52+00:00",
+          "dateModified": "2018-11-12T09:33:52+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/11/Gold-prices-hold-steady-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-hold-steady-near-a-one-month-low/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold prices hold steady near a one-month low - Bullion Trading LLC",
+          "datePublished": "2018-11-12T09:33:52+00:00",
+          "dateModified": "2018-11-12T09:33:52+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Here is a short article about Gold costs hold constant. If you desire to read the original article you can discover the link at the bottom of this post.",
+          "name": "Gold prices hold steady near a one-month low - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-hold-steady-near-a-one-month-low/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-hold-steady-near-a-one-month-low/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/11/Gold-prices-hold-steady-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-hold-steady-near-a-one-month-low/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/gold-dips-on-profit-taking-softer-dollar-curbs-declines/",
+    "https://bulliontradingllc.com/blog/gold-prices-hold-steady-near-a-one-month-low/",
+    "https://bulliontradingllc.com/blog/what-central-banks-bought-gold-in-2018/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2018/11/Gold-prices-hold-steady-jpg.webp",
+      "alt": "Gold-prices-hold-steady"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

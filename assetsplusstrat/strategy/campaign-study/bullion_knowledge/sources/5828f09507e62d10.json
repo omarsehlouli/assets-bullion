@@ -1,0 +1,344 @@
+{
+  "metadata": {
+    "id": "5828f09507e62d10",
+    "url": "https://learn.bulliontradingllc.com/quiz/physical-palladium-investment-quiz/",
+    "title": "Physical Palladium Investment Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:43.815148+00:00",
+    "status": "fetched",
+    "bytes": 28312,
+    "text_characters": 385,
+    "sha256_html": "5eeab900a07a7d62e3b6f50fa27fe5503962d56a830bcdb1c69724134ad5523b",
+    "file": "sources/5828f09507e62d10.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of direct palladium ownership, storage options, and investment considerations.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/physical-palladium-investment-quiz/",
+  "text": "Physical Palladium Investment Quiz\nTest your knowledge of direct palladium ownership, storage options, and investment considerations.\nWhat are the common sizes for palladium bars?\nA\n100 oz., 50 oz., 25 oz., and 5 oz.\nB\n400 oz., 100 oz., Kilo (32.15 oz.), and 10 oz.\nC\n500 oz., 200 oz., 50 oz., and 20 oz.\nD\n1000 oz., 250 oz., 100 oz., and 25 oz.\n←\nBack to Physical Palladium Investment",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Palladium Investing Fundamentals",
+              "item": "https://learn.bulliontradingllc.com/guides/palladium-investing-fundamentals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Physical Palladium Investment",
+              "item": "https://learn.bulliontradingllc.com/guides/palladium-investing-fundamentals/03-physical-palladium-investment/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Physical Palladium Investment Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Physical Palladium Investment Quiz",
+          "description": "Test your knowledge of direct palladium ownership, storage options, and investment considerations.",
+          "url": "https://learn.bulliontradingllc.com/quiz/physical-palladium-investment-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Physical Palladium Investment"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What are the common sizes for palladium bars?",
+              "text": "What are the common sizes for palladium bars?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "400 oz., 100 oz., Kilo (32.15 oz.), and 10 oz.",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Common palladium bar sizes include 400 oz., 100 oz., Kilo (32.15 oz.), and 10 oz., offering various investment amounts for different investor needs."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "100 oz., 50 oz., 25 oz., and 5 oz."
+                },
+                {
+                  "@type": "Answer",
+                  "text": "500 oz., 200 oz., 50 oz., and 20 oz."
+                },
+                {
+                  "@type": "Answer",
+                  "text": "1000 oz., 250 oz., 100 oz., and 25 oz."
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which country notably issued circulating palladium coins in 1967?",
+              "text": "Which country notably issued circulating palladium coins in 1967?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tonga",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Tonga notably issued circulating palladium coins in 1967, making it historically significant in palladium coinage."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Canada"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "China"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Australia"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What are the main components that make up the premium above spot price for physical palladium?",
+              "text": "What are the main components that make up the premium above spot price for physical palladium?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Refinery costs, logistics, insurance, and dealer margins",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The premium above spot price includes refinery costs, logistics and shipping, insurance coverage, and dealer margins, covering the full cost of bringing physical palladium to market."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Only dealer margins"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Only shipping and handling costs"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Government taxes and fees only"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Are bank safe deposit boxes and their contents FDIC-insured?",
+              "text": "Are bank safe deposit boxes and their contents FDIC-insured?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No, they are generally not FDIC-insured",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Safe deposit boxes and their contents are generally not FDIC-insured, which is an important consideration when choosing storage options for physical palladium."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Yes, fully insured up to $250,000"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Yes, but only up to $100,000"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Only the box rental fee is insured"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is a key advantage of palladium bars over palladium coins?",
+              "text": "What is a key advantage of palladium bars over palladium coins?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lower premiums",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Palladium bars tend to have relatively lower premiums than minted coins, making them more cost-effective for pure investment purposes."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Higher collectible value"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Better liquidity"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Government backing"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Can physical palladium be held within Self-Directed IRAs?",
+              "text": "Can physical palladium be held within Self-Directed IRAs?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, physical precious metals including palladium can be held",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Physical precious metals including palladium can be held within Self-Directed IRAs, providing potential tax advantages through proper retirement account structuring."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "No, precious metals are not allowed in IRAs"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Only palladium ETFs are allowed"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Only coins are allowed, not bars"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the main liquidity concern with physical palladium investment?",
+              "text": "What is the main liquidity concern with physical palladium investment?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Thinly traded market leading to wider bid-ask spreads",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Palladium's market can be thinly traded, leading to wider bid-ask spreads, which can impact the ease and cost of buying and selling."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Cannot be sold at all"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Only banks can buy it back"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Must be held for minimum 5 years"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the main industry-specific risk facing palladium demand?",
+              "text": "What is the main industry-specific risk facing palladium demand?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Electric vehicles not requiring catalytic converters",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The main industry-specific risk is that electric vehicles don't require catalytic converters, potentially reducing long-term demand since automotive applications account for 80-90% of palladium's industrial use."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Declining jewelry demand"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Reduced electronics manufacturing"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Decreased medical applications"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

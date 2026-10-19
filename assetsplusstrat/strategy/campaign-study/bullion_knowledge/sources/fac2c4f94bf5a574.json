@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "id": "fac2c4f94bf5a574",
+    "url": "https://learn.bulliontradingllc.com/coin-values/pennies/",
+    "title": "Pennies Worth Money — Silver Content & Key Dates | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:26.167080+00:00",
+    "status": "fetched",
+    "bytes": 14790,
+    "text_characters": 1192,
+    "sha256_html": "20d47e0fef297ea505de1ef6f71382a17f5957206b20dfbd404d54dc458f01a5",
+    "file": "sources/fac2c4f94bf5a574.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Most pennies are worth one cent, but wheat cents (1909–1958), key dates, and famous errors like the 1943 copper and 1955 doubled-die cents can be worth hun…",
+  "canonical": "https://learn.bulliontradingllc.com/coin-values/pennies/",
+  "text": "Pennies Worth Money\nMost pennies are worth one cent, but wheat cents (1909–1958), key dates, and famous errors like the 1943 copper and 1955 doubled-die cents can be worth hundreds to many thousands.\nPenny composition by year\nYears\nComposition\nSilver content\n1909–1942, 1944–1982\n95% copper (bronze)\n—\n1943\nZinc-coated steel (wartime)\n—\n1982–present\nCopper-plated zinc\n—\nWhich pennies are worth money\nWheat pennies (1909–1958): collectible; common dates are modest, key dates are valuable.\nKey dates: 1909-S VDB, 1914-D, 1922 \"plain\" (no D), 1931-S.\nFamous errors: the 1943 copper cent (struck in error) and the 1944 steel cent are six-figure rarities; the 1955 and 1972 doubled-die cents are highly sought.\nPre-1982 copper cents contain about 2 cents of copper each (melting circulating coins is illegal, but it sets a floor).\nPopular pennies by year\n1943 Steel Penny\n1944 Wheat Penny\n1909-S VDB Penny\n1958-D Wheat Penny\n1955 Doubled Die Penny\nHave pennies to sell?\nWe buy gold, silver and coins in person at our NYC Diamond District counter, or by insured mail.\nGet a free quote →\nLooking to buy?\nShop gold & silver bullion →\nMore:\nall coin values\n·\nsilver price history\n·\ngold/silver ratio",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Coin Values",
+              "item": "https://learn.bulliontradingllc.com/coin-values/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Pennies"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Pennies — melt value, silver content & key dates",
+          "description": "Most pennies are worth one cent, but wheat cents (1909–1958), key dates, and famous errors like the 1943 copper and 1955 doubled-die cents can be worth hun…",
+          "url": "https://learn.bulliontradingllc.com/coin-values/pennies/",
+          "creator": {
+            "@type": "Organization",
+            "name": "United States Mint"
+          },
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

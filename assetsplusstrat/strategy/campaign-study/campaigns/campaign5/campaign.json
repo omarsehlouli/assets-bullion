@@ -1,0 +1,77 @@
+{
+  "id": "campaign5",
+  "name": "Shop Online. Plan Your Pickup.",
+  "scope": "NYC local",
+  "audience": "Adults within practical travel distance of Manhattan who want to purchase bullion and arrange collection.",
+  "approach": "Remove uncertainty between browsing and collecting. Lead with online product choice plus arranged Manhattan pickup, and show the payment eligibility condition in the ad copy. Product category remains the primary destination; contact and location pages support collection planning.",
+  "hypothesis": "Convenience may move ready local buyers toward purchase, but payment and clearance requirements can reduce appeal; test that friction explicitly.",
+  "description": "An online-to-local purchase journey with clear pickup expectations, grounded in the owner’s pickup FAQ and current website terms.",
+  "headline": "Shop online. Plan your pickup.",
+  "primary": "Choose your gold online, then contact our Manhattan team to arrange eligible pickup. Timing depends on payment clearance. Card and PayPal orders must ship.",
+  "meta_headline": "Plan Your Manhattan Pickup",
+  "meta_description": "Confirm payment and collection first.",
+  "cta": "Shop Now",
+  "google_headlines": [
+    "Plan Your Manhattan Pickup",
+    "Shop Gold Bars Online",
+    "Buy Gold With Local Pickup",
+    "Confirm Pickup With Our Team",
+    "Bullion in Midtown Manhattan",
+    "Bullion Trading LLC"
+  ],
+  "google_descriptions": [
+    "Explore gold bars and arrange eligible Manhattan pickup. Confirm payment and timing.",
+    "Pickup depends on payment clearance. Credit card and PayPal orders must be shipped.",
+    "Contact our New York team before visiting. Shop current products and live prices."
+  ],
+  "keywords": {
+    "pickup": [
+      "buy gold NYC pickup",
+      "gold bars local pickup Manhattan",
+      "buy bullion Manhattan pickup",
+      "gold dealer Midtown Manhattan"
+    ]
+  },
+  "destinations": {
+    "pickup": "https://bulliontradingllc.com/gold/bars/1-oz-gold-bars/"
+  },
+  "supporting": [
+    "https://bulliontradingllc.com/contact-us/",
+    "https://bulliontradingllc.com/location/",
+    "https://bulliontradingllc.com/terms-and-conditions/"
+  ],
+  "transcript": [
+    "faq-pickup",
+    "new-york"
+  ],
+  "visual": "A blue PAMP Lady Fortuna assay card on a dark tray beside an unmarked kraft carrier bag, cardholder and face-down phone on a gray counter. A conceptual arranged-pickup scene; bag and tray are styling props.",
+  "image": "exec-9e87aeef-a2a7-4af6-b380-4f6b97cf6c01.png",
+  "refs": [
+    "card-fortuna-gold.png"
+  ],
+  "caution": "Do not promise same-day availability or pickup. Card/PayPal in-store pickup is disallowed in current terms. Contact the business for acceptable payment, clearance, inventory and collection arrangements.",
+  "status": "draft_for_review",
+  "objective": "Purchases of physical gold and silver bullion",
+  "google_targeting": "Presence in NYC metro / practical Manhattan travel area; validate actual coverage before launch.",
+  "meta_targeting": "Adults in the selected geography; broad creative-led prospecting. Retarget consenting site visitors separately if available. No customer list or private audience was used.",
+  "meta_note": "Meta uses audience and creative context, not Google-style search keywords. Keywords below are for Google Search and content planning.",
+  "negative_keywords": [
+    "jobs",
+    "free gold",
+    "gold plated",
+    "gold paint",
+    "gold jewelry",
+    "gold mining stocks",
+    "ETF",
+    "futures",
+    "forex",
+    "scrap gold",
+    "sell gold",
+    "gold loan"
+  ],
+  "assets": {
+    "primary_image": "creative.png",
+    "image_type": "AI-generated reference-based campaign concept",
+    "visual_description": "A blue PAMP Lady Fortuna assay card on a dark tray beside an unmarked kraft carrier bag, cardholder and face-down phone on a gray counter. A conceptual arranged-pickup scene; bag and tray are styling props."
+  }
+}

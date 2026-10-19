@@ -1,0 +1,292 @@
+{
+  "metadata": {
+    "id": "cb2dcb0a9361e410",
+    "url": "https://bulliontradingllc.com/bullion-tax/wisconsin/",
+    "title": "Bullion Sales Tax in Wisconsin (2026): Rules & Exemptions",
+    "retrieved_at": "2026-10-12T22:11:28.500405+00:00",
+    "status": "fetched",
+    "bytes": 105834,
+    "text_characters": 2475,
+    "sha256_html": "02fb24d562f36dbed233f9c650d159df4583681de7782ddb277e8a39993614e8",
+    "file": "sources/cb2dcb0a9361e410.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Wisconsin has a statewide sales tax, but qualifying bullion (coins, bars, rounds, sheets) is fully exempt if it contains at least 35% precious metal.",
+  "canonical": "https://bulliontradingllc.com/bullion-tax/wisconsin/",
+  "text": "←\nAll states\nHeads-up — rules recently changed:\nExemption effective 03/23/2024\nBullion treatment\nTax-free\nQualifying investment bullion is exempt.\nWhat's taxed?\nGood to know\nCommon questions\nHere's how each kind of item is treated in this state. Tap a row to read the plain-English note.\nWhat you're buying\nSales tax?\nWhat that means\nBullion Bars\nNo sales tax\nYou won't pay sales tax on these in Wisconsin.\nBullion Coins\nNo sales tax\nYou won't pay sales tax on these in Wisconsin.\nBullion Rounds\nNo sales tax\nYou won't pay sales tax on these in Wisconsin.\nLegal-Tender Coins\nNo sales tax\nYou won't pay sales tax on these in Wisconsin.\nNumismatic Coins\nDepends on the order\nSome items in this category qualify; others are taxed. Depends on the specific product.\nJewelry\nSales tax applies\nStandard Wisconsin sales tax applies at checkout.\nIndustrial Precious Metal\nAsk before ordering\nTax treatment depends on the item. If you're unsure, contact us before ordering.\nCollectibles (Non-Coin)\nSales tax applies\nStandard Wisconsin sales tax applies at checkout.\nPaper Currency\nSales tax applies\nStandard Wisconsin sales tax applies at checkout.\nAccessories\nSales tax applies\nStandard Wisconsin sales tax applies at checkout.\nWhat's covered by the exemption\nCoins, bars, rounds, and sheets containing at least 35% precious metal.\nHow they decide what counts as bullion\nThe product must contain at least 35% precious metal and be in a typical bullion form (coin, bar, round, or sheet).\nWhat's NOT covered\nCollector coins below the 35% precious-metal threshold, jewelry, and accessories.\nCommon questions about sales tax on gold and silver in Wisconsin.\nIs gold and silver bullion taxable in Wisconsin?\n+\nNo. Wisconsin fully exempts qualifying bullion products from sales tax when they meet the state’s bullion definition.\nWhat bullion products are covered by Wisconsin’s exemption?\n+\nThe exemption covers coins, bars, rounds, sheets, and similar bullion products that qualify under the state rule.\nDoes Wisconsin require a minimum precious-metal content for tax-free bullion?\n+\nYes. Under the newer law, the product must be at least 35% precious metal to qualify as exempt bullion.\nAre numismatic (collector) coins taxed in Wisconsin?\n+\nIt depends. Numismatic items are treated conditionally and may be taxed if they fall outside Wisconsin’s bullion definition.\nIs jewelry sales-tax exempt in Wisconsin?\n+\nNo. Jewelry is taxable in Wisconsin even though qualifying bullion is exempt.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Sales Tax in Wisconsin (2026): Rules &amp; Exemptions",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "description": "Wisconsin has a statewide sales tax, but qualifying bullion (coins, bars, rounds, sheets) is fully exempt if it contains at least 35% precious metal."
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/bullion-tax/wisconsin/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/bullion-tax/",
+                "name": "Bullion Sales Tax by State"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "name": "Wisconsin",
+              "item": "https://bulliontradingllc.com/bullion-tax/wisconsin/"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "WebPage",
+            "FAQPage"
+          ],
+          "@id": "https://bulliontradingllc.com/bullion-tax/wisconsin/#webpage",
+          "url": "https://bulliontradingllc.com/bullion-tax/wisconsin/",
+          "name": "Bullion Sales Tax in Wisconsin (2026): Rules &amp; Exemptions",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/wisconsin/#breadcrumb"
+          },
+          "headline": "Wisconsin Sales Tax on Bullion",
+          "description": "Wisconsin has a statewide sales tax, but qualifying bullion (coins, bars, rounds, sheets) is fully exempt if it contains at least 35% precious metal.",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is gold and silver bullion taxable in Wisconsin?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. Wisconsin fully exempts qualifying bullion products from sales tax when they meet the state’s bullion definition."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What bullion products are covered by Wisconsin’s exemption?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The exemption covers coins, bars, rounds, sheets, and similar bullion products that qualify under the state rule."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Wisconsin require a minimum precious-metal content for tax-free bullion?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Under the newer law, the product must be at least 35% precious metal to qualify as exempt bullion."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are numismatic (collector) coins taxed in Wisconsin?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It depends. Numismatic items are treated conditionally and may be taxed if they fall outside Wisconsin’s bullion definition."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is jewelry sales-tax exempt in Wisconsin?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. Jewelry is taxable in Wisconsin even though qualifying bullion is exempt."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Bullion Sales Tax in Wisconsin (2026): Rules &amp; Exemptions",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Wisconsin has a statewide sales tax, but qualifying bullion (coins, bars, rounds, sheets) is fully exempt if it contains at least 35% precious metal.",
+          "name": "Bullion Sales Tax in Wisconsin (2026): Rules &amp; Exemptions",
+          "@id": "https://bulliontradingllc.com/bullion-tax/wisconsin/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/wisconsin/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/wisconsin/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/bullion-tax/washington/",
+    "https://bulliontradingllc.com/bullion-tax/west-virginia/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    }
+  ]
+}

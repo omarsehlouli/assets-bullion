@@ -1,0 +1,313 @@
+{
+  "metadata": {
+    "id": "071b8000b49b71d8",
+    "url": "https://learn.bulliontradingllc.com/charts/palladium-price-history/",
+    "title": "Palladium Price History — LBMA Palladium Fix Since 1990",
+    "retrieved_at": "2026-10-12T22:13:03.021840+00:00",
+    "status": "fetched",
+    "bytes": 29883,
+    "text_characters": 1171,
+    "sha256_html": "14b49196ff7122888da622f09e14cb685fa874800f03f5bbcc4788c21a6677a9",
+    "file": "sources/071b8000b49b71d8.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Monthly palladium price observations from 1990 through 2026-09-25, in USD, GBP and EUR. Explore sampled highs, lows and year-by-year tables.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/palladium-price-history/",
+  "text": "Palladium Price History\nThe LBMA London fix for palladium, from 1990 through 2026-09-25, in USD, GBP and EUR. Explore the full history below, or jump to any year.\nGold\nSilver\nPlatinum\nPalladium\nUSD\nGBP\nEUR\nAll (1968→)\n30Y\n20Y\n10Y\n5Y\nLatest (2026-09-25)\n$1,257\nHighest monthly sample\n$2,981\nApr 2021\nSample high\n$2,981\nApr 2021\nSample low\n$79.35\nDec 1991\nSource: LBMA fixing (PM where applicable), per troy ounce. Last available fixing per month; latest month may be incomplete. EUR begins 1999. See the methodology for sampling limits.\nExplore the highest monthly observations →\nPalladium price by decade\n2020s\n2010s\n2000s\n1990s\nPalladium price by year\n2026\n2025\n2024\n2023\n2022\n2021\n2020\n2019\n2018\n2017\n2016\n2015\n2014\n2013\n2012\n2011\n2010\n2009\n2008\n2007\n2006\n2005\n2004\n2003\n2002\n2001\n2000\n1999\n1998\n1997\n1996\n1995\n1994\n1993\n1992\n1991\n1990\nReady to act on the price? See live palladium quotes on the\nspot dashboard\nor\nshop palladium bullion\nat Bullion Trading LLC.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Palladium price history"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Palladium price by year",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 37,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-1990/",
+              "name": "Palladium price in 1990"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-1991/",
+              "name": "Palladium price in 1991"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-1992/",
+              "name": "Palladium price in 1992"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-1993/",
+              "name": "Palladium price in 1993"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-1994/",
+              "name": "Palladium price in 1994"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-1995/",
+              "name": "Palladium price in 1995"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-1996/",
+              "name": "Palladium price in 1996"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-1997/",
+              "name": "Palladium price in 1997"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-1998/",
+              "name": "Palladium price in 1998"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-1999/",
+              "name": "Palladium price in 1999"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2000/",
+              "name": "Palladium price in 2000"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2001/",
+              "name": "Palladium price in 2001"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2002/",
+              "name": "Palladium price in 2002"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2003/",
+              "name": "Palladium price in 2003"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2004/",
+              "name": "Palladium price in 2004"
+            },
+            {
+              "@type": "ListItem",
+              "position": 16,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2005/",
+              "name": "Palladium price in 2005"
+            },
+            {
+              "@type": "ListItem",
+              "position": 17,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2006/",
+              "name": "Palladium price in 2006"
+            },
+            {
+              "@type": "ListItem",
+              "position": 18,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2007/",
+              "name": "Palladium price in 2007"
+            },
+            {
+              "@type": "ListItem",
+              "position": 19,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2008/",
+              "name": "Palladium price in 2008"
+            },
+            {
+              "@type": "ListItem",
+              "position": 20,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2009/",
+              "name": "Palladium price in 2009"
+            },
+            {
+              "@type": "ListItem",
+              "position": 21,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2010/",
+              "name": "Palladium price in 2010"
+            },
+            {
+              "@type": "ListItem",
+              "position": 22,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2011/",
+              "name": "Palladium price in 2011"
+            },
+            {
+              "@type": "ListItem",
+              "position": 23,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2012/",
+              "name": "Palladium price in 2012"
+            },
+            {
+              "@type": "ListItem",
+              "position": 24,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2013/",
+              "name": "Palladium price in 2013"
+            },
+            {
+              "@type": "ListItem",
+              "position": 25,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2014/",
+              "name": "Palladium price in 2014"
+            },
+            {
+              "@type": "ListItem",
+              "position": 26,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2015/",
+              "name": "Palladium price in 2015"
+            },
+            {
+              "@type": "ListItem",
+              "position": 27,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2016/",
+              "name": "Palladium price in 2016"
+            },
+            {
+              "@type": "ListItem",
+              "position": 28,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2017/",
+              "name": "Palladium price in 2017"
+            },
+            {
+              "@type": "ListItem",
+              "position": 29,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2018/",
+              "name": "Palladium price in 2018"
+            },
+            {
+              "@type": "ListItem",
+              "position": 30,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2019/",
+              "name": "Palladium price in 2019"
+            },
+            {
+              "@type": "ListItem",
+              "position": 31,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2020/",
+              "name": "Palladium price in 2020"
+            },
+            {
+              "@type": "ListItem",
+              "position": 32,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2021/",
+              "name": "Palladium price in 2021"
+            },
+            {
+              "@type": "ListItem",
+              "position": 33,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2022/",
+              "name": "Palladium price in 2022"
+            },
+            {
+              "@type": "ListItem",
+              "position": 34,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2023/",
+              "name": "Palladium price in 2023"
+            },
+            {
+              "@type": "ListItem",
+              "position": 35,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2024/",
+              "name": "Palladium price in 2024"
+            },
+            {
+              "@type": "ListItem",
+              "position": 36,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2025/",
+              "name": "Palladium price in 2025"
+            },
+            {
+              "@type": "ListItem",
+              "position": 37,
+              "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2026/",
+              "name": "Palladium price in 2026"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/platinum-and-palladium/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

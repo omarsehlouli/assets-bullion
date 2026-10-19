@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "id": "dd536f8fdf0db49f",
+    "url": "https://bulliontradingllc.com/blog/gold-prices-hit-all-time-high/",
+    "title": "Gold prices hit all-time high - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:43.149269+00:00",
+    "status": "fetched",
+    "bytes": 105754,
+    "text_characters": 3583,
+    "sha256_html": "07b1f08846dd217f99d7efabfdd29b5c4790d2e74177bf6a7c91bf2b6deadfe5",
+    "file": "sources/dd536f8fdf0db49f.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Gold hits a new record amid pandemic uncertainty, U.S.-China tensions, and stimulus fears. Explains the drivers pushing prices higher.",
+  "canonical": "https://bulliontradingllc.com/blog/gold-prices-hit-all-time-high/",
+  "text": "The price of gold reached record levels when it got to a trading price of $1,943.93 per ounce– the highest price since September 2011– with the spot gold price rising 2.2 percent on Monday early morning. However why is the price of gold going up?\nThe coronavirus pandemic has actually caused worldwide uncertainty, with increasing political stress in between the U.S. as well as China aggravating capitalists’ worries.\nEconomic climates are struggling to resume after lockdown and also there is a risk of a huge global economic crisis. In the U.S., amid the pandemic as well as stay-at-home orders, businesses shut and also workers were furloughed, so the U.S. federal government obtained money to sustain its economic climate.\nThe price of gold surged to an all-time high on Monday. Some experts indicated the worsening of U.S.-China trade and political tensions. Others mentioned expanding financier worries that a financial recuperation from the coronavirus pandemic may be damaging in the U.S. and somewhere else.\nYet the enter gold prices is extremely unusual due to the fact that stock prices have likewise surged lately after dropping in early March as coronavirus started to spread out in the U.S.\nGold is typically seen as a safe house when stocks are dropping or when rising price of living is increasing. Neither of those 2 things is happening today.\nAlthough the record has actually been a substantial target for experts as well as capitalists, it is additionally seen by some as simply a small speed bump within a much larger uptrend.\nIn a recent meeting with Kitco News, Marc Chandler, chief market strategist at Bannockburn Global Forex, said that he anticipates that gold prices can conveniently strike $2,000 an ounce before this current rally mores than.\n“It is challenging to speak about resistance in never-before-seen prices, but if our sight of rate of interest as well as the kip down the dollar cycle is fair, after that $2,500 might not appear unreasonable,” he said in a report Sunday, stating his present favorable stance.\nThe marketplace has seen significant bullish energy in the last couple of months as the worldwide economic climate has been turned upside down because of the COVID-19 pandemic. According to some analysts, climbing geopolitical stress between China as well as the U.S. is adding additional gas to the rally.\nWhat Is Driving Gold Price higher?\nGeopolitical stress between the U.S. and China, the weaker dollar, and also fears about the international financial recuperation has driven gold prices higher. Sadly, nothing appears to be improving; consequently, the chances are piled for the gold bulls.\nThe U.S. dollar has actually fallen to its lowest level in years, raising concerns regarding the U.S. economy. Capitalists are significantly worried regarding the acquiring power of the U.S. dollar.\nGold tends to relocate vice versa with the U.S. dollar, so a weaker dollar suggests an increase in the worth of gold. Therefore, gold is seen by some as a more secure investment than other properties in unsure times.\nStocks markets around the world have gained back a lot of this year’s losses, however forecasters warn the stock rebound might have been also huge and prematurely as infection situation numbers climb in the United States as well as a few other economies. And the jump in gold prices seems to recommend that some investors agree with those adverse projections– and are seeking ports in the storm to park their money.\nbulliontrading\nView all posts\nPrevious Post\n1 oz Australian Gold Kangaroo\nNext Post\nReasons To Own Gold",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2020/07/buy-gold-bar-800x500-1-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2020/07/buy-gold-bar-800x500-1-jpg.webp",
+          "width": "800",
+          "height": "500",
+          "caption": "buy-gold-bar-800&#215;500",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-hit-all-time-high/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-prices-hit-all-time-high/",
+                "name": "Gold prices hit all-time high"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-hit-all-time-high/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-prices-hit-all-time-high/",
+          "name": "Gold prices hit all-time high - Bullion Trading LLC",
+          "datePublished": "2020-07-27T12:33:36+00:00",
+          "dateModified": "2020-07-27T12:33:36+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2020/07/buy-gold-bar-800x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-hit-all-time-high/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold prices hit all-time high - Bullion Trading LLC",
+          "datePublished": "2020-07-27T12:33:36+00:00",
+          "dateModified": "2020-07-27T12:33:36+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Gold hits a new record amid pandemic uncertainty, U.S.-China tensions, and stimulus fears. Explains the drivers pushing prices higher.",
+          "name": "Gold prices hit all-time high - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-hit-all-time-high/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-hit-all-time-high/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2020/07/buy-gold-bar-800x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-hit-all-time-high/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/1-oz-australian-gold-kangaroo/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/gold-prices-hit-all-time-high/",
+    "https://bulliontradingllc.com/blog/reasons-to-own-gold/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2020/07/buy-gold-bar-800x500-1-jpg.webp",
+      "alt": "buy-gold-bar-800×500"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://bulliontradingllc.com/blog/wp-content/uploads/2020/07/gold-bar-buying.jpg",
+      "alt": "gold bar buying"
+    },
+    {
+      "url": "https://bulliontradingllc.com/blog/wp-content/uploads/2020/07/buy-gold-bar.jpg",
+      "alt": "buy gold bar"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

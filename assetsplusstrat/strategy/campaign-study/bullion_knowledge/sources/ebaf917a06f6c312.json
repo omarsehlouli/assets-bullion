@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "id": "ebaf917a06f6c312",
+    "url": "https://bulliontradingllc.com/bullion-tax/hawaii/",
+    "title": "Bullion Sales Tax in Hawaii (2026): GET Rules & Examples",
+    "retrieved_at": "2026-10-12T22:11:22.824050+00:00",
+    "status": "fetched",
+    "bytes": 104019,
+    "text_characters": 2007,
+    "sha256_html": "afd9c89818d435710c39335cf3fa3db5f5c80c4c252c06731a5704af9c445cb7",
+    "file": "sources/ebaf917a06f6c312.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Hawaii’s GET applies to bullion, coins, and jewelry because there is no general bullion exemption. Charge Hawaii tax/GET unless a narrow exception applies.",
+  "canonical": "https://bulliontradingllc.com/bullion-tax/hawaii/",
+  "text": "←\nAll states\nBullion treatment\nTaxed like other goods\nWhat's taxed?\nGood to know\nCommon questions\nHere's how each kind of item is treated in this state. Tap a row to read the plain-English note.\nWhat you're buying\nSales tax?\nWhat that means\nBullion Bars\nSales tax applies\nStandard Hawaii sales tax applies at checkout.\nBullion Coins\nSales tax applies\nStandard Hawaii sales tax applies at checkout.\nBullion Rounds\nSales tax applies\nStandard Hawaii sales tax applies at checkout.\nLegal-Tender Coins\nSales tax applies\nStandard Hawaii sales tax applies at checkout.\nNumismatic Coins\nSales tax applies\nStandard Hawaii sales tax applies at checkout.\nJewelry\nSales tax applies\nStandard Hawaii sales tax applies at checkout.\nIndustrial Precious Metal\nSales tax applies\nStandard Hawaii sales tax applies at checkout.\nCollectibles (Non-Coin)\nSales tax applies\nStandard Hawaii sales tax applies at checkout.\nPaper Currency\nSales tax applies\nStandard Hawaii sales tax applies at checkout.\nAccessories\nSales tax applies\nStandard Hawaii sales tax applies at checkout.\nWhat's covered by the exemption\nNo bullion-specific exemption — bullion, coins, jewelry, and accessories are taxed like any other tangible goods.\nHow they decide what counts as bullion\nHawaii has no bullion-specific test — its General Excise Tax (GET) applies to bullion, coins, and jewelry alike.\nWhat's NOT covered\nGeneral Excise Tax applies\nCommon questions about sales tax on gold and silver in Hawaii.\nIs gold bullion taxed in Hawaii?\n+\nYes. Hawaii has no general bullion exemption, so bullion is generally subject to Hawaii’s GET.\nAre silver coins exempt from Hawaii GET?\n+\nNo. Coins are generally taxable under Hawaii’s GET regime because there is no broad bullion/coin exemption.\nDo numismatic coins get special tax treatment in Hawaii?\n+\nNot under the general rule provided. Numismatic coins are taxable unless a narrow, separate exemption applies.\nIs jewelry subject to Hawaii tax/GET?\n+\nYes. Jewelry is taxable in Hawaii under the GET system.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Sales Tax in Hawaii (2026): GET Rules &amp; Examples",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "description": "Hawaii’s GET applies to bullion, coins, and jewelry because there is no general bullion exemption. Charge Hawaii tax/GET unless a narrow exception applies."
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/bullion-tax/hawaii/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/bullion-tax/",
+                "name": "Bullion Sales Tax by State"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "name": "Hawaii",
+              "item": "https://bulliontradingllc.com/bullion-tax/hawaii/"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "WebPage",
+            "FAQPage"
+          ],
+          "@id": "https://bulliontradingllc.com/bullion-tax/hawaii/#webpage",
+          "url": "https://bulliontradingllc.com/bullion-tax/hawaii/",
+          "name": "Bullion Sales Tax in Hawaii (2026): GET Rules &amp; Examples",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/hawaii/#breadcrumb"
+          },
+          "headline": "Hawaii Sales Tax on Bullion",
+          "description": "Hawaii’s GET applies to bullion, coins, and jewelry because there is no general bullion exemption. Charge Hawaii tax/GET unless a narrow exception applies.",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is gold bullion taxed in Hawaii?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Hawaii has no general bullion exemption, so bullion is generally subject to Hawaii’s GET."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are silver coins exempt from Hawaii GET?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. Coins are generally taxable under Hawaii’s GET regime because there is no broad bullion/coin exemption."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do numismatic coins get special tax treatment in Hawaii?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Not under the general rule provided. Numismatic coins are taxable unless a narrow, separate exemption applies."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is jewelry subject to Hawaii tax/GET?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Jewelry is taxable in Hawaii under the GET system."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Bullion Sales Tax in Hawaii (2026): GET Rules &amp; Examples",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Hawaii’s GET applies to bullion, coins, and jewelry because there is no general bullion exemption. Charge Hawaii tax/GET unless a narrow exception applies.",
+          "name": "Bullion Sales Tax in Hawaii (2026): GET Rules &amp; Examples",
+          "@id": "https://bulliontradingllc.com/bullion-tax/hawaii/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/hawaii/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/hawaii/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/bullion-tax/georgia/",
+    "https://bulliontradingllc.com/bullion-tax/iowa/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "4ef9ab6c7b607546",
+    "url": "https://bulliontradingllc.com/blog/monarch-precious-metals-gold-and-silver-on-your-terms/",
+    "title": "Monarch Precious Metals: Gold And Silver On Your Terms - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:59.335483+00:00",
+    "status": "fetched",
+    "bytes": 96574,
+    "text_characters": 3345,
+    "sha256_html": "bea099ae779718d9d85335a5281e229fc9a66173826a2b1086c060545f45da30",
+    "file": "sources/4ef9ab6c7b607546.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "In this altering world of products and precious metals, it is more vital now than ever to have a business that you can trust for purchasing and investing in",
+  "canonical": "https://bulliontradingllc.com/blog/monarch-precious-metals-gold-and-silver-on-your-terms/",
+  "text": "In this altering world of products and precious metals, it is more vital now than ever to have a business that you can trust for purchasing and investing in silver and gold. After all, you require to have a company that can meet your requirements and work with you to achieve your objectives in such an uncommon market. That is why business like Monarch Precious Metals are so valuable; they provide beneficial and personable services to their customers, and have a background that is as distinct as individuals they serve.\nWest Coast Minting\nMonarch Precious Metals was introduced in 2008 when the gold and silver market was in a state of amazing flux. From their house in the gorgeous Rogue Valley, Oregon, Monarch decided to turn into one of the largest mints on the west coast. The stock market had actually taken a whipping, and the country was in one of the largest economic downturns in a century. However, that did not stop Monarch from throwing their hat into the ring due to the fact that they saw that customers required to have better choices for buying gold and silver.\nThe thing that sets Monarch apart from the other mints and sales business is the method that they have their bars minted. In other words, you will understand a Monarch bar when you see one.\nQuality Products\nThat is why business like Monarch Precious Metals are so valuable; they provide helpful and personalized services to their consumers, and have a background that is as special as the individuals they serve.\nAnother one of the intriguing facts about the items used by Monarch is that they have an amazing range of silver designs. Lots of business will generally manage a couple of items, however Monarch has actually gone far for themselves by producing silver fractional rounds and holding several popular coins for sale. This fact integrated with the high value insurance coverage that is provided on their shipping has made Monarch a relied on name in rare-earth element financial investments in less than a years.\nWhen you integrate the high quality pieces and the competitive prices that are used by Monarch Precious Metals with their down-to-earth technique to purchasing and investments, you come away with a feeling that you can step confidently into the world of gold and silver.\nMonarch Precious Metals was introduced in 2008 when the gold and silver market was in a state of unbelievable flux. The thing that sets Monarch apart from the other mints and sales business is the way that they have their bars minted. Many companies will generally deal with a few items, but Monarch has actually made a name for themselves by producing silver fractional rounds and holding several famous coins for sale.\nWhether you are an investor or someone who is seeking to collect coins or bars, Monarch will have a product that can match your needs. Each of their coins and bars are made from gold and silver with.999+ great pureness. Due to the fact that it permits them to get the most out of each item that they acquire, this is best for financiers. It is also a terrific choice for people who are collectors, as they will have something to give that is valuable and visually pleasing.\nbulliontrading\nView all posts\nPrevious Post\nHow New Technology Is Changing How We Hedge With Silver\nNext Post\nBuying Gold And Silver In October: Why There Is Nothing To Fear",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/10/Monarch-Precious-Metals.png",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2014/10/Monarch-Precious-Metals.png",
+          "width": "1150",
+          "height": "312",
+          "caption": "Monarch-Precious-Metals",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/monarch-precious-metals-gold-and-silver-on-your-terms/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/silver-bars/",
+                "name": "silver bars"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/monarch-precious-metals-gold-and-silver-on-your-terms/",
+                "name": "Monarch Precious Metals: Gold And Silver On Your Terms"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/monarch-precious-metals-gold-and-silver-on-your-terms/#webpage",
+          "url": "https://bulliontradingllc.com/blog/monarch-precious-metals-gold-and-silver-on-your-terms/",
+          "name": "Monarch Precious Metals: Gold And Silver On Your Terms - Bullion Trading LLC",
+          "datePublished": "2014-10-16T15:37:42+00:00",
+          "dateModified": "2014-10-16T15:37:42+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/10/Monarch-Precious-Metals.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/monarch-precious-metals-gold-and-silver-on-your-terms/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Monarch Precious Metals: Gold And Silver On Your Terms - Bullion Trading LLC",
+          "datePublished": "2014-10-16T15:37:42+00:00",
+          "dateModified": "2014-10-16T15:37:42+00:00",
+          "articleSection": "silver bars",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "In this altering world of products and precious metals, it is more vital now than ever to have a business that you can trust for purchasing and investing in",
+          "name": "Monarch Precious Metals: Gold And Silver On Your Terms - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/monarch-precious-metals-gold-and-silver-on-your-terms/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/monarch-precious-metals-gold-and-silver-on-your-terms/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/10/Monarch-Precious-Metals.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/monarch-precious-metals-gold-and-silver-on-your-terms/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/buying-gold-and-silver-in-october-why-there-is-nothing-to-fear/",
+    "https://bulliontradingllc.com/blog/category/silver-bars/",
+    "https://bulliontradingllc.com/blog/how-new-technology-is-changing-how-we-hedge-with-silver/",
+    "https://bulliontradingllc.com/blog/monarch-precious-metals-gold-and-silver-on-your-terms/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2014/10/Monarch-Precious-Metals.png",
+      "alt": "Monarch-Precious-Metals"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

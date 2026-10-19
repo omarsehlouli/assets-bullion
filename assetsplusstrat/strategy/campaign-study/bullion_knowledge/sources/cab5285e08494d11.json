@@ -1,0 +1,386 @@
+{
+  "metadata": {
+    "id": "cab5285e08494d11",
+    "url": "https://learn.bulliontradingllc.com/quiz/physical-gold-investment-quiz/",
+    "title": "Physical Gold Investment Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:43.431418+00:00",
+    "status": "fetched",
+    "bytes": 29172,
+    "text_characters": 340,
+    "sha256_html": "454d4f3b3ccee7c446383b28a9a5d4e5b7fe6120ee2c8bf777694c5a23a20957",
+    "file": "sources/cab5285e08494d11.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of physical gold ownership, different gold products, and the benefits of direct gold investment.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/physical-gold-investment-quiz/",
+  "text": "Physical Gold Investment Quiz\nTest your knowledge of physical gold ownership, different gold products, and the benefits of direct gold investment.\nWhat is the primary advantage of physical gold ownership over other gold investments?\nA\nHigher returns\nB\nNo counterparty risk\nC\nLower costs\nD\nBetter liquidity\n←\nBack to Physical Gold Investment",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold Investing Fundamentals",
+              "item": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Physical Gold Investment",
+              "item": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/03-physical-gold-investment/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Physical Gold Investment Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Physical Gold Investment Quiz",
+          "description": "Test your knowledge of physical gold ownership, different gold products, and the benefits of direct gold investment.",
+          "url": "https://learn.bulliontradingllc.com/quiz/physical-gold-investment-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Physical Gold Investment"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the primary advantage of physical gold ownership over other gold investments?",
+              "text": "What is the primary advantage of physical gold ownership over other gold investments?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No counterparty risk",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Physical gold ownership eliminates counterparty risk - there's no dependence on banks, brokers, or financial institutions for the gold's value."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Higher returns"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Lower costs"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Better liquidity"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the gold purity of American Gold Eagle coins?",
+              "text": "What is the gold purity of American Gold Eagle coins?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "91.67% (22-karat)",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "American Gold Eagles are 22-karat gold with 91.67% pure gold content, with copper and silver alloys added for durability."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "99.99% (24-karat)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "90% (21.6-karat)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "95% (22.8-karat)"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which gold coin is known for having the highest purity at .9999 fine gold?",
+              "text": "Which gold coin is known for having the highest purity at .9999 fine gold?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Canadian Gold Maple Leaf",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Canadian Gold Maple Leaf coins are .9999 fine gold (99.99% pure), making them among the purest gold coins available."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "American Gold Eagle"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "South African Krugerrand"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Austrian Gold Philharmonic"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Physical gold provides immediate access without third-party approval.",
+              "text": "True or False: Physical gold provides immediate access without third-party approval.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Physical gold in your possession provides immediate access whenever needed without requiring approval from banks, brokers, or other third parties."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What fractional sizes are typically available for American Gold Eagle coins?",
+              "text": "What fractional sizes are typically available for American Gold Eagle coins?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1 oz, 1/2 oz, 1/4 oz, 1/10 oz",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "American Gold Eagles are available in 1 oz, 1/2 oz, 1/4 oz, and 1/10 oz denominations, providing flexibility for different investment amounts."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "1 oz, 1/3 oz, 1/6 oz, 1/12 oz"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "1 oz, 1/2 oz, 1/5 oz, 1/20 oz"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "1 oz, 3/4 oz, 1/2 oz, 1/4 oz"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How long has physical gold maintained value according to the content?",
+              "text": "How long has physical gold maintained value according to the content?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "5,000+ years",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Physical gold has maintained value for over 5,000 years of human civilization, demonstrating its enduring reliability as a store of wealth."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "1,000 years"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "2,500 years"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "10,000 years"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What security features do Canadian Gold Maple Leaf coins have?",
+              "text": "What security features do Canadian Gold Maple Leaf coins have?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Radial lines and micro-engraved maple leaf",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Canadian Gold Maple Leaf coins feature advanced security including radial lines and a micro-engraved maple leaf to prevent counterfeiting."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Holographic images"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Color-changing ink"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Magnetic strips"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Physical gold ownership can remain completely private.",
+              "text": "True or False: Physical gold ownership can remain completely private.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Physical gold ownership can remain completely private, providing privacy protection that many other investments cannot offer."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which entity backs American Gold Eagle coins?",
+              "text": "Which entity backs American Gold Eagle coins?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "US Treasury",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "American Gold Eagle coins are backed by the US Treasury, which guarantees their weight, content, and purity."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Federal Reserve"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "US Mint only"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Private gold dealers"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What psychological benefit does physical gold ownership provide?",
+              "text": "What psychological benefit does physical gold ownership provide?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Peace of mind from tangible asset ownership",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Physical gold ownership provides peace of mind through the security of tangible asset ownership - real wealth that can be seen and touched."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Guaranteed profits"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Elimination of all investment risk"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Automatic portfolio diversification"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

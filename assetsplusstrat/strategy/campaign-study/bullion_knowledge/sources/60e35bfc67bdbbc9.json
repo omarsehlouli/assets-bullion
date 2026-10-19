@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "id": "60e35bfc67bdbbc9",
+    "url": "https://bulliontradingllc.com/bullion-tax/alaska/",
+    "title": "Bullion Sales Tax in Alaska (2026): Rules, Exemptions & Examples",
+    "retrieved_at": "2026-10-12T22:11:21.342467+00:00",
+    "status": "fetched",
+    "bytes": 106245,
+    "text_characters": 2993,
+    "sha256_html": "60e2994d0c22d7aa61799503200ed1d7f3b27259ee33ecd813efcab492fefd58",
+    "file": "sources/60e35bfc67bdbbc9.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Alaska has 0% statewide sales tax. Bullion isn’t taxed by the state, but some municipalities tax delivered sales. Check local rules at checkout.",
+  "canonical": "https://bulliontradingllc.com/bullion-tax/alaska/",
+  "text": "←\nAll states\nStatewide sales tax\nNone\nLocal boroughs may collect their own tax.\nLocal taxes\nMay still apply\nSome cities or counties charge their own rate.\nWhat's taxed?\nGood to know\nCommon questions\nLocal taxes\nHere's how each kind of item is treated in this state. Tap a row to read the plain-English note.\nWhat you're buying\nSales tax?\nWhat that means\nBullion Bars\nLocal taxes may apply\nNo state-level sales tax. Your local city or borough may still charge — varies by address.\nBullion Coins\nLocal taxes may apply\nNo state-level sales tax. Your local city or borough may still charge — varies by address.\nBullion Rounds\nLocal taxes may apply\nNo state-level sales tax. Your local city or borough may still charge — varies by address.\nLegal-Tender Coins\nLocal taxes may apply\nNo state-level sales tax. Your local city or borough may still charge — varies by address.\nNumismatic Coins\nLocal taxes may apply\nNo state-level sales tax. Your local city or borough may still charge — varies by address.\nJewelry\nLocal taxes may apply\nNo state-level sales tax. Your local city or borough may still charge — varies by address.\nIndustrial Precious Metal\nLocal taxes may apply\nNo state-level sales tax. Your local city or borough may still charge — varies by address.\nCollectibles (Non-Coin)\nLocal taxes may apply\nNo state-level sales tax. Your local city or borough may still charge — varies by address.\nPaper Currency\nLocal taxes may apply\nNo state-level sales tax. Your local city or borough may still charge — varies by address.\nAccessories\nLocal taxes may apply\nNo state-level sales tax. Your local city or borough may still charge — varies by address.\nWhat's covered by the exemption\nAlaska has no state sales tax, so there is no state-level exemption to apply. Some local jurisdictions may still tax.\nHow they decide what counts as bullion\nNo state-level decision to make. Your delivery address determines whether a local borough or city collects.\nWhat's NOT covered\nLocal city/borough code controls\nEven when the state-level rule is clear, cities or counties in this state may charge their own tax. Here's what to expect.\nLocal treatment\nUse ARSSTC/local jurisdiction rules\nCommon questions about sales tax on gold and silver in Alaska.\nIs gold bullion taxed in Alaska?\n+\nThere is no Alaska state sales tax, so the state does not tax gold bullion. Local municipality rules may still apply to delivered sales.\nDo I owe sales tax on silver coins shipped to Alaska?\n+\nNot at the state level because Alaska has no statewide sales tax. Any tax due depends on the destination municipality’s local sales-tax rules.\nAre numismatic coins taxable in Alaska?\n+\nAlaska does not impose state sales tax on numismatic coins, but local sales taxes can differ by jurisdiction. Review the local rules where the order is delivered.\nDoes Alaska have a bullion exemption threshold?\n+\nNo statewide threshold is needed because Alaska has no state sales tax. Local jurisdictions may have their own rules and definitions.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Sales Tax in Alaska (2026): Rules, Exemptions &amp; Examples",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "description": "Alaska has 0% statewide sales tax. Bullion isn’t taxed by the state, but some municipalities tax delivered sales. Check local rules at checkout."
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/bullion-tax/alaska/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/bullion-tax/",
+                "name": "Bullion Sales Tax by State"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "name": "Alaska",
+              "item": "https://bulliontradingllc.com/bullion-tax/alaska/"
+            }
+          ]
+        },
+        {
+          "@type": [
+            "WebPage",
+            "FAQPage"
+          ],
+          "@id": "https://bulliontradingllc.com/bullion-tax/alaska/#webpage",
+          "url": "https://bulliontradingllc.com/bullion-tax/alaska/",
+          "name": "Bullion Sales Tax in Alaska (2026): Rules, Exemptions &amp; Examples",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/alaska/#breadcrumb"
+          },
+          "headline": "Alaska Sales Tax on Bullion",
+          "description": "Alaska has 0% statewide sales tax. Bullion isn’t taxed by the state, but some municipalities tax delivered sales. Check local rules at checkout.",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is gold bullion taxed in Alaska?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "There is no Alaska state sales tax, so the state does not tax gold bullion. Local municipality rules may still apply to delivered sales."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Do I owe sales tax on silver coins shipped to Alaska?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Not at the state level because Alaska has no statewide sales tax. Any tax due depends on the destination municipality’s local sales-tax rules."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are numismatic coins taxable in Alaska?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Alaska does not impose state sales tax on numismatic coins, but local sales taxes can differ by jurisdiction. Review the local rules where the order is delivered."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Alaska have a bullion exemption threshold?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No statewide threshold is needed because Alaska has no state sales tax. Local jurisdictions may have their own rules and definitions."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Bullion Sales Tax in Alaska (2026): Rules, Exemptions &amp; Examples",
+          "datePublished": "2026-05-14T17:35:47+00:00",
+          "dateModified": "2026-05-14T17:55:21+00:00",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Alaska has 0% statewide sales tax. Bullion isn’t taxed by the state, but some municipalities tax delivered sales. Check local rules at checkout.",
+          "name": "Bullion Sales Tax in Alaska (2026): Rules, Exemptions &amp; Examples",
+          "@id": "https://bulliontradingllc.com/bullion-tax/alaska/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/alaska/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/bullion-tax/alaska/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/bullion-tax/alabama/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    }
+  ]
+}

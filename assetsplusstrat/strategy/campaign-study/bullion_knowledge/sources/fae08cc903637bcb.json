@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "id": "fae08cc903637bcb",
+    "url": "https://learn.bulliontradingllc.com/coin-values/1965-dime/",
+    "title": "1965 Dime Value — Rarity, Mintage & Key Dates | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:25.104432+00:00",
+    "status": "fetched",
+    "bytes": 13473,
+    "text_characters": 786,
+    "sha256_html": "50702b7f6daf2ba4bfd22f1201d25519d330fafea354232daac874edc63a60d4",
+    "file": "sources/fae08cc903637bcb.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "What a 1965 Roosevelt dime is worth — and the two quick checks (weight 2.50 g vs 2.27 g, edge color) that reveal the rare 1965 silver transitional error before you spend it.",
+  "canonical": "https://learn.bulliontradingllc.com/coin-values/1965-dime/",
+  "text": "Common but collected\n1965 Dime Value\n1965 was the first year of the copper-nickel clad dime — the silver was removed. So a normal 1965 Roosevelt dime is worth ten cents. The rare exception is a 1965 dime mistakenly struck on a leftover 90% silver planchet.\nKey facts\nComposition: copper-nickel clad, no silver — worth face value.\nThe 1965 “silver” transitional error (struck on a 90% silver planchet) is a rare, valuable mistake — it weighs more (2.5 g vs 2.27 g) and has a silver edge.\n1965 coins carry no mintmark (mintmarks were paused 1965–1967).\nThinking of selling?\nWe buy coins and bullion in person at our NYC Diamond District counter.\nGet a free quote →\nSee the full\ndimes value guide\n, or\nShop US silver coins →\nMore:\nall coin values\n·\nsilver price history\n·\ngold/silver ratio",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Coin Values",
+              "item": "https://learn.bulliontradingllc.com/coin-values/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Dimes",
+              "item": "https://learn.bulliontradingllc.com/coin-values/dimes/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1965 Dime"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "1965 Dime Value",
+          "description": "What a 1965 Roosevelt dime is worth — and the two quick checks (weight 2.50 g vs 2.27 g, edge color) that reveal the rare 1965 silver transitional error before you spend it.",
+          "url": "https://learn.bulliontradingllc.com/coin-values/1965-dime/",
+          "creator": {
+            "@type": "Organization",
+            "name": "United States Mint"
+          },
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/",
+    "https://bulliontradingllc.com/silver/silver-coins-for-sale/us-silver-coins/"
+  ],
+  "images": []
+}

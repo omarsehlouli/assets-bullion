@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "id": "626220db06f6d1ba",
+    "url": "https://learn.bulliontradingllc.com/quiz/global-events-impact-quiz/",
+    "title": "Global Events and Their Impact Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:40.726822+00:00",
+    "status": "fetched",
+    "bytes": 27702,
+    "text_characters": 288,
+    "sha256_html": "b673cfce61c2939ae5f6ae9e32d70321bc729ab9066f6e6da5f08afcdc12d4ca",
+    "file": "sources/626220db06f6d1ba.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of geopolitical events, trade wars, and global risks that affect precious metals markets.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/global-events-impact-quiz/",
+  "text": "Global Events and Their Impact Quiz\nTest your knowledge of geopolitical events, trade wars, and global risks that affect precious metals markets.\nWhat percentage tariff on copper imports was proposed according to the content?\nA\n25%\nB\n40%\nC\n50%\nD\n60%\n←\nBack to Global Events & Their Impact",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Market Analysis",
+              "item": "https://learn.bulliontradingllc.com/guides/market-analysis/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Global Events & Their Impact",
+              "item": "https://learn.bulliontradingllc.com/guides/market-analysis/05-global-events-impact/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Global Events and Their Impact Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Global Events and Their Impact Quiz",
+          "description": "Test your knowledge of geopolitical events, trade wars, and global risks that affect precious metals markets.",
+          "url": "https://learn.bulliontradingllc.com/quiz/global-events-impact-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Global Events & Their Impact"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What percentage tariff on copper imports was proposed according to the content?",
+              "text": "What percentage tariff on copper imports was proposed according to the content?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "50%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The proposed 50% tariff on copper imports announced July 8th represents more than trade policy—it signals strategic resource competition."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "25%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "40%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "60%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "According to the content, what did China quietly issue in 2025 that demonstrates resource control as geopolitical leverage?",
+              "text": "According to the content, what did China quietly issue in 2025 that demonstrates resource control as geopolitical leverage?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rare earth quotas",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "China's quiet issuance of 2025 rare earth quotas demonstrates how strategic resources are becoming geopolitical weapons."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Gold export quotas"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Silver import restrictions"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Copper mining licenses"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How much did Russia's precious metals exports to China increase in the first half of 2025?",
+              "text": "How much did Russia's precious metals exports to China increase in the first half of 2025?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They nearly doubled to $1 billion",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Russia's precious metals exports to China nearly doubled to $1 billion, demonstrating how geopolitical sanctions create new trade patterns."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "They doubled to $500 million"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "They tripled to $1.5 billion"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "They remained stable"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What concept does the content use to describe the permanent price support from ongoing global tensions?",
+              "text": "What concept does the content use to describe the permanent price support from ongoing global tensions?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Security premium",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "2025's geopolitical environment is creating a permanent \"security premium\" in precious metals prices—structural price support from ongoing global tensions."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Risk premium"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "War premium"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Crisis premium"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "According to the content, what type of threats do military strategists call risks that reinforce each other?",
+              "text": "According to the content, what type of threats do military strategists call risks that reinforce each other?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Compound threats",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Military strategists call these \"compound threats\"—multiple risks that reinforce each other and create effects greater than the sum of their parts."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Simple threats"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Linear threats"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Isolated threats"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What does the content suggest about the relationship between economic and military security?",
+              "text": "What does the content suggest about the relationship between economic and military security?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Traditional boundaries are dissolving",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Traditional boundaries between military security and economic security are dissolving, making precious metals strategic assets."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "They are completely separate"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Military security is more important"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Economic security doesn't matter"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What type of attacks are mentioned as affecting confidence in electronic trading systems?",
+              "text": "What type of attacks are mentioned as affecting confidence in electronic trading systems?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cyber attacks",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Cyber threats to banking and payment systems, including digital exchange hacks, are driving physical asset demand by affecting confidence in electronic systems."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Physical attacks"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Economic attacks"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Political attacks"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Modern global events often have longer-lasting effects than historical precedents.",
+              "text": "True or False: Modern global events often have longer-lasting effects than historical precedents.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Modern global events often have longer-lasting effects than historical precedents due to increased global integration and complexity."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

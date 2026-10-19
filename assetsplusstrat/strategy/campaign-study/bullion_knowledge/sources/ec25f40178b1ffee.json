@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "ec25f40178b1ffee",
+    "url": "https://learn.bulliontradingllc.com/charts/gold-price-in-2006/",
+    "title": "Gold Price in 2006 — Monthly LBMA Fix, Highs & Lows | BTLLC",
+    "retrieved_at": "2026-10-12T22:12:59.152712+00:00",
+    "status": "fetched",
+    "bytes": 19410,
+    "text_characters": 1164,
+    "sha256_html": "f103fec9052a64d2876c10d3fe2c14769fff2d0b9c5159b71b0146147d73ed21",
+    "file": "sources/ec25f40178b1ffee.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Gold in 2006: 12 monthly observations, 2006-01-31 to 2006-12-28. Sampled high $653, low $556; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/gold-price-in-2006/",
+  "text": "Gold Price in 2006\nAmong 12 monthly observations available for 2006, the LBMA gold price rose 11.1% between 2006-01-31 ($569) and 2006-12-28 ($632). The highest sampled price was $653 in May and the lowest was $556 in February. The mean of these observations was $613. This is a first-to-last observation change, not a calendar-year return.\n2006 gold price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$569\n(2006-01-31)\n$653\n(May)\n$556\n(February)\n$632\n(2006-12-28)\n$613\nGBP\n£321\n(2006-01-31)\n£355\n(April)\n£317\n(October)\n£323\n(2006-12-28)\n£331\nEUR\n€469\n(2006-01-31)\n€512\n(April)\n€467\n(February)\n€481\n(2006-12-28)\n€485\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live gold price on the\nBullion Trading LLC spot dashboard\n, or\nshop gold bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold price history",
+              "item": "https://learn.bulliontradingllc.com/charts/gold-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "2006"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Gold price in 2006 — LBMA monthly fix",
+          "description": "Gold in 2006: 12 monthly observations, 2006-01-31 to 2006-12-28. Sampled high $653, low $556; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/gold-price-in-2006/",
+          "temporalCoverage": "2006-01-31/2006-12-28",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

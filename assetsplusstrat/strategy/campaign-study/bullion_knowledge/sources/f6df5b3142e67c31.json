@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "id": "f6df5b3142e67c31",
+    "url": "https://bulliontradingllc.com/blog/shanghai-gold-premium/",
+    "title": "The Shanghai gold premium: why gold costs more in China - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:05.958561+00:00",
+    "status": "fetched",
+    "bytes": 120846,
+    "text_characters": 11044,
+    "sha256_html": "a9067c7ca8c2b2c0df4508b802618516ef9d155c1e2a1b4aa8228f7e0fa13177",
+    "file": "sources/f6df5b3142e67c31.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The Shanghai gold premium is why gold costs more in China. How import quotas and the SGE create the gap, and what it signals for gold prices.",
+  "canonical": "https://bulliontradingllc.com/blog/shanghai-gold-premium/",
+  "text": "Pull up a live gold price and you are really looking at two prices. There is the one everybody in the West quotes, set by futures trading in New York and bullion dealing in London. And there is the price on the Shanghai Gold Exchange, where actual bars change hands in yuan and leave the vault for good. The two rarely agree, and the gap between them is called the Shanghai gold premium. On the morning of July 30, 2026, Shanghai’s benchmark fixed about $5 an ounce above COMEX, and over the prior month the gap swung between 1.3 percent below and 1.2 percent above, according to\ntracking of the Shanghai benchmark against COMEX\n. A few dollars either way sounds sleepy. The same gauge hit $121 an ounce in September 2023, then sank below zero a year later, and those swings are where the story lives.\nA price gap that size in any normal market would vanish in minutes. Somebody would buy in the cheap city, sell in the expensive one, and pocket the difference until the two prices met. The fact that this gap does not vanish, that it can sit there for months and sometimes blow out to $100 or more, tells you something specific: China’s gold market is not a normal market. It is a walled garden with one gate, and the premium is the crowd noise you can hear from outside the wall.\nNew York trades paper claims on gold that mostly settle in cash. Shanghai trades bars that get carried out the door. The premium lives in that difference.\nOne metal, two benchmarks\nThe Western reference price comes from two places that work as a pair. COMEX in New York trades gold futures, and London’s over-the-counter market trades metal held in vaults, with the LBMA auction setting a twice-daily benchmark. If you have read our piece on\nhow COMEX and LBMA pricing fit together\n, you know the short version: enormous volume, mostly financial, very little of it ending in anyone taking delivery of a bar.\nShanghai is built differently. The Shanghai Gold Exchange opened in 2002 under the People’s Bank of China, and since April 2016 it has published its own yuan-denominated reference price, the\nShanghai Gold Benchmark\n, fixed twice a day. Nearly everything on the SGE is physical. Jewelers buy kilobars there. Banks buy there. When a Chinese investor’s gold leaves an SGE vault, it goes into the domestic market and stays.\nConvert the Shanghai benchmark into dollars per troy ounce, subtract the international price, and you have the premium. Positive means Chinese buyers are paying up for gold. Negative, which happens, means they will not take it even at a discount. Both readings are useful, which is why analysts watch this number the way a mechanic watches a pressure gauge.\nThe conversion itself takes one line of arithmetic, and doing it once by hand makes the whole concept click. Shanghai quotes gold in yuan per gram. Multiply by 31.1035 to get yuan per troy ounce, divide by the dollar-yuan exchange rate, and you are in the same units as the COMEX screen. Take the real morning fix from July 30, 2026: 889.32 yuan per gram works out to roughly 27,660 yuan per troy ounce, and at about 6.77 yuan to the dollar that is $4,088. COMEX printed $4,083 the same morning, so Shanghai stood five dollars over. Every premium tracker on the internet is just running this arithmetic on a loop.\nThe plumbing that keeps the gap open\nStart with the question a trader would ask: why doesn’t arbitrage close the gap? Because at every point where an arbitrageur would need to move metal, China has installed a valve.\nFirst valve: imports need a license. Only a short list of banks approved by the People’s Bank of China may bring gold into the country, thirteen institutions in recent years, nine Chinese and four foreign, per\nBullionStar’s research on China’s cross-border gold rules\n. Imports also run on quotas granted alongside those licenses. When the central bank wants less gold coming in, it simply slows the paperwork.\nSecond valve: everything funnels through one room. Imported standard gold must be sold in the first instance on the Shanghai Gold Exchange. Not may, must. That rule makes the SGE the single point where China’s supply meets China’s demand, which is what makes its benchmark honest, and it comes with a sweetener: standard gold sold on the exchange is exempt from VAT, a structure the\nLBMA’s review of China’s gold tax regime\nlays out in detail. Sell the same bar outside the exchange and the tax treatment turns against you fast. China reworked parts of this VAT system in November 2025, and the change was sharp enough to visibly dent demand for a month.\nThird valve, and the decisive one: the door only swings inward. Bullion generally cannot be re-exported out of China’s domestic market. A Shanghai trader staring at a fat premium in New York’s favor cannot ship bars west to capture it, and a London house cannot ship unlimited bars east when Shanghai pays more, because the import side is licensed and rationed. So the premium is not a mistake waiting to be corrected. It is a reading of how hard Chinese demand is pressing against a supply pipe of fixed width.\nEvery ounce entering China legally passes through a licensed bank and then the SGE. There is no equivalent path out, which is why traders call it the one-way door.\nSeptember 2023: the Shanghai gold premium hits $121\nIf you want to see what happens when the valves tighten while demand surges, 2023 is the case study. The yuan spent that year sliding against the dollar, and Chinese savers did what savers everywhere do when their currency weakens: they bought gold as a hedge. At the same time, the property market was limping and deposit rates were thin, so gold had little competition for the household wallet.\nThe central bank faced an awkward trade-off. Every dollar spent importing gold is a dollar of demand against the yuan, so in the name of defending the currency, regulators let import quotas run dry. Supply pinched exactly when demand spiked. The result was the widest premium ever recorded: $121 per ounce on September 14, 2023, with the full month averaging about $75, according to the\nWorld Gold Council’s September 2023 China market report\n. Gold was changing hands in Shanghai at roughly a 6 percent markup to London, purely because the gate was shut.\nOnce quotas began flowing again, the premium came off the boil, though it stayed elevated into early 2024, mostly running $20 to $50 over the international price. No mystery, no conspiracy. Just a valve reopening.\nWhen the premium flips into a discount\nHere is the part most Western commentary skips: the gauge swings both ways. Through 2024, as gold ripped to record after record, Chinese jewelry buyers started balking at the price. Why would they not? Gold in yuan terms had gotten expensive faster than incomes, and a gram of wedding jewelry is a purchase you can postpone. Wholesale offtake sagged, and the premium deflated all the way through zero: from roughly $40 at the start of 2023 and the $121.2 record that September, the Shanghai price fell to about $10 below the international price by October 2024, a drop of more than $130 from the peak that\nCME Group chronicled in “The Rise and Fall of China’s Gold Premium”\n.\nThe exchange’s own logistics data traced the same arc. Withdrawals from SGE vaults, the metal physically carried out to jewelers and banks, hit a record 271 tonnes in January 2024 as shops stocked up for Chinese New Year. By early summer the monthly figure had shriveled below 90 tonnes. You could watch the country’s appetite deflate in the loading dock numbers before it ever showed up in a quarterly demand report.\nNotice what the discount told you in real time. The retail crowd, the famous bargain-hunting aunties we wrote about in\nthe story of the Chinese dama\n, had gone on strike over price. Meanwhile the official sector kept stacking regardless: the People’s Bank of China reported its 14th consecutive monthly gold purchase in December 2025, per the\nWorld Gold Council’s December 2025 update\n, part of the broader reserve shift we covered in our piece on\ncentral banks trading dollars for gold\n. Households and central banks read from different scripts, and the premium only measures the households.\nBy mid-2026 the gauge had settled into an uneasy calm. Through July the Shanghai benchmark mostly fixed within one percent of COMEX in either direction, a few dollars of premium one day, a few of discount the next. After three years of drama, that flatness is its own message: Chinese buyers are neither panicking into gold nor boycotting it, they are simply paying world price, record price and all. Beijing has noticed the strain on its own plumbing too: in late June 2026, regulators floated a new import and export framework that would loosen the central bank’s grip on cross-border gold flows, a proposal\nreported by Kitco\n. If that reform lands, the walls that make the premium possible get a little lower, which would itself be news worth trading on.\nThree readings of the same gauge: panic premium in 2023, price-shock discount in 2024, and a market at peace with world prices by mid-2026.\nWhat the number means for a buyer in the US\nLet’s clear up the tempting misread first. A $150 Shanghai premium does not mean your local dealer’s price is about to jump $150. The premium you pay on a coin or bar in the US is a separate animal, driven by minting costs, dealer inventory, and retail demand, which is exactly the ground covered in our guide to\nthe gap between spot and physical prices\n. Shanghai’s premium is fenced inside China by the same walls that create it.\nWhat the premium does give you is information, and it is some of the cleanest demand data in the gold world precisely because it cannot be arbitraged away. A sustained Shanghai premium means the world’s largest gold-consuming country is absorbing metal at full price, which builds a floor under global demand. The 2013 crash proved the pattern: Western funds dumped gold, Chinese buyers cleared the shelves at a premium, and the market found its footing. A sustained discount is the opposite signal, the marginal buyer stepping back, which preceded the softness of mid-2024. Not a timing tool, but a truth serum about physical appetite while the headlines argue about Fed meetings.\nA gauge worth thirty seconds a month\nYou do not need a Bloomberg terminal for any of this. The SGE publishes its benchmark daily, several free trackers convert it against COMEX in real time, and the World Gold Council writes up China’s demand picture monthly. Glance at the spread now and then. When Shanghai pays up, the deepest pool of physical buyers on earth is reaching for the same asset you hold, through a needle’s eye of a supply system built to slow them down. When Shanghai will not pay, respect that too. Either way, the number is honest. The wall around China’s gold market makes sure of it.\nbulliontrading\nView all posts\nPrevious Post\nCan you buy gold from a bank in the US?\nNext Post\nGold Eagle Face Value: Why a $50 Coin Is Legal Tender Worth More Than $4,000\nLeave a Reply\nCancel reply",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2026/07/shanghai-gold-premium.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2026/07/shanghai-gold-premium.webp",
+          "width": "1254",
+          "height": "1254",
+          "caption": "shanghai-gold-premium",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/shanghai-gold-premium/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/education/",
+                "name": "Education"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/shanghai-gold-premium/",
+                "name": "The Shanghai gold premium: why gold costs more in China"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/shanghai-gold-premium/#webpage",
+          "url": "https://bulliontradingllc.com/blog/shanghai-gold-premium/",
+          "name": "The Shanghai gold premium: why gold costs more in China - Bullion Trading LLC",
+          "datePublished": "2026-07-30T12:56:55+00:00",
+          "dateModified": "2026-07-30T12:57:01+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2026/07/shanghai-gold-premium.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/shanghai-gold-premium/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "The Shanghai gold premium: why gold costs more in China - Bullion Trading LLC",
+          "keywords": "Shanghai gold premium,Shanghai Gold Exchange,SGE premium,gold price in China,China gold demand",
+          "datePublished": "2026-07-30T12:56:55+00:00",
+          "dateModified": "2026-07-30T12:57:01+00:00",
+          "articleSection": "Education, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "The Shanghai gold premium is why gold costs more in China. How import quotas and the SGE create the gap, and what it signals for gold prices.",
+          "name": "The Shanghai gold premium: why gold costs more in China - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/shanghai-gold-premium/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/shanghai-gold-premium/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2026/07/shanghai-gold-premium.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/shanghai-gold-premium/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/can-you-buy-gold-from-a-bank/",
+    "https://bulliontradingllc.com/blog/category/education/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/central-banks-buying-gold-dollar-reserve-shift/",
+    "https://bulliontradingllc.com/blog/chinese-dama-gold-buying-aunties-beat-wall-street/",
+    "https://bulliontradingllc.com/blog/comex-and-lbma-gold-pricing-explained/",
+    "https://bulliontradingllc.com/blog/gold-eagle-face-value/",
+    "https://bulliontradingllc.com/blog/shanghai-gold-premium/",
+    "https://bulliontradingllc.com/blog/spot-price-vs-physical-price/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://en.sge.com.cn/data_BenchmarkPrice",
+    "https://findbullionprices.com/spot-prices/gold-price/shanghai",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.bullionstar.com/gold-university/chinese-cross-border-trade-rules-gold",
+    "https://www.cmegroup.com/openmarkets/metals/2024/The-Rise-and-Fall-of-Chinas-Gold-Premium.html",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.gold.org/goldhub/gold-focus/2023/10/chinas-gold-market-september-local-premium-rocketed-and-demand-continued",
+    "https://www.gold.org/goldhub/gold-focus/2026/01/china-gold-market-update-december-demand-rebounds",
+    "https://www.instagram.com/bulliontradingllc/",
+    "https://www.kitco.com/news/article/2026-06-29/china-considers-new-import-and-export-regime-gold-which-limits-pboc",
+    "https://www.lbma.org.uk/publications/spotlight-on-mainland-china-gold-market/chapter-2-gold-market-tax-regime"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2026/07/shanghai-gold-premium.webp",
+      "alt": "shanghai-gold-premium"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/07/shanghai-vs-comex-gold-price-comparison_web-1024x571.webp",
+      "alt": "Comparison table of how gold trades in New York on COMEX versus Shanghai on the SGE, showing why a Shanghai gold premium can persist"
+    },
+    {
+      "url": "/wp-content/uploads/2026/07/china-gold-import-one-way-door_web-1024x571.webp",
+      "alt": "Flow diagram of how gold enters China through PBOC-licensed banks and the Shanghai Gold Exchange, with no legal path back out"
+    },
+    {
+      "url": "/wp-content/uploads/2026/07/shanghai-gold-premium-timeline_web-1024x571.webp",
+      "alt": "Timeline of the Shanghai gold premium from the record $121 spike in September 2023 through the autumn 2024 discount to the near-flat readings of mid-2026"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

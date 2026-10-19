@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "id": "c2ca48b7564af34d",
+    "url": "https://learn.bulliontradingllc.com/tools/premium-calculator/",
+    "title": "Premium calculator | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:46.533690+00:00",
+    "status": "fetched",
+    "bytes": 18849,
+    "text_characters": 1050,
+    "sha256_html": "d96dd6d94aa07f7d2e93974de1b6cac624c5210731fcfe9ef02d3dea5fe87479",
+    "file": "sources/c2ca48b7564af34d.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Figure out how much of a dealer's asking price is the actual metal vs the markup. Premium tells you whether a coin or bar is a fair deal.",
+  "canonical": "https://learn.bulliontradingllc.com/tools/premium-calculator/",
+  "text": "Premium calculator\nFigure out how much of a dealer's asking price is the actual metal vs the markup. Premium tells you whether a coin or bar is a fair deal.\nMetal\nGold\nSilver\nPlatinum\nPalladium\nAsking price (USD)\nItem weight\nWeight unit\nTroy ounces\nGrams\nKilograms\nSpot price\n$4,320.50\n/oz\nWeight in troy oz\n1.0000\noz\nMetal value at spot\n$4,320.50\nPremium\n-$1,121\n·\n-25.9\n%\nBelow spot — verify authenticity\nSpot used: $\n4,320.5\n/oz\n— fallback (live API unavailable).\nPremium ranges to expect\nProduct type\nTypical premium\nGeneric 1-oz silver round\n3–8%\nBranded silver bar (PAMP, Asahi, etc.)\n8–15%\n1-oz gold bar (sealed in assay)\n2–4%\n1-oz Gold American Eagle\n4–7%\nFractional gold (1/10 oz, 1/4 oz)\n10–20%\nNumismatic / proof coins\n30–200%+\nA premium that's significantly outside its band is either a great deal or a sign\nto walk away. The calculator above flags suspect ranges.\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Tools",
+              "item": "https://learn.bulliontradingllc.com/tools/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Premium calculator"
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://learn.bulliontradingllc.com/tools/premium-calculator/#webpage",
+          "url": "https://learn.bulliontradingllc.com/tools/premium-calculator/",
+          "name": "Premium calculator",
+          "description": "Figure out how much of a dealer's asking price is the actual metal vs the markup. Premium tells you whether a coin or bar is a fair deal.",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "isAccessibleForFree": true,
+          "about": {
+            "@type": "Thing",
+            "name": "Precious metals premium over spot"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

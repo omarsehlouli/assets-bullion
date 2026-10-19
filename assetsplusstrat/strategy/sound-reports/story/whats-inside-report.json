@@ -1,0 +1,199 @@
+{
+  "file": "public/marketing/story/audio/whats-inside-score.wav",
+  "durationSeconds": 87.82,
+  "scheduleDuration": 87.82,
+  "tempoBpm": 84.0,
+  "key": "A minor drone + pulse (problem) \u2192 silence (question) \u2192 C major (Bullion Trading)",
+  "score": {
+    "integratedLufs": -21.9,
+    "lra": 10.3,
+    "truePeakDbtp": -4.2
+  },
+  "voice": {
+    "integratedLufs": -13.2,
+    "lra": 4.8,
+    "truePeakDbtp": -1.5
+  },
+  "voicePlusScore": {
+    "integratedLufs": -13.2,
+    "lra": 4.2,
+    "truePeakDbtp": 2.9
+  },
+  "mixMinusVoiceLu": 0.0,
+  "ducking": {
+    "musicDb": -8.0,
+    "sfxDb": -3.0
+  },
+  "clicks": {
+    "maxStep": 0.23605,
+    "secondDiffOutlierRatio": 2.02,
+    "dcOffset": [
+      -2.93e-05,
+      -3.74e-05
+    ],
+    "firstSample": 0.0,
+    "lastSample": 0.0
+  },
+  "events": [
+    {
+      "t": 0.05,
+      "event": "soft opening boom"
+    },
+    {
+      "t": 0.2,
+      "event": "A-minor drone (A1 E2 A2) under the whole problem"
+    },
+    {
+      "t": 1.85,
+      "event": "price ticker: 28 ticks up to $4,165"
+    },
+    {
+      "t": 3.433,
+      "event": "stamp: ABOVE $4,000"
+    },
+    {
+      "t": 5.49,
+      "event": "tile slides in ('and')"
+    },
+    {
+      "t": 5.59,
+      "event": "84 BPM pulse; rests under the reveal and the 'You.' hit; groove from the 2012 case"
+    },
+    {
+      "t": 6.05,
+      "event": "tile slides in ('cheap')"
+    },
+    {
+      "t": 9.03,
+      "event": "balance beam settles + stamp \u2248 SAME WEIGHT"
+    },
+    {
+      "t": 10.19,
+      "event": "cold steel clank on 'Tungsten'"
+    },
+    {
+      "t": 17.772,
+      "event": "badge pop 'sealed'"
+    },
+    {
+      "t": 18.732,
+      "event": "badge pop 'serial'"
+    },
+    {
+      "t": 20.232,
+      "event": "badge pop 'five'"
+    },
+    {
+      "t": 22.205,
+      "event": "Buy now: key press + small confirm chime"
+    },
+    {
+      "t": 23.25,
+      "event": "parcel lands"
+    },
+    {
+      "t": 25.27,
+      "event": "scale settles: beep, count ticks, confirm"
+    },
+    {
+      "t": 26.21,
+      "event": "magnet clacks, slides off, drops"
+    },
+    {
+      "t": 28.07,
+      "event": "scan sweep + riser under 'But under a thin skin of gold'"
+    },
+    {
+      "t": 30.43,
+      "event": "TUNGSTEN: impact + stamp + cold minor sting"
+    },
+    {
+      "t": 31.755,
+      "event": "three profile cards pop in"
+    },
+    {
+      "t": 33.175,
+      "event": "the loss chip lands"
+    },
+    {
+      "t": 34.235,
+      "event": "the chip lunges at the seller"
+    },
+    {
+      "t": 34.595,
+      "event": "refused: denied double-tone + strike-through"
+    },
+    {
+      "t": 35.715,
+      "event": "message bounces (error tone), the profile disintegrates (crackle + dissolve)"
+    },
+    {
+      "t": 36.188,
+      "event": "the chip falls into your card"
+    },
+    {
+      "t": 36.455,
+      "event": "YOU.: the film's biggest hit (reverse swell, impact, sub drop, sting)"
+    },
+    {
+      "t": 38.1,
+      "event": "receipt printer while $3,965 counts up"
+    },
+    {
+      "t": 43.04,
+      "event": "value glides down; LOSS stamp"
+    },
+    {
+      "t": 52.445,
+      "event": "four heavy bars set down"
+    },
+    {
+      "t": 57.925,
+      "event": "drill/scan, then FILLED WITH TUNGSTEN stamp + impact"
+    },
+    {
+      "t": 59.25,
+      "event": "clock ticks accelerating x22"
+    },
+    {
+      "t": 61.64,
+      "event": "scattered SOLD clicks"
+    },
+    {
+      "t": 61.9,
+      "event": "grid zoom-out whoosh ('every')"
+    },
+    {
+      "t": 63.02,
+      "event": "grid zoom-out whoosh ('quietly')"
+    },
+    {
+      "t": 65.245,
+      "event": "the room empties into the question"
+    },
+    {
+      "t": 65.545,
+      "event": "question: thin high tone + sub only"
+    },
+    {
+      "t": 68.545,
+      "event": "single heartbeat on 'inside'"
+    },
+    {
+      "t": 71.13,
+      "event": "warm swell on 'Don't worry'"
+    },
+    {
+      "t": 76.25,
+      "event": "gold scan, chime, three confirms, VERIFIED stamp + glint"
+    },
+    {
+      "t": 80.555,
+      "event": "logo light-on + shimmer; pill pop on 'Buy'"
+    },
+    {
+      "t": 80.555,
+      "event": "resolution: C major add9 swell to the end"
+    }
+  ]
+}

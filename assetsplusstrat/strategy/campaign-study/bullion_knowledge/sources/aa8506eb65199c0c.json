@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "aa8506eb65199c0c",
+    "url": "https://learn.bulliontradingllc.com/charts/gold-price-in-1996/",
+    "title": "Gold Price in 1996 — Monthly LBMA Fix, Highs & Lows | BTLLC",
+    "retrieved_at": "2026-10-12T22:12:57.659693+00:00",
+    "status": "fetched",
+    "bytes": 18887,
+    "text_characters": 1100,
+    "sha256_html": "b24db046c155d4c06a34db6162ad4d9d7a68afcc266c88b727865c74471cfe8a",
+    "file": "sources/aa8506eb65199c0c.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Gold in 1996: 12 monthly observations, 1996-01-31 to 1996-12-30. Sampled high $406, low $369; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/gold-price-in-1996/",
+  "text": "Gold Price in 1996\nAmong 12 monthly observations available for 1996, the LBMA gold price fell 9.0% between 1996-01-31 ($406) and 1996-12-30 ($369). The highest sampled price was $406 in January and the lowest was $369 in December. The mean of these observations was $386. This is a first-to-last observation change, not a calendar-year return.\n1996 gold price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$406\n(1996-01-31)\n$406\n(January)\n$369\n(December)\n$369\n(1996-12-30)\n$386\nGBP\n£269\n(1996-01-31)\n£269\n(January)\n£218\n(December)\n£218\n(1996-12-30)\n£247\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live gold price on the\nBullion Trading LLC spot dashboard\n, or\nshop gold bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold price history",
+              "item": "https://learn.bulliontradingllc.com/charts/gold-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1996"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Gold price in 1996 — LBMA monthly fix",
+          "description": "Gold in 1996: 12 monthly observations, 1996-01-31 to 1996-12-30. Sampled high $406, low $369; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/gold-price-in-1996/",
+          "temporalCoverage": "1996-01-31/1996-12-30",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

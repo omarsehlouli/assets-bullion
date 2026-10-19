@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "4be5348188b4566a",
+    "url": "https://bulliontradingllc.com/blog/seasonal-factors-could-bring-back-silvers-shine/",
+    "title": "Seasonal Factors Could Bring Back Silver's Shine - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:05.943165+00:00",
+    "status": "fetched",
+    "bytes": 96307,
+    "text_characters": 3575,
+    "sha256_html": "744da7129a299535c568b1099f56bee2cd6b4f1d6773f7298a1525bc61c207bc",
+    "file": "sources/4be5348188b4566a.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "We discovered this fantastic short article at http://www.kitco.com/news/2018-08-06/Seasonal-Factors-Could-Bring-Back-Silver-s-Shine-Hecht.html By: Neils",
+  "canonical": "https://bulliontradingllc.com/blog/seasonal-factors-could-bring-back-silvers-shine/",
+  "text": "We discovered this fantastic short article at http://www.kitco.com/news/2018-08-06/Seasonal-Factors-Could-Bring-Back-Silver-s-Shine-Hecht.html By: Neils Christensen\nThe marketplaces current consolidation stage follows the rare-earth element lost more than 10% from mid-June to mid-July. Hecht kept in mind that for the last two years, July has been a hard month for silver, however the market has recuperated in August and September.\nIt has actually been a difficult summer season for silver, highlighting what has actually been a frustrating 2018, but one product expert states the rare-earth element could be near to discovering its shine again.\nContributing to his bullish outlook, he stated that open interest in silver futures has been gradually increasing because early July, which means the market is attracting some worth hunters.\nPresently, silver costs are struggling to find momentum, September silver futures last traded at $15.345 an ounce, down 0.76% on the day. However, selling pressure has actually slowed recently as the market is still above Julys 12-month low.\nSilver has actually been a frustrating asset with the valuable metals sector this year, underperforming gold, despite shrinking supply concerns. Kitco.com reveals the gold/silver ratio at 79.19 points.\nWhile silver is a precious metal, it has considerable commercial usages and numerous analysts note that industrial demand is damaging, dragged lower by base metals as investors stress that growing international trade tensions will cause lower total need.\nHere is a good short article about the seasonal factors that can bring Silver cost higher. , if you wanted to read the initial article you can discover a link at the end of this post.\n” Throughout July it seemed like no one cared much about the silver market, however that might be altering now that July is over and August has actually shown up,” he said.\n.\nHe added that he is likes tripled leveraged silver ETF VelocityShares 3X Long Silver ETN (Nasdaq: USLV) to benefit from the metals possible rally.\nWhile optimism in the silver market is growing amongst some analyst, other analysts have said that the marketplace still needs to handle ongoing geopolitical unpredictability.\nIn a report published on Seeking Alpha, Andrew Hecht, developer of the Hecht Commodity Report, said that he sees technical indications that silver could be on the edge of a trend shift as the cost has been combining at the bottom end of its channel for more than last two weeks.\n” The weekly chart continues to look bearish for the silver market, however there are indications that silver is now at a level where the upside capacity could be more appealing than the drawback danger,” he stated.\nHecht added that at existing costs, he sees a favorable risk-reward circumstance for financiers. He stated that crucial assistance comes in at $15.135 an ounce, with considerable resistance at $17.35 an ounce. Eventually, he stated that he sees rates rising back above $18 an ounce, a possible gain of more than 17% from present prices.\nHecht included that at current costs, he sees a favorable risk-reward circumstance for investors. He stated that important support can be found in at $15.135 an ounce, with considerable resistance at $17.35 an ounce. Eventually, he said that he sees costs increasing back above $18 an ounce, a prospective gain of more than 17% from current rates.\nbulliontrading\nView all posts\nPrevious Post\nAugust’s Gold Market Looks ‘Ready For The Up Cycle’\nNext Post\nGold settles higher as dollar falls in wake of U.S.-Mexico trade pact",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/08/silver-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2018/08/silver-jpg.webp",
+          "width": "500",
+          "height": "257",
+          "caption": "silver",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/seasonal-factors-could-bring-back-silvers-shine/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/silver/",
+                "name": "silver"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/seasonal-factors-could-bring-back-silvers-shine/",
+                "name": "Seasonal Factors Could Bring Back Silver&#8217;s Shine"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/seasonal-factors-could-bring-back-silvers-shine/#webpage",
+          "url": "https://bulliontradingllc.com/blog/seasonal-factors-could-bring-back-silvers-shine/",
+          "name": "Seasonal Factors Could Bring Back Silver&#039;s Shine - Bullion Trading LLC",
+          "datePublished": "2018-08-13T10:41:11+00:00",
+          "dateModified": "2018-08-13T10:41:11+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/08/silver-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/seasonal-factors-could-bring-back-silvers-shine/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Seasonal Factors Could Bring Back Silver&#039;s Shine - Bullion Trading LLC",
+          "datePublished": "2018-08-13T10:41:11+00:00",
+          "dateModified": "2018-08-13T10:41:11+00:00",
+          "articleSection": "silver",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "We discovered this fantastic short article at http://www.kitco.com/news/2018-08-06/Seasonal-Factors-Could-Bring-Back-Silver-s-Shine-Hecht.html By: Neils",
+          "name": "Seasonal Factors Could Bring Back Silver&#039;s Shine - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/seasonal-factors-could-bring-back-silvers-shine/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/seasonal-factors-could-bring-back-silvers-shine/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/08/silver-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/seasonal-factors-could-bring-back-silvers-shine/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/augusts-gold-market-looks-ready-for-the-up-cycle/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/gold-settles-higher-as-dollar-falls-in-wake-of-u-s-mexico-trade-pact/",
+    "https://bulliontradingllc.com/blog/seasonal-factors-could-bring-back-silvers-shine/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2018/08/silver-jpg.webp",
+      "alt": "silver"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "5822a276a7b469fe",
+    "url": "https://bulliontradingllc.com/blog/low-silver-prices-sends-global-market-into-coin-and-bar-purchases/",
+    "title": "Low Silver Prices Sends Global Market Into Coin And Bar Purchases - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:58.264341+00:00",
+    "status": "fetched",
+    "bytes": 97097,
+    "text_characters": 3723,
+    "sha256_html": "0450ddeacb4924592b07994ddd4f259b2de8286d93ddeaf02be21922bce37d9c",
+    "file": "sources/5822a276a7b469fe.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "With many individuals waiting on edge to get the coins prior to the premiums capture up to the market, the need for coins such as the Silver Maples has",
+  "canonical": "https://bulliontradingllc.com/blog/low-silver-prices-sends-global-market-into-coin-and-bar-purchases/",
+  "text": "With many individuals waiting on edge to get the coins prior to the premiums capture up to the market, the need for coins such as the Silver Maples has actually reached a fever pitch. While the 2013 silver rate breeze and the resulting rush for both silver and gold has played out rather likewise in 2014, the demand for gold has not reached such alarming levels as it has in the past. This has actually led top consumerists to speculate that given that the supply is not as bad off as last year; the push for gold will not be as extreme, but silver will still stay a high-selling product for months to come.\nSilver rates have taken a hit this week, leaving silver rates at their most affordable rate relative to gold in over five years. This has actually led many customers, both experienced and brand-new, to purchase silver in bars and coins at a rate that has actually left some merchants unable to fulfill the incredible new demand.\nAs an outcome, it could take a while to get production of silver coins to the required level, and has many individuals fearing that rationing of coins might be expanded in the coming months. With lots of individuals waiting on edge to get the coins prior to the premiums capture up to the market, the demand for coins such as the Silver Maples has actually reached a fever pitch. While the 2013 silver rate breeze and the resulting rush for both silver and gold has played out rather likewise in 2014, the need for gold has not reached such dire levels as it has previously.\nRetail outlets from North America to Asia have actually had difficulty keeping some of the most popular coins in stock, but insist that they are doing everything they can to replenish while the rates remain low. In particular, Silver Maples have actually had considerable sales since of the low premiums combined with the low total silver rates.\nThis comes as a result of the truth that an ounce of gold is worth the same quantity as 74 ounces of silver in today market, and reveals that more individuals are buying silver at a much greater volume than gold. The current drop in prices has actually sped up these sales and resulted in some mints not being able to satisfy the new production quotas for bars and coins. Many spokespeople have said that they were simply caught off guard by the sudden uptick in silver sales.\nTypically, at the end of a year, a silver mint will sit on its stocks and wait to relaunch their line in the beginning of the next year when costs and demand level out. As an outcome, it might take a while to get production of silver coins to the required level, and has lots of people fearing that rationing of coins might be broadened in the coming months. However, the silver American Eagle coins have actually still reached the greatest everyday sales that have actually been seen since their intro onto the marketplace, leaving lots of people to wonder if the U.S. Mint will begin to enforce brand-new rationings.\nWhile a high demand for silver is absolutely nothing brand-new this year, in recent weeks the demand has actually escalated as the rates have actually been up to as low as $15.17 per ounce, representing a 20 percent decline this year.\nWhile coins have actually satisfied the needs of lots of investors and buyers, others have looked for bars with amounts as high as 1,000 ounces to profit from their investment future. A sure indication of the extraordinary purchases that have actually stressed current months is the discovery that a fifth of all silver purchases this year have been in the form of silver coins and bars.\nbulliontrading\nView all posts\nPrevious Post\nThe Top Reasons Why Every New Investor Should Explore Gold\nNext Post\nAustrian 100 Coronas In New York",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/11/2012-silver-maple-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2014/11/2012-silver-maple-jpg.webp",
+          "width": "500",
+          "height": "499",
+          "caption": "2012-silver-maple",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/low-silver-prices-sends-global-market-into-coin-and-bar-purchases/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/silver/",
+                "name": "silver"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/low-silver-prices-sends-global-market-into-coin-and-bar-purchases/",
+                "name": "Low Silver Prices Sends Global Market Into Coin And Bar Purchases"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/low-silver-prices-sends-global-market-into-coin-and-bar-purchases/#webpage",
+          "url": "https://bulliontradingllc.com/blog/low-silver-prices-sends-global-market-into-coin-and-bar-purchases/",
+          "name": "Low Silver Prices Sends Global Market Into Coin And Bar Purchases - Bullion Trading LLC",
+          "datePublished": "2014-11-06T15:25:38+00:00",
+          "dateModified": "2014-11-06T15:25:38+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/11/2012-silver-maple-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/low-silver-prices-sends-global-market-into-coin-and-bar-purchases/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Low Silver Prices Sends Global Market Into Coin And Bar Purchases - Bullion Trading LLC",
+          "datePublished": "2014-11-06T15:25:38+00:00",
+          "dateModified": "2014-11-06T15:25:38+00:00",
+          "articleSection": "silver",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "With many individuals waiting on edge to get the coins prior to the premiums capture up to the market, the need for coins such as the Silver Maples has",
+          "name": "Low Silver Prices Sends Global Market Into Coin And Bar Purchases - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/low-silver-prices-sends-global-market-into-coin-and-bar-purchases/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/low-silver-prices-sends-global-market-into-coin-and-bar-purchases/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/11/2012-silver-maple-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/low-silver-prices-sends-global-market-into-coin-and-bar-purchases/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/austrian-100-coronas-in-new-york/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/low-silver-prices-sends-global-market-into-coin-and-bar-purchases/",
+    "https://bulliontradingllc.com/blog/the-top-reasons-why-every-new-investor-should-explore-gold/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2014/11/2012-silver-maple-jpg.webp",
+      "alt": "2012-silver-maple"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

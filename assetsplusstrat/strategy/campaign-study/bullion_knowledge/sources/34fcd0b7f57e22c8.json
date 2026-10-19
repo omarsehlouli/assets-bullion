@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "34fcd0b7f57e22c8",
+    "url": "https://bulliontradingllc.com/blog/i-invested-in-gold-for-the-first-time-heres-how/",
+    "title": "I invested in gold for the first time. Here’s how. - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:54.646593+00:00",
+    "status": "fetched",
+    "bytes": 96587,
+    "text_characters": 3614,
+    "sha256_html": "f1778748e00e3117883d88ba7930e09614e9c60dc1e31f497644912de572b79e",
+    "file": "sources/34fcd0b7f57e22c8.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Blasi recommends paying a little portion (one half of one percent) to have the gold kept and insured, but I desired to feel it in my hands, so the coins were",
+  "canonical": "https://bulliontradingllc.com/blog/i-invested-in-gold-for-the-first-time-heres-how/",
+  "text": "Blasi recommends paying a little portion (one half of one percent) to have the gold kept and insured, but I desired to feel it in my hands, so the coins were overnighted to my home.\nRickards referred me to Chris Blasi at Neptune Global, however you can find a list of dealerships near you on USMint.gov. As the stating goes (sort of, Im paraphrasing), “If you dont understand gold, you better understand your gold dealership,” so ask around for references.\nBlasis advice for owning gold coins: Get a safe, have it secured to the ground and after that put the coins away. As tempting as it might be, he does not recommend dealing with the coins.\nI bought gold for the first time this year. Not a gold ETF like GLD or a gold miner stock like Barrick (ABX), however actual physical gold. I had a restricted spending plan, however wanted it as a diversification and a little hedge against the coming zombie apocalypse or market crash, take your pick.\nJim Rickards, kept in mind gold bug and author of many books on gold, including “The New Case for Gold,” suggested I buy American Eagle Gold Bullion Coins. He likes Eagles because they come directly from the U.S. Mint, so there is great quality control and they are sold at a good rate point at simply over $1,200 versus around $45,000 for a 1-kilo bar.\nThen I placed my order. Blasi suggests paying a little percentage (one half of one percent) to have the gold stored and insured, but I desired to feel it in my hands, so the coins were overnighted to my house. The coins firmly loaded in a plastic tube with lots of padding.\nNow even though American Eagle coins are minted by the U.S. government, you do not desire to purchase them through the U.S. Mint if you desire the finest rate. Its counter-intuitive, but the U.S. Mint is for collectors purchasing evidence sets in great boxes not for financiers looking for a safe shop of value. To buy your basic, uncirculated bullion coin, you desire a gold dealership.\nBoth Blasi and Rickards are insistent that if you are looking to purchase gold as a financial investment, keep away from numismatic, unusual collector coins which cost more than the value of the underlying metal– and also avoid collector sets sold on late night TV. Remember, youre a financier, not a collector.\nNot a gold ETF like GLD or a gold miner stock like Barrick (ABX), however real physical gold. Jim Rickards, noted gold bug and author of numerous books on gold, including “The New Case for Gold,” recommended I purchase American Eagle Gold Bullion Coins. To purchase your fundamental, uncirculated bullion coin, you desire a gold dealer.\nHere is a fantastic short article about how to purchase gold for the very first time. If you have questions concerning the post or you want to view the initial post the link to it is at the end.\nWe discovered this material at https://finance.yahoo.com/news/invested-gold-first-time-heres-145030055.html By: Jen Rogers and believed this was something that our subscribers may find really helpful.\nTo deal with Neptune Global, I needed to open an account and fund it through a bank transfer. While Blasi states a few dealerships take credit cards, the margins on gold are so slim that credit card deal costs tend to be prevented. Blasi says a great method to make sure you are at a respectable dealership is to make sure you never pay more than 10% over the spot rate of gold, which you can find easily online.\nbulliontrading\nView all posts\nPrevious Post\nSurprise! Silver Stocks May Be the Biggest Beneficiaries of Gold's Recent Rally\nNext Post\nPlan to Sell Any Gold Coins? It’s Best to Wait Until Spring",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2017/09/gold-bars-and-coins-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2017/09/gold-bars-and-coins-jpg.webp",
+          "width": "890",
+          "height": "501",
+          "caption": "gold-bars-and-coins",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/i-invested-in-gold-for-the-first-time-heres-how/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/i-invested-in-gold-for-the-first-time-heres-how/",
+                "name": "I invested in gold for the first time. Here’s how."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/i-invested-in-gold-for-the-first-time-heres-how/#webpage",
+          "url": "https://bulliontradingllc.com/blog/i-invested-in-gold-for-the-first-time-heres-how/",
+          "name": "I invested in gold for the first time. Here’s how. - Bullion Trading LLC",
+          "datePublished": "2017-09-26T13:00:54+00:00",
+          "dateModified": "2017-09-26T13:00:54+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2017/09/gold-bars-and-coins-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/i-invested-in-gold-for-the-first-time-heres-how/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "I invested in gold for the first time. Here’s how. - Bullion Trading LLC",
+          "datePublished": "2017-09-26T13:00:54+00:00",
+          "dateModified": "2017-09-26T13:00:54+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Blasi recommends paying a little portion (one half of one percent) to have the gold kept and insured, but I desired to feel it in my hands, so the coins were",
+          "name": "I invested in gold for the first time. Here’s how. - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/i-invested-in-gold-for-the-first-time-heres-how/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/i-invested-in-gold-for-the-first-time-heres-how/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2017/09/gold-bars-and-coins-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/i-invested-in-gold-for-the-first-time-heres-how/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/i-invested-in-gold-for-the-first-time-heres-how/",
+    "https://bulliontradingllc.com/blog/plan-to-sell-any-gold-coins-its-best-to-wait-until-spring/",
+    "https://bulliontradingllc.com/blog/surprise-silver-stocks-may-be-the-biggest-beneficiaries-of-golds-recent-rally/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2017/09/gold-bars-and-coins-jpg.webp",
+      "alt": "gold-bars-and-coins"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

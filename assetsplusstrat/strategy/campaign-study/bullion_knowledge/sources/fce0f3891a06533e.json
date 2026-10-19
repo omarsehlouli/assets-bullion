@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "fce0f3891a06533e",
+    "url": "https://bulliontradingllc.com/blog/gold-steady-as-big-rate-cut-bets-fade-analysts-eye-further-upside/",
+    "title": "Gold steady as big rate cut bets fade, analysts eye further upside - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:46.775260+00:00",
+    "status": "fetched",
+    "bytes": 96186,
+    "text_characters": 2941,
+    "sha256_html": "855cc10373ff5fea628659e6789b155adfb59ffce28f3e7cedfc8f297b4dd126",
+    "file": "sources/fce0f3891a06533e.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "\" After rising from below $15 to over $16.50 in just two and a half weeks, we would not be shocked if some market participants were to take earnings,",
+  "canonical": "https://bulliontradingllc.com/blog/gold-steady-as-big-rate-cut-bets-fade-analysts-eye-further-upside/",
+  "text": "” After rising from below $15 to over $16.50 in just two and a half weeks, we would not be shocked if some market participants were to take earnings, therefore prompting a rate correction,” Commerzbank experts stated in a note.\nWe found this good short article at https://www.cnbc.com/2019/07/22/gold-markets-us-federal-reserve-in-focus.html\nSpot gold was slightly greater at $1,425.53 per ounce, having actually touched $1,452.60 on Friday for its highest considering that May 2013. Rates then dropped by more than 1% gold was still up 0.7% over the week.\nPriced-in projections for a cut of 50 basis points have actually dropped from as high as 71% recently to 18.5% on Monday.\nSilver, on the other hand, was 1% greater at $16.36 an ounce.\nWhile speculators raised their bullish stance in gold and silver in the week to July 16, silver registered a greater addition of net long positions.\nHere is an excellent article about Gold constant as huge rate cut bets fade. , if you want to checkout the initial article you can discover the link at the bottom of this post.\nThe Fed is anticipated to cut interest rates at its July 30-31 conference. The European Central Bank is also anticipated to lean towards financial policy reducing at a meeting on Thursday.\nGold steadied on Monday, having slid 1% in the previous session on lowered expectations of a big rate of interest cut by the U.S. Federal Reserve, but the metals general momentum stayed supported by worldwide geopolitical unpredictabilities.\nU.S. gold futures remained the same on Monday at $1,426.30.\nFXTMs Otunuga included: “All the components for gold to shine stay present. As long as these ingredients continue to bubble in the cauldron, theres no place like gold.”\n” That the Fed is expected to cut rates is one of the essential things supporting gold markets. How deep the cut is will identify how gold goes into August.”\nLower interest rates reduce the opportunity expense of holding non-yielding bullion and weigh on the dollar.\n.\nAccording to Reuters technical analyst Wang Tao, spot gold might retest resistance at $1,439, having actually stabilised around support at $1,421.\n” Gold is plainly bullish although we saw that pull-back on Friday. The rare-earth element is looking for a fresh directional driver,” stated FXTM analyst Lukman Otunuga, including that a timid dollar and uncertainty over worldwide trade, Brexit and geopolitical tensions around the world are all propping up gold markets.\nRates for a Fed cut of 50 basis points soared last week after a dovish speech by New York Fed President John Williams. Those expectations later on diminished after a Fed spokesperson clarified that the remarks did not refer to potential policy actions.\nPlatinum increased 0.6% to $848.11 and palladium gained somewhat to $1,504.85.\nbulliontrading\nView all posts\nPrevious Post\nHow to get started with gold-coin investing\nNext Post\nThe Best Way to Profit From the New Gold Boom",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/07/gold-1170x500-1-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2019/07/gold-1170x500-1-jpg.webp",
+          "width": "1170",
+          "height": "500",
+          "caption": "gold-1170&#215;500 (1)",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-steady-as-big-rate-cut-bets-fade-analysts-eye-further-upside/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-steady-as-big-rate-cut-bets-fade-analysts-eye-further-upside/",
+                "name": "Gold steady as big rate cut bets fade, analysts eye further upside"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-steady-as-big-rate-cut-bets-fade-analysts-eye-further-upside/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-steady-as-big-rate-cut-bets-fade-analysts-eye-further-upside/",
+          "name": "Gold steady as big rate cut bets fade, analysts eye further upside - Bullion Trading LLC",
+          "datePublished": "2019-07-22T12:21:46+00:00",
+          "dateModified": "2019-07-22T12:21:46+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/07/gold-1170x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-steady-as-big-rate-cut-bets-fade-analysts-eye-further-upside/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold steady as big rate cut bets fade, analysts eye further upside - Bullion Trading LLC",
+          "datePublished": "2019-07-22T12:21:46+00:00",
+          "dateModified": "2019-07-22T12:21:46+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "&quot; After rising from below $15 to over $16.50 in just two and a half weeks, we would not be shocked if some market participants were to take earnings,",
+          "name": "Gold steady as big rate cut bets fade, analysts eye further upside - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-steady-as-big-rate-cut-bets-fade-analysts-eye-further-upside/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-steady-as-big-rate-cut-bets-fade-analysts-eye-further-upside/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/07/gold-1170x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-steady-as-big-rate-cut-bets-fade-analysts-eye-further-upside/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/gold-steady-as-big-rate-cut-bets-fade-analysts-eye-further-upside/",
+    "https://bulliontradingllc.com/blog/how-to-get-started-with-gold-coin-investing/",
+    "https://bulliontradingllc.com/blog/the-best-way-to-profit-from-the-new-gold-boom/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2019/07/gold-1170x500-1-jpg.webp",
+      "alt": "gold-1170×500 (1)"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

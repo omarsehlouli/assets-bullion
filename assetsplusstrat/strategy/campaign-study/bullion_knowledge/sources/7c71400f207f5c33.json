@@ -1,0 +1,295 @@
+{
+  "metadata": {
+    "id": "7c71400f207f5c33",
+    "url": "https://bulliontradingllc.com/blog/how-to-calculate-melt-value-silver-coins-gold-jewelry/",
+    "title": "Calculate Melt Value of Silver Coins & Gold Jewelry",
+    "retrieved_at": "2026-10-12T22:10:52.582424+00:00",
+    "status": "fetched",
+    "bytes": 120402,
+    "text_characters": 10959,
+    "sha256_html": "4160a3d783b878ea8a2a5d5ed6e761e4d7172a6364dda771c061c1292709c072",
+    "file": "sources/7c71400f207f5c33.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Learn how to calculate the melt value of silver coins and gold jewelry. Step-by-step formula with 2026 gold ($4,724/oz) and silver ($80.59/oz) prices.",
+  "canonical": "https://bulliontradingllc.com/blog/how-to-calculate-melt-value-silver-coins-gold-jewelry/",
+  "text": "Gold cleared $4,700 per troy ounce in early 2026. Silver crossed $80. At those prices, the metal content sitting in a coin collection or a jewelry box is not trivial, and a growing number of people want to know exactly what they own. The number they are looking for is the melt value: what the raw metal in a coin or piece of jewelry is worth, based on current spot prices, before any dealer margins or refining fees enter the picture.\nCalculating it yourself takes about a minute once you know the formula. This guide walks through the math for both silver coins and gold jewelry, using verified coin specifications and current spot prices, so you can run the numbers on whatever you have at home.\nUnderstanding the melt value of silver coins and gold jewelry starts with three numbers: weight, purity, and the current spot price.\nWhat Melt Value Means, and What It Does Not\nMelt value is the theoretical value of the precious metal content in a coin or piece of jewelry, calculated at current spot prices. It is called theoretical because you cannot walk directly into a refinery and pocket the full spot price for scrap metal. Dealers who buy silver coins and gold jewelry have real costs: assaying to confirm purity, shipping to a refiner, refinery processing fees, and normal business overhead. They pay a percentage of melt value rather than the full amount.\nThat said, melt value remains the essential benchmark. It tells you the floor value of what you own, independent of design, age, or numismatic interest. If a coin shop offers you $8 for a pre-1965 Washington quarter when you have calculated the melt value at $14.58, you know the offer is well below the raw metal value and can negotiate or find a better buyer. Without that number, you are negotiating in the dark.\nThe Core Formula\nBoth silver and gold calculations follow the same logic. You need three numbers: the total weight of the item, the percentage of that weight that is actually precious metal, and the current spot price of that metal.\nMelt Value = Metal Weight (troy oz) × Spot Price (per troy oz)\nThe one technical detail that trips people up is the unit of weight. Precious metals are measured in troy ounces, not the standard avoirdupois ounces used for everyday items. One troy ounce equals exactly 31.1035 grams, compared to 28.35 grams for a regular ounce. When you weigh a piece of jewelry in grams on a scale, you divide that number by 31.1035 to convert to troy ounces before applying the spot price. Skip that step and your result will be about 9% too high.\nCalculating Melt Value for Silver Coins\nPre-1965 American silver coins are the most common starting point. From the nineteenth century through 1964, US dimes, quarters, half dollars, and silver dollars were made from an alloy of 90% silver and 10% copper. Congress mandated this composition, and it was consistent across every denomination for over a century. These coins are widely known in the bullion trade as “junk silver,” a term that refers only to common-date coins with no particular collector premium and says nothing about the metal itself.\nThe silver content of each denomination is fixed and verified.\nPCGS CoinFacts documents\nthat a Morgan or Peace dollar weighs 26.73 grams at 90% silver, putting 24.057 grams of pure silver in each coin, which converts to 0.7734 troy ounces. At the silver spot price of $80.59 per troy ounce , a single Morgan or Peace dollar holds approximately $62.34 worth of silver.\nThe other 90% denominations scale proportionally from there. A pre-1965 Washington quarter weighs 6.25 grams at 90% silver, for a silver content of 0.18084 troy oz and a melt value of about $14.58 at current prices. A pre-1965 Roosevelt or Mercury dime weighs 2.5 grams at the same purity, containing 0.07234 troy oz of silver worth around $5.83. A Walking Liberty, Franklin, or pre-1965 Kennedy half dollar weighs 12.5 grams, with 0.36169 troy oz of silver and a melt value near $29.16.\nTwo other silver coin types appear often enough to be worth knowing. Kennedy half dollars dated 1965 through 1970 dropped to 40% silver rather than 90%, with a total weight of 11.5 grams, giving them 0.14792 troy oz of silver worth about $11.92 today. They are easy to miss because they look nearly identical to later clad versions. The other is the war nickel: five-cent pieces struck from 1942 through 1945 used 35% silver to free up nickel for military production. At 5 grams total, they contain 0.05626 troy oz of silver worth roughly $4.54. The large mintmark stamped above the dome on the reverse distinguishes them from regular nickels of the same years.\nThe\nSilver Institute\nnotes that silver’s spot price is set primarily through the COMEX division of the New York Mercantile Exchange and fluctuates throughout the trading day, so these melt values shift continuously as the market moves.\nMelt values for common US silver coins at the May 8, 2026 silver spot price of $80.59 per troy ounce.\nCalculating Melt Value for Gold Jewelry\nGold jewelry adds one variable that silver coins do not have: the karat mark, which tells you how much of the piece is actually gold. Pure gold is soft enough to scratch with a fingernail, so virtually all jewelry uses a gold alloy rather than pure metal. The karat number measures how many parts out of 24 are gold.\nThe most common karats in the United States are 10k (41.67% gold), 14k (58.33% gold), and 18k (75% gold). 10k is the legal minimum purity for jewelry sold as gold in the US. In the UK and much of Europe, 9k gold at 37.5% purity is also widely used and shows up regularly in vintage and imported pieces. Higher-end jewelry often uses 22k (91.67% gold), common in Indian and Middle Eastern pieces, and 24k at 99.9% pure gold is reserved for bullion bars and certain specialty items.\nThe karat stamp is almost always present on gold jewelry. Look for it inside a ring band, on the clasp of a necklace, or on the back of a pendant. Older or European pieces sometimes use decimal hallmarks instead of karat numbers: 750 for 18k, 585 for 14k, 417 for 10k, and 375 for 9k. These represent gold content in parts per thousand and are equally reliable.\nThe\nWorld Gold Council published a gold spot price of $4,724.75 per troy ounce on May 8, 2026\n. Dividing by 31.1035 gives a price per gram of pure gold of $151.90. The calculation from there is:\nMelt Value = Weight (grams) × (Karat ÷ 24) × $151.90\nWorking through a few examples makes this concrete. An 8-gram 14k gold ring: 8 × (14 ÷ 24) × 151.90 = 8 × 0.5833 × 151.90 = $708.87. A 15-gram 18k gold bracelet: 15 × 0.75 × 151.90 = $1,708.88. Even 10k gold produces substantial numbers at today’s prices: the same 8-gram ring in 10k works out to 8 × (10 ÷ 24) × 151.90 = $506.34.\nThe numbers can surprise people who assumed their older or lower-karat jewelry was worth little. At $4,724 per troy ounce, every gram of gold in any piece, regardless of karat, is worth real money. A 10k piece that someone dismisses as “cheap gold” still contains over 40% pure gold by weight.\nOne thing to verify: the formula assumes the karat stamp reflects the actual gold content. For hallmarked jewelry purchased from reputable US or European retailers, that is a safe assumption. For unmarked pieces or items from unverified sources, an assay test from a jeweler can confirm purity before you calculate or sell.\nGold purity by karat and melt value per 10 grams at the May 8, 2026 gold spot price of $4,724.75 per troy ounce.\nGetting the Weight Right\nA kitchen scale rounds to the nearest gram, which is close enough for cooking but introduces real error in a melt value calculation. For gold jewelry especially, where a single gram of metal is worth over $60 at current prices, a scale that reads to 0.01 grams is the right tool. Jeweler’s precision scales in this range are inexpensive and widely available online. Weigh each item separately rather than in groups.\nFor gold jewelry with gemstones, the weight you measure on the scale includes the stones and setting hardware. Stones have no melt value. For pieces with small accent diamonds or scattered pavé stones, the difference is usually under half a gram and may not change the result much. For a piece with a substantial center stone, it is worth asking a jeweler to estimate the stone weight before you calculate melt value for the piece.\nPre-1965 silver coins in recognizable condition follow documented specifications and do not need to be weighed individually. Count by denomination and multiply. A roll of 40 pre-1965 silver quarters contains 40 × 0.18084 = 7.234 troy oz of silver, worth about $582.90 at current spot prices.\nWhat You Will Actually Be Offered\nMelt value and offer price are different numbers. Dealers who buy scrap silver and gold pay a percentage of melt value, typically somewhere between 70% and 90% depending on the item type, the quantity you are selling, and current market conditions. The gap covers assaying costs, refining fees, transportation, and the margin needed to operate the business.\nUnderstanding this spread is what makes the melt value calculation useful. If you bring a pile of old silver quarters to a dealer and they offer you $9 per coin against a melt value you know is $14.58, you can ask why the offer is under 62% of melt, or find a dealer who offers closer to 80% or 85%. The calculation gives you a negotiating position.\nBullion-focused dealers generally offer better spreads than general jewelry buyers or pawnshops, because their entire business model depends on volume. A dealer whose primary inventory is coins and bars has competitive reasons to pay closer to spot. A pawnshop that occasionally buys jewelry alongside electronics and tools does not operate with the same incentives.\nFor live spot price references when you are calculating for an actual transaction, the\nSilver Institute\nand the\nWorld Gold Council\npublish continuously updated prices. For quick combined melt value calculations on common US silver coins,\nCoinflation.com\nupdates automatically from live spot prices and is a reliable reference.\nKnowing What You Have\nThe calculation is simpler than most people expect. It is basic arithmetic: weight, purity, spot price. The preparation required is knowing the purity of what you own, whether that means looking up a coin’s composition on PCGS CoinFacts or reading the karat stamp inside a ring band.\nAt the price levels gold and silver are trading at in 2026, the metal content in what many people thought of as old change or a forgotten necklace has become genuinely significant. A bag of pre-1965 dimes your grandmother saved, a Morgan dollar from a state fair ribbon, a 14k chain that came in a lot of estate jewelry: each of these has a calculable value that starts with this formula.\nbulliontrading\nView all posts\nPrevious Post\nGold Futures Explained: How COMEX Contracts Work\nNext Post\nGold Stacking for Beginners: How to Build a Private Reserve from Zero\nLeave a Reply\nCancel reply",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2026/05/How-to-Calculate-the-Melt-Value-of-Silver-Coins-and-Gold-Jewelry.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2026/05/How-to-Calculate-the-Melt-Value-of-Silver-Coins-and-Gold-Jewelry.webp",
+          "width": "1536",
+          "height": "1024",
+          "caption": "Silver coins and gold jewelry arranged beside a calculator",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/how-to-calculate-melt-value-silver-coins-gold-jewelry/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/education/",
+                "name": "Education"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/how-to-calculate-melt-value-silver-coins-gold-jewelry/",
+                "name": "How to Calculate the Melt Value of Silver Coins and Gold Jewelry"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/how-to-calculate-melt-value-silver-coins-gold-jewelry/#webpage",
+          "url": "https://bulliontradingllc.com/blog/how-to-calculate-melt-value-silver-coins-gold-jewelry/",
+          "name": "Calculate Melt Value of Silver Coins &amp; Gold Jewelry",
+          "datePublished": "2026-05-08T14:50:03+00:00",
+          "dateModified": "2026-05-08T14:50:08+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2026/05/How-to-Calculate-the-Melt-Value-of-Silver-Coins-and-Gold-Jewelry.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/how-to-calculate-melt-value-silver-coins-gold-jewelry/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Calculate Melt Value of Silver Coins &amp; Gold Jewelry",
+          "keywords": "melt value,junk silver melt value,gold jewelry melt value,silver coin calculator,precious metals melt value",
+          "datePublished": "2026-05-08T14:50:03+00:00",
+          "dateModified": "2026-05-08T14:50:08+00:00",
+          "articleSection": "Education, Gold, silver",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Learn how to calculate the melt value of silver coins and gold jewelry. Step-by-step formula with 2026 gold ($4,724/oz) and silver ($80.59/oz) prices.",
+          "name": "Calculate Melt Value of Silver Coins &amp; Gold Jewelry",
+          "@id": "https://bulliontradingllc.com/blog/how-to-calculate-melt-value-silver-coins-gold-jewelry/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/how-to-calculate-melt-value-silver-coins-gold-jewelry/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2026/05/How-to-Calculate-the-Melt-Value-of-Silver-Coins-and-Gold-Jewelry.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/how-to-calculate-melt-value-silver-coins-gold-jewelry/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/education/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/gold-futures-explained-comex-contracts/",
+    "https://bulliontradingllc.com/blog/gold-stacking-for-beginners-build-private-reserve/",
+    "https://bulliontradingllc.com/blog/how-to-calculate-melt-value-silver-coins-gold-jewelry/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.coinflation.com/",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.gold.org/goldhub/data/gold-prices",
+    "https://www.instagram.com/bulliontradingllc/",
+    "https://www.pcgs.com/coinfacts/category/dollars/morgan-dollar/744",
+    "https://www.silverinstitute.org/silver-price/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2026/05/How-to-Calculate-the-Melt-Value-of-Silver-Coins-and-Gold-Jewelry.webp",
+      "alt": "Silver coins and gold jewelry arranged beside a calculator"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "/wp-content/uploads/2026/05/HERO_IMAGE_melt_value-1024x683.webp",
+      "alt": "Silver coins including a Morgan dollar and Roosevelt dime next to a 14k gold ring and a precision scale for calculating melt value"
+    },
+    {
+      "url": "/wp-content/uploads/2026/05/silver_coin_melt_values_2026-1024x595.webp",
+      "alt": "Chart comparing melt values for Morgan dollar, half dollar, Washington quarter, Roosevelt dime, 1965-70 Kennedy half, and war nickel at $80.59 silver spot price on May 8, 2026"
+    },
+    {
+      "url": "/wp-content/uploads/2026/05/gold_karat_melt_values_2026-1024x553.webp",
+      "alt": "Karat purity diagram showing gold content and melt values per 10 grams for 9k through 24k gold at $4,724.75 spot price on May 8, 2026"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

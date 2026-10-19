@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "495bc34db8e35d28",
+    "url": "https://bulliontradingllc.com/blog/euro-lowers-gold/",
+    "title": "Euro Lowers Gold - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:31.615178+00:00",
+    "status": "fetched",
+    "bytes": 94370,
+    "text_characters": 2927,
+    "sha256_html": "d935358a479109aa3c66058a7f6b798d8123ec003923d127ddcc80bb6eb51f21",
+    "file": "sources/495bc34db8e35d28.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "He also proposes the following: \"If I asked you to leave something for your terrific grandkids in a bundle to be opened one hundred years from now, would you",
+  "canonical": "https://bulliontradingllc.com/blog/euro-lowers-gold/",
+  "text": "He also proposes the following: “If I asked you to leave something for your terrific grandkids in a bundle to be opened one hundred years from now, would you leave them a heap of hundred dollar costs or one hundred gold coins? You can argue that using gold as a hedge is not foolproof, but everybody is aware that as long as crises and inflations happen, a hedge is required. And gold is the finest hedge we have.\nWhat he doesnt mention is that today, in spite of being a “low” day for gold prices, the present worth of gold is $1600/oz.! Gold might have had an unsteady duration in late 2008 when the crash took place, but quickly went back up and really ended the year higher than where it began!\nToday we appear to be in a bit of a rough spot as both gold and stock rates have gone down. Anyone who bought gold specifically as a hedge versus the European crisis may find himself amazed to find that has appeared unreliable as the crisis has actually magnified.\nToday we appear to be in a bit of a rough patch as both gold and stock costs have gone down. Hollandes ambitions put France in an uncertain future, and as the Euro has actually gone down, the dollar has actually gone up. Anyone who purchased gold specifically as a hedge versus the European crisis may find himself amazed to discover that has appeared undependable as the crisis has heightened.\nRegardless of this evident problem, gold is really in a good place and must do well. Think about the fact that the dollar is still in a bad state; the only reason it has improved now is since the Euro is currently worse. As soon as the circumstance in France stabilizes and Hollande takes workplace next week, the Euro will enhance while the dollar will continue to do improperly. If gold had actually jumped record amounts in a single day, I could understand some concern, however it is still riding the high peak of the past year. In an article for CNBC, John Carney identifies gold as declining every time that a government responds to recessions. He uses 2008 as an example, citing that the price of gold fell to $800/oz. when the crash happened in September. What he does not discuss is that today, regardless of being a “low” day for gold costs, the present worth of gold is $1600/oz.! When the value of a product is, on the whole, twice what it was 3 and a half years back, I think its safe to state that market is doing extremely well! Gold may have had an unsteady duration in late 2008 when the crash happened, but soon went back up and really ended the year greater than where it started! Plainly, whatever the daily situation might be, it is basically a good time for gold. And keeping gold as a hedge against economic collapse has actually been a proven strategy for many, no matter the occasional drop in portion points.\nbulliontrading\nView all posts\nPrevious Post\n1 Oz Johnson Matthey Silver Bars\nNext Post\nWhy Choose Silver Bullion Dealers in New York?",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2012/05/1oz-Gold-Austrian-Philharmonic.png",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2012/05/1oz-Gold-Austrian-Philharmonic.png",
+          "width": "300",
+          "height": "300",
+          "caption": "1oz-Gold-Austrian-Philharmonic",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/euro-lowers-gold/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+                "name": "Gold Market &amp; Economics"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/euro-lowers-gold/",
+                "name": "Euro Lowers Gold"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/euro-lowers-gold/#webpage",
+          "url": "https://bulliontradingllc.com/blog/euro-lowers-gold/",
+          "name": "Euro Lowers Gold - Bullion Trading LLC",
+          "datePublished": "2012-05-15T07:22:03+00:00",
+          "dateModified": "2012-05-15T07:22:03+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2012/05/1oz-Gold-Austrian-Philharmonic.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/euro-lowers-gold/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Euro Lowers Gold - Bullion Trading LLC",
+          "datePublished": "2012-05-15T07:22:03+00:00",
+          "dateModified": "2012-05-15T07:22:03+00:00",
+          "articleSection": "Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "He also proposes the following: &quot;If I asked you to leave something for your terrific grandkids in a bundle to be opened one hundred years from now, would you",
+          "name": "Euro Lowers Gold - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/euro-lowers-gold/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/euro-lowers-gold/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2012/05/1oz-Gold-Austrian-Philharmonic.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/euro-lowers-gold/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/1-oz-johnson-matthey-silver-bars/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/euro-lowers-gold/",
+    "https://bulliontradingllc.com/blog/why-choose-silver-bullion-dealers-in-new-york/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2012/05/1oz-Gold-Austrian-Philharmonic.png",
+      "alt": "1oz-Gold-Austrian-Philharmonic"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

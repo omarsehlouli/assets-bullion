@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "id": "63fff606f3b661a7",
+    "url": "https://bulliontradingllc.com/blog/gold-prices-continue-to-trade-strong/",
+    "title": "Gold Prices Continue to Trade Strong - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:42.701838+00:00",
+    "status": "fetched",
+    "bytes": 95040,
+    "text_characters": 2983,
+    "sha256_html": "559ea0369ce5ed3883629b49476fedf0a83c2beb86916ec43b53b3fda9ba25d8",
+    "file": "sources/63fff606f3b661a7.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": ".",
+  "canonical": "https://bulliontradingllc.com/blog/gold-prices-continue-to-trade-strong/",
+  "text": "Gold rates continued to increase and reached as high as the 1320 region before remedying lower throughout the second half of yesterday as the marketplace remains in some sort of a churn as the traders return back from their vacations and await further advancements prior to they choose the next brief term instructions for gold. It has actually to be said that it has actually indeed been a huge move for the gold rates over the last couple of weeks as it has actually recovered from the mid 1250s to increase and rise throughout this duration and now trades easily above the 1300 region. The fact that this relocation higher has occurred without any significant basics makes the relocation even more impressive.\nGold Prices Higher\nBut though it appears like enjoyable for the bulls at this minute, it has actually to be kept in mind that the brand-new year of trading has simply begun and it is only now that the traders have actually started to return back to their desks after the long vacations, the markets have actually started to open in a full fledged way and the liquidity has actually started to select up. The dollar has been on the backfoot over the last couple of weeks and it remains to be seen whether that would be the case as the traders return back to their desks. Later in the United States session, we will be seeing the release of the FOMC meeting minutes from December and it would be interesting to see what the Fed members think of a rate trek in March and also about the market expectation for 3 rates hikes from the Fed this year. If the minutes end up being hawkish, then we could see the dollar rebounding which needs to position the gold rates under pressure.\n.\nThe silver costs also traded above the $17 region however as we had actually pointed out in our forecast the other day, the momentum in the silver rates seems to be doing not have and the costs seem to be moving much slower when compared to the gold market. This plainly shows the lack of demand in the silver market which could present a problem to the traders once the costs start reversing.\nThis post was initially posted on FX Empire https://www.fxempire.com/forecasts/article/gold-prices-continue-trade-strong-463011 By: Colin First and believed it was something that our subscribers would discover beneficial.\nHere is a great post about gold rates continue to trade strong. , if you have any questions relating to the short article or you want to read the original short article you can discover the link at the end of this post.\nOil prices continued to move within a tight range over the last 24 hours as the rates traded above $60 for much of the day. The return of the liquidity is going to present a difficulty to the bulls and we will need to wait and see whether there would be a correction in the costs as an outcome.\nbulliontrading\nView all posts\nPrevious Post\nInvesting in gold: Why it still glitters – David Melvill\nNext Post\n7 reasons why investors should go for gold in 2018",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/01/XAUUSD.fixH1jan3-800x500-1.png",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2018/01/XAUUSD.fixH1jan3-800x500-1.png",
+          "width": "800",
+          "height": "500",
+          "caption": "XAUUSD.fixH1jan3-800&#215;500",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-continue-to-trade-strong/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-prices-continue-to-trade-strong/",
+                "name": "Gold Prices Continue to Trade Strong"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-continue-to-trade-strong/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-prices-continue-to-trade-strong/",
+          "name": "Gold Prices Continue to Trade Strong - Bullion Trading LLC",
+          "datePublished": "2018-01-05T10:35:10+00:00",
+          "dateModified": "2018-01-05T10:35:10+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/01/XAUUSD.fixH1jan3-800x500-1.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-continue-to-trade-strong/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold Prices Continue to Trade Strong - Bullion Trading LLC",
+          "datePublished": "2018-01-05T10:35:10+00:00",
+          "dateModified": "2018-01-05T10:35:10+00:00",
+          "articleSection": "Gold, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": ".",
+          "name": "Gold Prices Continue to Trade Strong - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-prices-continue-to-trade-strong/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-continue-to-trade-strong/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/01/XAUUSD.fixH1jan3-800x500-1.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-prices-continue-to-trade-strong/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/7-reasons-why-investors-should-go-for-gold-in-2018/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/gold-prices-continue-to-trade-strong/",
+    "https://bulliontradingllc.com/blog/investing-in-gold-why-it-still-glitters-david-melvill/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2018/01/XAUUSD.fixH1jan3-800x500-1.png",
+      "alt": "XAUUSD.fixH1jan3-800×500"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+ad_group,keyword,match_type,evidence
+gold_gift,gold bar gift,Exact,Suggested intent; no volume or CPC data retrieved
+gold_gift,gold bar gift,Phrase,Suggested intent; no volume or CPC data retrieved
+gold_gift,5 gram PAMP gold bar,Exact,Suggested intent; no volume or CPC data retrieved
+gold_gift,5 gram PAMP gold bar,Phrase,Suggested intent; no volume or CPC data retrieved
+gold_gift,gold bullion gift,Exact,Suggested intent; no volume or CPC data retrieved
+gold_gift,gold bullion gift,Phrase,Suggested intent; no volume or CPC data retrieved
+gold_gift,gold anniversary gift,Exact,Suggested intent; no volume or CPC data retrieved
+gold_gift,gold anniversary gift,Phrase,Suggested intent; no volume or CPC data retrieved
+gold_gift,small gold bar gift,Exact,Suggested intent; no volume or CPC data retrieved
+gold_gift,small gold bar gift,Phrase,Suggested intent; no volume or CPC data retrieved

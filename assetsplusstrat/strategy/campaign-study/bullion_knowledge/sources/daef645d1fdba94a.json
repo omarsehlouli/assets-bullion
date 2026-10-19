@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "id": "daef645d1fdba94a",
+    "url": "https://bulliontradingllc.com/blog/this-new-blockchain-platform-aims-to-give-gold-a-digital-edge/",
+    "title": "This New Blockchain Platform Aims to Give Gold a Digital Edge - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:13.011918+00:00",
+    "status": "fetched",
+    "bytes": 98893,
+    "text_characters": 4403,
+    "sha256_html": "82b80c644efec82da13b837574e06d3064d6ebcb46bc74c7d4f29b3def623b7a",
+    "file": "sources/daef645d1fdba94a.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "\" Gold has actually always been slammed as being an ineffective product, a lazy item, an item thats hard to transact with,\" Grosskopf stated in a phone",
+  "canonical": "https://bulliontradingllc.com/blog/this-new-blockchain-platform-aims-to-give-gold-a-digital-edge/",
+  "text": "” Gold has actually always been slammed as being an ineffective product, a lazy item, an item thats hard to transact with,” Grosskopf stated in a phone interview. “Its practically as though the blockchain were invented for gold. The marriage of the 2, I believe its going to be extremely powerful.”\n.\nHere is a post about the new blockchain platform aims to provide gold a digital edge. , if you wnated to read the initial post you can find a link listed below this post.\n” The gold market today is an extremely manual market. A great deal of the dealing is done over the telephone, by means of email, perhaps even faxes or chatroom,” Matt Trudeau, president of New York-based TradeWind, said in a phone interview. “We seem like this will decrease the frictional and transactional costs in the market and lead to greater liquidity and cost discovery.”\nTradeWinds offering signs up with other blockchain-based gold platforms, including a partnership between CME Group Inc. and the U.K.s Royal Mint. Cryptocurrencies have been unpredictable this year but blockchain, the secure dispersed ledger system that underlies it, has been working its method into markets from financial services to food security.\nTradeWind Markets Inc., a technology provider backed by Sprott Inc., Goldcorp Inc. and IEX Group Inc. on Monday introduced a brand-new digital gold trading and settlement platform that intends to speed and simplify up trading and minimize deal expenses. The Royal Canadian Mint will supply storage for the platform, verify that its in possession of the physical gold that underlines it and guarantee the choice of physical shipment.\nGold-focused money manager Sprott owns approximately 20 percent of TradeWind and prepares to use the platform as a dealer, but stated its prematurely to say whether it will migrate its physical gold trust onto the platform. Chief Executive Officer Peter Grosskopf called the digitization of gold trading “the most important thing to happen to the gold market in the last numerous decades.”\nCryptocurrencies and the blockchain were thought by some to replace gold as the ultimate haven versus monetary disaster. Now the gold market is using blockchain to settle back at crypto and bring precious metals into the digital age.\nGrosskopf said he sees a day where gold is utilized as a type of digital cash, supplanting cryptocurrencies and opening up a “totally new user base.”\nTradeWind will utilize a tailored blockchain application called VaultChain that will firmly identify individuals, register gold and settle deals. The platform will initially target physical gold dealerships in North America, but Trudeau stated its created to eventually run on a global scale.\nSecond Chance\n” Its a market thats numerous hundred times as big as cryptocurrency markets and when its fast and its secure, why would anybody use crypto?” Grosskopf stated. “Every year since the 1970s gold has lost market share to financial possessions and I think this provides it a possibility to come back versus those monetary assets.”\nWe found this article at https://www.bloomberg.com/news/articles/2018-03-26/sprott-backed-blockchain-platform-aims-to-give-gold-digital-edge By: Kristine Owram\nWhile Bitcoin, the largest cryptocurrency, has actually lost about 43 percent this year, gold costs have acquired about 3.6 percent.\n” The gold market today is a really manual market. A lot of the dealing is done over the telephone, through e-mail, perhaps even faxes or chat rooms,” Matt Trudeau, president of New York-based TradeWind, stated in a phone interview.” Gold has actually always been slammed as being an inefficient item, a lazy item, a product thats difficult to transact with,” Grosskopf stated in a phone interview. “Its almost as though the blockchain were developed for gold. “Every year considering that the 1970s gold has lost market share to financial properties and I think this provides it a possibility to come back versus those financial possessions.”\nConsumers will have the ability to own gold in fractional qualities in a wallet directly on TradeWinds blockchain, and will not be charged management or administrative costs. Instead, TradeWinds earnings will come from transaction costs paid by the dealerships.\nbulliontrading\nView all posts\nPrevious Post\nSteel and Aluminum? Let’s Talk About Gold\nNext Post\nTrade War Is A ‘Wild Card’ That’s Good For Gold, Says Mickey Fulp",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/03/New-Blockchain-Platform-Aims-to-Give-Gold-a-Digital-Edge-1170x500-1-jpeg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2018/03/New-Blockchain-Platform-Aims-to-Give-Gold-a-Digital-Edge-1170x500-1-jpeg.webp",
+          "width": "1170",
+          "height": "500",
+          "caption": "New-Blockchain-Platform-Aims-to-Give-Gold-a-Digital-Edge-1170&#215;500",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/this-new-blockchain-platform-aims-to-give-gold-a-digital-edge/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/this-new-blockchain-platform-aims-to-give-gold-a-digital-edge/",
+                "name": "This New Blockchain Platform Aims to Give Gold a Digital Edge"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/this-new-blockchain-platform-aims-to-give-gold-a-digital-edge/#webpage",
+          "url": "https://bulliontradingllc.com/blog/this-new-blockchain-platform-aims-to-give-gold-a-digital-edge/",
+          "name": "This New Blockchain Platform Aims to Give Gold a Digital Edge - Bullion Trading LLC",
+          "datePublished": "2018-03-29T11:21:02+00:00",
+          "dateModified": "2018-03-29T11:21:02+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/03/New-Blockchain-Platform-Aims-to-Give-Gold-a-Digital-Edge-1170x500-1-jpeg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/this-new-blockchain-platform-aims-to-give-gold-a-digital-edge/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "This New Blockchain Platform Aims to Give Gold a Digital Edge - Bullion Trading LLC",
+          "datePublished": "2018-03-29T11:21:02+00:00",
+          "dateModified": "2018-03-29T11:21:02+00:00",
+          "articleSection": "Gold, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "&quot; Gold has actually always been slammed as being an ineffective product, a lazy item, an item thats hard to transact with,&quot; Grosskopf stated in a phone",
+          "name": "This New Blockchain Platform Aims to Give Gold a Digital Edge - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/this-new-blockchain-platform-aims-to-give-gold-a-digital-edge/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/this-new-blockchain-platform-aims-to-give-gold-a-digital-edge/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/03/New-Blockchain-Platform-Aims-to-Give-Gold-a-Digital-Edge-1170x500-1-jpeg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/this-new-blockchain-platform-aims-to-give-gold-a-digital-edge/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/steel-and-aluminum-lets-talk-about-gold/",
+    "https://bulliontradingllc.com/blog/this-new-blockchain-platform-aims-to-give-gold-a-digital-edge/",
+    "https://bulliontradingllc.com/blog/trade-war-is-a-wild-card-thats-good-for-gold-says-mickey-fulp/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2018/03/New-Blockchain-Platform-Aims-to-Give-Gold-a-Digital-Edge-1170x500-1-jpeg.webp",
+      "alt": "New-Blockchain-Platform-Aims-to-Give-Gold-a-Digital-Edge-1170×500"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

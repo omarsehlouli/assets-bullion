@@ -1,0 +1,386 @@
+{
+  "metadata": {
+    "id": "2e561e29a15e4319",
+    "url": "https://learn.bulliontradingllc.com/quiz/gold-tax-planning-considerations-new-quiz/",
+    "title": "Gold Tax Planning Considerations (New) Quiz | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:41.238832+00:00",
+    "status": "fetched",
+    "bytes": 29265,
+    "text_characters": 302,
+    "sha256_html": "f58523ffaab52c75cc6a377448c3f427a85c3a73df234e7239757caebd6d743d",
+    "file": "sources/2e561e29a15e4319.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of updated gold tax implications, retirement strategies, and advanced tax planning techniques.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/gold-tax-planning-considerations-new-quiz/",
+  "text": "Gold Tax Planning Considerations (New) Quiz\nTest your knowledge of updated gold tax implications, retirement strategies, and advanced tax planning techniques.\nWhat is the maximum collectible tax rate for long-term physical gold holdings?\nA\n20%\nB\n25%\nC\n28%\nD\n37%\n←\nBack to Gold Tax & Retirement Planning",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold Investing Fundamentals",
+              "item": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Gold Tax & Retirement Planning",
+              "item": "https://learn.bulliontradingllc.com/guides/gold-investing-fundamentals/07-gold-tax-planning-considerations/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Gold Tax Planning Considerations (New) Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Gold Tax Planning Considerations (New) Quiz",
+          "description": "Test your knowledge of updated gold tax implications, retirement strategies, and advanced tax planning techniques.",
+          "url": "https://learn.bulliontradingllc.com/quiz/gold-tax-planning-considerations-new-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Gold Tax & Retirement Planning"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the maximum collectible tax rate for long-term physical gold holdings?",
+              "text": "What is the maximum collectible tax rate for long-term physical gold holdings?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "28%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Physical gold held for more than one year is subject to collectible tax rates with a maximum of 28%, higher than standard long-term capital gains rates."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "20%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "25%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "37%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which type of Gold IRA offers tax-free distributions in retirement?",
+              "text": "Which type of Gold IRA offers tax-free distributions in retirement?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Roth Gold IRA",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Roth Gold IRAs offer tax-free distributions in retirement since contributions are made with after-tax dollars."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Traditional Gold IRA"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "SEP Gold IRA"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "401(k) Gold Rollover"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Gold held for less than one year is taxed as ordinary income.",
+              "text": "True or False: Gold held for less than one year is taxed as ordinary income.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold holdings under one year are taxed as ordinary income at rates up to 37%, making long-term holding more tax-efficient."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is required for cost basis tracking in gold investments?",
+              "text": "What is required for cost basis tracking in gold investments?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Detailed purchase records",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Maintaining detailed purchase records is essential for accurate cost basis tracking and proper tax calculation when selling gold."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Only the sale date"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Only the current market value"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Government registration"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which gold investment vehicle receives standard equity taxation?",
+              "text": "Which gold investment vehicle receives standard equity taxation?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gold mining stocks",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold mining stocks receive standard equity taxation at capital gains rates, which are typically lower than collectible rates."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Physical gold"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold ETFs"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Gold futures"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the age-based allocation strategy for gold in retirement portfolios?",
+              "text": "What is the age-based allocation strategy for gold in retirement portfolios?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Increasing allocation with age for wealth preservation",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Age-based allocation strategies typically involve increasing gold allocation with age for wealth preservation and capital protection."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Decreasing allocation with age"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Fixed allocation regardless of age"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "No gold allocation after age 65"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Many states exempt precious metals from sales tax.",
+              "text": "True or False: Many states exempt precious metals from sales tax.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Many states exempt precious metals from sales tax, providing additional cost savings for gold investors."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the benefit of direct vs. indirect IRA transfers?",
+              "text": "What is the benefit of direct vs. indirect IRA transfers?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Avoid 60-day rollover rules and penalties",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Direct transfers avoid the 60-day rollover rules and potential penalties associated with indirect transfers."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Lower fees"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Higher returns"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Better tax treatment"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which states provide significant advantages for gold investors?",
+              "text": "Which states provide significant advantages for gold investors?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No state income tax states (Florida, Texas, Nevada)",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "States with no income tax like Florida, Texas, and Nevada provide significant advantages by eliminating state capital gains tax on gold sales."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "High income tax states"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "States with high property taxes"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "States with sales tax on gold"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is systematic rebalancing in gold IRA allocation?",
+              "text": "What is systematic rebalancing in gold IRA allocation?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Systematic rebalancing to maintain target allocation",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Systematic rebalancing involves periodically adjusting the portfolio to maintain the target gold allocation as market values change."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Buying gold only when prices fall"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Selling all gold annually"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Never adjusting the portfolio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

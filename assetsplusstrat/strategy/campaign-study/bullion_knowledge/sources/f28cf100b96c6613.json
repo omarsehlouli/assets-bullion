@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "id": "f28cf100b96c6613",
+    "url": "https://bulliontradingllc.com/blog/1-ounce-johnson-matthey-silver-bars/",
+    "title": "1 Ounce Johnson Matthey Silver Bars - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:14.997053+00:00",
+    "status": "fetched",
+    "bytes": 94004,
+    "text_characters": 3671,
+    "sha256_html": "5b47b219154ea65b78245e7dcbe3a3cb69528bf92d9c71f676a1956fc3e0c7d2",
+    "file": "sources/f28cf100b96c6613.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Those looking to get into silver bars will rapidly find out of two company names: Engelhard and Johnson Matthey. Johnson Matthey is resuming production of its",
+  "canonical": "https://bulliontradingllc.com/blog/1-ounce-johnson-matthey-silver-bars/",
+  "text": "Those looking to get into silver bars will rapidly find out of two company names: Engelhard and Johnson Matthey. Johnson Matthey is resuming production of its iconic one troy ounce silver bar. Each of these silver bars will be one troy ounce and made of 99.9% solid silver, with a size of about 28mm x 50mm (1 1/8 inches x 2 inches). From the oil crisis of the 1970s to the mid-1980s, investor interest in valuable metals was at a peak that saw the mass production of silver bars by both JM and Engelhard, just to be stopped during the Reagan years.\nThose seeking to enter silver bars will quickly learn of 2 company names: Engelhard and Johnson Matthey. We happily carry items from both companies. Now, a brand-new best-seller will return on the marketplace, and you can be sure it will be offered here at Bullion Trading LLC. Johnson Matthey is resuming production of its iconic one troy ounce silver bar. One of the most historical companies in the rare-earth elements trade, Johnson Matthey has actually been around as a refinery given that 1817 and been active as a business of lots of hats, but has actually always concentrated on gold and silver bullion, and are amongst the very best understood in the world.\nEach of these silver bars will be one troy ounce and made of 99.9% strong silver, with a size of about 28mm x 50mm (1 1/8 inches x 2 inches). The front will be marked with a pureness mark mentioning “Fine Silver.999.” Each bar will also contain its own unique identification number marked on the bottom. Finally, the back will be marked with the Johnson Matthey logo design. A troy ounce amounts to about 0.07 pounds, so, as you can think of, being so light makes them extra practical to carry around, store, or trade. Simply put, theyre really liquid!\nThese bars will be produced as part of a collaboration in between Johnson Matthey and Sunshine Minting, another significant supplier of precious metals that is understood for providing customized printings to their customers. Not just can you be guaranteed that each bar will have purity in its material, but that it will be carefully crafted and an attractive sign of wealth. Johnson Matthey is presently in the process of setting up distribution channels throughout the United States and Canada.\nWhy are these bars coming back on the market now? As mentioned in the past, while bullion coins have a particular collectible beauty to them with nationalistic implications, a bar is simply rare-earth element. It is a product that drops the whole elegant pretense and is developed solely to be traded. From the oil crisis of the 1970s to the mid-1980s, investor interest in rare-earth elements was at a peak that saw the mass production of silver bars by both JM and Engelhard, only to be stopped during the Reagan years. Now that the countrys financial future is once again unsure, JM is smart to return in design and market silver bullion in such a way that is accessible to anybody. It is constantly sensible to safeguard your wealth, and someone with just a small amount of cash to spare can purchase rare-earth elements as much as someone who can make a large purchase.\nProvided JMs historic standing and the previous history of these bars, in addition to the ongoing stress and anxiety in our economy, these items ought to make quite an impact. As a huge client of Johnson Matthey, we will be among the very first to receive these new bars in our inventory. Pertain To Bullion Trading LLC to find out more about these bars, in addition to other comparable products for your financial investments.\nbulliontrading\nView all posts\nPrevious Post\nNationwide Crime Alert\nNext Post\nGold and the Fine Print",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/1-ounce-johnson-matthey-silver-bars/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/silver/",
+                "name": "silver"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/1-ounce-johnson-matthey-silver-bars/",
+                "name": "1 Ounce Johnson Matthey Silver Bars"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/1-ounce-johnson-matthey-silver-bars/#webpage",
+          "url": "https://bulliontradingllc.com/blog/1-ounce-johnson-matthey-silver-bars/",
+          "name": "1 Ounce Johnson Matthey Silver Bars - Bullion Trading LLC",
+          "datePublished": "2012-11-14T06:52:43+00:00",
+          "dateModified": "2012-11-14T06:52:43+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/1-ounce-johnson-matthey-silver-bars/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "1 Ounce Johnson Matthey Silver Bars - Bullion Trading LLC",
+          "datePublished": "2012-11-14T06:52:43+00:00",
+          "dateModified": "2012-11-14T06:52:43+00:00",
+          "articleSection": "silver, silver bars",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Those looking to get into silver bars will rapidly find out of two company names: Engelhard and Johnson Matthey. Johnson Matthey is resuming production of its",
+          "name": "1 Ounce Johnson Matthey Silver Bars - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/1-ounce-johnson-matthey-silver-bars/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/1-ounce-johnson-matthey-silver-bars/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/1-ounce-johnson-matthey-silver-bars/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/1-ounce-johnson-matthey-silver-bars/",
+    "https://bulliontradingllc.com/blog/category/silver-bars/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/gold-and-the-fine-print/",
+    "https://bulliontradingllc.com/blog/nationwide-crime-alert/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

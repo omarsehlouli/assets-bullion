@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "id": "412be0753a7dda48",
+    "url": "https://learn.bulliontradingllc.com/quiz/types-of-silver-bullion-quiz/",
+    "title": "Types of Silver Bullion Products Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:45.428762+00:00",
+    "status": "fetched",
+    "bytes": 29958,
+    "text_characters": 445,
+    "sha256_html": "a26e996ee1cbde98fc68433c20fae35de6319f28ef94f027010a9ac75d5132d6",
+    "file": "sources/412be0753a7dda48.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of different silver bullion products, including bars, coins, 90% silver coins, and their investment characteristics.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/types-of-silver-bullion-quiz/",
+  "text": "Types of Silver Bullion Products Quiz\nTest your knowledge of different silver bullion products, including bars, coins, 90% silver coins, and their investment characteristics.\nIn 1792, Alexander Hamilton established the first U.S. monetary system with silver as its foundation. How many grains of pure silver should one silver dollar contain?\nA\n250.5 grains\nB\n371.25 grains\nC\n400.8 grains\nD\n500.0 grains\n←\nBack to Types of Silver Bullion Products",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Understanding Gold & Silver",
+              "item": "https://learn.bulliontradingllc.com/guides/understanding-gold-silver/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Types of Silver Bullion Products",
+              "item": "https://learn.bulliontradingllc.com/guides/understanding-gold-silver/03-types-of-silver-bullion/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Types of Silver Bullion Products Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Types of Silver Bullion Products Quiz",
+          "description": "Test your knowledge of different silver bullion products, including bars, coins, 90% silver coins, and their investment characteristics.",
+          "url": "https://learn.bulliontradingllc.com/quiz/types-of-silver-bullion-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Types of Silver Bullion Products"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "In 1792, Alexander Hamilton established the first U.S. monetary system with silver as its foundation. How many grains of pure silver should one silver dollar contain?",
+              "text": "In 1792, Alexander Hamilton established the first U.S. monetary system with silver as its foundation. How many grains of pure silver should one silver dollar contain?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "371.25 grains",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "In 1792, Alexander Hamilton established that one silver dollar should contain 371.25 grains of pure silver, making silver the foundation of the first U.S. monetary system for over 170 years."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "250.5 grains"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "400.8 grains"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "500.0 grains"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which silver bar size is considered the \"institutional standard\"?",
+              "text": "Which silver bar size is considered the \"institutional standard\"?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "1,000 ounce bars",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "1,000-ounce bars are the institutional standard and became the COMEX standard because they were the optimal size for industrial users, with ultimate cost efficiency."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "100 ounce bars"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "10 ounce bars"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Kilo bars"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the purity level of Canadian Silver Maple Leaf coins?",
+              "text": "What is the purity level of Canadian Silver Maple Leaf coins?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "99.99% fine silver",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Canadian Silver Maple Leafs are 99.99% fine silver, the highest purity among major silver coins, and were the first silver coin with .9999 fineness, setting new purity standards."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "99.9% fine silver"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "92.5% fine silver"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "90% fine silver"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Before 1965, U.S. dimes, quarters, and half dollars contained what percentage of silver?",
+              "text": "Before 1965, U.S. dimes, quarters, and half dollars contained what percentage of silver?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "90%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Before 1965, U.S. dimes, quarters, and half dollars contained 90% silver. These \"junk silver\" coins remain popular with investors today for their recognizable currency status."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "80%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "85%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "95%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How much pure silver is contained in $1 face value of 90% silver coins?",
+              "text": "How much pure silver is contained in $1 face value of 90% silver coins?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Approximately 0.715 oz",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "$1 face value of 90% silver coins contains approximately 0.715 oz of pure silver, making it easy to calculate silver content in bulk purchases."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Approximately 0.500 oz"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Approximately 0.900 oz"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Exactly 1.000 oz"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What unique feature makes Chinese Silver Panda coins popular with collectors?",
+              "text": "What unique feature makes Chinese Silver Panda coins popular with collectors?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "They change designs each year (except 1999-2001)",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Chinese Silver Pandas feature changing panda designs each year (except 1999-2001), making them the first major bullion coin to change designs annually and creating a collecting phenomenon."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "They are the purest silver coins available"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "They are the largest silver coins made"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "They contain gold accents"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "From 1965-1970, Kennedy half dollars contained what percentage of silver?",
+              "text": "From 1965-1970, Kennedy half dollars contained what percentage of silver?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "40%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "From 1965-1970, Kennedy half dollars contained 40% silver (0.1479 oz per coin), representing a transitional period in U.S. coinage between 90% silver and copper-nickel composition."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "90%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "50%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "0% (no silver)"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is a key challenge specific to silver storage compared to gold?",
+              "text": "What is a key challenge specific to silver storage compared to gold?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Silver tarnishes when exposed to air",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Silver tarnishes when it reacts with hydrogen sulfide in air, requiring specific storage considerations like anti-tarnish strips and climate control to maintain appearance."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Silver is radioactive"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Silver dissolves in water"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Silver attracts insects"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: The 1,000-ounce silver bar became the COMEX standard because one bar contains enough silver to produce approximately 20,000 solar panels' worth of conductive paste.",
+              "text": "True or False: The 1,000-ounce silver bar became the COMEX standard because one bar contains enough silver to produce approximately 20,000 solar panels' worth of conductive paste.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The 1,000-ounce silver bar became the COMEX standard because it was the optimal size for industrial users, and one bar contains enough silver to produce approximately 20,000 solar panels' worth of conductive paste."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

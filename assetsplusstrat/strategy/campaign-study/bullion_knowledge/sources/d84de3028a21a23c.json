@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "d84de3028a21a23c",
+    "url": "https://learn.bulliontradingllc.com/charts/silver-price-1980s/",
+    "title": "Silver Price in the 1980s — LBMA Decade Chart & Data | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:13.980353+00:00",
+    "status": "fetched",
+    "bytes": 17641,
+    "text_characters": 652,
+    "sha256_html": "2e054c211faddb1e26844e300afb30a7b030e53864d62a3a321c3e562643869a",
+    "file": "sources/d84de3028a21a23c.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Silver price through the 1980s: from $35.28 to $5.22, monthly-sample high $35.52, monthly-sample low $5.05. Monthly LBMA chart for the decade.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/silver-price-1980s/",
+  "text": "Silver Price in the 1980s\nBetween the first (1980-01-31) and last (1989-12-29) monthly observations available for the 1980s, the LBMA silver price went from $35.28 to $5.22 — a decline of 85% — with a sampled high of $35.52 (Feb 1980) and a sampled low of $5.05 (Jun 1986).\nYears in the 1980s\n1980\n1981\n1982\n1983\n1984\n1985\n1986\n1987\n1988\n1989\nSee today's live silver price on the\nspot dashboard\n, or\nshop silver bullion\nat Bullion Trading LLC.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Silver price history",
+              "item": "https://learn.bulliontradingllc.com/charts/silver-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1980s"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Silver price in the 1980s — LBMA monthly fix",
+          "description": "Silver price through the 1980s: from $35.28 to $5.22, monthly-sample high $35.52, monthly-sample low $5.05. Monthly LBMA chart for the decade.",
+          "url": "https://learn.bulliontradingllc.com/charts/silver-price-1980s/",
+          "temporalCoverage": "1980-01-31/1989-12-29",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "id": "5a87ec4e6fb32b54",
+    "url": "https://bulliontradingllc.com/blog/precious-metal-markets-a-brief-look-at-the-gold-silver-spread/",
+    "title": "Precious Metal Markets: A Brief Look at the Gold–Silver Spread - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:03.192080+00:00",
+    "status": "fetched",
+    "bytes": 96681,
+    "text_characters": 3367,
+    "sha256_html": "958a01a0e93bfe2d4b1490db312867cabd6b49fb716556e1da542dbe3eba60a1",
+    "file": "sources/5a87ec4e6fb32b54.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "We found this terrific post at http://marketrealist.com/2017/11/precious-metal-markets-brief-look-gold-silver-spread/ By: Meera Shawn",
+  "canonical": "https://bulliontradingllc.com/blog/precious-metal-markets-a-brief-look-at-the-gold-silver-spread/",
+  "text": "We found this terrific post at http://marketrealist.com/2017/11/precious-metal-markets-brief-look-gold-silver-spread/ By: Meera Shawn\nGold and silver returns\nThe previous week has actually been advantageous for valuable metals– gold, silver, palladium, and platinum increased 0.42%, 1.5%, 0.63%, and 1.5%, respectively. The fluctuations in these metals were probably due to geopolitical stress increasing in various parts of the world, especially the Middle East.\nThe price volatility for silver is frequently much greater than golds rate volatility. On November 7, 2017, the call suggested volatility in gold was 8.9%, while the call implied volatility in silver was 16.6%. Call suggested volatility is a tool used to measure the variations in the cost of a possession, provided the rate changes in the possessions call option cost.\nChecking out the ratios\nTo review the relationship in between gold and silver, we can conduct a spread analysis in between the two rare-earth elements. The gold– silver spread (or ratio) determines the variety of silver ounces it takes to purchase a single ounce of gold. This spread stood at 75 on November 7, suggesting that it took 75 ounces of silver to buy a single ounce of gold on that day.\nMuch of Octobers unrest was likewise due to the decision regarding the next chair of the Federal Reserve. This choice was viewed as important to the movement of interest rates in the US. The position of the Federal Reserve might be more dovish, as Jerome Powell was selected to head the US central bank.\nMining stocks are likewise considerably impacted by the interplay between gold and silver and the overall mining industry. These stocks include Franco-Nevada (FNV), IamGold (IAG), Hecla Mining (HL), and Royal Gold (RGLD).\n.\nThis change in management might provide some buoyancy to gold and silver. Gold is the most influential of the valuable metals.\nGold and silver are closely related to funds such as the iShares Gold Trust ETF (IAU) and the iShares Silver Trust ETF (SLV). These funds have seen year-to-date gains of 10.7% and 6%, respectively. They have actually been understood to relocate the very same direction as gold and silver, respectively.\nAs you can see in the chart above, this spread has actually dropped steadily given that the start of 2016. As an outcome, it currently takes fewer ounces of silver to buy one ounce of gold. Any boost in this spread shows weakness in silver and strength in gold.\nOn November 7, 2017, the call indicated volatility in gold was 8.9%, while the call suggested volatility in silver was 16.6%. Gold and silver are carefully associated with funds such as the iShares Gold Trust ETF (IAU) and the iShares Silver Trust ETF (SLV). To examine the relationship between gold and silver, we can perform a spread analysis between the two precious metals. The gold– silver spread (or ratio) measures the number of silver ounces it takes to buy a single ounce of gold.\nThis is an excellent short article about valuable metal markets and thought this is really beneficial to our customers. , if you desire to read the initial article you can discover the link at the end of this post.\nbulliontrading\nView all posts\nPrevious Post\n10 Best Silver Coins To Buy For Investment: Complete Guide For Investors\nNext Post\nGold, silver and platinum prices have found bases and look set to remain rangebound",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2017/11/Gold-Silver-Ratio-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2017/11/Gold-Silver-Ratio-jpg.webp",
+          "width": "673",
+          "height": "481",
+          "caption": "Gold-Silver-Ratio",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/precious-metal-markets-a-brief-look-at-the-gold-silver-spread/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/precious-metal-markets-a-brief-look-at-the-gold-silver-spread/",
+                "name": "Precious Metal Markets: A Brief Look at the Gold–Silver Spread"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/precious-metal-markets-a-brief-look-at-the-gold-silver-spread/#webpage",
+          "url": "https://bulliontradingllc.com/blog/precious-metal-markets-a-brief-look-at-the-gold-silver-spread/",
+          "name": "Precious Metal Markets: A Brief Look at the Gold–Silver Spread - Bullion Trading LLC",
+          "datePublished": "2017-11-20T12:07:49+00:00",
+          "dateModified": "2017-11-20T12:07:49+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2017/11/Gold-Silver-Ratio-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/precious-metal-markets-a-brief-look-at-the-gold-silver-spread/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Precious Metal Markets: A Brief Look at the Gold–Silver Spread - Bullion Trading LLC",
+          "datePublished": "2017-11-20T12:07:49+00:00",
+          "dateModified": "2017-11-20T12:07:49+00:00",
+          "articleSection": "Gold, Gold Market &amp; Economics, silver",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "We found this terrific post at http://marketrealist.com/2017/11/precious-metal-markets-brief-look-gold-silver-spread/ By: Meera Shawn",
+          "name": "Precious Metal Markets: A Brief Look at the Gold–Silver Spread - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/precious-metal-markets-a-brief-look-at-the-gold-silver-spread/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/precious-metal-markets-a-brief-look-at-the-gold-silver-spread/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2017/11/Gold-Silver-Ratio-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/precious-metal-markets-a-brief-look-at-the-gold-silver-spread/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/10-best-silver-coins-to-buy-for-investment/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/gold-silver-and-platinum-prices-have-found-bases-and-look-set-to-remain-rangebound/",
+    "https://bulliontradingllc.com/blog/precious-metal-markets-a-brief-look-at-the-gold-silver-spread/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2017/11/Gold-Silver-Ratio-jpg.webp",
+      "alt": "Gold-Silver-Ratio"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

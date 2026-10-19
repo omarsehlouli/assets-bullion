@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "id": "bbf1b4d561dfa43b",
+    "url": "https://bulliontradingllc.com/blog/safety-week-assays-and-certificates/",
+    "title": "Safety Week: Assays and Certificates - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:05.475329+00:00",
+    "status": "fetched",
+    "bytes": 95630,
+    "text_characters": 2280,
+    "sha256_html": "07b0b17d37ea51994917907d3b1f2cc1c2aa6bffe3062121bb505d916c6c4422",
+    "file": "sources/bbf1b4d561dfa43b.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "As part of our Safety Week here at Bullion, were sharing some of our most popular guides on staying safe while buying bullion and gold. Delight in!",
+  "canonical": "https://bulliontradingllc.com/blog/safety-week-assays-and-certificates/",
+  "text": "As part of our Safety Week here at Bullion, were sharing some of our most popular guides on staying safe while buying bullion and gold. Delight in!\n2 of the most essential pieces of your rare-earth element financial investment are the assay and the certificate of authenticity (COA). Both of these products are a type of protection versus fraud, and to guarantee that the market is precisely represented. Assays and COAs protect everyone.\nAn assay is an analysis designed to evaluate the structure and measure of rare-earth elements. The procedure is vital in the production in silver and gold bullion, coins in unique and general releases. Numerous kinds of assays are taken depending upon what kind of metal of item is being examined for pureness.\nEverything starts with a simple step: a minor sample is taken prior to the formation of the metal into a bar or coin. Then among the following approaches occurs:\nThe purity that is discovered in the assaying process is then ascribed to the bullion, coin, or special function that the metal is to be formed into. The info included on the assay card or certificate\nThe pureness that is discovered in the assaying procedure is then ascribed to the bullion, coin, or special purpose that the metal is to be formed into. The info consisted of on the assay card or certificate\nstates the mentions number of the piece, the type of metal, and a proof of the promised purity guaranteed pureness piece. Bullion bars typically come with assay proof.\nFire: The earliest method in check the purity of valuable metals.\nstates the mentions number of the piece, the type of metal, and a proof of the promised purity assured the piece.\nTwo of the most crucial pieces of your precious metal financial investment are the assay and the certificate of credibility (COA). An assay is an analysis created to check the structure and measure of valuable metals. Several types of assays are taken depending on what type of metal of item is being examined for pureness.\nDuring the cooling procedure, the precious metals different and collect at the bottom. After cooling, the slag is chipped up until only the metal is left to be weighed.\nbulliontrading\nView all posts\nPrevious Post\nSafety Week: Spotting Fake Gold and Silver\nNext Post\nGold Investment Myths",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/2013-Proof-5-Star-Generals-Commemorative-Coins-1-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2021/04/2013-Proof-5-Star-Generals-Commemorative-Coins-1-jpg.webp",
+          "width": "750",
+          "height": "355",
+          "caption": "Untitled",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/safety-week-assays-and-certificates/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/coin-collection/",
+                "name": "coin collection"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/safety-week-assays-and-certificates/",
+                "name": "Safety Week: Assays and Certificates"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/safety-week-assays-and-certificates/#webpage",
+          "url": "https://bulliontradingllc.com/blog/safety-week-assays-and-certificates/",
+          "name": "Safety Week: Assays and Certificates - Bullion Trading LLC",
+          "datePublished": "2017-08-31T10:15:37+00:00",
+          "dateModified": "2017-08-31T10:15:37+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/2013-Proof-5-Star-Generals-Commemorative-Coins-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/safety-week-assays-and-certificates/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Safety Week: Assays and Certificates - Bullion Trading LLC",
+          "datePublished": "2017-08-31T10:15:37+00:00",
+          "dateModified": "2017-08-31T10:15:37+00:00",
+          "articleSection": "coin collection, Gold, Gold Bars, gold bullion, gold coins, silver, silver bars",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "As part of our Safety Week here at Bullion, were sharing some of our most popular guides on staying safe while buying bullion and gold. Delight in!",
+          "name": "Safety Week: Assays and Certificates - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/safety-week-assays-and-certificates/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/safety-week-assays-and-certificates/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/2013-Proof-5-Star-Generals-Commemorative-Coins-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/safety-week-assays-and-certificates/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/coin-collection/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-bars/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/category/silver-bars/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/gold-investment-myths/",
+    "https://bulliontradingllc.com/blog/safety-week-assays-and-certificates/",
+    "https://bulliontradingllc.com/blog/safety-week-spotting-fake-gold-and-silver/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/2013-Proof-5-Star-Generals-Commemorative-Coins-1-jpg.webp",
+      "alt": "Untitled"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

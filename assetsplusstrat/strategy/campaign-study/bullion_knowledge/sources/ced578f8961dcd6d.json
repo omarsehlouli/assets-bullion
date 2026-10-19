@@ -1,0 +1,411 @@
+{
+  "metadata": {
+    "id": "ced578f8961dcd6d",
+    "url": "https://bulliontradingllc.com/product/vintage-5-gram-gold-bar-pamp-suisse-lady-fortuna/",
+    "title": "Vintage Assay - 5 gram Gold Bar PAMP Suisse Lady Fortuna .9999 fine - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:12:48.003763+00:00",
+    "status": "fetched",
+    "bytes": 159378,
+    "text_characters": 2969,
+    "sha256_html": "98bf877fead9e04d80ae98a98525c5fa5091d5a7c12b9148172909483b551b31",
+    "file": "sources/ced578f8961dcd6d.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Add 5g of .9999 gold to your stack with a vintage PAMP Suisse Lady Fortuna assay bar - classic rarity, authenticated details, ships securely. insured.",
+  "canonical": "https://bulliontradingllc.com/product/vintage-5-gram-gold-bar-pamp-suisse-lady-fortuna/",
+  "text": "Skip to content\nFully insured shipping\nAuthenticity guaranteed\nWe buy it back\nNYC Diamond District counter\nSecure checkout\nVintage Assay – 5 gram Gold Bar PAMP Suisse Lady Fortuna .9999 fine\nby\nPAMP\n✓ LBMA Good Delivery\n$\n800.84\nPriced live off the spot market.\nSee price history ↓\nMetal\nGold\nWeight\n5 gram Grams\nPurity\n99.99\nType\nBar\nOut of stock\nAdd to wishlist\nGo to compare\nAdd to compare\nFully insured shipping\nShips in 1–3 business days\nWe buy it back —\nsell to us\nSecure checkout · NYC Diamond District counter\nCategories:\nGold Bars\n,\n5 Gram Gold Bars\nTag:\nGold Bar\nMint:\nPAMP\nPrice history\nVintage Assay - 5 gram Gold Bar PAMP Suisse Lady Fortuna .9999 fine was last recorded at $799.90 on October 9, 2026. Over the past 12 months it is up 2.7% and has ranged between $765.64 and $1,051.10.\nLast recorded\nLoading…\n1Y\n7D\n1M\n3M\n6M\n1Y\nAll\nDescription\nAdditional information\nDescription\nThis 5 gram Vintage Gold Bar from PAMP Suisse features .9999 fine gold. Known for their craftsmanship, PAMP Suisse has designed this bar with the famous Lady Fortuna on the obverse side, symbolizing luck and prosperity. The reverse side includes the PAMP Suisse logo, along with the weight, purity, and the “Essayeur Fondeur” mark for authenticity.\nPlease note:\nThe design of the assay card may vary and is provided at random.\nBar Features:\nComposed of .9999 fine gold, weighing 5 grams\nProduced by PAMP Suisse.\nEnclosed in a protective assay card (non-Veriscan).\nObverse:\nShows Lady Fortuna, the Roman goddess of fortune, depicted with a blindfold representing life’s unpredictability and holding a cornucopia as a symbol of shared wealth.\nReverse:\nDisplays the PAMP Suisse logo, weight, purity, and “Essayeur Fondeur” engraving for verification.\nAdditional information\nMetal\nGold\nProduct Type\ncollectible_noncoin\nIssuer Country\nOther\nIs Legal Tender\nNo\nIs Monetized Bullion\nNo\nPurity %\n99.99\nType of Bullion\nBar\nWeight Unit\nGrams\nWeight\n5 gram\nRelated products\nOut of stock\nRead more\n1 oz Gold Bars\n,\nGifts\n,\nGold Bars\n,\nReligious Collection\n1 oz Gold Bar – PAMP Suisse Year of the Monkey (In Assay)\n$\n4,390.04\nRead more\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\n1 Gram Gold Bars\n,\nGold Bars\n,\nGram Gold Bars\n1 Gram PAMP Suisse Gold Bar – Lady Fortuna\n$\n202.48\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nQty\nAdd to cart\nGold Bars\n,\n5 Gram Gold Bars\n,\nGram Gold Bars\n5 Gram PAMP Suisse Gold Bar – Lady Fortuna  (In Assay with Veriscan)\n$\n772.15\nQty\nAdd to cart\nQuickview\nGo to compare\nAdd to compare\nOut of stock\nRead more\n100 Gram Gold Bars\n,\nGold Bars\n,\nGram Gold Bars\n100 Gram Gold Bar – PAMP Suisse(Cast, W/Assay)\n$\n14,073.14\nRead more\nQuickview\nGo to compare\nAdd to compare\nLogin/Register\nDon't have an account\nRegister\nCustomer Login\nIf you have an account, sign in with your email address.\nContinue with Google\nLoading\nYour Cart\nCart is Empty\nUpdating Cart!\nHowdy,                             Guest\nSign in\nDepartments\nShop\nMints\nCart\nMy Account",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2024/12/5-gram-pamp-suisse-gold-bar-classic-assay-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2024/12/5-gram-pamp-suisse-gold-bar-classic-assay-jpg.webp",
+          "width": "1500",
+          "height": "1500",
+          "caption": "5 gram gold PAMP Suisse Lady Fortuna bar in assay card",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/product/vintage-5-gram-gold-bar-pamp-suisse-lady-fortuna/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/gold/",
+                "name": "Gold Bullion"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/gold/bars/",
+                "name": "Gold Bars"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "4",
+              "item": {
+                "@id": "https://bulliontradingllc.com/product/vintage-5-gram-gold-bar-pamp-suisse-lady-fortuna/",
+                "name": "Vintage Assay &#8211; 5 gram Gold Bar PAMP Suisse Lady Fortuna .9999 fine"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ItemPage",
+          "@id": "https://bulliontradingllc.com/product/vintage-5-gram-gold-bar-pamp-suisse-lady-fortuna/#webpage",
+          "url": "https://bulliontradingllc.com/product/vintage-5-gram-gold-bar-pamp-suisse-lady-fortuna/",
+          "name": "Vintage Assay - 5 gram Gold Bar PAMP Suisse Lady Fortuna .9999 fine - Bullion Trading LLC",
+          "datePublished": "2024-12-18T16:09:37+00:00",
+          "dateModified": "2026-03-12T22:59:57+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2024/12/5-gram-pamp-suisse-gold-bar-classic-assay-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/product/vintage-5-gram-gold-bar-pamp-suisse-lady-fortuna/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Vintage Assay - 5 gram Gold Bar PAMP Suisse Lady Fortuna .9999 fine - Bullion Trading LLC",
+          "description": "Add 5g of .9999 gold to your stack with a vintage PAMP Suisse Lady Fortuna assay bar - classic rarity, authenticated details, ships securely. insured.",
+          "category": "Gold Bullion &gt; Gold Bars",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/product/vintage-5-gram-gold-bar-pamp-suisse-lady-fortuna/#webpage"
+          },
+          "image": [
+            "https://bulliontradingllc.com/wp-content/uploads/2024/12/5-gram-pamp-suisse-gold-bar-classic-assay-jpg.webp",
+            "https://bulliontradingllc.com/wp-content/uploads/2024/12/5-gram-pamp-suisse-lady-fortuna-classic-assay-open-jpeg.webp",
+            "https://bulliontradingllc.com/wp-content/uploads/2024/12/5-gram-pamp-suisse-lady-fortuna-classic-assay-Assay-jpeg.webp"
+          ],
+          "offers": {
+            "@type": "Offer",
+            "price": "801.15",
+            "priceCurrency": "USD",
+            "priceValidUntil": "2026-10-12",
+            "availability": "https://schema.org/OutOfStock",
+            "itemCondition": "https://schema.org/NewCondition",
+            "url": "https://bulliontradingllc.com/product/vintage-5-gram-gold-bar-pamp-suisse-lady-fortuna/",
+            "seller": {
+              "@type": "Organization",
+              "@id": "https://bulliontradingllc.com/#organization",
+              "name": "Bullion Trading LLC",
+              "url": "https://bulliontradingllc.com/"
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnNotPermitted"
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "10",
+                "currency": "USD"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": "1",
+                  "maxValue": "3",
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": "1",
+                  "maxValue": "5",
+                  "unitCode": "DAY"
+                }
+              }
+            }
+          },
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Metal",
+              "value": "Gold"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Product Type",
+              "value": "collectible_noncoin"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Issuer Country",
+              "value": "Other"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Is Legal Tender",
+              "value": "No"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Is Monetized Bullion",
+              "value": "No"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Purity %",
+              "value": "99.99"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Type of Bullion",
+              "value": "Bar"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Weight Unit",
+              "value": "Grams"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Weight",
+              "value": "5 gram"
+            }
+          ],
+          "material": "Gold",
+          "weight": {
+            "@type": "QuantitativeValue",
+            "value": "5",
+            "unitText": "Grams",
+            "unitCode": "GRM"
+          },
+          "brand": {
+            "@type": "Brand",
+            "name": "PAMP"
+          },
+          "@id": "https://bulliontradingllc.com/product/vintage-5-gram-gold-bar-pamp-suisse-lady-fortuna/#richSnippet"
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/compare/",
+    "https://bulliontradingllc.com/gifts/",
+    "https://bulliontradingllc.com/gifts/religious-collection/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/gold/bars/",
+    "https://bulliontradingllc.com/gold/bars/1-oz-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/1-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/100-gram-gold-bars/",
+    "https://bulliontradingllc.com/gold/bars/gram-gold-bars/5-gram-gold-bars/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/mints/pamp/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/?redirect=https%3A%2F%2Fbulliontradingllc.com%2Fproduct%2Fvintage-5-gram-gold-bar-pamp-suisse-lady-fortuna",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/product-tag/gold-bar-2/",
+    "https://bulliontradingllc.com/product/1-gram-pamp-suisse-gold-bar-lady-fortuna/",
+    "https://bulliontradingllc.com/product/1-oz-gold-bar-pamp-suisse-year-of-the-monkey-in-assay/",
+    "https://bulliontradingllc.com/product/100-gram-gold-bar-pamp-suissecast-w-assay/",
+    "https://bulliontradingllc.com/product/5-gram-pamp-suisse-gold-bar-lady-fortunain-assay/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2024/12/5-gram-pamp-suisse-gold-bar-classic-assay-1024x1024.webp",
+      "alt": "5 gram gold PAMP Suisse Lady Fortuna bar in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/12/5-gram-pamp-suisse-lady-fortuna-classic-assay-open-1024x1024.webp",
+      "alt": "5 gram gold PAMP Suisse Lady Fortuna vintage assay bar with card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/12/5-gram-pamp-suisse-lady-fortuna-classic-assay-Assay-1024x1024.webp",
+      "alt": "5 gram gold PAMP Suisse Lady Fortuna vintage assay bar"
+    },
+    {
+      "url": "/wp-content/uploads/2024/10/pamp.webp",
+      "alt": "PAMP Suisse brand logo"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-oz-gold-bar-pamp-suisse-year-of-the-monkey-bulliontradingllc-jpeg-webp.webp",
+      "alt": "1 oz gold PAMP Suisse Year of the Monkey bar in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-Gram-PAMP-Suisse-Gold-Bar-Lady-Fortuna-1-300x300.webp",
+      "alt": "1 gram gold PAMP Suisse Lady Fortuna bar in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/1-Gram-PAMP-Suisse-Gold-Bar-Lady-Fortuna-assay-300x300.webp",
+      "alt": "1 gram gold PAMP Suisse Lady Fortuna bar in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/5_gram_pamp_suisse_gold_bar_lady_fortuna-300x300.jpg",
+      "alt": "5 gram gold PAMP Suisse Lady Fortuna bar in assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/5_gram_pamp_suisse_lady_fortuna_gold_bar-300x300.jpg",
+      "alt": "5 gram gold PAMP Suisse Lady Fortuna bar in assay card with Veriscan"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/100_gram_gold_bar_pamp_suisse_cast-300x300.jpg",
+      "alt": "100 gram gold bar from PAMP Suisse in assay packaging"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/100_gram_gold_bar_pamp_suisse_cast_new_assay-300x300.jpg",
+      "alt": "100 gram gold PAMP Suisse cast bar with assay card"
+    },
+    {
+      "url": "/wp-content/uploads/2024/09/00-Gram-Cast-Bar-Pamp-suisse-300x300.webp",
+      "alt": "100 gram gold bar PAMP Suisse cast bar with assay"
+    }
+  ]
+}

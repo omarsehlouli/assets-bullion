@@ -1,0 +1,394 @@
+{
+  "metadata": {
+    "id": "15ec9f8f01a7e35f",
+    "url": "https://learn.bulliontradingllc.com/quiz/handling-authenticity-quiz/",
+    "title": "Handling and Authenticity Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:41.458738+00:00",
+    "status": "fetched",
+    "bytes": 29904,
+    "text_characters": 359,
+    "sha256_html": "543ca9cc666594c8c74178cb6074dd4fce42e1199f2fbd16986cf6c934f8c48e",
+    "file": "sources/15ec9f8f01a7e35f.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of proper precious metals handling techniques, authenticity verification methods, and storage environment requirements.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/handling-authenticity-quiz/",
+  "text": "Handling and Authenticity Quiz\nTest your knowledge of proper precious metals handling techniques, authenticity verification methods, and storage environment requirements.\nWhat type of gloves should be used when handling precious metals?\nA\nRubber gloves\nB\nLint-free cotton or nitrile gloves\nC\nLeather gloves\nD\nNo gloves needed\n←\nBack to Handling & Authenticity",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Storage & Security",
+              "item": "https://learn.bulliontradingllc.com/guides/storage-security/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Handling & Authenticity",
+              "item": "https://learn.bulliontradingllc.com/guides/storage-security/04-handling-authenticity/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Handling and Authenticity Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Handling and Authenticity Quiz",
+          "description": "Test your knowledge of proper precious metals handling techniques, authenticity verification methods, and storage environment requirements.",
+          "url": "https://learn.bulliontradingllc.com/quiz/handling-authenticity-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Handling & Authenticity"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What type of gloves should be used when handling precious metals?",
+              "text": "What type of gloves should be used when handling precious metals?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lint-free cotton or nitrile gloves",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Use lint-free cotton or nitrile gloves when handling precious metals to prevent oils, dirt, and contaminants from your hands from affecting the metals."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Rubber gloves"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Leather gloves"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "No gloves needed"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How should you hold coins when handling them?",
+              "text": "How should you hold coins when handling them?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "By the edges",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Hold coins by their edges to avoid touching the face or back surfaces, which can cause fingerprints, scratches, or other damage that reduces value."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "By the face and back"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Any way is fine"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "With bare hands only"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the recommended humidity range for storing precious metals?",
+              "text": "What is the recommended humidity range for storing precious metals?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "30-50% relative humidity",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Maintain 30-50% relative humidity for precious metals storage to prevent corrosion and tarnishing while avoiding excessive dryness that can cause other issues."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "10-20% relative humidity"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "60-80% relative humidity"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "80-90% relative humidity"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Why does silver require special handling considerations compared to gold?",
+              "text": "Why does silver require special handling considerations compared to gold?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Silver tarnishes when exposed to sulfur compounds",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Silver tarnishes when exposed to sulfur compounds, requiring airtight storage with anti-tarnish strips and avoidance of rubber and paper products containing sulfur."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Silver is more expensive"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Silver is harder than gold"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Silver doesn't need any special care"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What should you avoid when storing silver to prevent tarnishing?",
+              "text": "What should you avoid when storing silver to prevent tarnishing?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rubber and paper products that contain sulfur",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Avoid rubber and paper products that contain sulfur when storing silver, as these can cause tarnishing. Use airtight containers with anti-tarnish strips instead."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Plastic containers"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Metal containers"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Glass containers"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the \"ping test\" used for?",
+              "text": "What is the \"ping test\" used for?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Verifying authenticity through sound",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The ping test verifies authenticity through sound - genuine precious metals produce a distinctive, clear ringing sound when struck, while fakes sound dull or flat."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Testing metal purity"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Measuring weight"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Testing magnetism"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Platinum is more durable than gold and requires less careful handling.",
+              "text": "True or False: Platinum is more durable than gold and requires less careful handling.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Platinum is more durable than gold and resistant to tarnish, but still requires care. It can develop patina and should be stored separately from other metals."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What type of workspace surface is recommended for handling precious metals?",
+              "text": "What type of workspace surface is recommended for handling precious metals?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Clean, soft surface like velvet or felt",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Use a clean, soft surface like velvet or felt when handling precious metals to prevent scratches and provide cushioning in case items are dropped."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Hard wooden surface"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Metal workbench"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Concrete surface"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which storage materials are considered safe for precious metals?",
+              "text": "Which storage materials are considered safe for precious metals?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mylar, archival plastic, and acid-free paper",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Safe storage materials include Mylar, archival plastic, and acid-free paper. Avoid PVC plastics, rubber, cardboard, and newspaper which can cause damage over time."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "PVC plastics and rubber"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Cardboard and newspaper"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Any plastic containers"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What should you do before handling precious metals?",
+              "text": "What should you do before handling precious metals?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wash hands thoroughly",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Always wash hands thoroughly before handling precious metals to remove oils, dirt, and contaminants that could damage or tarnish the metals."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Apply hand lotion"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Eat a meal"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Nothing special needed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

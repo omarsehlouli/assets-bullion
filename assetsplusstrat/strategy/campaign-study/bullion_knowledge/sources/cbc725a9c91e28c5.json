@@ -1,0 +1,394 @@
+{
+  "metadata": {
+    "id": "cbc725a9c91e28c5",
+    "url": "https://learn.bulliontradingllc.com/quiz/when-to-buy-quiz/",
+    "title": "When to Buy Gold & Silver Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:45.490053+00:00",
+    "status": "fetched",
+    "bytes": 31169,
+    "text_characters": 412,
+    "sha256_html": "c54b5b9c2ca9d11db3f050dee9c37200c47688abdd6e73a5e8341ea7867b338f",
+    "file": "sources/cbc725a9c91e28c5.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your understanding of market timing strategies, dollar-cost averaging, and optimal entry points for precious metals investing.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/when-to-buy-quiz/",
+  "text": "When to Buy Gold & Silver Quiz\nTest your understanding of market timing strategies, dollar-cost averaging, and optimal entry points for precious metals investing.\nAccording to the content, what is the best time to buy gold?\nA\nOnly during market crashes\nB\nThe best time was 20 years ago, the second-best time is today\nC\nWait for the perfect dip\nD\nOnly when gold is below $1,000\n←\nBack to When to Buy Gold & Silver",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "New to Precious Metals",
+              "item": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "When to Buy Gold & Silver",
+              "item": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/04-when-to-buy/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "When to Buy Gold & Silver Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "When to Buy Gold & Silver Quiz",
+          "description": "Test your understanding of market timing strategies, dollar-cost averaging, and optimal entry points for precious metals investing.",
+          "url": "https://learn.bulliontradingllc.com/quiz/when-to-buy-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "When to Buy Gold & Silver"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "According to the content, what is the best time to buy gold?",
+              "text": "According to the content, what is the best time to buy gold?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The best time was 20 years ago, the second-best time is today",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The content states that \"the best time to buy gold was 20 years ago. The second-best time is today,\" emphasizing that time in the market beats timing the market."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Only during market crashes"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Wait for the perfect dip"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Only when gold is below $1,000"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What was James the teacher's dollar-cost averaging strategy?",
+              "text": "What was James the teacher's dollar-cost averaging strategy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Purchase $200 worth of gold and silver every month, regardless of price",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "James committed to purchasing $200 worth of gold and silver every month, regardless of price, demonstrating the power of consistent dollar-cost averaging."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Buy $500 worth only when prices dropped"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Buy only during economic crises"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Wait for perfect timing signals"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the historical average gold-to-silver ratio mentioned for timing decisions?",
+              "text": "What is the historical average gold-to-silver ratio mentioned for timing decisions?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "60:1",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The historical average gold-to-silver ratio is 60:1 (60 ounces of silver equal 1 ounce of gold), which can be used to optimize gold/silver purchases."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "40:1"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "80:1"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "100:1"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "When the gold-to-silver ratio is above 80:1, what does this historically suggest?",
+              "text": "When the gold-to-silver ratio is above 80:1, what does this historically suggest?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Silver is historically undervalued",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "When the gold-to-silver ratio is above 80:1, silver is historically undervalued, suggesting it may be time to consider emphasizing silver purchases."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Gold is undervalued"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Both metals are overvalued"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "It's time to sell everything"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What happened to Richard who waited from 2009 to 2011 for gold to \"come down\"?",
+              "text": "What happened to Richard who waited from 2009 to 2011 for gold to \"come down\"?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "He finally bought in 2020 at $1,800 per ounce",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Richard waited from 2009 to 2011 for gold to come down from $1,000, but finally bought in 2020 at $1,800 per ounce, demonstrating the cost of waiting for \"perfect\" timing."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "He got gold at $500 per ounce"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "He never bought any gold"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "He bought at the perfect time"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "According to the content, when do gold prices typically perform best?",
+              "text": "According to the content, when do gold prices typically perform best?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "When real interest rates are low or negative",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold has performed best when \"real\" interest rates (interest rates minus inflation) are low or negative, as seen during periods like 2020-2021."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "When real interest rates are high"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Only during recessions"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "When the stock market is booming"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the recommended strategy for first-time buyers according to the content?",
+              "text": "What is the recommended strategy for first-time buyers according to the content?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Make a small initial purchase within 30 days, regardless of price",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "For first-time buyers, the strategy is to make a small initial purchase (1 ounce of gold or 50 ounces of silver) within the next 30 days, regardless of price, to learn the process."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Wait for the perfect market conditions"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Invest all available funds immediately"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Only buy during market crashes"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "During which months does gold traditionally show strength according to seasonal patterns?",
+              "text": "During which months does gold traditionally show strength according to seasonal patterns?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "August-September",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Gold traditionally shows strength in August-September as uncertainty often peaks during these months, while June-July often presents buying opportunities during the summer lull."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "June-July"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "March-April"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "October-November"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the Enhanced DCA approach for tactical investors?",
+              "text": "What is the Enhanced DCA approach for tactical investors?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "70% on DCA schedule, 30% for opportunistic purchases",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The Enhanced DCA approach maintains 70% of purchases on a dollar-cost averaging schedule while using the remaining 30% for opportunistic purchases during market corrections or favorable conditions."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "100% tactical timing"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "50% DCA, 50% tactical"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Only buy during crashes"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: According to the content, every previous \"all-time high\" in gold became a future buying opportunity when viewed from later vantage points.",
+              "text": "True or False: According to the content, every previous \"all-time high\" in gold became a future buying opportunity when viewed from later vantage points.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The content states that every previous \"all-time high\" in gold became a future buying opportunity when viewed from later vantage points, supporting the long-term upward trend perspective."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

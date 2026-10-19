@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "89003ed787a1a8d8",
+    "url": "https://bulliontradingllc.com/blog/conditions-of-coins/",
+    "title": "Conditions of Coins - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:30.029675+00:00",
+    "status": "fetched",
+    "bytes": 96385,
+    "text_characters": 3850,
+    "sha256_html": "9e21a3c965f9ec54c113ed207bb4cd5bae0f649f2bbba22ed29f8dd624e4a21c",
+    "file": "sources/89003ed787a1a8d8.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "About Good (AG-3)-- Very heavily worn with portions of lettering, date, and legend worn smooth. The date may be hardly legible.",
+  "canonical": "https://bulliontradingllc.com/blog/conditions-of-coins/",
+  "text": "About Good (AG-3)– Very heavily worn with portions of lettering, date, and legend worn smooth. The date may be hardly legible.\nGem Proof (PF-65)– Brilliant surfaces without any visible acnes or defects, just a couple of scattered marks or hairlines.\nFine (F-12)– Moderate to considerable even wear. Entire design is vibrant with general pleasing look.\nExtremely couple of regular-issue coins are ever discovered in this condition.\nPerfect Uncirculated (MS-70)– Perfect new condition, revealing no trace of wear. The finest quality possible, with no evidence of scratches, handling, or contact with other coins. Extremely couple of regular-issue coins are ever found in this condition.\nSome examples include the colonial coins with planchet flaws and weakly struck designs; coins with “lint marks” (surface marks due to the presence of dust or other foreign mater throughout striking); and early silver and gold with weight-adjustment “file marks” (parallel cuts made prior to striking).\nChoice Proof (PF-63)– Reflective surfaces with just a few imperfections in secondary focal places. No major defects.\nProof– A specifically made coin differentiated by sharpness of detail and typically with a brilliant, shiny surface area. Proof refers to the technique of manufacture. The term suggests mint condition.\nHow to grade gold coins, silver coins, and numismatic coins with the essential elements of the ANA Grading System.\nChoice about Uncirculated (AU-55)– Evidence of friction on high points of design. The majority of the Mint radiance stays.\nSuch coins might differ to some degree due to the fact that of imperfections, toning, or small flaws, as described on the following:.\nChoice Very Fine (VF-30)– Light, even endure the surface and greatest parts of the style. All lettering a significant functions are sharp.\nSome examples consist of the colonial coins with planchet defects and weakly struck designs; coins with “lint marks” (surface area marks due to the presence of dust or other foreign mater during striking); and early silver and gold with weight-adjustment “file marks” (parallel cuts made prior to striking).\nGem Uncirculated (MS-65)– An above average Uncirculated coin that might be brilliant or gently toned which has really couple of contact marks on the surface or rim.\nGreat (G-4)– Heavily worn, with design noticeable but faint in locations. Numerous information are flat.\nGreat (VG-8)– Well worn with significant functions clear and vibrant, although a bit flat.\nVery Fine (VF-20)– Moderate wear on peaks of design. All significant information are clear.\nChoice Extremely Fine (EF-45)– Light total wear on greatest points.All style information are extremely sharp. some of the mint radiance is evidence.\nProof (PF-60)– Lacking in appeal and eye appeal with a number of contact marks, hairlines, or light rubs.\n.\nMint State– The terms Mint State (MS) and Uncirculated (Unc.) are utilized interchangeably to explain coins showing no indications of wear. Such coins might vary to some degree since of acnes, toning, or minor flaws, as explained on the following:.\nExtremely Fine (EF-40)– Light wear on design throughout, however all features sharp and well defined. Traces of appeal might show.\nUncirculated (MS-60)– Has no trace of wear however might show a number of contact marks, and surface area may be spotted or absence appeal.\nOption Uncirculated (MS-63)– Has some distracting contact marks or imperfections in prime focal areas. The appeal may suffer rather.\nAbout Uncirculated (AU-50)– Traces of light wear on lots of high points. A minimum of half of the mint appeal is still present.\nThe term suggests mint condition.\nANA Grading System:.\n.\nbulliontrading\nView all posts\nPrevious Post\nInvesting in Gold – Other Issues with Gold as an Investment\nNext Post\nNew To The World Of Silver Trading? Here Is Some Helpful Advice",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/09/coins-1170x500-1.png",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2014/09/coins-1170x500-1.png",
+          "width": "1170",
+          "height": "500",
+          "caption": "coins-1170&#215;500",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/conditions-of-coins/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/coin-collection/",
+                "name": "coin collection"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/conditions-of-coins/",
+                "name": "Conditions of Coins"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/conditions-of-coins/#webpage",
+          "url": "https://bulliontradingllc.com/blog/conditions-of-coins/",
+          "name": "Conditions of Coins - Bullion Trading LLC",
+          "datePublished": "2014-09-08T21:13:15+00:00",
+          "dateModified": "2014-09-08T21:13:15+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/09/coins-1170x500-1.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/conditions-of-coins/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Conditions of Coins - Bullion Trading LLC",
+          "datePublished": "2014-09-08T21:13:15+00:00",
+          "dateModified": "2014-09-08T21:13:15+00:00",
+          "articleSection": "coin collection",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "About Good (AG-3)-- Very heavily worn with portions of lettering, date, and legend worn smooth. The date may be hardly legible.",
+          "name": "Conditions of Coins - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/conditions-of-coins/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/conditions-of-coins/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/09/coins-1170x500-1.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/conditions-of-coins/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/coin-collection/",
+    "https://bulliontradingllc.com/blog/conditions-of-coins/",
+    "https://bulliontradingllc.com/blog/investing-in-gold-other-issues-with-gold-as-an-investment/",
+    "https://bulliontradingllc.com/blog/new-to-the-world-of-silver-trading-here-is-some-helpful-advice/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2014/09/coins-1170x500-1.png",
+      "alt": "coins-1170×500"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

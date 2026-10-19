@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "id": "3529c12a5e3de357",
+    "url": "https://learn.bulliontradingllc.com/charts/platinum-price-1990s/",
+    "title": "Platinum Price in the 1990s — LBMA Decade Chart & Data",
+    "retrieved_at": "2026-10-12T22:13:08.421527+00:00",
+    "status": "fetched",
+    "bytes": 17661,
+    "text_characters": 653,
+    "sha256_html": "100750caf83103f661b5d9ce715a2d4038f3b2b177f6d92a8abd24331416ab5b",
+    "file": "sources/3529c12a5e3de357.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Platinum price through the 1990s: from $469 to $443, monthly-sample high $490, monthly-sample low $332. Monthly LBMA chart for the decade.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/platinum-price-1990s/",
+  "text": "Platinum Price in the 1990s\nBetween the first (1990-04-30) and last (1999-12-30) monthly observations available for the 1990s, the LBMA platinum price went from $469 to $443 — a decline of 5% — with a sampled high of $490 (May 1990) and a sampled low of $332 (Dec 1991).\nYears in the 1990s\n1990\n1991\n1992\n1993\n1994\n1995\n1996\n1997\n1998\n1999\nSee today's live platinum price on the\nspot dashboard\n, or\nshop platinum bullion\nat Bullion Trading LLC.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Platinum price history",
+              "item": "https://learn.bulliontradingllc.com/charts/platinum-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1990s"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Platinum price in the 1990s — LBMA monthly fix",
+          "description": "Platinum price through the 1990s: from $469 to $443, monthly-sample high $490, monthly-sample low $332. Monthly LBMA chart for the decade.",
+          "url": "https://learn.bulliontradingllc.com/charts/platinum-price-1990s/",
+          "temporalCoverage": "1990-04-30/1999-12-30",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/platinum-and-palladium/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

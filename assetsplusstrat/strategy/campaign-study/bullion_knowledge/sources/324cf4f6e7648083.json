@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "id": "324cf4f6e7648083",
+    "url": "https://learn.bulliontradingllc.com/charts/platinum-price-in-2022/",
+    "title": "Platinum Price in 2022 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:13.015855+00:00",
+    "status": "fetched",
+    "bytes": 19770,
+    "text_characters": 1337,
+    "sha256_html": "7c244410cd74d0298aed925eb77cb3a8b79a6e59ef3db5bd0311dc861ce1602e",
+    "file": "sources/324cf4f6e7648083.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Platinum in 2022: 12 monthly observations, 2022-01-31 to 2022-12-29. Sampled high $1,063, low $845; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/platinum-price-in-2022/",
+  "text": "Platinum Price in 2022\nAmong 12 monthly observations available for 2022, the LBMA platinum price rose 0.9% between 2022-01-31 ($1,022) and 2022-12-29 ($1,031). The highest sampled price was $1,063 in February and the lowest was $845 in August. The mean of these observations was $955. This is a first-to-last observation change, not a calendar-year return.\nWhat happened in 2022:\nThe highest inflation in four decades and aggressive rate hikes produced volatile, range-bound metals prices.\n2022 platinum price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$1,022\n(2022-01-31)\n$1,063\n(February)\n$845\n(August)\n$1,031\n(2022-12-29)\n$955\nGBP\n£761\n(2022-01-31)\n£856\n(December)\n£726\n(August)\n£856\n(2022-12-29)\n£777\nEUR\n€913\n(2022-01-31)\n€988\n(November)\n€844\n(August)\n€967\n(2022-12-29)\n€909\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live platinum price on the\nBullion Trading LLC spot dashboard\n, or\nshop platinum bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Platinum price history",
+              "item": "https://learn.bulliontradingllc.com/charts/platinum-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "2022"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Platinum price in 2022 — LBMA monthly fix",
+          "description": "Platinum in 2022: 12 monthly observations, 2022-01-31 to 2022-12-29. Sampled high $1,063, low $845; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/platinum-price-in-2022/",
+          "temporalCoverage": "2022-01-31/2022-12-29",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/platinum-and-palladium/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

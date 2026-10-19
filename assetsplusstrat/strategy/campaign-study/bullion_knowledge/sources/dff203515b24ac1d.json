@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "id": "dff203515b24ac1d",
+    "url": "https://bulliontradingllc.com/blog/new-jersey-residents-and-the-7-sales-tax-on-precious-metals/",
+    "title": "New Jersey Residents and The 7% Sales Tax on Precious Metals - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:00.067725+00:00",
+    "status": "fetched",
+    "bytes": 107845,
+    "text_characters": 4425,
+    "sha256_html": "abc244c7939b028a4bab6ea0d43454cd5bfe580f27c9e467c06d395395b56bee",
+    "file": "sources/dff203515b24ac1d.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "New Jersey charges 7% sales tax on precious metals, even on online orders. Learn what’s taxed, who owes it, and how to avoid costly surprises.",
+  "canonical": "https://bulliontradingllc.com/blog/new-jersey-residents-and-the-7-sales-tax-on-precious-metals/",
+  "text": "The State of New Jersey imposes a 7% sales tax on all collectible commodities such as precious metals, bullion, tokens, medallions and any numismatic goods. This applies to online purchases.\nThis tax is collected on all purchases regardless of whether the vendor calculated it into the total.  Even if the vendor failed to include it in your total at checkout, you, the customer, are still responsible for paying it. It’s the law. You don’t want unpaid taxes to catch up with you. It’s best to get them out of the way upon making the purchase. Many people think sale taxes are imposed by the IRS but this is not true. Sales taxes are determined on a state-to-state basis.\nIt’s safe to say that sales taxes are no one’s favorite thing. They need to be taken into consideration when purchasing big-ticket items. Yes, taxes pay for state and local services such as schools and firefighters. However, if you could save thousands of dollars on a purchase to go towards investments, mortgages, and maintaining your quality of life, you most likely would. For some people, this difference in thousands of dollars can mean a lot. People buying gold and silver tend to be financially savvy people who like to plan for the future. Choosing the best products and the soundest way to purchase them is the mark of an educated, responsible consumer.\nFortunately, for New Jersey residents, there’s a way around this sales tax. New Jersey residents can visit our private office at 20 West 47th Street in the Diamond District. Bullion Trading LLC has a physical address in the heart of NYC where New Jersey customers can enjoy personal, one-on-one service and hold our products in their hand before they purchase them. This is a great way to avoid the 7% New Jersey sales tax, keeping the power in your hands and money in your pockets.\nNew York City (NYC) has an exemption on sales taxes for the purchase of precious metals. Transactions exceeding $1,000 are exempt from the sales tax. This is great news for residents of New Jersey, who do not have to travel far to enjoy this privilege.\nAvoiding the sales tax by visiting our physical location can save you thousands of dollars on your purchase. We are conveniently located in the Diamond District on W 47th street in Manhattan. New Jersey residents commute to this area daily, many of whom are our valued customers who frequently do business with us. We encourage our New Jersey customers to come visit us in the Diamond District for an in-person buying experience. When buying online, you can’t be too sure about what you’re buying and who you’re buying it from. When you come to the Bullion Trading office, you know exactly what you’re getting and you can see exactly who we are. Without the mystery of an online store and the dreadful sales tax, opting to buy in person if you’re only one state over is a no-brainer.\nWHY SHOULD YOU BUY IN PERSON?\nCustomer relationships are our top priority. Having been in business for over 35 years, we’ve been fostering relationships with customers and our local community since before e-commerce was a thing.\nBullion Trading LLC provides services for serious precious metal investors and first-time investors alike. We want to provide our customers with the highest quality experience possible and give them the best possible value. It puts our customers at ease to speak with us face-to-face and consult with us about our products. Maintaining our reputation as the bullion dealership you can trust is very important to us.\nWe are more than happy to ship our products anywhere in the world but buying in person is always the superior choice. The difference between having the items shipped versus coming to purchase in-person can be thousands of dollars. For New Jersey customers, avoiding a 7% sales tax on shipped items is a great value and worth the trip into the city. We give our customers the best possible value and give them great deals and savings while still providing the best quality products in the business.\nBullion Trading LLC\nis located on 20 West 47th Street on the lower level, #24 in the Diamond District of Manhattan. We are open from 8:30am to 4pm, Monday through Thursday. On Friday we close at 1pm and we are closed on Saturday and Sunday.\nbulliontrading\nView all posts\nPrevious Post\n[ChartWatch] Is the United States Election the \"Cork in the Bottle\" for Gold and Silver?\nNext Post\nShould You Invest in Gold During COVID-19?",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-bullion-dealer-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-bullion-dealer-jpg.webp",
+          "width": "1920",
+          "height": "800",
+          "caption": "Untitled",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/new-jersey-residents-and-the-7-sales-tax-on-precious-metals/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/new-jersey-residents-and-the-7-sales-tax-on-precious-metals/",
+                "name": "New Jersey Residents and The 7% Sales Tax on Precious Metals"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/new-jersey-residents-and-the-7-sales-tax-on-precious-metals/#webpage",
+          "url": "https://bulliontradingllc.com/blog/new-jersey-residents-and-the-7-sales-tax-on-precious-metals/",
+          "name": "New Jersey Residents and The 7% Sales Tax on Precious Metals - Bullion Trading LLC",
+          "datePublished": "2020-11-03T10:26:56+00:00",
+          "dateModified": "2020-11-03T10:26:56+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-bullion-dealer-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/new-jersey-residents-and-the-7-sales-tax-on-precious-metals/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "New Jersey Residents and The 7% Sales Tax on Precious Metals - Bullion Trading LLC",
+          "datePublished": "2020-11-03T10:26:56+00:00",
+          "dateModified": "2020-11-03T10:26:56+00:00",
+          "articleSection": "Gold, Gold Market &amp; Economics, silver",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "New Jersey charges 7% sales tax on precious metals, even on online orders. Learn what’s taxed, who owes it, and how to avoid costly surprises.",
+          "name": "New Jersey Residents and The 7% Sales Tax on Precious Metals - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/new-jersey-residents-and-the-7-sales-tax-on-precious-metals/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/new-jersey-residents-and-the-7-sales-tax-on-precious-metals/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-bullion-dealer-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/new-jersey-residents-and-the-7-sales-tax-on-precious-metals/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/chartwatch-is-the-united-states-election-the-cork-in-the-bottle-for-gold-and-silver/",
+    "https://bulliontradingllc.com/blog/new-jersey-residents-and-the-7-sales-tax-on-precious-metals/",
+    "https://bulliontradingllc.com/blog/should-you-invest-in-gold-during-covid-19/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/gold-bullion-dealer-jpg.webp",
+      "alt": "Untitled"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://bulliontradingllc.com/blog/wp-content/uploads/2020/11/best-online-gold-dealers.jpg",
+      "alt": "best online gold dealers "
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

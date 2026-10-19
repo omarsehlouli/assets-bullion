@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "25f77638e883bf12",
+    "url": "https://bulliontradingllc.com/blog/oil-prices-increase-demand-for-gold-to-a-14-month-high/",
+    "title": "Oil Prices Increase Demand For Gold To A 14-Month High - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:01.413586+00:00",
+    "status": "fetched",
+    "bytes": 96140,
+    "text_characters": 3057,
+    "sha256_html": "6c2cbae3f16afd09edf23f39809a746698e191b2f440a36b828105ee805aa0e1",
+    "file": "sources/25f77638e883bf12.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Crude futures in the New York trading really increased as much as 4.8%, which brought them up from a five year low. While gold had at first been up to a three",
+  "canonical": "https://bulliontradingllc.com/blog/oil-prices-increase-demand-for-gold-to-a-14-month-high/",
+  "text": "Crude futures in the New York trading really increased as much as 4.8%, which brought them up from a five year low. While gold had at first been up to a three week low following a Swiss referendum that stopped working, it managed to bounce back overnight oftentimes. This rare new rates begins the heels of a credit downgrade in Japan along with lower rates of United States vacation shopping, both stimulating concerns about long term international development.\nAccording to BMO Capital Market Corp. in New York, the gold market is being driven by the petroleum prices. On the Comex trading front, February futures handled to rise as much as 3.6% to a healthy $1,218.\nBoth gold and silver futures increased to their greatest heights given that 2013, pressed by the quick changes concerning the oil market.\nBullion had actually dropped as an outcome of not being seen as the only means of attaining a hedge against impending inflation. With the drop in oil rates, the Federal Reserve has cautioned people that the lower energy expenses might quickly keep customer expenses down over the next few weeks.\nMore Open Interest\nThe approximated level of open interest was 373,000 on November 28th, which was down from the high of 469,000 according to Bloomberg. Many individuals had actually offered their positions in gold while the pending referendum in Switzerland was still looming.\nEssentially, this relocation left the funds under-invested for the fast increase that was seen in the market for gold over the last couple of days.\nThis news combined with a lower credit score for Japan in addition to sluggish retail sales in the U.S. has actually created an environment that is favorable for silver and gold.\nCurrency Supplies\nFar, rates have actually managed to snap back to 7.8 percent to the impact of 1,130.40 on November 7th, which is the least expensive rates seen given that 2010. Central banks in both Europe and Japan are weighing measures that would give them the ability to assist their particular markets recuperate.\nSpot gold has been estimated as rising 1 percent on the dollar, however 11 percent in Euros and 14 percent in yen, respectively.\nCrude futures in the New York trading in fact increased as much as 4.8%, which brought them up from a 5 year low. While gold had actually initially fallen to a 3 week low following a Swiss referendum that stopped working, it managed to bounce back overnight in many cases. This rare brand-new pricing comes on the heels of a credit downgrade in Japan as well as lower rates of United States holiday shopping, both sparking concerns about long term international development.\nSilver futures are also up for their March delivery cycle; rising 7.3 percent to $16.992 on the Comex market. Overall, the aggregate trading has actually doubled for both gold and silver over the last 100 days, triggering a really unpredictable market for the next quarter.\nbulliontrading\nView all posts\nPrevious Post\nThe Dollar Sinks From Its Five Year High\nNext Post\nWhy A Lump Of Gold Can Make Your Entire Christmas Better",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/12/gold-1066x500-1.png",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2014/12/gold-1066x500-1.png",
+          "width": "1066",
+          "height": "500",
+          "caption": "gold-1066&#215;500",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/oil-prices-increase-demand-for-gold-to-a-14-month-high/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+                "name": "Gold Market &amp; Economics"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/oil-prices-increase-demand-for-gold-to-a-14-month-high/",
+                "name": "Oil Prices Increase Demand For Gold To A 14-Month High"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/oil-prices-increase-demand-for-gold-to-a-14-month-high/#webpage",
+          "url": "https://bulliontradingllc.com/blog/oil-prices-increase-demand-for-gold-to-a-14-month-high/",
+          "name": "Oil Prices Increase Demand For Gold To A 14-Month High - Bullion Trading LLC",
+          "datePublished": "2014-12-11T14:37:04+00:00",
+          "dateModified": "2014-12-11T14:37:04+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/12/gold-1066x500-1.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/oil-prices-increase-demand-for-gold-to-a-14-month-high/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Oil Prices Increase Demand For Gold To A 14-Month High - Bullion Trading LLC",
+          "datePublished": "2014-12-11T14:37:04+00:00",
+          "dateModified": "2014-12-11T14:37:04+00:00",
+          "articleSection": "Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Crude futures in the New York trading really increased as much as 4.8%, which brought them up from a five year low. While gold had at first been up to a three",
+          "name": "Oil Prices Increase Demand For Gold To A 14-Month High - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/oil-prices-increase-demand-for-gold-to-a-14-month-high/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/oil-prices-increase-demand-for-gold-to-a-14-month-high/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/12/gold-1066x500-1.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/oil-prices-increase-demand-for-gold-to-a-14-month-high/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/oil-prices-increase-demand-for-gold-to-a-14-month-high/",
+    "https://bulliontradingllc.com/blog/the-dollar-sinks-from-its-five-year-high/",
+    "https://bulliontradingllc.com/blog/why-a-lump-of-gold-can-make-your-entire-christmas-better/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2014/12/gold-1066x500-1.png",
+      "alt": "gold-1066×500"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

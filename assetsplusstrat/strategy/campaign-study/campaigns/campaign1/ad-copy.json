@@ -1,0 +1,52 @@
+{
+  "google_search": {
+    "headlines": [
+      {
+        "text": "Buy Gold & Silver Bullion",
+        "characters": 25
+      },
+      {
+        "text": "Find Your First Piece",
+        "characters": 21
+      },
+      {
+        "text": "Compare Bullion Weights",
+        "characters": 23
+      },
+      {
+        "text": "Shop Silver Coins & Rounds",
+        "characters": 26
+      },
+      {
+        "text": "Explore Small Gold Bars",
+        "characters": 23
+      },
+      {
+        "text": "Bullion Trading LLC",
+        "characters": 19
+      }
+    ],
+    "descriptions": [
+      {
+        "text": "Explore gold bars, silver coins and rounds. Compare weights and live product prices.",
+        "characters": 84
+      },
+      {
+        "text": "Start with a closer look. Shop physical bullion with a New York team you can reach.",
+        "characters": 83
+      },
+      {
+        "text": "Find the product that fits your budget. Review current pricing and payment options.",
+        "characters": 83
+      }
+    ]
+  },
+  "meta": {
+    "primary_text": "Start with a closer look. Compare gold bars, silver coins and rounds at Bullion Trading LLC, with live product prices and a New York team you can reach.",
+    "headline": "Find Your First Piece",
+    "description": "Explore gold and silver bullion.",
+    "cta": "Shop Now"
+  },
+  "creative_overlay_suggestion": "Your first piece starts here.",
+  "note": "Copy and image are separate assets. No live ad was created."
+}

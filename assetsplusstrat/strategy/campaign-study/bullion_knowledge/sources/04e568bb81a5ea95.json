@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "04e568bb81a5ea95",
+    "url": "https://bulliontradingllc.com/blog/investing-in-gold-other-issues-with-gold-as-an-investment/",
+    "title": "Investing in Gold – Other Issues with Gold as an Investment - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:55.643832+00:00",
+    "status": "fetched",
+    "bytes": 97588,
+    "text_characters": 3936,
+    "sha256_html": "63a255292bf0084441248c12e5a123ee69a53d11fd1a59d5df68444a7ed3ce27",
+    "file": "sources/04e568bb81a5ea95.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "This post matches the first four and provides further ideas which werent quite proper to any of the previous short articles. For example, where should you",
+  "canonical": "https://bulliontradingllc.com/blog/investing-in-gold-other-issues-with-gold-as-an-investment/",
+  "text": "This post matches the first four and provides further ideas which werent quite proper to any of the previous short articles. For example, where should you keep your gold? A safe deposit box is an excellent location, but it is not FDIC insured, and in the case of fire or water damage, the products kept there are in jeopardy. On the other hand, by law, safe deposit boxes need to be open to the owners the day after a bank closes its doors. The banks solvency has absolutely nothing to do with your access to your box. In the house is also a good location, however intruders can steal your whole financial investment, even if its in a safe. If you choose to protect your gold in a safe, try to get one that cant be moved, like a flooring to ceiling room safe, or a minimum of one thats attached somehow to the structure of your house. Likewise, have a good home security system.\nOther Issues with Gold as an Investment.\nWhen you sell your gold jewelry, make sure the dealer offers you a rate for each piece of precious jewelry you desire to offer. Some dishonest dealers will weigh the entire lot, and create the rate based on the piece with the most affordable portion of gold, and pocket the distinction. A reputable dealership will provide you a price per piece. When you send gold jewelry to a dealership in the mail, research study the dealership, photo all the pieces, and guarantee the plan with the Post Office.\nIf you have just a little cash to invest, one possibility is scrap gold (broken precious jewelry, gold shavings, gold nuggets, etc.). For just a little investment, you can buy scrap gold from some dealers and area gold stores. Buy a little here, a little there, and soon you will have a substantial stockpile.\nHow much of my portfolio should I purchase gold? Numerous authors I experienced when investigating this article stated the very same thing: 10% -30%. Gold and other rare-earth elements are indicated to be an insurance versus hardship. The majority of the time there is no difficulty, so the lucrative investments are stocks, property, shared funds, and so on. Nevertheless, there is an ancient Chinese curse: May you reside in intriguing times. With the turnarounds of the economy, stalemate in government, the hazard of terrorism (both homegrown and external), Middle East chaos, and a resurgent Asia, we definitely reside in interesting times. Maybe your portfolio of financial investments must actually contain a little more than 30% in gold and valuable metals.\n.\nHow can I purchase gold without owning any physical gold? You might think about futures trading, which can be done by anybody. However, all of the authors I read to research study this series of short articles said that 90% of the individuals they knew who traded gold on the futures markets lost money. You can likewise buy gold-oriented shared funds, exchange-traded funds or perhaps own mining stock outright. These investments will yield a few of the advantages of gold without your needing to own physical gold. On the other hand, they involve having someone (a shared fund) or something (a mine) in between you and the gold (your investment is someone elses liability). The best method to buy gold, is to actually own the physical object.\nGreat Luck!\nHow can I invest in gold without owning any physical gold? These financial investments will yield some of the advantages of gold without your having to own physical gold.\nIf you have only a little cash to invest, one possibility is scrap gold (broken jewelry, gold shavings, gold nuggets, and so on). For simply a little financial investment, you can purchase scrap gold from some dealers and neighborhood gold shops. When you send gold fashion jewelry to a dealer in the mail, research the dealer, photo all the pieces, and insure the plan with the Post Office.\nbulliontrading\nView all posts\nPrevious Post\nSilver Prices Become More Detached From Gold\nNext Post\nConditions of Coins",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/08/Investing-in-Gold-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2014/08/Investing-in-Gold-jpg.webp",
+          "width": "568",
+          "height": "470",
+          "caption": "Investing-in-Gold",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/investing-in-gold-other-issues-with-gold-as-an-investment/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/investing-in-gold-other-issues-with-gold-as-an-investment/",
+                "name": "Investing in Gold – Other Issues with Gold as an Investment"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/investing-in-gold-other-issues-with-gold-as-an-investment/#webpage",
+          "url": "https://bulliontradingllc.com/blog/investing-in-gold-other-issues-with-gold-as-an-investment/",
+          "name": "Investing in Gold – Other Issues with Gold as an Investment - Bullion Trading LLC",
+          "datePublished": "2014-08-29T21:13:38+00:00",
+          "dateModified": "2014-08-29T21:13:38+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/08/Investing-in-Gold-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/investing-in-gold-other-issues-with-gold-as-an-investment/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Investing in Gold – Other Issues with Gold as an Investment - Bullion Trading LLC",
+          "datePublished": "2014-08-29T21:13:38+00:00",
+          "dateModified": "2014-08-29T21:13:38+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "This post matches the first four and provides further ideas which werent quite proper to any of the previous short articles. For example, where should you",
+          "name": "Investing in Gold – Other Issues with Gold as an Investment - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/investing-in-gold-other-issues-with-gold-as-an-investment/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/investing-in-gold-other-issues-with-gold-as-an-investment/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/08/Investing-in-Gold-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/investing-in-gold-other-issues-with-gold-as-an-investment/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/conditions-of-coins/",
+    "https://bulliontradingllc.com/blog/investing-in-gold-other-issues-with-gold-as-an-investment/",
+    "https://bulliontradingllc.com/blog/silver-prices-become-more-detached-from-gold/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2014/08/Investing-in-Gold-jpg.webp",
+      "alt": "Investing-in-Gold"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "id": "e8f0d146f19c6689",
+    "url": "https://learn.bulliontradingllc.com/guides/questions/21-how-to-verify-silver-authenticity/",
+    "title": "How to Verify Silver Authenticity | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:35.203598+00:00",
+    "status": "fetched",
+    "bytes": 22372,
+    "text_characters": 5634,
+    "sha256_html": "dce2ef0ed87fbb468ac8c1d324671f979f8916e127161c74c026c283320b886d",
+    "file": "sources/e8f0d146f19c6689.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Learn simple at-home tests and professional methods to verify the authenticity of your silver coins and bars before adding them to your stack.",
+  "canonical": "https://learn.bulliontradingllc.com/guides/questions/21-how-to-verify-silver-authenticity/",
+  "text": "beginner\nBy the\nBullion Trading LLC editorial team\nHow to Verify Silver Authenticity\nLearn simple at-home tests and professional methods to verify the authenticity of your silver coins and bars before adding them to your stack.\nWith the rise in precious metal prices, counterfeit silver has become more common in the marketplace. Several reliable methods can help you verify the authenticity of your silver purchases, from quick at-home checks to professional laboratory tools.\nVisual Inspection\nBegin with a careful visual examination:\nCheck for proper mint marks, weight specifications, and purity markings.\nLook for sharp details and clean strikes on coins.\nExamine the reeding (ridges) on coin edges, which should be consistent and well-defined.\nBe suspicious of any unusual discoloration that doesn’t match natural silver toning.\nCounterfeits often betray themselves with soft details, mushy lettering, or off-center designs. Compare a suspect piece side-by-side with a known authentic example whenever possible.\nThe Magnet Test\nSilver is not magnetic. If your silver item is attracted to a strong magnet, it’s likely counterfeit or contains other ferromagnetic metals such as iron or nickel.\nNote: some counterfeit coins use non-magnetic base metals like lead or copper, so passing the magnet test alone does not guarantee authenticity. Use it as a quick first filter, not the final word.\nThe Ice Test\nSilver has the highest thermal conductivity of any metal. Place an ice cube on your silver item:\nOn genuine silver, the ice will begin to melt almost immediately as the silver rapidly conducts heat away from the cube.\nOn plated or fake items, the ice will melt noticeably more slowly.\nThis test is non-destructive and surprisingly effective for distinguishing solid silver from silver-plated base metals.\nThe Ping Test\nWhen tapped lightly, genuine silver produces a distinctive high-pitched ringing sound that sustains for a few seconds. Counterfeit items typically produce a duller, shorter, more muted sound.\nA common method is to balance the coin on a fingertip and tap it gently with another coin or a non-magnetic metal rod. Silver coins should ring like a small bell.\nWeight and Measurements\nUse a precise scale and calipers to verify dimensions against official specifications:\nA 1 oz American Silver Eagle should weigh exactly 31.103 grams (1 troy ounce).\nA 1 oz Canadian Silver Maple Leaf should also weigh 31.103 grams.\nCheck diameter and thickness against the mint’s published specifications.\nCounterfeits often fail on at least one dimension because matching silver’s density (10.49 g/cm³) with cheaper metals is geometrically difficult. A fake that hits the right weight will usually be the wrong thickness or diameter, and vice versa.\nAcid Testing\nSilver testing kits contain nitric acid solutions that react differently with various metals:\nOn genuine silver, the acid solution maintains a creamy or bright red color depending on purity.\nOn silver-plated or fake items, the solution typically turns green, brown, or another off-color.\nNote: acid testing is mildly destructive and may leave a small mark on your silver, so it’s usually performed on an inconspicuous area such as the edge.\nSpecific Gravity Test\nBecause silver has a known density of 10.49 g/cm³, you can verify authenticity by measuring an item’s specific gravity using a scale and a container of water. Weigh the item dry, then weigh it again suspended in water. Divide the dry weight by the difference, and the result should land very close to 10.49 for fine silver. This method is accurate, non-destructive, and hard to fool because density is dictated by physics, not surface plating.\nProfessional Authentication\nFor higher-value items, consider professional verification:\nBuy graded and authenticated coins from reputable third-party grading services such as PCGS or NGC. These coins arrive sealed in tamper-evident slabs with serial numbers you can verify online.\nUse an XRF (X-ray fluorescence) analyzer, available at many coin shops and precious metals dealers. XRF reads the actual metal composition in seconds without damaging the item.\nFor larger bars, ultrasonic thickness gauges can detect tungsten or lead cores hidden behind a silver shell.\n⚠️\nRed Flags When Buying\nBe cautious of deals significantly below spot price, sellers without verifiable history, items shipped from unknown overseas sources, and bars or coins missing standard assay markings or serial numbers. If a price seems too good to be true, it usually is.\nCombining Methods\nNo single test is foolproof. Sophisticated counterfeits can pass one or two checks but rarely pass several. The most reliable approach is to layer tests: start with visual inspection and the magnet test, confirm with weight and dimensions, then escalate to ice, ping, or specific gravity for anything that still feels off. Reserve acid or XRF testing for the most valuable pieces.\nBuying from established, reputable dealers — and keeping the original packaging, assay cards, and receipts — remains the single best protection against counterfeit silver. A trusted source removes most of the risk before any test is even needed.\nFor deeper background on the certificates that ship with branded bars, see\nWhat Are Assays Certificates Of Authenticity\n, which explains how mint-issued assays document purity and weight from the source.\nRelated on bulliontradingllc.com\nWhat Are Assays Certificates Of Authenticity ↗\n· blog\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Guides",
+              "item": "https://learn.bulliontradingllc.com/guides/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Questions & Answers",
+              "item": "https://learn.bulliontradingllc.com/guides/questions/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "How to Verify Silver Authenticity"
+            }
+          ]
+        },
+        {
+          "@type": "Article",
+          "headline": "How to Verify Silver Authenticity",
+          "description": "Learn simple at-home tests and professional methods to verify the authenticity of your silver coins and bars before adding them to your stack.",
+          "url": "https://learn.bulliontradingllc.com/guides/questions/21-how-to-verify-silver-authenticity/",
+          "author": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/blog/what-are-assays-certificates-of-authenticity/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

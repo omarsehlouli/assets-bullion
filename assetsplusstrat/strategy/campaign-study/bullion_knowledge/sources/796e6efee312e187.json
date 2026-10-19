@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "id": "796e6efee312e187",
+    "url": "https://bulliontradingllc.com/blog/local-coin-shops/",
+    "title": "Local Coin Shops - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:58.022361+00:00",
+    "status": "fetched",
+    "bytes": 94541,
+    "text_characters": 3779,
+    "sha256_html": "b8a203bb0bf78d58e0c91c32b227f33878859f2c2af952628da3212c4662c01e",
+    "file": "sources/796e6efee312e187.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "As soon as once again, as with all kinds of bullion, gold will always be an excellent investment. American Eagle coins have actually always been \"very liquid\"",
+  "canonical": "https://bulliontradingllc.com/blog/local-coin-shops/",
+  "text": "As soon as once again, as with all kinds of bullion, gold will always be an excellent investment. American Eagle coins have actually always been “very liquid” krugerrands and investments also stay one of the most popular gold coins internationally. It likewise helps that all government-produced gold coins can be found in basic weights, such as one-ounce, half-ounce, or quarter-ounce, making it easy to figure out the gold costs. Gold coins may seem to have a significant advantage over kilo bars or other kinds of bullion: the abundance of coin stores in regional areas. This, however, is not necessarily an advantage at all.\nSo now we get in the world of gold coins.\nDespite what might appear like the natural assumption that coins would be finest bought at a coin shop, the truth is that any quality bullion dealership will be fluent in coinage.\nIf you want to get an assessment on certain gold coins, a coin store will be a good location to take a look at many and find out all you can. But simply remember: nobody wishes to do organisation with somebody who might unexpectedly need to bail out with the product in question or even worse yet, someone for whom this becomes a very genuine possibility every other minute.\nThis previous weekend, the rate of gold took a major nosedive. Looking on the sites of numerous regional coin stores, I was not surprised to see numerous of them began to remove certain gold items from their listings. Some items that previously been among the most expensive were no longer on sale. This shows the undependable nature of a little business that handles a volatile market. Lets state that the coin store has actually spent $1,900 for an item that he can now only offer for $1,500. He merely can not manage to sell as he will not be able to recover that loss. Therefore he has no option but to take the item off sale until the scenario changes. We discussed in our articles on Ebay and Selling Gold Online the unfortunate scenario of beginning an auction that goes severely and having two alternatives: either to offer you item for far less than you paid for it, or cancel the auction, which makes you look careless. This is the exact very same situation the owner of the coin store is in. As far as offering goes, you might potentially have the ability to offer to them for a high quantity. The drawback is that, again, being a small company, they will more than likely just purchase from you depending upon what their stock should be at that really minute or how likely they feel they are to make a sale with your product. Each coin shop resembles a separated market with its own set of policies and prices. The most significant deterrence to doing service with a coin shop is this lack of stability; you constantly want the person you do business with to be someone you can develop a relationship with and will communicate with you frequently. A small store with an unreliable stock that may close shop on any given bad market day presents an obstacle to this.\nAmerican Eagle coins have constantly been “extremely liquid” krugerrands and financial investments also remain one of the most popular gold coins worldwide. Gold coins might seem to have a significant benefit over kilo bars or other types of bullion: the abundance of coin stores in local locations. Looking on the sites of a number of local coin stores, I was not amazed to see many of them started to get rid of certain gold products from their listings. In spite of what may seem like the natural assumption that coins would be finest acquired at a coin shop, the truth is that any quality bullion dealership will be well-versed in coinage.\nbulliontrading\nView all posts\nPrevious Post\nAbout Perth Mint Gold Bar\nNext Post\n7 Reasons To Hate Gold As an Investment – Debunked –",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/local-coin-shops/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/local-coin-shops/",
+                "name": "Local Coin Shops"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/local-coin-shops/#webpage",
+          "url": "https://bulliontradingllc.com/blog/local-coin-shops/",
+          "name": "Local Coin Shops - Bullion Trading LLC",
+          "datePublished": "2011-10-27T09:06:12+00:00",
+          "dateModified": "2011-10-27T09:06:12+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/local-coin-shops/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Local Coin Shops - Bullion Trading LLC",
+          "datePublished": "2011-10-27T09:06:12+00:00",
+          "dateModified": "2011-10-27T09:06:12+00:00",
+          "articleSection": "Gold, silver",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "As soon as once again, as with all kinds of bullion, gold will always be an excellent investment. American Eagle coins have actually always been &quot;very liquid&quot;",
+          "name": "Local Coin Shops - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/local-coin-shops/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/local-coin-shops/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/local-coin-shops/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/7-reasons-to-hate-gold-as-an-investment-debunked/",
+    "https://bulliontradingllc.com/blog/about-perth-mint-gold-bar/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/local-coin-shops/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "id": "54cdbd122b60f4e9",
+    "url": "https://bulliontradingllc.com/blog/design-types-of-united-states-coins-and-coin-collecting/",
+    "title": "Design Types of United States Coins and Coin Collecting - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:30.569026+00:00",
+    "status": "fetched",
+    "bytes": 95630,
+    "text_characters": 3124,
+    "sha256_html": "c0c94b8a590dbe8be05bd2596a97508219496d6fd19c4d53a30c5fca0aae56ee",
+    "file": "sources/54cdbd122b60f4e9.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Thinking about that gold coins are tough to find, most of enthusiasts select different other coins.",
+  "canonical": "https://bulliontradingllc.com/blog/design-types-of-united-states-coins-and-coin-collecting/",
+  "text": "Thinking about that gold coins are tough to find, most of enthusiasts select different other coins.\nConstructing a coin collection will take a long time – months and even years. The United States has produced numerous coins that it is difficult to keep an eye on them. By choosing the coin(s) you want to accumulate, the obstacle to finish that collection starts.\nCoin gathering is a pleasurable leisure activity that any individual that has the time can do. A coins background as well as its improvement can be learned by collecting them.\nOne sort of collection you might believe about is the one made up of coins that are flawed when the coin was produced. If you can discover a coin with a misspelled word, an inaccurate date, off-center functions, or double-punched marks, these coins are valuable. An additional technique of collecting is disregarding the types of coins however focusing on a particular quantity of time. Coins have different mint marks as well as gathering those that were struck in the same area can furthermore be remarkable.\nThe most crucial coin on the planet is the 1933 Double Eagle. This was a $20 gold coin that was made in the 1800s after the California gold rush. This coin was not allowed to be made use of in the 1930s and when this coin was auctioned in 2002, it cost nearly 8 million dollars.\nFor a fantastic start register for a coin publication such as Coin World or Cash Magazine for information on the kinds of coins that you might intend to collect. The web or a neighborhood coin shop might in addition assist increase the search for those coins that can not be located in your area or from state.\nAn extra approach of gathering is ignoring the kinds of coins but focusing on a particular quantity of time. Coins have various mint marks along with collecting those that were struck in the same location can in addition be interesting. The vital thing for enthusiasts is to adhere to the collection up until it has actually been finished.\nAt one moment, in between 1838 and1933, the United States issued gold coins for circulation. The Liberty Head breast was utilized as the design till 1907. The design wanted that changed to the Indian Head in addition to Saint Gaudens styles till 1933 when the “Great Clinical anxiety” started. This motivated the recall of the coins which makes it truly uncommon to discover any among them today.\nIf it is concentrated on a particular coin, a coin collection is at its finest. A collector could choose from cents, nickels, cents, quarters and likewise dollars.\nWhen the coin was produced, one sort of collection you might think about is the one comprised of coins that are flawed. If you can discover a coin with a misspelled word, an incorrect date, off-center functions, or double-punched marks, these coins are important. Such oversights might increase a coins value from $50 to a $1000.\nCoins that were just issued or distributed for brief time period also make excellent antiques.\nbulliontrading\nView all posts\nPrevious Post\nIs it Safe to Sell Gold Coins to a Dealer?\nNext Post\nFeatured Coin: The Canadian Maple Leaf Bullion Trading, LLC.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2016/10/United-States-Coins-1170x500-1-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2016/10/United-States-Coins-1170x500-1-jpg.webp",
+          "width": "1170",
+          "height": "500",
+          "caption": "United-States-Coins-1170&#215;500",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/design-types-of-united-states-coins-and-coin-collecting/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/coin-collection/",
+                "name": "coin collection"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/design-types-of-united-states-coins-and-coin-collecting/",
+                "name": "Design Types of United States Coins and Coin Collecting"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/design-types-of-united-states-coins-and-coin-collecting/#webpage",
+          "url": "https://bulliontradingllc.com/blog/design-types-of-united-states-coins-and-coin-collecting/",
+          "name": "Design Types of United States Coins and Coin Collecting - Bullion Trading LLC",
+          "datePublished": "2016-10-27T22:08:28+00:00",
+          "dateModified": "2016-10-27T22:08:28+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2016/10/United-States-Coins-1170x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/design-types-of-united-states-coins-and-coin-collecting/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Design Types of United States Coins and Coin Collecting - Bullion Trading LLC",
+          "datePublished": "2016-10-27T22:08:28+00:00",
+          "dateModified": "2016-10-27T22:08:28+00:00",
+          "articleSection": "coin collection, gold coins",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Thinking about that gold coins are tough to find, most of enthusiasts select different other coins.",
+          "name": "Design Types of United States Coins and Coin Collecting - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/design-types-of-united-states-coins-and-coin-collecting/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/design-types-of-united-states-coins-and-coin-collecting/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2016/10/United-States-Coins-1170x500-1-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/design-types-of-united-states-coins-and-coin-collecting/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/coin-collection/",
+    "https://bulliontradingllc.com/blog/category/gold-coins/",
+    "https://bulliontradingllc.com/blog/design-types-of-united-states-coins-and-coin-collecting/",
+    "https://bulliontradingllc.com/blog/featured-coin-the-canadian-maple-leaf-bullion-trading-llc/",
+    "https://bulliontradingllc.com/blog/is-it-safe-to-sell-gold-coins-to-a-dealer/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2016/10/United-States-Coins-1170x500-1-jpg.webp",
+      "alt": "United-States-Coins-1170×500"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "id": "7ee89964d074d900",
+    "url": "https://bulliontradingllc.com/blog/value-of-gold-2/",
+    "title": "Value of Gold - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:14.885355+00:00",
+    "status": "fetched",
+    "bytes": 96238,
+    "text_characters": 3912,
+    "sha256_html": "d7f907bfef791b40f5d3dcac1a9b4f88b60a9f69d4ed25aaf95451cc8639e0b2",
+    "file": "sources/7ee89964d074d900.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "This worth will continue to alter depending upon how I choose to make my sale, and whether any additional charges are involved. If I am selling a Pamp bar, it",
+  "canonical": "https://bulliontradingllc.com/blog/value-of-gold-2/",
+  "text": "This worth will continue to alter depending upon how I choose to make my sale, and whether any additional charges are involved. If I am selling a Pamp bar, it deserves a lot more if it has a certificate than without one, and even more if that certificate stays unopened. A local shop dealer might use me a different rate altogether, depending upon his companys policies or what his circumstance is.\nEvery seller ought to know what gives gold its worth as this will identify how they continue to sell their product. An items scrap value is generally regarded as its minimum rate. Lets state I have an American Silver Eagle. While the “value” of this coin would change depending upon who I speak to and need to there be any commission costs, I understand that the melt value of this specific coin is equal to One Ounce of Silver. It may appear weird to believe of melting down coins, as it is technically unlawful to ruin nationwide currency, however it in fact happens frequently with international currency. I will send my American Eagles to a dealership in Canada to melt them for me there, and he in turn will melt down his Maple Leafs.\nAmongst the Internets lots of tools, you can now determine the scrap worth of your gold product with present-day trading rates. Every seller should be conscious of what gives gold its worth as this will determine how they proceed to offer their product. Whereas a store will take time to see its sales boosts and alter its rates depending on its service policies, the gold and silver market is a network so active that this value can be constantly assessed and reassessed based on trade. And so I am able to offer the Pamp bar for a rate that I acknowledge as fair based on my knowledge of the trading prices and what its scrap value ultimately is.\nAs of the minute I type these words, the scrap value of the American Silver Eagle in my pocket is approximately $31.93 and I know that this is the most affordable rate I need to ever take for it. If sales on that tee-shirt unexpectedly sky-rocket, its worth will go up. Whereas a store will take time to see its sales boosts and alter its prices depending on its business policies, the gold and silver market is a network so active that this worth can be constantly evaluated and reassessed based on trade.\nThe frustrating nature of golds worth might trigger confusion and lead to bad deals being made. Look at it this method: if gold had the same worth everyday, perhaps these sales would be easier, but the entire nature of these purchases would be various.\nIts unusual to think that there are sites out there that “cyber melt” your gold, however its true. Among the Internets lots of tools, you can now calculate the scrap worth of your gold item with ultramodern trading rates. And, like many things on the Internet, this can be a beneficial tool, however we dont advise depending on it.\nLook at it this way: if gold had the very same worth everyday, maybe these sales would be simpler, however the entire nature of these purchases would be different.\nBecause of this volatility, I choose that the very best location to make my sale would be at a bullion dealership. I make this choice based on my familiarity with this particular dealership and the reality I understand he will give me a reasonable cost for my Pamp bar. I make sure to get various assessments regarding its scrap value. The tool I discovered on the Internet is useful, but I certainly dont rely on it. When I check out the dealership, he inspects the bar and shows that he is experienced on this item. He likewise acknowledges that I know a reasonable quantity about the bar as well. Therefore I have the ability to sell the Pamp bar for a cost that I acknowledge as reasonable based upon my understanding of the trading rates and what its scrap value eventually is.\nbulliontrading\nView all posts\nNext Post\nBuying Gold and Silver – to Buy or not to Buy",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-reserves-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-reserves-jpg.webp",
+          "width": "470",
+          "height": "321",
+          "caption": "gold-reserves",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/value-of-gold-2/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/value-of-gold-2/",
+                "name": "Value of Gold"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/value-of-gold-2/#webpage",
+          "url": "https://bulliontradingllc.com/blog/value-of-gold-2/",
+          "name": "Value of Gold - Bullion Trading LLC",
+          "datePublished": "2011-03-03T06:57:51+00:00",
+          "dateModified": "2011-03-03T06:57:51+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-reserves-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/value-of-gold-2/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Value of Gold - Bullion Trading LLC",
+          "datePublished": "2011-03-03T06:57:51+00:00",
+          "dateModified": "2011-03-03T06:57:51+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "This worth will continue to alter depending upon how I choose to make my sale, and whether any additional charges are involved. If I am selling a Pamp bar, it",
+          "name": "Value of Gold - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/value-of-gold-2/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/value-of-gold-2/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2021/04/gold-reserves-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/value-of-gold-2/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/buying-gold-and-silver-to-buy-or-not-to-buy/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/value-of-gold-2/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2021/04/gold-reserves-jpg.webp",
+      "alt": "gold-reserves"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

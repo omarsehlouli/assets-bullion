@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "id": "1e0df89b212977fb",
+    "url": "https://bulliontradingllc.com/blog/these-factors-will-support-silver-prices-in-2018-silver-institute/",
+    "title": "These Factors Will Support Silver Prices In 2018 - Silver Institute - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:11:12.624773+00:00",
+    "status": "fetched",
+    "bytes": 96328,
+    "text_characters": 3204,
+    "sha256_html": "11ea8c1db55b7459c894d2c7d60f915bba3cc531b976d28ddef67934c76f6d23",
+    "file": "sources/1e0df89b212977fb.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "He included that silver need for solar batteries might strike a record after the sector is approximated to have actually consumed 92 million ounces of the",
+  "canonical": "https://bulliontradingllc.com/blog/these-factors-will-support-silver-prices-in-2018-silver-institute/",
+  "text": "He included that silver need for solar batteries might strike a record after the sector is approximated to have actually consumed 92 million ounces of the valuable metal in 2017.\nWe found this exceptional post at http://www.kitco.com/news/2018-01-18/These-Factors-Will-Support-Silver-Prices-In-2018-Silver-Institute.html By: Neils Christensen and thought this was something that our customers would love to check out.\nTaking a look at the need side, DiRienzo said that electrification of the vehicle sector and growing solar power demand are 2 important elements that will increase silvers commercial demand.\nKitco.com reveals that the ratio remains at a raised level, trading around 78 points. March silver futures last traded at $16.99 an ounce, down 1% on the day.\nIn a report launched Thursday, Michael DiRienzo, executive director of the institute said that strong commercial need, fashion jewelry need and restored financier interest will continue to support the marketplace as mine production might decline for the second successive year by 2% in 2018.\nDiRienzos comments come as investors closed the books on what was a disappointing year for silver – worst performer in the precious metals area. Last year, the gold/silver ratio increased to a multi-year high.\nOne of the disappointing sectors in silver in 2015 was physical bullion demand. In 2015, the U.S. Mint saw its worst sales of America Eagle silver coins in 10 years. Since of competitors from equity markets and cryptocurrencies, DiRienzo pointed outthat the silver market suffered last year.\nLooking at the fashion jewelry market, DiRienzo said that the institute is forecasting demand to rise 4% in 2018, up from a 1% boost seen in 2017.\nHe added that the institute expects that financiers will return to the bullion area in 2018. “With equity and bonds in “costly” territory and Bitcoins stratospheric boost taking a breather throughout the beginning of 2018, we anticipate some financial investment to stream back into precious metals.”\nIn the paper market, DiRienzo said that they see need for silver-backed exchange traded products to rise 3% in 2018, contributing to recording holdings of 670 million ounces tape-recorded in 2017.\nHere a good article regarding the elements that will support silver costs this year. If you want to read the original article you can discover the at below.\nOne of the disappointing sectors in silver last year was physical bullion demand. DiRienzo pointed outthat the silver market suffered last year because of competitors from equity markets and cryptocurrencies.\nWhile investors can expect to see volatility in silver prices through 2018, the market has plenty of space to move greater due to growing demand and shrinking supply, according to the Silver Institute.\n” Although silver is used in small quantities in some applications, the variety is big, and the continued increasing volumes of applications are anticipated to again have a favorable effect on silver intake from industrial items this year,” he stated.\nbulliontrading\nView all posts\nPrevious Post\nSilver shaping up to outshine gold in the months ahead\nNext Post\nUS Mint 2018 Pricing Revisions for Gold and Platinum Collector Coins",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/01/silver-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2018/01/silver-jpg.webp",
+          "width": "864",
+          "height": "400",
+          "caption": "silver",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/these-factors-will-support-silver-prices-in-2018-silver-institute/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/silver/",
+                "name": "silver"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/these-factors-will-support-silver-prices-in-2018-silver-institute/",
+                "name": "These Factors Will Support Silver Prices In 2018 &#8211; Silver Institute"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/these-factors-will-support-silver-prices-in-2018-silver-institute/#webpage",
+          "url": "https://bulliontradingllc.com/blog/these-factors-will-support-silver-prices-in-2018-silver-institute/",
+          "name": "These Factors Will Support Silver Prices In 2018 - Silver Institute - Bullion Trading LLC",
+          "datePublished": "2018-01-24T10:41:41+00:00",
+          "dateModified": "2018-01-24T10:41:41+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/01/silver-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/these-factors-will-support-silver-prices-in-2018-silver-institute/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "These Factors Will Support Silver Prices In 2018 - Silver Institute - Bullion Trading LLC",
+          "datePublished": "2018-01-24T10:41:41+00:00",
+          "dateModified": "2018-01-24T10:41:41+00:00",
+          "articleSection": "silver",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "He included that silver need for solar batteries might strike a record after the sector is approximated to have actually consumed 92 million ounces of the",
+          "name": "These Factors Will Support Silver Prices In 2018 - Silver Institute - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/these-factors-will-support-silver-prices-in-2018-silver-institute/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/these-factors-will-support-silver-prices-in-2018-silver-institute/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2018/01/silver-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/these-factors-will-support-silver-prices-in-2018-silver-institute/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/category/silver/",
+    "https://bulliontradingllc.com/blog/silver-shaping-up-to-outshine-gold-in-the-months-ahead/",
+    "https://bulliontradingllc.com/blog/these-factors-will-support-silver-prices-in-2018-silver-institute/",
+    "https://bulliontradingllc.com/blog/us-mint-2018-pricing-revisions-for-gold-and-platinum-collector-coins/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2018/01/silver-jpg.webp",
+      "alt": "silver"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

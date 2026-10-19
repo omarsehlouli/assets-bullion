@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "f3024a00791f1aa6",
+    "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2013/",
+    "title": "Silver Price in 2013 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:20.556562+00:00",
+    "status": "fetched",
+    "bytes": 19500,
+    "text_characters": 1219,
+    "sha256_html": "b1a70f3fa21bf86654deb54ca9da6ae9cd8afb0c583101e46f1db8c397a740ad",
+    "file": "sources/f3024a00791f1aa6.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Silver in 2013: 12 monthly observations, 2013-01-31 to 2013-12-31. Sampled high $32.03, low $18.86; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/silver-price-in-2013/",
+  "text": "Silver Price in 2013\nAmong 12 monthly observations available for 2013, the LBMA silver price fell 39.1% between 2013-01-31 ($32.03) and 2013-12-31 ($19.50). The highest sampled price was $32.03 in January and the lowest was $18.86 in June. The mean of these observations was $23.53. This is a first-to-last observation change, not a calendar-year return.\n2013 silver price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$32.03\n(2013-01-31)\n$32.03\n(January)\n$18.86\n(June)\n$19.50\n(2013-12-31)\n$23.53\nGBP\n£20.29\n(2013-01-31)\n£20.29\n(January)\n£11.80\n(December)\n£11.80\n(2013-12-31)\n£15.07\nEUR\n€23.63\n(2013-01-31)\n€23.63\n(January)\n€14.16\n(December)\n€14.16\n(2013-12-31)\n€17.72\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live silver price on the\nBullion Trading LLC spot dashboard\n, or\nshop silver bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Silver price history",
+              "item": "https://learn.bulliontradingllc.com/charts/silver-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "2013"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Silver price in 2013 — LBMA monthly fix",
+          "description": "Silver in 2013: 12 monthly observations, 2013-01-31 to 2013-12-31. Sampled high $32.03, low $18.86; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2013/",
+          "temporalCoverage": "2013-01-31/2013-12-31",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

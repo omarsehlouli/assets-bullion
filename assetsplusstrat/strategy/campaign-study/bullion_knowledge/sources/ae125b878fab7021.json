@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "id": "ae125b878fab7021",
+    "url": "https://bulliontradingllc.com/blog/bullion-trading-llc-strikes-gold-in-new-york-city-selling-pre-1933-coins/",
+    "title": "Bullion Trading LLC Strikes Gold in New York City Selling Pre-1933 Coins. - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:23.043391+00:00",
+    "status": "fetched",
+    "bytes": 95223,
+    "text_characters": 1987,
+    "sha256_html": "5341de891b8534da3466780583ceaf76dad6084e09df689be3ea98a0166f45b3",
+    "file": "sources/ae125b878fab7021.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Isacc Kahan had this to say, \"In an economy as unsteady as ours, right now, people are interested in the security of their futures and for good reasons. They",
+  "canonical": "https://bulliontradingllc.com/blog/bullion-trading-llc-strikes-gold-in-new-york-city-selling-pre-1933-coins/",
+  "text": "Isacc Kahan had this to say, “In an economy as unsteady as ours, right now, people are interested in the security of their futures and for good reasons. They want to secure their financial investments and gold is the method to go.”.\n” Theres a lot of confusion online relating to the worth of these rare coins. Theres a great deal of talk from dishonest, or mistaken dealers, about the threat of prewar– pre-1933 coins– being taken. What this does is scares the consumer into offering the 1933 gold coins at a rate in which he d have constructed better had he d offered it away. This is a timeless example of fear marketing. Prewar coins arent gold bullion; possibilities of them being confiscated is like winning the lotto, it could take place but possibilities are it wont. In concerns to these particular coins, we are handling something far exceptional to Krugerrands, American Eagles and Canadian Maple Leafs,” states Kahan. “If someone is believed to have prewar coins they must bring it into our office and sit with us as we identify the credibility as shipping to an unknown web dealership for appraisal is just too dangerous.”.\n.\n.\nIn excellent demand and brief supply, Bullion Trading LLC has advanced in New York City having actually currently offered the antique gold coins to various uncommon coin enthusiasts looking for a safe, historical, financial investment.\nConsidered legal currency and with a value far greater than gold bullion, Bullion Trading LLC (BTLLC) has struck gold in New York City as one of couple of physical merchants in belongings of these rare semi-numismatic coins. Officially legal tender in the United States, these rare coins was taken during the Roosevelt Administration when President Roosevelt ordered all citizens to turn in their gold currency in exchange for the fiat currency in blood circulation today.\nbulliontrading\nView all posts\nPrevious Post\nBuying Pure Gold Bars in New York\nNext Post\nInsight Behind Bullion Trading LLC’s Best-Sellers",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/03/Gold-in-New-York-City-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2014/03/Gold-in-New-York-City-jpg.webp",
+          "width": "568",
+          "height": "470",
+          "caption": "Gold-in-New-York-City",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/bullion-trading-llc-strikes-gold-in-new-york-city-selling-pre-1933-coins/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/bullion-trading-llc-strikes-gold-in-new-york-city-selling-pre-1933-coins/",
+                "name": "Bullion Trading LLC Strikes Gold in New York City Selling Pre-1933 Coins."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/bullion-trading-llc-strikes-gold-in-new-york-city-selling-pre-1933-coins/#webpage",
+          "url": "https://bulliontradingllc.com/blog/bullion-trading-llc-strikes-gold-in-new-york-city-selling-pre-1933-coins/",
+          "name": "Bullion Trading LLC Strikes Gold in New York City Selling Pre-1933 Coins. - Bullion Trading LLC",
+          "datePublished": "2014-03-26T21:58:04+00:00",
+          "dateModified": "2014-03-26T21:58:04+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/03/Gold-in-New-York-City-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/bullion-trading-llc-strikes-gold-in-new-york-city-selling-pre-1933-coins/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Bullion Trading LLC Strikes Gold in New York City Selling Pre-1933 Coins. - Bullion Trading LLC",
+          "datePublished": "2014-03-26T21:58:04+00:00",
+          "dateModified": "2014-03-26T21:58:04+00:00",
+          "articleSection": "Gold, gold bullion",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Isacc Kahan had this to say, &quot;In an economy as unsteady as ours, right now, people are interested in the security of their futures and for good reasons. They",
+          "name": "Bullion Trading LLC Strikes Gold in New York City Selling Pre-1933 Coins. - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/bullion-trading-llc-strikes-gold-in-new-york-city-selling-pre-1933-coins/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/bullion-trading-llc-strikes-gold-in-new-york-city-selling-pre-1933-coins/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2014/03/Gold-in-New-York-City-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/bullion-trading-llc-strikes-gold-in-new-york-city-selling-pre-1933-coins/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/bullion-trading-llc-strikes-gold-in-new-york-city-selling-pre-1933-coins/",
+    "https://bulliontradingllc.com/blog/buying-pure-gold-bars-in-new-york/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-bullion/",
+    "https://bulliontradingllc.com/blog/insight-behind-bullion-trading-llcs-best-sellers/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2014/03/Gold-in-New-York-City-jpg.webp",
+      "alt": "Gold-in-New-York-City"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "id": "fa7c237d597ad4ad",
+    "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2005/",
+    "title": "Palladium Price in 2005 — Monthly LBMA Fix, Highs & Lows",
+    "retrieved_at": "2026-10-12T22:13:05.230187+00:00",
+    "status": "fetched",
+    "bytes": 19563,
+    "text_characters": 1208,
+    "sha256_html": "453a99d8dae9b55ca6b1ff3a4f58c2cf266b2408744e57c999b19e7a2081cd86",
+    "file": "sources/fa7c237d597ad4ad.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Palladium in 2005: 12 monthly observations, 2005-01-31 to 2005-12-29. Sampled high $258, low $182; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2005/",
+  "text": "Palladium Price in 2005\nAmong 12 monthly observations available for 2005, the LBMA palladium price rose 36.5% between 2005-01-31 ($189) and 2005-12-29 ($258). The highest sampled price was $258 in November and the lowest was $182 in February. The mean of these observations was $204. This is a first-to-last observation change, not a calendar-year return.\n2005 palladium price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$189\n(2005-01-31)\n$258\n(November)\n$182\n(February)\n$258\n(2005-12-29)\n$204\nGBP\n£100\n(2005-01-31)\n£150\n(December)\n£94.65\n(February)\n£150\n(2005-12-29)\n£113\nEUR\n€145\n(2005-01-31)\n€219\n(November)\n€137\n(February)\n€218\n(2005-12-29)\n€165\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live palladium price on the\nBullion Trading LLC spot dashboard\n, or\nshop palladium bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Palladium price history",
+              "item": "https://learn.bulliontradingllc.com/charts/palladium-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "2005"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Palladium price in 2005 — LBMA monthly fix",
+          "description": "Palladium in 2005: 12 monthly observations, 2005-01-31 to 2005-12-29. Sampled high $258, low $182; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/palladium-price-in-2005/",
+          "temporalCoverage": "2005-01-31/2005-12-29",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/platinum-and-palladium/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

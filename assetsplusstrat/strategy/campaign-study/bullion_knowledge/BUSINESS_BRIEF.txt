@@ -1,0 +1,64 @@
+BULLION TRADING LLC — CAMPAIGN KNOWLEDGE BRIEF
+Research date: 12 October 2026. Source snapshots are dated in source_index.json.
+
+BUSINESS AND PURCHASE PATH
+The public site presents Bullion Trading LLC as a physical precious-metals dealer serving customers since 2008, with a Diamond District counter and U.S. online sales. It sells gold and silver bars, coins and rounds, plus platinum, palladium, casting grain and gift products. The campaign opportunity is the combination of recognizable products, current product pricing, educational material and a reachable local business.
+Sources: https://bulliontradingllc.com/ ; https://bulliontradingllc.com/about-us/ ; https://bulliontradingllc.com/contact-us/
+
+The address is 20 West 47th Street, Lower Level #24, New York, NY 10036. Public telephone: +1 646-362-3536. The location page lists Monday–Thursday 8:30 a.m.–4 p.m. and Friday 8:30 a.m.–1 p.m. Confirm current hours before a visit. The local ad should make it easy to move from product browsing to a conversation, directions and a purchase.
+Source: https://bulliontradingllc.com/location/
+
+CATALOG MAP
+Gold: gram bars and fractional/one-ounce/larger bars; government coins; brands including PAMP, Valcambi, Perth Mint, Royal Canadian Mint and others. The gram-bar category includes 1 g, 2.5 g, 5 g, 10 g and larger products. This supports a first-purchase concept without inventing a fixed entry price.
+Sources: https://bulliontradingllc.com/gold/ ; https://bulliontradingllc.com/gold/bars/gram-gold-bars/ ; https://bulliontradingllc.com/gold/bars/1-oz-gold-bars/
+
+Silver: American Silver Eagles, Maple Leafs, private-mint rounds including Buffalo designs, and bars in several weights. The silver category is a useful broad destination, while individual coin/round queries can be split into product-specific ad groups later. The full source archive preserves each listed product page and its structured data where published.
+Source: https://bulliontradingllc.com/silver/
+
+Reference products used in the creative concepts:
+• 1 oz PAMP Lady Fortuna gold bar in assay. The page identifies one troy ounce and .9999 fine gold, with Veriscan/assay context.
+• 5 g PAMP Lady Fortuna gold bar in assay: the gifting hero.
+• 5 g Valcambi gold bar in assay: the smaller gold option in the first-piece visual.
+• American Silver Eagle, random-year BU: the silver option. A random-year product does not guarantee a particular date or design year.
+Sources: https://bulliontradingllc.com/product/1-oz-pamp-suisse-gold-bar-lady-fortuna-in-assay/ ; https://bulliontradingllc.com/product/5-gram-pamp-suisse-gold-bar-lady-fortunain-assay/ ; https://bulliontradingllc.com/product/5-gram-valcambi-gold-bar-in-assay/ ; https://bulliontradingllc.com/product/1-oz-american-silver-eagle-coin-random-year-bu/
+
+PRICING AND PURCHASE FRICTION
+The site distinguishes current metal prices from finished-product prices and publishes quantity/payment tables. Premiums are not a single permanent percentage. Compare the same product, condition, weight, quantity and payment method at the same time. Shipping and applicable taxes can affect the total. Campaign2 turns this into a concrete purchase task: compare 1 oz bars and current payment options.
+Source: https://learn.bulliontradingllc.com/guides/questions/03-what-is-spot-price-vs-premium/
+
+Recorded prices, chart values, inventory counts, example premium ranges and buyback amounts in the archive are historical observations, not current offers. A price shown in page headers can have a different update time from a product table. None is hard-coded into the five ads. The campaign set makes no market forecast, inflation-protection guarantee, return promise or lowest-price claim.
+
+FULFILLMENT AND LOCAL PICKUP
+Published terms describe U.S.-only shipping, payment verification and clearance requirements. They prohibit in-store collection for card and PayPal purchases. The terms describe insurance conditions and possible payment holds. Product-page shipping badges and the owner’s pickup transcript simplify timing differently. Campaign5 therefore asks buyers to contact the team and arrange eligible pickup, with clearance and payment conditions visible.
+Source: https://bulliontradingllc.com/terms-and-conditions/ ; local transcript faq-pickup.srt
+
+The terms also contain competing cancellation, return and payment-time statements. These need business clarification before creating any ad about easy returns, exact cancellation costs or guaranteed clearance times. The current five ads avoid those promises.
+
+AUTHENTICITY AND TRUST
+The site’s authentication guide says several checks are needed and acknowledges limits of single tests. The owner’s video describes in-office testing and inspection before shipping. Those operational statements are valuable source material, but should be confirmed before promising a specific test, device, certificate or test record to every customer. The current local trust concept uses the documented location and available conversation instead.
+Source: https://learn.bulliontradingllc.com/guides/questions/24-how-to-tell-if-gold-or-silver-is-real/ ; local transcript faq-real-gold.srt
+
+Dealer-selection content highlights transparent pricing, physical contact details, product recognition and questions about shipping and buyback. Those themes support first-purchase confidence. They do not establish independent verification of every company claim, review score, industry membership or advertised sales total.
+Source: https://learn.bulliontradingllc.com/guides/questions/11-how-to-choose-reputable-precious-metals-dealer/
+
+GIFTING AND EDUCATION
+The traditions hub covers anniversaries, wedding coins, 21st birthdays, Lunar New Year, Dhanteras and Pidyon HaBen. These are useful editorial themes. Campaign3 uses an evergreen milestone so it can be judged without relying on a specific holiday date or an inferred religious identity. The gift box in the generated visual is styling only.
+Sources: https://bulliontradingllc.com/traditions/ ; https://bulliontradingllc.com/gifts/
+
+The learning center includes guides, questions, quizzes, price-history charts, product/metal comparisons, security topics and calculators. Educational destinations are useful secondary links. For this brief, primary ad links go to purchase-relevant categories or a matching product, so the user is not left in a long article when ready to shop.
+Sources: https://learn.bulliontradingllc.com/guides/ ; https://learn.bulliontradingllc.com/tools/
+
+BUYBACK CONTEXT
+The sell-to-us page publishes a quote/price-lock flow, shipping instructions and inspection before payment. It can help explain the existence of a resale path, but it does not guarantee that a purchase can be resold at the original price or without a spread. These five campaigns pursue purchases, so seller-intent search terms are negatives.
+Source: https://bulliontradingllc.com/sell-to-us/
+
+TRANSCRIPT THEMES AND HOW THEY BECAME CAMPAIGNS
+campaign1: first-piece + faq-bar-or-eagle → compare approachable products and formats.
+campaign2: spot-to-store + faq-premium + icons-of-gold → compare the full product price and recognized bars.
+campaign3: meaningful-gift + traditions → a tangible milestone gift.
+campaign4: new-york + faq-real-gold + real-or-fake → a real local dealer and a conversation about the product.
+campaign5: faq-pickup + new-york → browse online, confirm payment and arrange local collection.
+The remaining transcripts are retained for future use. makers-edge is a separate B2B proposition; sell-to-us and faq-sell-in-person pursue seller inquiries; bullion-tax needs current jurisdiction-specific validation. They are not additional test campaigns.
+
+RESEARCH LIMITS
+This collection covers every allowed public page discovered in the two retrieved sitemap indexes. It does not include private sales, customer records, analytics, live auction results, unavailable pages outside those indexes or a customer survey. Website content and scripts can contain errors. Buyer segments and campaign hypotheses are research assumptions, not observed customers. Search terms are suggested intent clusters; no search-volume, CPC or live advertising data has been retrieved.

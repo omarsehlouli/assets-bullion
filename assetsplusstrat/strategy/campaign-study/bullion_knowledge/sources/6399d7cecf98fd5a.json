@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "id": "6399d7cecf98fd5a",
+    "url": "https://bulliontradingllc.com/blog/gold-pinned-near-6-year-top-as-investors-boost-safe-haven-bids/",
+    "title": "Gold pinned near 6-year top as investors boost safe-haven bids - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:41.358868+00:00",
+    "status": "fetched",
+    "bytes": 96509,
+    "text_characters": 3025,
+    "sha256_html": "cec0e10f2b303f44ddd94159304de79991f7dc2b40c14c32908a26167a533158",
+    "file": "sources/6399d7cecf98fd5a.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Spot gold jumped 0.6% to $1,408.23 an ounce, heading for a fifth straight session of gains. Gold costs hit $1,410.78 on Friday, their greatest considering",
+  "canonical": "https://bulliontradingllc.com/blog/gold-pinned-near-6-year-top-as-investors-boost-safe-haven-bids/",
+  "text": "Spot gold jumped 0.6% to $1,408.23 an ounce, heading for a fifth straight session of gains. Gold costs hit $1,410.78 on Friday, their greatest considering that early September, 2013.\nGold rates have risen almost 8% so far this month, and more than $70 just over the previous week.\nHoldings of the worlds largest gold-backed ETF, SPDR Gold Trust, jumped 4.6% on Friday from a day earlier, its greatest one-day portion gain given that September 2008.\nHere is a short article about Gold pinned near 6-year top. , if you want to check out the initial article you can find the link at the bottom of this article.\nThe U.S. Federal Reserve and the European Central Bank last week hinted that they were open to reducing policy to counter a worldwide economic slowdown, intensified by worldwide trade stress.\nHelping golds appeal, the dollar dipped, having actually faced its biggest weekly drop considering that mid-February on bets the U.S. central bank would start lowering interest rates as early as next month.\nU.S. President Donald Trump said on Sunday he was not looking for war with Tehran, however stress remain high in between the long time foes, with Washington due to announce “significant” sanctions on Iran on Monday.\n.\n” The China-U.S. trade dispute is not getting anywhere. In addition, the Iranian conflict is likewise beginning to heat-up … That is why people are looking for gold as safe sanctuary,” stated an analyst based in New York.\nGold got on Monday as the dollar sagged, with bullion rates hemmed near a six-year high scaled in the previous session as stress between the United States and Iran fuelled safe-haven buying.\nLingering geo-political uncertainties in the Persian Gulf are likewise offering support to gold costs, Meir included.\n” Its the strong benefit momentum from last week along with higher ETF buying and a weaker dollar improving gold prices today,” INTL FCStone expert Edward Meir said.\nThe markets focus now moves to whether Washington and Beijing can resolve their trade conflict at a summit in Japan today of leaders from the Group of 20 leading world economies.\n” The climb in gold rates have actually woken people up. Breaking over $1,400 was a considerable psychological element. Now that gold has broken the 1,400 level, it is expected to go up.”\nPalladium climbed 1.6% to $1,523.28 an ounce.\nU.S. gold futures increased 0.8% to $1,411.80 an ounce.\nSpeculators likewise enhanced their bullish position in COMEX gold in the week to June 18 and changed to a net long in silver futures and options, the U.S. Commodity Futures Trading Commission stated on Friday.\nSilver edged 0.1% greater to $15.37 per ounce and platinum was up 0.5% at $809.71.\nWe discovered this short article at https://www.cnbc.com/2019/06/24/gold-market-us-dollar-moves-middle-east-tensions-in-focus.html and thought it would something helpful to our fans.\nbulliontrading\nView all posts\nPrevious Post\nWatch The Gold/Silver Ratio As The Gold Price Rallies\nNext Post\n3 Things You Should Know Before Buying Gold Coins",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/06/Gold-pinned-near-6-year-top-jpg.webp",
+          "url": "https://bulliontradingllc.com/wp-content/uploads/2019/06/Gold-pinned-near-6-year-top-jpg.webp",
+          "width": "740",
+          "height": "487",
+          "caption": "Gold-pinned-near-6-year-top",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/gold-pinned-near-6-year-top-as-investors-boost-safe-haven-bids/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/gold-pinned-near-6-year-top-as-investors-boost-safe-haven-bids/",
+                "name": "Gold pinned near 6-year top as investors boost safe-haven bids"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/gold-pinned-near-6-year-top-as-investors-boost-safe-haven-bids/#webpage",
+          "url": "https://bulliontradingllc.com/blog/gold-pinned-near-6-year-top-as-investors-boost-safe-haven-bids/",
+          "name": "Gold pinned near 6-year top as investors boost safe-haven bids - Bullion Trading LLC",
+          "datePublished": "2019-06-24T12:18:18+00:00",
+          "dateModified": "2019-06-24T12:18:18+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/06/Gold-pinned-near-6-year-top-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/gold-pinned-near-6-year-top-as-investors-boost-safe-haven-bids/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Gold pinned near 6-year top as investors boost safe-haven bids - Bullion Trading LLC",
+          "datePublished": "2019-06-24T12:18:18+00:00",
+          "dateModified": "2019-06-24T12:18:18+00:00",
+          "articleSection": "Gold, Gold Market &amp; Economics",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Spot gold jumped 0.6% to $1,408.23 an ounce, heading for a fifth straight session of gains. Gold costs hit $1,410.78 on Friday, their greatest considering",
+          "name": "Gold pinned near 6-year top as investors boost safe-haven bids - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/gold-pinned-near-6-year-top-as-investors-boost-safe-haven-bids/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/gold-pinned-near-6-year-top-as-investors-boost-safe-haven-bids/#webpage"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/wp-content/uploads/2019/06/Gold-pinned-near-6-year-top-jpg.webp"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/gold-pinned-near-6-year-top-as-investors-boost-safe-haven-bids/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/3-things-you-should-know-before-buying-gold-coins/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/category/gold-market-economics/",
+    "https://bulliontradingllc.com/blog/gold-pinned-near-6-year-top-as-investors-boost-safe-haven-bids/",
+    "https://bulliontradingllc.com/blog/watch-the-gold-silver-ratio-as-the-gold-price-rallies/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "/wp-content/uploads/2019/06/Gold-pinned-near-6-year-top-jpg.webp",
+      "alt": "Gold-pinned-near-6-year-top"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

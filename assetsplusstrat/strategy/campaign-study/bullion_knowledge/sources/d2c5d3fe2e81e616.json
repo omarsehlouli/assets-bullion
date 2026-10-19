@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "id": "d2c5d3fe2e81e616",
+    "url": "https://learn.bulliontradingllc.com/charts/gold-price-in-1981/",
+    "title": "Gold Price in 1981 — Monthly LBMA Fix, Highs & Lows | BTLLC",
+    "retrieved_at": "2026-10-12T22:12:55.930301+00:00",
+    "status": "fetched",
+    "bytes": 18887,
+    "text_characters": 1099,
+    "sha256_html": "eba0392b16938a55810101454fde8d0981ed26fcb314b16a9de951ecb9c0f2d4",
+    "file": "sources/d2c5d3fe2e81e616.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Gold in 1981: 12 monthly observations, 1981-01-30 to 1981-12-30. Sampled high $514, low $398; USD/GBP/EUR chart and table.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/gold-price-in-1981/",
+  "text": "Gold Price in 1981\nAmong 12 monthly observations available for 1981, the LBMA gold price fell 21.5% between 1981-01-30 ($507) and 1981-12-30 ($398). The highest sampled price was $514 in March and the lowest was $398 in December. The mean of these observations was $450. This is a first-to-last observation change, not a calendar-year return.\n1981 gold price summary\nCurrency\nFirst observation\nSample high\nSample low\nLast observation\nSample mean\nUSD\n$507\n(1981-01-30)\n$514\n(March)\n$398\n(December)\n$398\n(1981-12-30)\n$450\nGBP\n£213\n(1981-01-30)\n£237\n(September)\n£209\n(December)\n£209\n(1981-12-30)\n£223\nOne last available LBMA fixing per month, per troy ounce. The latest month/year may be incomplete; these are not daily extrema or an annual daily average. EUR begins 1999.\nSee today's live gold price on the\nBullion Trading LLC spot dashboard\n, or\nshop gold bullion\nat live, spot-based prices.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gold price history",
+              "item": "https://learn.bulliontradingllc.com/charts/gold-price-history/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1981"
+            }
+          ]
+        },
+        {
+          "@type": "Dataset",
+          "name": "Gold price in 1981 — LBMA monthly fix",
+          "description": "Gold in 1981: 12 monthly observations, 1981-01-30 to 1981-12-30. Sampled high $514, low $398; USD/GBP/EUR chart and table.",
+          "url": "https://learn.bulliontradingllc.com/charts/gold-price-in-1981/",
+          "temporalCoverage": "1981-01-30/1981-12-30",
+          "creator": {
+            "@type": "Organization",
+            "@id": "https://bulliontradingllc.com/#organization",
+            "name": "Bullion Trading LLC"
+          },
+          "isBasedOn": "https://www.lbma.org.uk/prices-and-data/precious-metal-prices",
+          "measurementTechnique": "Last available daily fixing per month; current month provisional. Monthly-sample statistics, per troy ounce.",
+          "isAccessibleForFree": true
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

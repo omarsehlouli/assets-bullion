@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "id": "09e1d14b053a7f8e",
+    "url": "https://learn.bulliontradingllc.com/guides/understanding-gold-silver/",
+    "title": "Understanding Gold & Silver | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:38.553951+00:00",
+    "status": "fetched",
+    "bytes": 19608,
+    "text_characters": 2753,
+    "sha256_html": "f80d611ca1b547c8657a9851efd1fe9d03f782d585174e334cd3743457ffda0e",
+    "file": "sources/09e1d14b053a7f8e.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The foundational vocabulary: how to compare gold vs silver, what bullion forms exist, and what purity numbers actually mean.",
+  "canonical": "https://learn.bulliontradingllc.com/guides/understanding-gold-silver/",
+  "text": "beginner\nUpdated June 1, 2026\nBy the\nBullion Trading LLC editorial team\nUnderstanding Gold & Silver\nThe foundational vocabulary: how to compare gold vs silver, what bullion forms exist, and what purity numbers actually mean.\nMost first-time buyers walk into precious metals with two questions and a vague unease: should I buy gold or silver, and what am I actually supposed to buy once I pick one? The answers matter because the wrong product at the wrong premium can quietly cost you years of returns, and because gold and silver behave like genuinely different assets despite sharing a shelf at the dealer.\nThis path builds the vocabulary you need before you put real money down. By the end you will be able to compare gold and silver on the dimensions that actually drive decisions, recognize the major bullion formats sold in North America, and read a purity stamp without guessing. That foundation is what separates a deliberate buyer from one who pays retail markup on the first shiny thing a sales rep recommends.\n📊\nWhat you'll learn\nHow gold and silver differ as investments across volatility, liquidity, storage, and industrial demand\nThe main categories of gold bullion products and when each format makes sense\nThe main categories of silver bullion products and the premium tradeoffs between them\nWhat purity numbers like .999, .9999, and 22k actually mean and why they matter for resale\nWhat’s in this path\nGold vs. Silver as an Investment\n— Side-by-side comparison of the two metals across the factors that affect a buy decision.\nTypes of Gold Bullion Products\n— Coins, bars, and rounds explained with the tradeoffs between each.\nTypes of Silver Bullion Products\n— The silver-specific formats and why premium math works differently than gold.\nUnderstanding Precious Metal Purity\n— How fineness is measured, what the common standards mean, and how purity affects price and resale.\nGold vs. Silver as an Investment\nA side-by-side comparison of gold and silver covering volatility, market size, the gold-silver ratio, storage, taxes, and allocation strategies.\nTypes of Gold Bullion Products\nA practical guide to gold bars, sovereign coins, rounds, and fractional products, with notes on premiums, liquidity, and portfolio fit.\nTypes of Silver Bullion Products\nA guide to the main silver bullion formats — bars, government coins, 90% junk silver, rounds, and specialty pieces — and how to choose between them.\nUnderstanding Precious Metal Purity\nHow karat and fineness standards determine the value, liquidity, and authenticity of gold and silver investments worldwide.\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Guides",
+              "item": "https://learn.bulliontradingllc.com/guides/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Understanding Gold & Silver"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Understanding Gold & Silver",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "url": "https://learn.bulliontradingllc.com/guides/understanding-gold-silver/01-gold-vs-silver/",
+              "name": "Gold vs. Silver as an Investment"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "url": "https://learn.bulliontradingllc.com/guides/understanding-gold-silver/02-types-of-gold-bullion/",
+              "name": "Types of Gold Bullion Products"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "url": "https://learn.bulliontradingllc.com/guides/understanding-gold-silver/03-types-of-silver-bullion/",
+              "name": "Types of Silver Bullion Products"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "url": "https://learn.bulliontradingllc.com/guides/understanding-gold-silver/04-metal-purity/",
+              "name": "Understanding Precious Metal Purity"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

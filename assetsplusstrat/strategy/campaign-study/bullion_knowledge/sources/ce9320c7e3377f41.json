@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "id": "ce9320c7e3377f41",
+    "url": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/01-why-physical-gold/03-portfolio-role/",
+    "title": "Portfolio Role: Why Advisors Recommend 5–25% | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:30.183660+00:00",
+    "status": "fetched",
+    "bytes": 29682,
+    "text_characters": 2864,
+    "sha256_html": "b3ca69bc5c39920914a68e19fa55a680a073b5aaf8c55bedc27c9684970af999",
+    "file": "sources/ce9320c7e3377f41.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "The case for holding any gold at all, and a quick calculator to see what different allocations do to your numbers.",
+  "canonical": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/01-why-physical-gold/03-portfolio-role/",
+  "text": "beginner\nBy the\nBullion Trading LLC editorial team\nPortfolio Role: Why Advisors Recommend 5–25%\nThe case for holding any gold at all, and a quick calculator to see what different allocations do to your numbers.\nThe recommendations you’ll see across the major precious-metals advisors cluster into three bands. Knowing\nwhich band you’re in\nmatters more than getting the percentage exact.\nThe three allocation tiers\nWhat's typical at each allocation tier\nFactor\nConservative (5–10%)\nBalanced (10–20%)\nProtection-focused (20–30%)\nTypical profile\nYounger, equities-heavy\nMid-career, broad diversification\nNear-retirement, capital preservation\nGoal\nLight insurance\nMeaningful hedge\nMaximum defense\nTrade-off\nMay feel inadequate in major crisis\nMost balanced choice\nDrag on bull-market returns\nWhen it shines\nMild downturns\n2008-style multi-year crisis\nMulti-decade purchasing-power preservation\nNotice that\n“0% is also a position”\nisn’t listed above as a column. That’s intentional. Holding zero gold is taking the bet that none of the systems backing your other assets will fail badly enough in your lifetime. That’s a defensible bet — it just isn’t the default many people think it is.\nTry the numbers\nUse the calculator below to see what different starting amounts look like over a typical 10-year hold. Adjust the allocation, the expected growth, and the entry premium — the three variables that actually determine outcomes.\nMetal\nGold\nSilver\nPlatinum\nPalladium\nInitial purchase ($)\nHold period (years)\nPremium over spot (%)\nExpected annual growth (%)\nYou buy\n2.2\noz @\n$4,537\nall-in\nAfter\n10\nyears (projected)\n$20,561\nProjected gain\n$10,561\n(\n+\n105.6\n%)\nEducational projection only. Real returns depend on premium at purchase, spread at sale, storage cost, and actual price movement — none of which are guaranteed.\nTwo practical rules of thumb\n1. Anchor to your existing portfolio size, not your income.\nA 15% allocation means 15% of investable net worth, not 15% of your paycheck. If you have $200,000 in retirement accounts, that’s $30,000 in physical metal. If you have $20,000, it’s $3,000.\n2. Build the position over months, not days.\nEven at a 15% target, you don’t have to put it all in on day one. Most first-time buyers spread their purchase across 6–12 months. That reduces the impact of buying at a single bad price.\n→\nUp next: How much to buy\nYou now have the “why” sorted. The next topic walks through sizing your specific allocation — including the foundation-first checklist that prevents the most common mistake (buying gold before you’ve built an emergency fund).\nTest your understanding\nQuick check: Why physical gold?\n5 questions →\nWhy Buy Physical Gold Quiz\n8 questions →\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Guides",
+              "item": "https://learn.bulliontradingllc.com/guides/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "New to Precious Metals",
+              "item": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Why Buy Physical Gold?",
+              "item": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/01-why-physical-gold/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Portfolio Role: Why Advisors Recommend 5–25%"
+            }
+          ]
+        },
+        {
+          "@type": "Article",
+          "headline": "Portfolio Role: Why Advisors Recommend 5–25%",
+          "description": "The case for holding any gold at all, and a quick calculator to see what different allocations do to your numbers.",
+          "url": "https://learn.bulliontradingllc.com/guides/new-to-precious-metals/01-why-physical-gold/03-portfolio-role/",
+          "author": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

@@ -1,0 +1,444 @@
+{
+  "metadata": {
+    "id": "bada0fc15e2bd6c3",
+    "url": "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "title": "Silver Price History — LBMA Silver Fix Since 1968 | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:14.566428+00:00",
+    "status": "fetched",
+    "bytes": 34303,
+    "text_characters": 1276,
+    "sha256_html": "247959c13fe297905b1b87a300e5a23fca2460fd78b1e7ed3eb55f56fa815100",
+    "file": "sources/bada0fc15e2bd6c3.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Monthly silver price observations from 1968 through 2026-09-25, in USD, GBP and EUR. Explore sampled highs, lows and year-by-year tables.",
+  "canonical": "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+  "text": "Silver Price History\nThe LBMA London fix for silver, from 1968 through 2026-09-25, in USD, GBP and EUR. Explore the full history below, or jump to any year.\nGold\nSilver\nPlatinum\nPalladium\nUSD\nGBP\nEUR\nAll (1968→)\n30Y\n20Y\n10Y\n5Y\nLatest (2026-09-25)\n$65.02\nHighest monthly sample\n$103\nJan 2026\nSample high\n$103\nJan 2026\nSample low\n$1.31\nOct 1971\nSource: LBMA fixing (PM where applicable), per troy ounce. Last available fixing per month; latest month may be incomplete. EUR begins 1999. See the methodology for sampling limits.\nExplore the highest monthly observations →\nSilver price by decade\n2020s\n2010s\n2000s\n1990s\n1980s\n1970s\n1960s\nSilver price by year\n2026\n2025\n2024\n2023\n2022\n2021\n2020\n2019\n2018\n2017\n2016\n2015\n2014\n2013\n2012\n2011\n2010\n2009\n2008\n2007\n2006\n2005\n2004\n2003\n2002\n2001\n2000\n1999\n1998\n1997\n1996\n1995\n1994\n1993\n1992\n1991\n1990\n1989\n1988\n1987\n1986\n1985\n1984\n1983\n1982\n1981\n1980\n1979\n1978\n1977\n1976\n1975\n1974\n1973\n1972\n1971\n1970\n1969\n1968\nReady to act on the price? See live silver quotes on the\nspot dashboard\nor\nshop silver bullion\nat Bullion Trading LLC.\nData retrieved 2026-09-26. Latest observation for this metal: 2026-09-25. The current month is provisional.\nSources, sampling and calculation methodology\n.\nPrepared by the\nBullion Trading LLC editorial team\n.",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Charts",
+              "item": "https://learn.bulliontradingllc.com/charts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Silver price history"
+            }
+          ]
+        },
+        {
+          "@type": "ItemList",
+          "name": "Silver price by year",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 59,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1968/",
+              "name": "Silver price in 1968"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1969/",
+              "name": "Silver price in 1969"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1970/",
+              "name": "Silver price in 1970"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1971/",
+              "name": "Silver price in 1971"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1972/",
+              "name": "Silver price in 1972"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1973/",
+              "name": "Silver price in 1973"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1974/",
+              "name": "Silver price in 1974"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1975/",
+              "name": "Silver price in 1975"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1976/",
+              "name": "Silver price in 1976"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1977/",
+              "name": "Silver price in 1977"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1978/",
+              "name": "Silver price in 1978"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1979/",
+              "name": "Silver price in 1979"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1980/",
+              "name": "Silver price in 1980"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1981/",
+              "name": "Silver price in 1981"
+            },
+            {
+              "@type": "ListItem",
+              "position": 15,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1982/",
+              "name": "Silver price in 1982"
+            },
+            {
+              "@type": "ListItem",
+              "position": 16,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1983/",
+              "name": "Silver price in 1983"
+            },
+            {
+              "@type": "ListItem",
+              "position": 17,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1984/",
+              "name": "Silver price in 1984"
+            },
+            {
+              "@type": "ListItem",
+              "position": 18,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1985/",
+              "name": "Silver price in 1985"
+            },
+            {
+              "@type": "ListItem",
+              "position": 19,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1986/",
+              "name": "Silver price in 1986"
+            },
+            {
+              "@type": "ListItem",
+              "position": 20,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1987/",
+              "name": "Silver price in 1987"
+            },
+            {
+              "@type": "ListItem",
+              "position": 21,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1988/",
+              "name": "Silver price in 1988"
+            },
+            {
+              "@type": "ListItem",
+              "position": 22,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1989/",
+              "name": "Silver price in 1989"
+            },
+            {
+              "@type": "ListItem",
+              "position": 23,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1990/",
+              "name": "Silver price in 1990"
+            },
+            {
+              "@type": "ListItem",
+              "position": 24,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1991/",
+              "name": "Silver price in 1991"
+            },
+            {
+              "@type": "ListItem",
+              "position": 25,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1992/",
+              "name": "Silver price in 1992"
+            },
+            {
+              "@type": "ListItem",
+              "position": 26,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1993/",
+              "name": "Silver price in 1993"
+            },
+            {
+              "@type": "ListItem",
+              "position": 27,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1994/",
+              "name": "Silver price in 1994"
+            },
+            {
+              "@type": "ListItem",
+              "position": 28,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1995/",
+              "name": "Silver price in 1995"
+            },
+            {
+              "@type": "ListItem",
+              "position": 29,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1996/",
+              "name": "Silver price in 1996"
+            },
+            {
+              "@type": "ListItem",
+              "position": 30,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1997/",
+              "name": "Silver price in 1997"
+            },
+            {
+              "@type": "ListItem",
+              "position": 31,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1998/",
+              "name": "Silver price in 1998"
+            },
+            {
+              "@type": "ListItem",
+              "position": 32,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-1999/",
+              "name": "Silver price in 1999"
+            },
+            {
+              "@type": "ListItem",
+              "position": 33,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2000/",
+              "name": "Silver price in 2000"
+            },
+            {
+              "@type": "ListItem",
+              "position": 34,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2001/",
+              "name": "Silver price in 2001"
+            },
+            {
+              "@type": "ListItem",
+              "position": 35,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2002/",
+              "name": "Silver price in 2002"
+            },
+            {
+              "@type": "ListItem",
+              "position": 36,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2003/",
+              "name": "Silver price in 2003"
+            },
+            {
+              "@type": "ListItem",
+              "position": 37,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2004/",
+              "name": "Silver price in 2004"
+            },
+            {
+              "@type": "ListItem",
+              "position": 38,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2005/",
+              "name": "Silver price in 2005"
+            },
+            {
+              "@type": "ListItem",
+              "position": 39,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2006/",
+              "name": "Silver price in 2006"
+            },
+            {
+              "@type": "ListItem",
+              "position": 40,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2007/",
+              "name": "Silver price in 2007"
+            },
+            {
+              "@type": "ListItem",
+              "position": 41,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2008/",
+              "name": "Silver price in 2008"
+            },
+            {
+              "@type": "ListItem",
+              "position": 42,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2009/",
+              "name": "Silver price in 2009"
+            },
+            {
+              "@type": "ListItem",
+              "position": 43,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2010/",
+              "name": "Silver price in 2010"
+            },
+            {
+              "@type": "ListItem",
+              "position": 44,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2011/",
+              "name": "Silver price in 2011"
+            },
+            {
+              "@type": "ListItem",
+              "position": 45,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2012/",
+              "name": "Silver price in 2012"
+            },
+            {
+              "@type": "ListItem",
+              "position": 46,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2013/",
+              "name": "Silver price in 2013"
+            },
+            {
+              "@type": "ListItem",
+              "position": 47,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2014/",
+              "name": "Silver price in 2014"
+            },
+            {
+              "@type": "ListItem",
+              "position": 48,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2015/",
+              "name": "Silver price in 2015"
+            },
+            {
+              "@type": "ListItem",
+              "position": 49,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2016/",
+              "name": "Silver price in 2016"
+            },
+            {
+              "@type": "ListItem",
+              "position": 50,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2017/",
+              "name": "Silver price in 2017"
+            },
+            {
+              "@type": "ListItem",
+              "position": 51,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2018/",
+              "name": "Silver price in 2018"
+            },
+            {
+              "@type": "ListItem",
+              "position": 52,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2019/",
+              "name": "Silver price in 2019"
+            },
+            {
+              "@type": "ListItem",
+              "position": 53,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2020/",
+              "name": "Silver price in 2020"
+            },
+            {
+              "@type": "ListItem",
+              "position": 54,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2021/",
+              "name": "Silver price in 2021"
+            },
+            {
+              "@type": "ListItem",
+              "position": 55,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2022/",
+              "name": "Silver price in 2022"
+            },
+            {
+              "@type": "ListItem",
+              "position": 56,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2023/",
+              "name": "Silver price in 2023"
+            },
+            {
+              "@type": "ListItem",
+              "position": 57,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2024/",
+              "name": "Silver price in 2024"
+            },
+            {
+              "@type": "ListItem",
+              "position": 58,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2025/",
+              "name": "Silver price in 2025"
+            },
+            {
+              "@type": "ListItem",
+              "position": 59,
+              "url": "https://learn.bulliontradingllc.com/charts/silver-price-in-2026/",
+              "name": "Silver price in 2026"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/about-us/#editorial",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/charts/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "id": "a4091430d915d013",
+    "url": "https://bulliontradingllc.com/blog/iran-shines-a-new-light-on-trade/",
+    "title": "Iran Shines a New Light on Trade - Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:10:56.459791+00:00",
+    "status": "fetched",
+    "bytes": 93806,
+    "text_characters": 2921,
+    "sha256_html": "672306bf5843bedf1a4cbd5d625e5a3cefa3ed460aeac669fcfa709f5ffaaa41",
+    "file": "sources/a4091430d915d013.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Irans use of gold in its global trade might be a major step towards legitimizing gold as the \"new money\" and lead an example that the remainder of the world",
+  "canonical": "https://bulliontradingllc.com/blog/iran-shines-a-new-light-on-trade/",
+  "text": "Irans use of gold in its global trade might be a major step towards legitimizing gold as the “new money” and lead an example that the remainder of the world will slowly follow as soon as certain economies start to recuperate quicker than others. Possibly Iran is on to something that our Federal Reserve has not yet seen due to the fact that it is too captured up in “tradition.”.\nCentral Bank guv Mahamoud Bahmani has actually understood that accepting gold bullion in location of these funds is a reliable method of cutting out this middle-man process and making sure the deals continue even quicker.\nIrans rely on gold has been partially prompted by sanctions positioned on them by the United States government and the European Union. How paradoxical that, while the Euro and U.S. dollar are going and inflating through crises, Iran succeeds under its usage of gold. It when seemed that buying gold was the only method to “preserve ones wealth.” Today it seems that gold is the only wealth there is, and exchanging it for cash is a major liability. Think about the truth that a single dollar expense is no various than a hundred dollar costs; both are made of the same paper, designed with the same ink, and weigh exactly the same. What makes the 2nd expense worth anything more than the very first? Simply that a various number occurs to be printed on it. Both are basically worthless products that are only given worth by consumer-confidence in the federal government that releases them, a federal government that could in theory print out more if need be. The entire system is artificial.\nThe whole system is synthetic.\nCentral Bank guv Mahamoud Bahmani has actually realized that accepting gold bullion in place of these funds is an efficient method of cutting out this middle-man procedure and guaranteeing the deals proceed even quicker.\nIts higher worth is apparent.\nAnd yet, Federal Reserve chairman Ben Bernanke was famously priced quote as saying that he did not think about gold to be money and that a lot of main banks only hold the precious metal as “tradition.” It would seem that Bernanke is so caught up in a “traditional” state of mind of the nationwide fiat that he is not in touch with the existing economy, in which a worldwide type of currency is needed and gold seems the only product with sufficient value and acknowledgment to take that area.\nOn the other hand, gold is made important not due to the fact that of any numerical designation however because of its actual material and density. It is a scare product that can not be printed at will and is important through its extremely existence. 2 heaps of gold deserve more than 2 kgs of gold not since of any random number are printed on the product, but because there is a larger physical amount of the material. Its greater worth is apparent.\nbulliontrading\nView all posts\nPrevious Post\n1915 Austrian Coronas\nNext Post\nGLD and the Fine Print",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Place",
+          "@id": "https://bulliontradingllc.com/#place",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.7576",
+            "longitude": "-73.98069"
+          }
+        },
+        {
+          "@type": [
+            "Store",
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingllc/"
+          ],
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "20 W 47th St",
+            "addressLocality": "Manhattan",
+            "addressRegion": "New York",
+            "postalCode": "10036",
+            "addressCountry": "US"
+          },
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://bulliontradingllc.com/#logo",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "contentUrl": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.png",
+            "caption": "Bullion Trading LLC",
+            "inLanguage": "en-US",
+            "width": "294",
+            "height": "84"
+          },
+          "description": "Long-standing destination for buying, selling or trading gold &amp; silver coins, bars &amp; rounds.",
+          "location": {
+            "@id": "https://bulliontradingllc.com/#place"
+          },
+          "image": {
+            "@id": "https://bulliontradingllc.com/#logo"
+          },
+          "telephone": "+1 646-362-3536",
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+              ],
+              "opens": "08:30",
+              "closes": "16:00"
+            },
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": "Friday",
+              "opens": "08:30",
+              "closes": "13:00"
+            }
+          ],
+          "priceRange": "$$$",
+          "contactPoint": [
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-646-362-3536",
+              "contactType": "sales",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            },
+            {
+              "@type": "ContactPoint",
+              "telephone": "+1-212-869-7650",
+              "contactType": "customer service",
+              "areaServed": "US",
+              "availableLanguage": "en"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://bulliontradingllc.com/#website",
+          "url": "https://bulliontradingllc.com",
+          "name": "Bullion Trading LLC",
+          "alternateName": "Bullion Trading",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://bulliontradingllc.com/blog/iran-shines-a-new-light-on-trade/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://bulliontradingllc.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/category/gold-articles/",
+                "name": "Gold"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://bulliontradingllc.com/blog/iran-shines-a-new-light-on-trade/",
+                "name": "Iran Shines a New Light on Trade"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://bulliontradingllc.com/blog/iran-shines-a-new-light-on-trade/#webpage",
+          "url": "https://bulliontradingllc.com/blog/iran-shines-a-new-light-on-trade/",
+          "name": "Iran Shines a New Light on Trade - Bullion Trading LLC",
+          "datePublished": "2012-03-15T07:48:44+00:00",
+          "dateModified": "2012-03-15T07:48:44+00:00",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://bulliontradingllc.com/blog/iran-shines-a-new-light-on-trade/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+          "name": "bulliontrading",
+          "url": "https://bulliontradingllc.com/author/bulliontrading/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=96&amp;d=mm&amp;r=g",
+            "caption": "bulliontrading",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Iran Shines a New Light on Trade - Bullion Trading LLC",
+          "datePublished": "2012-03-15T07:48:44+00:00",
+          "dateModified": "2012-03-15T07:48:44+00:00",
+          "articleSection": "Gold",
+          "author": {
+            "@id": "https://bulliontradingllc.com/author/bulliontrading/",
+            "name": "bulliontrading"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "description": "Irans use of gold in its global trade might be a major step towards legitimizing gold as the &quot;new money&quot; and lead an example that the remainder of the world",
+          "name": "Iran Shines a New Light on Trade - Bullion Trading LLC",
+          "@id": "https://bulliontradingllc.com/blog/iran-shines-a-new-light-on-trade/#richSnippet",
+          "isPartOf": {
+            "@id": "https://bulliontradingllc.com/blog/iran-shines-a-new-light-on-trade/#webpage"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://bulliontradingllc.com/blog/iran-shines-a-new-light-on-trade/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/author/bulliontrading/",
+    "https://bulliontradingllc.com/blog/1915-austrian-coronas/",
+    "https://bulliontradingllc.com/blog/category/gold-articles/",
+    "https://bulliontradingllc.com/blog/gld-and-the-fine-print/",
+    "https://bulliontradingllc.com/blog/iran-shines-a-new-light-on-trade/",
+    "https://bulliontradingllc.com/cart/",
+    "https://bulliontradingllc.com/mints/",
+    "https://bulliontradingllc.com/my-account/",
+    "https://bulliontradingllc.com/my-account/lost-password/",
+    "https://bulliontradingllc.com/my-account/orders/",
+    "https://bulliontradingllc.com/my-account/wishlist/",
+    "https://bulliontradingllc.com/shop/",
+    "https://learn.bulliontradingllc.com/",
+    "https://learn.bulliontradingllc.com/charts/",
+    "https://learn.bulliontradingllc.com/charts/gold-silver-ratio-history/",
+    "https://learn.bulliontradingllc.com/charts/historical-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/inflation-adjusted-gold-price/",
+    "https://learn.bulliontradingllc.com/charts/silver-price-history/",
+    "https://learn.bulliontradingllc.com/guides/",
+    "https://learn.bulliontradingllc.com/quiz/",
+    "https://learn.bulliontradingllc.com/tools/",
+    "https://learn.bulliontradingllc.com/tools/gold-return-calculator/",
+    "https://learn.bulliontradingllc.com/tools/gold-silver-ratio-tracker/",
+    "https://learn.bulliontradingllc.com/tools/metal-value-calculator/",
+    "https://learn.bulliontradingllc.com/tools/weight-conversion-calculator/",
+    "https://twitter.com/BullionTrading",
+    "https://www.facebook.com/BullionTradingLLC/",
+    "https://www.instagram.com/bulliontradingllc/"
+  ],
+  "images": [
+    {
+      "url": "/wp-content/uploads/2024/09/logo-bullion.webp",
+      "alt": "Bullion Trading LLC"
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=30&d=mm&r=g",
+      "alt": ""
+    },
+    {
+      "url": "https://secure.gravatar.com/avatar/74f07278b2f15f20cdcd6f4e4c47d03ad6793d088ad00af8e65e63419cfa24c8?s=60&d=mm&r=g",
+      "alt": ""
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "id": "06d036aa0ac84074",
+    "url": "https://learn.bulliontradingllc.com/quiz/metal-purity-quiz/",
+    "title": "Understanding Precious Metal Purity Quiz | BTLLC",
+    "retrieved_at": "2026-10-12T22:13:43.283237+00:00",
+    "status": "fetched",
+    "bytes": 28798,
+    "text_characters": 358,
+    "sha256_html": "a7d7540d9029a13d3ae525f59a5b548440b90a983d9ede849bb70ce9831c9d18",
+    "file": "sources/06d036aa0ac84074.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of precious metal purity standards, karat systems, hallmarks, and how purity affects investment value.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/metal-purity-quiz/",
+  "text": "Understanding Precious Metal Purity Quiz\nTest your knowledge of precious metal purity standards, karat systems, hallmarks, and how purity affects investment value.\nWhat purity levels did archaeologists discover in ancient Egyptian gold artifacts from King Tutankhamun's tomb?\nA\n60-70%\nB\n75-80%\nC\n85-95%\nD\n99-100%\n←\nBack to Understanding Precious Metal Purity",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Understanding Gold & Silver",
+              "item": "https://learn.bulliontradingllc.com/guides/understanding-gold-silver/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Understanding Precious Metal Purity",
+              "item": "https://learn.bulliontradingllc.com/guides/understanding-gold-silver/04-metal-purity/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Understanding Precious Metal Purity Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Understanding Precious Metal Purity Quiz",
+          "description": "Test your knowledge of precious metal purity standards, karat systems, hallmarks, and how purity affects investment value.",
+          "url": "https://learn.bulliontradingllc.com/quiz/metal-purity-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Understanding Precious Metal Purity"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What purity levels did archaeologists discover in ancient Egyptian gold artifacts from King Tutankhamun's tomb?",
+              "text": "What purity levels did archaeologists discover in ancient Egyptian gold artifacts from King Tutankhamun's tomb?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "85-95%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Archaeologists discovered that ancient Egyptian gold artifacts from King Tutankhamun's tomb maintained exceptional purity levels of 85-95% even after over 3,000 years, demonstrating gold's incredible durability."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "60-70%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "75-80%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "99-100%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What does \"24 karat\" gold mean in terms of purity?",
+              "text": "What does \"24 karat\" gold mean in terms of purity?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "99.99% pure gold",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "24 karat gold (999.9 fine) means 99.99% pure gold, representing the gold standard for investment and the highest purity level commonly available."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "95% pure gold"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "90% pure gold"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "75% pure gold"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Where does the word \"karat\" originate from?",
+              "text": "Where does the word \"karat\" originate from?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The carob seed used by ancient merchants as a standard weight",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The word \"karat\" comes from the carob seed, which ancient merchants used as a standard weight because of its remarkable consistency in size and weight."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "The Greek word for gold"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "An ancient Roman measurement"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "The name of an Egyptian pharaoh"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the minimum purity standard for sterling silver?",
+              "text": "What is the minimum purity standard for sterling silver?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "92.5%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Sterling silver has a purity standard of 92.5% (925 fine), established in England by 1238 AD under King Henry III and has remained the standard for nearly 800 years."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "90%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "95%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "99.9%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the minimum purity for investment-grade gold?",
+              "text": "What is the minimum purity for investment-grade gold?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "99.5% (995 fine)",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Investment-grade gold requires a minimum of 995 fine (99.5% pure) for most investment products, ensuring global recognition and easier liquidation."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "90% (900 fine)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "92.5% (925 fine)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "99.99% (9999 fine)"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "If you have 1 ounce of 18K gold jewelry, what percentage of its weight is actual gold content?",
+              "text": "If you have 1 ounce of 18K gold jewelry, what percentage of its weight is actual gold content?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "75%",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "18 karat gold (750 fine) contains 75% pure gold, so 1 ounce of 18K gold jewelry would contain 0.75 ounces of actual gold content."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "50%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "85%"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "90%"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What does the hallmark \"999\" on silver indicate?",
+              "text": "What does the hallmark \"999\" on silver indicate?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "99.9% pure silver (fine silver bullion)",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The hallmark \"999\" or \".999\" indicates 99.9% pure silver, which is the standard for fine silver bullion coins and bars."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "The year it was made (1999)"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "The weight in grams"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "The serial number"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which ancient testing method is still used by gold dealers today?",
+              "text": "Which ancient testing method is still used by gold dealers today?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Touchstone testing",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Touchstone testing, where gold is scratched on dark basaltic stone and acid is applied to determine purity by color reaction, was used by ancient Lydians around 700 BC and is still used by gold dealers today."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Fire assay"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Weight comparison"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Color analysis"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: The British hallmarking system began in 1238 AD under King Henry III, making it one of the world's oldest systems of consumer protection.",
+              "text": "True or False: The British hallmarking system began in 1238 AD under King Henry III, making it one of the world's oldest systems of consumer protection.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "True",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "The British hallmarking system began in 1238 AD under King Henry III, making it one of the world's oldest systems of consumer protection, with some London assay offices operating continuously for over 700 years."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "False"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

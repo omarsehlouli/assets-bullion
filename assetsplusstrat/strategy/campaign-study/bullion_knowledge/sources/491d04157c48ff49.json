@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "id": "491d04157c48ff49",
+    "url": "https://learn.bulliontradingllc.com/tools/return-calculator/",
+    "title": "Return calculator | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:46.556762+00:00",
+    "status": "fetched",
+    "bytes": 19290,
+    "text_characters": 1408,
+    "sha256_html": "a6bd3edfa4ca32da8acd60b9e4d7513674c6e2fbd584649017475644fce73beb",
+    "file": "sources/491d04157c48ff49.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Model the projected value of a precious-metals purchase over time. Works for gold, silver, platinum, and palladium — replaces the four legacy per-metal calculator pages.",
+  "canonical": "https://learn.bulliontradingllc.com/tools/return-calculator/",
+  "text": "Return calculator\nModel the projected value of a precious-metals purchase over time. Works for gold, silver, platinum, and palladium — replaces the four legacy per-metal calculator pages.\nMetal\nGold\nSilver\nPlatinum\nPalladium\nInitial purchase ($)\nHold period (years)\nPremium over spot (%)\nExpected annual growth (%)\nYou buy\n2.2\noz @\n$4,537\nall-in\nAfter\n10\nyears (projected)\n$20,561\nProjected gain\n$10,561\n(\n+\n105.6\n%)\nEducational projection only. Real returns depend on premium at purchase, spread at sale, storage cost, and actual price movement — none of which are guaranteed.\nWhat this tells you (and doesn't)\nThe calculator projects forward at a chosen annual growth rate — it's a\nscenario tool\n, not a forecast. Real outcomes depend on the price you\nactually paid (premium varies), the spread when you sell (dealers buy below\nspot), storage / insurance cost over the hold period, and whether the metal\nheld its assumed growth rate over your specific window.\nFor a directional check, the long-term annualized return for gold has been\n~8% in USD nominal terms\nsince 2000 (LBMA / World Gold Council).\nSilver is more volatile; long-term ~6.5%. Platinum/palladium are heavily\nindustrial and harder to baseline — use those with caution.\nBullion Trading LLC — NYC Diamond District dealer since 2008. Buy or sell physical gold & silver at live, spot-based prices.\nSell to us — get a quote →\nSee live buy prices →",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Tools",
+              "item": "https://learn.bulliontradingllc.com/tools/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Return calculator"
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://learn.bulliontradingllc.com/tools/return-calculator/#webpage",
+          "url": "https://learn.bulliontradingllc.com/tools/return-calculator/",
+          "name": "Return calculator",
+          "description": "Model the projected value of a precious-metals purchase over time. Works for gold, silver, platinum, and palladium — replaces the four legacy per-metal calculator pages.",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US",
+          "isAccessibleForFree": true,
+          "about": {
+            "@type": "Thing",
+            "name": "Precious metals investment returns"
+          }
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}

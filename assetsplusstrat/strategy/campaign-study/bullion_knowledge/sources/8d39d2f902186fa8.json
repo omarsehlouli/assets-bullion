@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "id": "8d39d2f902186fa8",
+    "url": "https://learn.bulliontradingllc.com/quiz/insurance-options-quiz/",
+    "title": "Insurance Options Quiz | Bullion Trading LLC",
+    "retrieved_at": "2026-10-12T22:13:42.340656+00:00",
+    "status": "fetched",
+    "bytes": 28581,
+    "text_characters": 353,
+    "sha256_html": "a40edfe4f757a69eace0d94ae692d20d2677de5ffd56994e5f311f429aa87c9e",
+    "file": "sources/8d39d2f902186fa8.json",
+    "source_type": "first_party_public_website"
+  },
+  "description": "Test your knowledge of precious metals insurance options, coverage types, documentation requirements, and best practices.",
+  "canonical": "https://learn.bulliontradingllc.com/quiz/insurance-options-quiz/",
+  "text": "Insurance Options Quiz\nTest your knowledge of precious metals insurance options, coverage types, documentation requirements, and best practices.\nWhat is the typical coverage limit for precious items under standard homeowner's insurance?\nA\n$200-500 maximum\nB\n$1,000-2,500 per item\nC\n$5,000-10,000 per item\nD\nUnlimited coverage\n←\nBack to Insurance Options",
+  "structured_data": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://bulliontradingllc.com/#organization",
+          "name": "Bullion Trading LLC",
+          "url": "https://bulliontradingllc.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://bulliontradingllc.com/wp-content/uploads/2024/09/logo-bullion.webp"
+          },
+          "sameAs": [
+            "https://www.facebook.com/BullionTradingLLCNewYork",
+            "https://www.instagram.com/bulliontradingllc/",
+            "https://www.youtube.com/@bulliontradingllc"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://learn.bulliontradingllc.com#website",
+          "url": "https://learn.bulliontradingllc.com",
+          "name": "Bullion Trading LLC Knowledge Center",
+          "description": "Guides, tools, and answers for precious-metals investors.",
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Learn",
+              "item": "https://learn.bulliontradingllc.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Quizzes",
+              "item": "https://learn.bulliontradingllc.com/quiz/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Storage & Security",
+              "item": "https://learn.bulliontradingllc.com/guides/storage-security/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Insurance Options",
+              "item": "https://learn.bulliontradingllc.com/guides/storage-security/02-insurance-options/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Insurance Options Quiz"
+            }
+          ]
+        },
+        {
+          "@type": "Quiz",
+          "name": "Insurance Options Quiz",
+          "description": "Test your knowledge of precious metals insurance options, coverage types, documentation requirements, and best practices.",
+          "url": "https://learn.bulliontradingllc.com/quiz/insurance-options-quiz/",
+          "about": {
+            "@type": "Thing",
+            "name": "Insurance Options"
+          },
+          "educationalLevel": "beginner",
+          "learningResourceType": "Quiz",
+          "isPartOf": {
+            "@id": "https://learn.bulliontradingllc.com#website"
+          },
+          "publisher": {
+            "@id": "https://bulliontradingllc.com/#organization"
+          },
+          "hasPart": [
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the typical coverage limit for precious items under standard homeowner's insurance?",
+              "text": "What is the typical coverage limit for precious items under standard homeowner's insurance?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "$1,000-2,500 per item",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Standard homeowner's policies typically provide $1,000-2,500 per item coverage for jewelry and precious items, which is often insufficient for serious precious metals investors."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "$200-500 maximum"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$5,000-10,000 per item"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Unlimited coverage"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is \"scheduled personal property coverage\" also known as?",
+              "text": "What is \"scheduled personal property coverage\" also known as?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Riders or floaters",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Scheduled personal property coverage is also known as \"riders\" or \"floaters\" - these policies provide specific coverage for valuable items beyond standard policy limits."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Blanket coverage"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Liability insurance"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Umbrella policies"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What is the typical annual cost for scheduled precious metals coverage with home storage?",
+              "text": "What is the typical annual cost for scheduled precious metals coverage with home storage?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "$1-3 per $100 of coverage",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Scheduled precious metals coverage for home storage typically costs $1-3 per $100 of coverage annually, while vault storage costs less at $0.50-1.50 per $100."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "$0.25-0.75 per $100 of coverage"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$5-10 per $100 of coverage"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$15-25 per $100 of coverage"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which of these is NOT typically covered by standard homeowner's insurance?",
+              "text": "Which of these is NOT typically covered by standard homeowner's insurance?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mysterious disappearance (unexplained loss)",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Mysterious disappearance (unexplained loss) is typically excluded from standard homeowner's policies, making specialized precious metals insurance important."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Fire damage"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Theft with forced entry"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Wind damage"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "How often should professional appraisals be updated for scheduled coverage?",
+              "text": "How often should professional appraisals be updated for scheduled coverage?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Every 2-3 years",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Professional appraisals should be updated every 2-3 years to ensure coverage amounts reflect current market values and maintain adequate protection."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Every year"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Every 5-7 years"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Only when purchasing"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "True or False: Banks typically insure the contents of safety deposit boxes.",
+              "text": "True or False: Banks typically insure the contents of safety deposit boxes.",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "False",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Banks typically do NOT insure safety deposit box contents, and FDIC insurance doesn't cover box contents either. You must arrange separate coverage."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "True"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "Which company specializes in precious metals and collectibles insurance?",
+              "text": "Which company specializes in precious metals and collectibles insurance?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hugh Wood Inc",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Hugh Wood Inc specializes in precious metals and collectibles insurance, offering tailored coverage that understands the unique needs of precious metals investors."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "State Farm"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Geico"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Progressive"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "For holdings under what amount might self-insurance make sense?",
+              "text": "For holdings under what amount might self-insurance make sense?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "$10,000",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Self-insurance might make sense for holdings under $10,000, especially with excellent security measures, strong financial reserves, and low-risk storage environments."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "$5,000"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$25,000"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "$50,000"
+                }
+              ]
+            },
+            {
+              "@type": "Question",
+              "eduQuestionType": "Multiple choice",
+              "learningResourceType": "Practice problem",
+              "name": "What type of coverage adjusts with precious metals prices?",
+              "text": "What type of coverage adjusts with precious metals prices?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Market value coverage",
+                "comment": {
+                  "@type": "Comment",
+                  "text": "Market value coverage adjusts with precious metals prices, ensuring your coverage amount stays aligned with current market values rather than fixed amounts."
+                }
+              },
+              "suggestedAnswer": [
+                {
+                  "@type": "Answer",
+                  "text": "Fixed value coverage"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Replacement cost coverage"
+                },
+                {
+                  "@type": "Answer",
+                  "text": "Actual cash value coverage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "links": [
+    "https://bulliontradingllc.com",
+    "https://bulliontradingllc.com/bullion-tax/",
+    "https://bulliontradingllc.com/gold/",
+    "https://bulliontradingllc.com/sell-to-us/",
+    "https://bulliontradingllc.com/silver/"
+  ],
+  "images": []
+}
